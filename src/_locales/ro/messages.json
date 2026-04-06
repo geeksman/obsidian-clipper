@@ -1,99 +1,99 @@
 {
 	"activity": {
-		"message": "Activitate"
+		"message": "Activity"
 	},
 	"addModel": {
-		"message": "+ Adaugă model"
+		"message": "+ Add model"
 	},
 	"addModelTitle": {
-		"message": "Adaugă model"
+		"message": "Add model"
 	},
 	"addProperty": {
-		"message": "+ Adaugă proprietate"
+		"message": "+ Add property"
 	},
 	"addProvider": {
-		"message": "+ Adaugă furnizor"
+		"message": "+ Add provider"
 	},
 	"addProviderTitle": {
-		"message": "Adaugă furnizor"
+		"message": "Add provider"
 	},
 	"addToObsidian": {
-		"message": "Adaugă în Obsidian"
+		"message": "Add to Obsidian"
 	},
 	"addVaultPlaceholder": {
-		"message": "Apasă Enter pentru a adăuga seiful"
+		"message": "Press enter to add a vault"
 	},
 	"advanced": {
-		"message": "Avansat"
+		"message": "Advanced"
 	},
 	"allProperties": {
-		"message": "Toate proprietățile"
+		"message": "All properties"
 	},
 	"allTime": {
-		"message": "Tot timpul"
+		"message": "All time"
 	},
 	"alwaysShowHighlights": {
-		"message": "Arată întotdeauna evidențierile"
+		"message": "Always show highlights"
 	},
 	"alwaysShowHighlightsDescription": {
-		"message": "Afișează evidențierile salvate la încărcarea paginii. Dezactivează pentru a afișa evidențierile doar când modul de evidențiere este activ."
+		"message": "Display your saved highlights when you load a page. Turn off to only display highlights when highlighter mode is activated."
 	},
 	"apiKeyMissing": {
-		"message": "Lipsește cheia API"
+		"message": "No API key"
 	},
 	"apiKeysWarning": {
-		"message": "Folosind un furnizor extern, ești de acord cu termenii și condițiile lor de utilizare și politica de confidențialitate. Cererile interpretorului sunt trimise direct către furnizorul ales. Obsidian nu colectează și nu stochează informații despre cererile tale."
+		"message": "By using an external provider you agree to their terms and privacy policy. Interpreter requests are sent directly to the provider you choose. Obsidian does not gather or store any data about your requests."
 	},
 	"appendToDaily": {
-		"message": "Adaugă la nota zilnică, la sfârșit"
+		"message": "Add to daily note, at the bottom"
 	},
 	"appendToExisting": {
-		"message": "Adaugă la nota existentă, la sfârșit"
+		"message": "Add to an existing note, at the bottom"
 	},
 	"autoRunInterpreter": {
-		"message": "Rulare automată"
+		"message": "Automatically run"
 	},
 	"autoRunInterpreterDescription": {
-		"message": "Execută imediat variabilele prompt dacă există în șablon. Consumă credite API de la furnizorul modelului tău. Dezactivează dacă dorești să rulezi interpretorul doar manual."
+		"message": "Run prompt variables immediately if the template contains any. This will consume API credits with your model provider. Turn off if you only want to run interpreter manually."
 	},
 	"behavior": {
-		"message": "Comportament"
+		"message": "Behavior"
 	},
 	"byDay": {
-		"message": "Zi"
+		"message": "Days"
 	},
 	"byMonth": {
-		"message": "Lună"
+		"message": "Months"
 	},
 	"byWeek": {
-		"message": "Săptămână"
+		"message": "Weeks"
 	},
 	"cancel": {
-		"message": "Anulează"
+		"message": "Cancel"
 	},
 	"cannotDeleteProvider": {
-		"message": "Nu se poate șterge furnizorul \"$1\" deoarece este folosit de $2 modele."
+		"message": "Cannot delete provider \"$1\" because it is being used by $2 model(s)."
 	},
 	"changelog": {
-		"message": "Jurnal de modificări"
+		"message": "Changelog"
 	},
 	"chooseFile": {
-		"message": "Alege fișier"
+		"message": "Choose a file"
 	},
 	"choosePropertiesFile": {
-		"message": "Alege fișier de proprietăți"
+		"message": "Choose properties file"
 	},
 	"chooseSettingsFile": {
-		"message": "Alege fișier de setări"
+		"message": "Choose settings file"
 	},
 	"chooseTemplateFile": {
-		"message": "Alege fișier șablon"
+		"message": "Choose template file"
 	},
 	"clipBehavior": {
-		"message": "Comportament decupare"
+		"message": "Clip behavior"
 	},
 	"clipBehaviorDescription": {
-		"message": "Alege cum este salvat conținutul selectat în Obsidian. Setează variabila $strong_start${{content}}$strong_end$",
+		"message": "Choose how highlighted content is saved to Obsidian. Defines the $strong_start${{content}}$strong_end$ variable.",
 		"placeholders": {
 			"strong_end": {
 				"content": "</strong>"
@@ -104,7 +104,7 @@
 		}
 	},
 	"clipboardError": {
-		"message": "Obsidian nu poate accesa clipboardul tău. Încearcă instrucțiunile de depanare de aici: $1",
+		"message": "Obsidian is not able to access your clipboard. Try the troubleshooting instructions here: $1",
 		"placeholders": {
 			"1": {
 				"content": "$1"
@@ -112,79 +112,79 @@
 		}
 	},
 	"close": {
-		"message": "Închide"
+		"message": "Close"
 	},
 	"commandOpenClipper": {
-		"message": "Deschide Obsidian Clipper"
+		"message": "Open Obsidian Clipper"
 	},
 	"commandQuickClip": {
-		"message": "Decupare rapidă"
+		"message": "Quick clip"
 	},
 	"commandToggleHighlighter": {
-		"message": "Comută evidențiatorul"
+		"message": "Toggle highlighter"
 	},
 	"commandToggleReader": {
-		"message": "Comutați vizualizarea de citire"
+		"message": "Toggle reader"
 	},
 	"confirmDeleteTemplate": {
-		"message": "Ești sigur că vrei să ștergi șablonul \"$1\"?"
+		"message": "Are you sure you want to delete the template \"$1\"?"
 	},
 	"confirmReplaceSettings": {
-		"message": "Această acțiune va înlocui toate setările tale curente, inclusiv șabloanele și proprietățile. Ești sigur că vrei să continui?"
+		"message": "This will replace all your current settings, including templates and properties. Are you sure you want to continue?"
 	},
 	"copied": {
-		"message": "Copiat!"
+		"message": "Copied!"
 	},
 	"copyAsJson": {
-		"message": "Copiază ca JSON"
+		"message": "Copy as JSON"
 	},
 	"copyToClipboard": {
-		"message": "Copiază în clipboard"
+		"message": "Copy to clipboard"
 	},
 	"createNewNote": {
-		"message": "Creează notă nouă"
+		"message": "Create new note"
 	},
 	"custom": {
-		"message": "Personalizat"
+		"message": "Custom"
 	},
 	"dailyNoteFormat": {
-		"message": "Format notă zilnică (ex. YYYY-MM-DD)"
+		"message": "Daily note format (e.g., YYYY-MM-DD)"
 	},
 	"defaultInterpreterContext": {
-		"message": "Context implicit interpretor"
+		"message": "Default interpreter context"
 	},
 	"defaultInterpreterContextDescription": {
-		"message": "Suprascrie contextul folosit pentru interpretarea variabilelor prompt. Poți folosi variabile aici."
+		"message": "Override the context used to interpret prompt variables. Variables can be used here."
 	},
 	"defaultTemplateName": {
-		"message": "Implicit"
+		"message": "Default"
 	},
 	"delete": {
-		"message": "Șterge"
+		"message": "Delete"
 	},
 	"deleteModelConfirm": {
-		"message": "Ești sigur că vrei să ștergi acest model?"
+		"message": "Are you sure you want to delete this model?"
 	},
 	"deleteProviderConfirm": {
-		"message": "Ești sigur că vrei să ștergi acest furnizor?"
+		"message": "Are you sure you want to delete this provider?"
 	},
 	"disableHighlighter": {
-		"message": "Dezactivează evidențiatorul"
+		"message": "Disable highlighter"
 	},
 	"disableReader": {
-		"message": "Dezactivați vizualizarea de citire"
+		"message": "Disable reader"
 	},
 	"done": {
-		"message": "Gata"
+		"message": "Done"
 	},
 	"dragAndDropFile": {
-		"message": "Trage și plasează fișierul aici"
+		"message": "Drag and drop file here"
 	},
 	"duplicate": {
-		"message": "Duplică"
+		"message": "Duplicate"
 	},
 	"earlyAccessDescription": {
-		"message": "Folosește funcții care necesită cea mai recentă $link_start$versiune cu acces anticipat$link_end$ a Obsidian. În prezent necesită Obsidian 1.7.2 sau mai nou.",
+		"message": "Use features that require the latest $link_start$early access version$link_end$ of Obsidian. Currently requires Obsidian 1.7.2 or later.",
 		"placeholders": {
 			"link_end": {
 				"content": "</a>"
@@ -195,31 +195,31 @@
 		}
 	},
 	"earlyAccessFeatures": {
-		"message": "Funcții cu acces anticipat"
+		"message": "Early access features"
 	},
 	"editModel": {
-		"message": "Editează model"
+		"message": "Edit model"
 	},
 	"editProvider": {
-		"message": "Editează furnizor"
+		"message": "Edit provider"
 	},
 	"editTemplate": {
-		"message": "Editează șablon"
+		"message": "Edit template"
 	},
 	"embedded": {
-		"message": "Încorporat"
+		"message": "Embedded"
 	},
 	"enableHighlighter": {
-		"message": "Activează evidențiatorul"
+		"message": "Enable highlighter"
 	},
 	"enableHighlighterDescription": {
-		"message": "Evidențiază conținut pe pagini web pentru a-l salva în Obsidian"
+		"message": "Highlight content on web pages that you can save to Obsidian."
 	},
 	"enableInterpreter": {
-		"message": "Activează interpretorul"
+		"message": "Enable interpreter"
 	},
 	"enableInterpreterDescription": {
-		"message": "Folosește limbaj natural pentru a extrage informații din pagini. De exemplu, poți folosi sintaxa șablonului $strong_start${{\"rezumatul acestei pagini\"}}$strong_end$. Necesită o cheie API sau configurarea unui model personalizat mai jos. $link_start$Află mai multe$link_end$",
+		"message": "Use natural language to extract data from pages. For example, you can use the template syntax $strong_start${{\"a summary of the page\"}}$strong_end$. Requires an API key or custom model configured below.  $link_start$Learn more$link_end$.",
 		"placeholders": {
 			"link_end": {
 				"content": "</a>"
@@ -236,31 +236,31 @@
 		}
 	},
 	"enableReader": {
-		"message": "Deschideți vizualizarea de citire"
+		"message": "Open reading view"
 	},
 	"error": {
-		"message": "Eroare"
+		"message": "Error"
 	},
 	"export": {
-		"message": "Exportă"
+		"message": "Export"
 	},
 	"exportAllSettings": {
-		"message": "Exportă toate setările"
+		"message": "Export all settings"
 	},
 	"exportAllSettingsDescription": {
-		"message": "Exportă toate setările inclusiv șabloanele și proprietățile"
+		"message": "Export all settings including templates and properties."
 	},
 	"exportHighlights": {
-		"message": "Exportă evidențieri"
+		"message": "Export highlights"
 	},
 	"exportHighlightsDescription": {
-		"message": "Exportă evidențierile tale într-un fișier"
+		"message": "Export your highlights to a file."
 	},
 	"exportProperties": {
-		"message": "Exportă proprietăți"
+		"message": "Export properties"
 	},
 	"exportPropertiesDescription": {
-		"message": "Salvează proprietățile Web Clipper într-un fișier $strong_start$types.json$strong_end$ care poate fi importat în seiful tău Obsidian sau în Web Clipper pe alte dispozitive",
+		"message": "Save Web Clipper properties to a $strong_start$types.json$strong_end$ file that can be imported into your Obsidian vault, or into Web Clipper on other devices.",
 		"placeholders": {
 			"strong_end": {
 				"content": "</strong>"
@@ -271,121 +271,121 @@
 		}
 	},
 	"extensionDescription": {
-		"message": "Salvează conținut web într-un format privat și durabil care poate fi accesat offline. Extensia oficială de browser pentru Obsidian."
+		"message": "Save content from the web in a private and durable format that you can access offline. The official browser extension for Obsidian."
 	},
 	"extensionName": {
 		"message": "Obsidian Web Clipper"
 	},
 	"failedToCopyText": {
-		"message": "Nu s-a putut copia textul"
+		"message": "Failed to copy text"
 	},
 	"failedToDeleteTemplate": {
-		"message": "Nu s-a putut șterge șablonul. Te rugăm să încerci din nou."
+		"message": "Failed to delete template. Please try again."
 	},
 	"failedToDuplicateTemplate": {
-		"message": "Nu s-a putut duplica șablonul. Te rugăm să încerci din nou."
+		"message": "Failed to duplicate template. Please try again."
 	},
 	"failedToExportHighlights": {
-		"message": "Nu s-au putut exporta evidențierile. Verifică consola pentru detalii."
+		"message": "Failed to export highlights. Please check the console for more details."
 	},
 	"failedToExportSettings": {
-		"message": "Nu s-au putut exporta setările. Verifică consola pentru detalii."
+		"message": "Failed to export settings. Please check the console for more details."
 	},
 	"failedToExtractContent": {
-		"message": "Nu s-a putut extrage conținutul paginii."
+		"message": "Unable to extract page content."
 	},
 	"failedToImportTemplate": {
-		"message": "Eroare la importarea șablonului. Verifică fișierul și încearcă din nou."
+		"message": "Error importing template. Please check the file and try again."
 	},
 	"failedToInitialize": {
-		"message": "Te rugăm să reîncarci extensia."
+		"message": "Please try reloading the extension."
 	},
 	"failedToInitializeContent": {
-		"message": "Nu s-a putut inițializa conținutul paginii."
+		"message": "Unable to initialize page content."
 	},
 	"failedToProcessInterpreter": {
-		"message": "Procesarea interpretorului a eșuat. Te rugăm să încerci din nou."
+		"message": "Interpreter processing failed. Please try again."
 	},
 	"failedToResetProviders": {
-		"message": "Nu s-au putut reseta furnizorii și modelele"
+		"message": "Failed to reset providers and models"
 	},
 	"failedToResetTemplate": {
-		"message": "Nu s-a putut reseta șablonul implicit. Te rugăm să încerci din nou."
+		"message": "Failed to reset default template. Please try again."
 	},
 	"failedToSave": {
-		"message": "Nu s-a putut salva fișierul"
+		"message": "Failed to save file"
 	},
 	"failedToSaveFile": {
-		"message": "Nu s-a putut salva fișierul"
+		"message": "Failed to save file"
 	},
 	"failedToSaveProvider": {
-		"message": "Nu s-a putut salva furnizorul. Te rugăm să încerci din nou."
+		"message": "Failed to save provider. Please try again."
 	},
 	"feedback": {
 		"message": "Feedback"
 	},
 	"feedbackDescription": {
-		"message": "Cum putem îmbunătăți Web Clipper? Vizitează pagina noastră de ajutor pentru a raporta erori, sugera funcționalități și primi ajutor pentru probleme comune."
+		"message": "How can we improve Web Clipper? Please visit our help page, where you can report bugs, suggest features, and get help with common issues."
 	},
 	"feedbackTitle": {
-		"message": "Mulțumim pentru feedback"
+		"message": "Thanks for your feedback"
 	},
 	"folder": {
-		"message": "Dosar"
+		"message": "Folder"
 	},
 	"general": {
 		"message": "General"
 	},
 	"generalSettings": {
-		"message": "Setări generale"
+		"message": "General settings"
 	},
 	"getApiKeyHere": {
-		"message": "Obține cheia API $1 aici"
+		"message": "Get your $1 API key here."
 	},
 	"help": {
-		"message": "Ajutor"
+		"message": "Help"
 	},
 	"helpDescription": {
-		"message": "Învață cum să folosești Web Clipper și primește ajutor pentru depanare"
+		"message": "Learn how to use Web Clipper and get help troubleshooting."
 	},
 	"highlightInline": {
-		"message": "Evidențiază conținut în pagină"
+		"message": "Highlight the page content"
 	},
 	"highlightPage": {
-		"message": "Evidențiază pagina"
+		"message": "Highlight page"
 	},
 	"highlighter": {
-		"message": "Evidențiator"
+		"message": "Highlighter"
 	},
 	"highlighterSettings": {
-		"message": "Evidențiator"
+		"message": "Highlighter"
 	},
 	"history": {
-		"message": "Istoric"
+		"message": "History"
 	},
 	"hotkeys": {
-		"message": "Scurtături"
+		"message": "Hotkeys"
 	},
 	"import": {
-		"message": "Importă"
+		"message": "Import"
 	},
 	"importAllSettings": {
-		"message": "Importă toate setările"
+		"message": "Import all settings"
 	},
 	"importAllSettingsDescription": {
-		"message": "Importă toate setările inclusiv șabloanele și proprietățile. Aceasta va suprascrie configurația ta curentă."
+		"message": "Import all settings including templates and properties. This will replace your current configuration."
 	},
 	"importFailed": {
-		"message": "Importul a eșuat. Verifică consola pentru detalii."
+		"message": "Import failed. Please check the console for more details."
 	},
 	"importModalTitle": {
-		"message": "Importă"
+		"message": "Import"
 	},
 	"importProperties": {
-		"message": "Importă proprietăți"
+		"message": "Import properties"
 	},
 	"importPropertiesDescription": {
-		"message": "Pentru a importa proprietăți din Obsidian, găsește fișierul $strong_1_start$types.json$strong_1_end$ în dosarul $strong_2_start$.obsidian$strong_2_end$ al seifului tău. Acest dosar este ascuns implicit în majoritatea sistemelor de operare.",
+		"message": "To import your properties from Obsidian, locate the $strong_1_start$types.json$strong_1_end$ file in the $strong_2_start$.obsidian$strong_2_end$ folder within your vault. Note this folder is hidden by default on most operating systems.",
 		"placeholders": {
 			"strong_1_end": {
 				"content": "</strong>"
@@ -402,22 +402,22 @@
 		}
 	},
 	"importSettings": {
-		"message": "Importă setări"
+		"message": "Import settings"
 	},
 	"importTemplate": {
-		"message": "Importă șablon"
+		"message": "Import template"
 	},
 	"interpret": {
-		"message": "Interpretează"
+		"message": "interpret"
 	},
 	"interpreter": {
-		"message": "Interpretor"
+		"message": "Interpreter"
 	},
 	"interpreterContext": {
-		"message": "Context interpretor"
+		"message": "Interpreter context"
 	},
 	"interpreterContextDescription": {
-		"message": "Contextul folosit pentru interpretarea variabilelor prompt. Suprascrie contextul implicit setat în $link_start$setările interpretorului$link_end$. Poți folosi variabile aici.",
+		"message": "The context used to interpret prompt variables. Overrides the default context defined in $link_start$Interpreter settings$link_end$. Variables can be used here.",
 		"placeholders": {
 			"link_end": {
 				"content": "</a>"
@@ -428,301 +428,309 @@
 		}
 	},
 	"language": {
-		"message": "Limbă"
+		"message": "Language"
 	},
 	"languageDescription": {
-		"message": "Alege limba de afișare pentru interfața extensiei."
+		"message": "Choose the display language for the extension interface."
 	},
 	"last30Days": {
-		"message": "Ultimele 30 de zile"
+		"message": "Last 30 days"
 	},
 	"lastUsed": {
-		"message": "Ultima utilizare"
+		"message": "Last used"
 	},
 	"legacyMode": {
-		"message": "Mod vechi"
+		"message": "Legacy mode"
 	},
 	"legacyModeDescription": {
-		"message": "Folosește metoda de captură URI compatibilă cu Obsidian 1.6.7 sau mai vechi. Reține că lungimea conținutului capturat este limitată de browser și sistemul de operare. Unele pagini pot eșua fără mesaj de eroare."
+		"message": "Uses the URI clipping method compatible with Obsidian 1.6.7 or earlier. Note that the length of the content you can clip is limited by your browser and OS. Some pages may fail without any errors."
 	},
 	"modelName": {
-		"message": "Nume model"
+		"message": "Display name"
 	},
 	"modelNameDescription": {
-		"message": "Numele afișat în meniul derulant al modelului"
+		"message": "The name of the model you want to display in the interface."
 	},
 	"modelProvider": {
-		"message": "Furnizor"
+		"message": "Provider"
 	},
 	"modelProviderDescription": {
-		"message": "Alege furnizorul pentru acest model"
+		"message": "Select the provider for this model."
 	},
 	"modelProviderPlaceholder": {
-		"message": "Furnizor"
+		"message": "Provider"
 	},
 	"modelRequiredFields": {
-		"message": "Numele modelului, furnizorul și ID-ul modelului sunt obligatorii."
+		"message": "Model name, Provider, and Model ID are required."
 	},
 	"models": {
-		"message": "Modele"
+		"message": "Models"
 	},
 	"modelsListFor": {
-		"message": "Lista de modele pentru $1"
+		"message": "Models list for $1"
 	},
 	"more": {
-		"message": "Mai mult"
+		"message": "More"
 	},
 	"newTemplate": {
-		"message": "Șablon nou"
+		"message": "New template"
 	},
 	"noHighlights": {
-		"message": "Nu face nimic"
+		"message": "Do nothing"
 	},
 	"noTemplates": {
-		"message": "Nu există șabloane disponibile. Te rugăm să adaugi un șablon în setări."
+		"message": "No templates available. Please add a template in the settings."
 	},
 	"noUnusedProperties": {
-		"message": "Nu s-au găsit proprietăți neutilizate."
+		"message": "No unused properties found."
 	},
 	"noteContent": {
-		"message": "Conținut notă"
+		"message": "Note content"
 	},
 	"noteContentDescription": {
-		"message": "Personalizează conținutul notei. Folosește variabile pentru a pre-completa date din pagină."
+		"message": "Customize the content of the note. Use variables to pre-populate data from the page."
 	},
 	"noteLocation": {
-		"message": "Locație notă"
+		"message": "Note location"
 	},
 	"noteLocationDescription": {
-		"message": "Dosarul sau calea notei."
+		"message": "The folder or path of the note."
 	},
 	"noteName": {
-		"message": "Nume notă"
+		"message": "Note name"
 	},
 	"noteNameFormat": {
-		"message": "Format nume notă"
+		"message": "Note name"
 	},
 	"noteNameFormatDescription": {
-		"message": "Formatul folosit pentru generarea numelui notei. Poți folosi variabile."
+		"message": "Format for the file name of the note. You can use variables like {{title}}, {{date}}, and {{published}} to pre-populate data from the page. $link_start$Learn more$link_end$.",
+		"placeholders": {
+			"link_end": {
+				"content": "</a>"
+			},
+			"link_start": {
+				"content": "<a href=\"https://help.obsidian.md/web-clipper/variables\" target=\"_blank\">"
+			}
+		}
 	},
 	"notesAboutPage": {
-		"message": "Note despre această pagină..."
+		"message": "Notes about this page..."
 	},
 	"onlyHttpSupported": {
-		"message": "Nu se poate decupa această pagină. Sunt acceptate doar URL-uri http și https."
+		"message": "This page cannot be clipped. Only http and https URLs are supported."
 	},
 	"open": {
-		"message": "Deschide"
+		"message": "Open"
 	},
 	"openBehaviorDescription": {
-		"message": "Alegeți modul în care Web Clipper se deschide în mod implicit."
+		"message": "Choose how Web Clipper opens by default."
 	},
 	"openBehaviorTitle": {
-		"message": "Comportament la deschidere"
+		"message": "Open behavior"
 	},
 	"openEmbedded": {
-		"message": "Deschide în pagină"
+		"message": "Open in page"
 	},
 	"openSidePanel": {
-		"message": "Deschide panoul lateral"
+		"message": "Open side panel"
 	},
 	"optional": {
-		"message": "(opțional)"
+		"message": "(optional)"
 	},
 	"orPasteBelow": {
-		"message": "sau lipește conținut mai jos"
+		"message": "Or paste content below"
 	},
 	"overwriteNote": {
-		"message": "Suprascrie nota"
+		"message": "Overwrite note"
 	},
 	"pageCannotBeClipped": {
-		"message": "Această pagină nu poate fi decupată."
+		"message": "This page cannot be clipped."
 	},
 	"pageVariables": {
-		"message": "Variabile pagină"
+		"message": "Page variables"
 	},
 	"pagesSaved": {
-		"message": "Pagină salvată"
+		"message": "page saved"
 	},
 	"pagesSavedPlural": {
-		"message": "Pagini salvate"
+		"message": "pages saved"
 	},
 	"pasteJsonHere": {
-		"message": "Lipește JSON aici"
+		"message": "Paste JSON here"
 	},
 	"pleaseReload": {
-		"message": "Te rugăm să reîncarci pagina."
+		"message": "Please try reloading the page."
 	},
 	"popularModels": {
-		"message": "Modele populare"
+		"message": "Popular models"
 	},
 	"popularModelsDescription": {
-		"message": "Alege dintre modelele folosite frecvent sau introdu detaliile unui model personalizat."
+		"message": "Choose from commonly used models or enter custom model details."
 	},
 	"popup": {
-		"message": "Fereastră pop-up"
+		"message": "Popup"
 	},
 	"prependToDaily": {
-		"message": "Adaugă la nota zilnică, la început"
+		"message": "Add to daily note, at the top"
 	},
 	"prependToExisting": {
-		"message": "Adaugă la nota existentă, la început"
+		"message": "Add to an existing note, at the top"
 	},
 	"preview": {
-		"message": "Previzualizare"
+		"message": "Preview"
 	},
 	"processing": {
-		"message": "Se procesează"
+		"message": "processing"
 	},
 	"properties": {
-		"message": "Proprietăți"
+		"message": "Properties"
 	},
 	"propertiesSettings": {
-		"message": "Proprietăți"
+		"message": "Properties"
 	},
 	"propertyName": {
-		"message": "Nume proprietate"
+		"message": "Property name"
 	},
 	"propertyTypeCheckbox": {
-		"message": "Caseta de selectare"
+		"message": "Checkbox"
 	},
 	"propertyTypeDate": {
-		"message": "Data"
+		"message": "Date"
 	},
 	"propertyTypeDatetime": {
-		"message": "Data & ora"
+		"message": "Date & time"
 	},
 	"propertyTypeMultitext": {
-		"message": "Lista"
+		"message": "List"
 	},
 	"propertyTypeNumber": {
-		"message": "Număr"
+		"message": "Number"
 	},
 	"propertyTypeText": {
 		"message": "Text"
 	},
 	"propertyValue": {
-		"message": "Valoare proprietate"
+		"message": "Property value"
 	},
 	"provider": {
-		"message": "Furnizor"
+		"message": "Provider"
 	},
 	"providerApiKey": {
-		"message": "Cheie API"
+		"message": "API key"
 	},
 	"providerApiKeyDescription": {
-		"message": "Cheia ta API pentru acest furnizor."
+		"message": "Your API key for this provider."
 	},
 	"providerBaseUrl": {
-		"message": "URL de bază"
+		"message": "Base URL"
 	},
 	"providerBaseUrlDescription": {
-		"message": "URL-ul endpoint-ului API pentru acest furnizor."
+		"message": "The API endpoint URL for this provider."
 	},
 	"providerModelId": {
-		"message": "ID model"
+		"message": "Model ID"
 	},
 	"providerModelIdDescription": {
-		"message": "ID-ul modelului de la furnizorul tău. De obicei un nume scurt fără spații."
+		"message": "The identifier of the model from your provider. Typically a short name without spaces."
 	},
 	"providerModelIdPlaceholder": {
-		"message": "ID model"
+		"message": "Model ID"
 	},
 	"providerName": {
-		"message": "Nume furnizor"
+		"message": "Provider name"
 	},
 	"providerNameDescription": {
-		"message": "Numele afișat pentru acest furnizor."
+		"message": "Display name for this provider."
 	},
 	"providerPreset": {
-		"message": "Presetare"
+		"message": "Preset"
 	},
 	"providerPresetDescription": {
-		"message": "Alege un furnizor sau creează unul personalizat."
+		"message": "Choose a provider or create a custom one."
 	},
 	"providerRequiredFields": {
-		"message": "Numele furnizorului și URL-ul de bază sunt obligatorii."
+		"message": "Provider name and Base URL are required."
 	},
 	"providers": {
-		"message": "Furnizori"
+		"message": "Providers"
 	},
 	"rateExtensionDescription": {
-		"message": "Îți place Web Clipper? Ajută-ne dându-ne o evaluare."
+		"message": "Are you enjoying Web Clipper? Help us by giving it a rating."
 	},
 	"reader": {
-		"message": "Cititor"
+		"message": "Reader"
 	},
 	"readerAppearance": {
-		"message": "Aspect"
+		"message": "Appearance"
 	},
 	"readerAppearanceAuto": {
-		"message": "Automat"
+		"message": "Auto"
 	},
 	"readerAppearanceDark": {
-		"message": "Întunecat"
+		"message": "Dark"
 	},
 	"readerAppearanceDescription": {
-		"message": "Alege aspectul deschis sau întunecat."
+		"message": "Choose light or dark appearance."
 	},
 	"readerAppearanceLight": {
-		"message": "Deschis"
+		"message": "Light"
 	},
 	"readerBlendImages": {
-		"message": "Îmbină imaginile"
+		"message": "Blend images"
 	},
 	"readerBlendImagesDescription": {
-		"message": "Îmbină imaginile cu fundalul paginii."
+		"message": "Blend images with the page background."
 	},
 	"readerCloseImageViewer": {
-		"message": "Închide vizualizatorul de imagini"
+		"message": "Close image viewer"
 	},
 	"readerCollapseComment": {
-		"message": "Restrânge comentariul"
+		"message": "Collapse comment"
 	},
 	"readerColorLinks": {
-		"message": "Colorează linkurile"
+		"message": "Color links"
 	},
 	"readerColorSchemeDefault": {
-		"message": "Implicit"
+		"message": "Default"
 	},
 	"readerCustomCss": {
-		"message": "CSS personalizat"
+		"message": "Custom CSS"
 	},
 	"readerCustomCssDescription": {
-		"message": "CSS aplicat automat în vizualizarea de citire."
+		"message": "CSS applied automatically in reading view."
 	},
 	"readerDarkTheme": {
-		"message": "Temă pentru modul întunecat"
+		"message": "Dark mode theme"
 	},
 	"readerDarkThemeDescription": {
-		"message": "Folosește o temă diferită în modul întunecat."
+		"message": "Use a different theme in dark mode."
 	},
 	"readerError": {
-		"message": "Extragerea conținutului a eșuat."
+		"message": "Failed to extract content."
 	},
 	"readerFont": {
-		"message": "Opțiuni de font"
+		"message": "Font options"
 	},
 	"readerFontDefault": {
-		"message": "Implicit"
+		"message": "Default"
 	},
 	"readerFontDescription": {
-		"message": "Adaugă fonturi instalate pe sistemul tău. Apasă Enter pentru a adăuga un font."
+		"message": "Add fonts installed on your system. Press enter to add a font."
 	},
 	"readerFontNotFound": {
-		"message": "Nu a fost găsit"
+		"message": "Not found"
 	},
 	"readerFontPlaceholder": {
-		"message": "Apasă Enter pentru a adăuga un font"
+		"message": "Press enter to add a font"
 	},
 	"readerFontSetDefault": {
-		"message": "Setează ca implicit"
+		"message": "Set default"
 	},
 	"readerFontSize": {
-		"message": "Dimensiunea de bază a fontului"
+		"message": "Base font size"
 	},
 	"readerFontSystem": {
-		"message": "Sistem"
+		"message": "System"
 	},
 	"readerFontSystemSans": {
 		"message": "Sans-serif"
@@ -731,217 +739,217 @@
 		"message": "Serif"
 	},
 	"readerFonts": {
-		"message": "Fonturi"
+		"message": "Fonts"
 	},
 	"readerFootnotes": {
-		"message": "Note de subsol"
+		"message": "Footnotes"
 	},
 	"readerImages": {
-		"message": "Imagini"
+		"message": "Images"
 	},
 	"readerLineHeight": {
-		"message": "Înălțimea liniei"
+		"message": "Line height"
 	},
 	"readerLineWidth": {
-		"message": "Lățimea liniei"
+		"message": "Line width"
 	},
 	"readerLoading": {
-		"message": "Se clarifică…"
+		"message": "Defuddling…"
 	},
 	"readerSettings": {
-		"message": "Setări cititor"
+		"message": "Reader settings"
 	},
 	"readerTheme": {
-		"message": "Temă"
+		"message": "Theme"
 	},
 	"readerThemeDescription": {
-		"message": "Alege culorile folosite în vizualizarea de citire."
+		"message": "Choose the colors used in reading view."
 	},
 	"readerThemeSection": {
-		"message": "Temă"
+		"message": "Theme"
 	},
 	"readerTypography": {
-		"message": "Tipografie"
+		"message": "Typography"
 	},
 	"readerViewFullSize": {
-		"message": "Vezi la dimensiune completă"
+		"message": "View full size"
 	},
 	"recommended": {
-		"message": "recomandat"
+		"message": "recommended"
 	},
 	"refresh": {
-		"message": "Reîmprospătează"
+		"message": "Refresh"
 	},
 	"remove": {
-		"message": "Elimină"
+		"message": "Remove"
 	},
 	"removeProperty": {
-		"message": "Elimină proprietatea"
+		"message": "Remove property"
 	},
 	"removeUnusedProperties": {
-		"message": "Elimină proprietățile neutilizate"
+		"message": "Remove unused properties"
 	},
 	"removeUnusedPropertiesDescription": {
-		"message": "Elimină toate proprietățile care nu sunt folosite în niciun șablon."
+		"message": "Remove all properties that are not used in any template."
 	},
 	"removeVault": {
-		"message": "Elimină seiful"
+		"message": "Remove vault"
 	},
 	"replaceContent": {
-		"message": "Înlocuiește conținutul notei"
+		"message": "Replace the page content"
 	},
 	"reset": {
-		"message": "Resetează"
+		"message": "Reset"
 	},
 	"resetDefaultTemplate": {
-		"message": "Resetează șablonul implicit"
+		"message": "Reset default template"
 	},
 	"resetDefaultTemplateDescription": {
-		"message": "Elimină toate modificările făcute la șablonul implicit."
+		"message": "Remove any changes you've made to the default template."
 	},
 	"resetProvidersAndModels": {
-		"message": "Resetează modelele la implicit"
+		"message": "Reset default models"
 	},
 	"resetProvidersAndModelsDescription": {
-		"message": "Resetează furnizorii și modelele la setările implicite."
+		"message": "Reset providers and models to the default settings."
 	},
 	"save": {
-		"message": "Salvează"
+		"message": "Save"
 	},
 	"saveBehaviorDescription": {
-		"message": "Alegeți opțiunea implicită pentru salvarea paginilor. Opțiunile alternative apar în meniul derulant alături de butonul principal."
+		"message": "Choose the default option for saving pages. Alternate options appear in the dropdown menu next to the main button."
 	},
 	"saveBehaviorLabel": {
-		"message": "Comportamentul de salvare"
+		"message": "Save behavior"
 	},
 	"saveFile": {
-		"message": "Salvează fișier..."
+		"message": "Save file..."
 	},
 	"searchVariables": {
-		"message": "Caută variabile..."
+		"message": "Search variables..."
 	},
 	"selectProvider": {
-		"message": "Selectează furnizor"
+		"message": "Select a provider"
 	},
 	"selectTemplateToExport": {
-		"message": "Selectează șablon pentru export"
+		"message": "Please select a template to export."
 	},
 	"settings": {
-		"message": "Setări"
+		"message": "Settings"
 	},
 	"settingsHeading": {
-		"message": "Setări"
+		"message": "Settings"
 	},
 	"settingsImportSuccess": {
-		"message": "Toate setările au fost importate cu succes. Reîmprospătează pagina pentru a vedea modificările."
+		"message": "All settings imported successfully. Please refresh the page to see the changes."
 	},
 	"share": {
-		"message": "Distribuie..."
+		"message": "Share..."
 	},
 	"shortcutInstructionsBrave": {
-		"message": "Pentru a modifica asocierile de taste, mergi la $1"
+		"message": "To change key assignments, go to $1"
 	},
 	"shortcutInstructionsChrome": {
-		"message": "Pentru a modifica asocierile de taste, mergi la $1"
+		"message": "To change key assignments, go to $1"
 	},
 	"shortcutInstructionsDefault": {
-		"message": "Pentru a modifica asocierile de taste, consultă setările extensiilor browserului tău."
+		"message": "To change key assignments, please refer to your browser's extension settings."
 	},
 	"shortcutInstructionsEdge": {
-		"message": "Pentru a modifica asocierile de taste, mergi la $1"
+		"message": "To change key assignments, go to $1"
 	},
 	"shortcutInstructionsFirefox": {
-		"message": "Pentru a modifica asocierile de taste, mergi la $1, dă clic pe pictograma roții dințate și selectează \"Gestionează scurtăturile extensiei\""
+		"message": "To change key assignments, go to $1, click the gear icon, and select \"Manage Extension Shortcuts\"."
 	},
 	"shortcutInstructionsIntro": {
-		"message": "Scurtăturile de la tastatură îți oferă acces rapid la funcțiile clipper-ului."
+		"message": "Keyboard shortcuts give you quick access to clipper features."
 	},
 	"shortcutInstructionsSafari": {
-		"message": "Scurtăturile de la tastatură nu pot fi personalizate în Safari."
+		"message": "Keyboard shortcuts are not customizable on Safari."
 	},
 	"shortcutNotSet": {
-		"message": "Nesetat"
+		"message": "Not set"
 	},
 	"showActionsButton": {
-		"message": "Arată butonul de acțiuni"
+		"message": "Show actions button"
 	},
 	"showActionsDescription": {
-		"message": "Îți permite să vezi variabilele paginii din meniul clipper-ului. Util pentru a vedea ce variabile sunt disponibile pentru utilizare în șabloane."
+		"message": "Allows you to inspect page variables from the clipper menu. Useful for seeing the variables that are available to use in templates."
 	},
 	"showPageVariables": {
-		"message": "Arată variabilele paginii"
+		"message": "Show page variables"
 	},
 	"silentOpen": {
-		"message": "Salvează note fără a le deschide"
+		"message": "Save clipped note without opening it"
 	},
 	"silentOpenDescription": {
-		"message": "Notele decupate vor fi salvate dar nu vor fi deschise într-o filă nouă. Obsidian va fi totuși adus în prim-plan."
+		"message": "Clipped notes will be saved but will not open as a new tab. Obsidian will still be brought to the foreground."
 	},
 	"specificNoteName": {
-		"message": "Nume specific notă"
+		"message": "Specific note name"
 	},
 	"systemDefault": {
-		"message": "Implicit sistem"
+		"message": "System"
 	},
 	"template": {
-		"message": "Șablon"
+		"message": "Template"
 	},
 	"templateCopied": {
-		"message": "JSON-ul șablonului a fost copiat în clipboard"
+		"message": "Copied template JSON to clipboard"
 	},
 	"templateCopyError": {
-		"message": "Nu s-a putut copia JSON-ul șablonului în clipboard"
+		"message": "Failed to copy template JSON to clipboard"
 	},
 	"templateErrorCount": {
-		"message": "Există o eroare în șablonul tău."
+		"message": "There is an error in your template."
 	},
 	"templateErrorsCount": {
-		"message": "Există $1 erori în șablonul tău."
+		"message": "There are $1 errors in your template."
 	},
 	"templateGroupContent": {
-		"message": "Conținut"
+		"message": "Content"
 	},
 	"templateGroupLocation": {
-		"message": "Locație"
+		"message": "Location"
 	},
 	"templateName": {
-		"message": "Nume șablon"
+		"message": "Template name"
 	},
 	"templateProperties": {
-		"message": "Proprietăți"
+		"message": "Properties"
 	},
 	"templatePropertiesDescription": {
-		"message": "Proprietăți care vor fi adăugate la începutul notei decupate. Folosește variabile pentru a pre-completa date din pagină."
+		"message": "Properties to add to the top of the clipped note. Use variables to pre-populate data from the page."
 	},
 	"templateTriggers": {
-		"message": "Declanșatori șablon"
+		"message": "Template triggers"
 	},
 	"templateTriggersDescription": {
-		"message": "Definește reguli pentru selectarea automată a acestui șablon dacă se potrivește cu modelul URL sau conține date schema.org. O regulă pe linie."
+		"message": "Define rules to automatically select this template if it matches a URL pattern or contains schema.org data. One rule per line."
 	},
 	"templateValid": {
-		"message": "Sintaxa șablonului este validă"
+		"message": "Template syntax is valid"
 	},
 	"templatesHeading": {
-		"message": "Șabloane"
+		"message": "Templates"
 	},
 	"thinking": {
-		"message": "se gândește"
+		"message": "thinking"
 	},
 	"unknownProvider": {
-		"message": "Furnizor necunoscut"
+		"message": "Unknown provider"
 	},
 	"updateAvailable": {
-		"message": "Actualizare disponibilă"
+		"message": "An update is available."
 	},
 	"usingLatestVersion": {
-		"message": "Folosești cea mai recentă versiune"
+		"message": "You are using the latest version."
 	},
 	"vault": {
-		"message": "Seif"
+		"message": "Vault"
 	},
 	"vaultDescription": {
-		"message": "Selectează seiful implicit pentru acest șablon. Mergi la $link_start$setări generale$link_end$ pentru a adăuga sau elimina seifuri.",
+		"message": "Select the default vault for this template. Go to $link_start$general settings$link_end$ to add or remove vaults.",
 		"placeholders": {
 			"link_end": {
 				"content": "</a>"
@@ -952,10 +960,10 @@
 		}
 	},
 	"vaults": {
-		"message": "Seifuri"
+		"message": "Vaults"
 	},
 	"vaultsDescription": {
-		"message": "În mod implicit, notele decupate sunt salvate în seiful deschis. Poți adăuga seifuri aici dacă dorești opțiunea de a salva în diferite seifuri. Numele seifului trebuie să se potrivească exact cu numele seifului Obsidian. Apasă $strong_start$enter$strong_end$ pentru a adăuga un seif.",
+		"message": "By default, clipped notes are saved to the currently open vault. You can add vaults here if you want the option to save to different vaults. Vault names must exactly match the name of the Obsidian vault. Press $strong_start$enter$strong_end$ to add a vault.",
 		"placeholders": {
 			"strong_end": {
 				"content": "</strong>"
@@ -966,6 +974,6 @@
 		}
 	},
 	"version": {
-		"message": "Versiune"
+		"message": "Version"
 	}
 }
