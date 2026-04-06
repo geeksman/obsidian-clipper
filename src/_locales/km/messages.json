@@ -1,99 +1,99 @@
 {
 	"activity": {
-		"message": "Activity"
+		"message": "សកម្មភាព"
 	},
 	"addModel": {
-		"message": "+ Add model"
+		"message": "+ បន្ថែមម៉ូដែល"
 	},
 	"addModelTitle": {
-		"message": "Add model"
+		"message": "បន្ថែមម៉ូដែល"
 	},
 	"addProperty": {
-		"message": "+ Add property"
+		"message": "+ បន្ថែមលក្ខណៈសម្បត្តិ"
 	},
 	"addProvider": {
-		"message": "+ Add provider"
+		"message": "+ បន្ថែមអ្នកផ្តល់សេវា"
 	},
 	"addProviderTitle": {
-		"message": "Add provider"
+		"message": "បន្ថែមអ្នកផ្តល់សេវា"
 	},
 	"addToObsidian": {
-		"message": "Add to Obsidian"
+		"message": "បន្ថែមទៅ Obsidian"
 	},
 	"addVaultPlaceholder": {
-		"message": "Press enter to add a vault"
+		"message": "ចុច Enter ដើម្បីបន្ថែម Vault"
 	},
 	"advanced": {
-		"message": "Advanced"
+		"message": "កម្រិតខ្ពស់"
 	},
 	"allProperties": {
-		"message": "All properties"
+		"message": "លក្ខណៈសម្បត្តិទាំងអស់"
 	},
 	"allTime": {
-		"message": "All time"
+		"message": "គ្រប់ពេល"
 	},
 	"alwaysShowHighlights": {
-		"message": "Always show highlights"
+		"message": "បង្ហាញការរំលេចជានិច្ច"
 	},
 	"alwaysShowHighlightsDescription": {
-		"message": "Display your saved highlights when you load a page. Turn off to only display highlights when highlighter mode is activated."
+		"message": "បង្ហាញការរំលេចដែលអ្នកបានរក្សាទុក នៅពេលអ្នកផ្ទុកទំព័រ។ បិទវា ដើម្បីបង្ហាញការរំលេចតែពេលរបៀបរំលេចត្រូវបានបើក។"
 	},
 	"apiKeyMissing": {
-		"message": "No API key"
+		"message": "គ្មានសោ API"
 	},
 	"apiKeysWarning": {
-		"message": "By using an external provider you agree to their terms and privacy policy. Interpreter requests are sent directly to the provider you choose. Obsidian does not gather or store any data about your requests."
+		"message": "ដោយប្រើអ្នកផ្តល់សេវាខាងក្រៅ អ្នកយល់ព្រមតាមលក្ខខណ្ឌ និងគោលការណ៍ឯកជនភាពរបស់ពួកគេ។ សំណើ Interpreter ត្រូវបានផ្ញើដោយផ្ទាល់ទៅកាន់អ្នកផ្តល់សេវាដែលអ្នកជ្រើសរើស។ Obsidian មិនប្រមូល ឬរក្សាទុកទិន្នន័យណាមួយអំពីសំណើរបស់អ្នកទេ។"
 	},
 	"appendToDaily": {
-		"message": "Add to daily note, at the bottom"
+		"message": "បន្ថែមទៅកំណត់ត្រាប្រចាំថ្ងៃ នៅខាងក្រោម"
 	},
 	"appendToExisting": {
-		"message": "Add to an existing note, at the bottom"
+		"message": "បន្ថែមទៅកំណត់ត្រាដែលមានស្រាប់ នៅខាងក្រោម"
 	},
 	"autoRunInterpreter": {
-		"message": "Automatically run"
+		"message": "ដំណើរការដោយស្វ័យប្រវត្តិ"
 	},
 	"autoRunInterpreterDescription": {
-		"message": "Run prompt variables immediately if the template contains any. This will consume API credits with your model provider. Turn off if you only want to run interpreter manually."
+		"message": "ដំណើរការអថេរ prompt ភ្លាមៗ ប្រសិនបើគំរូមានអថេរណាមួយ។ វានឹងប្រើឥណទាន API ជាមួយអ្នកផ្តល់ម៉ូដែលរបស់អ្នក។ បិទវា ប្រសិនបើអ្នកចង់ដំណើរការ Interpreter ដោយដៃតែប៉ុណ្ណោះ។"
 	},
 	"behavior": {
-		"message": "Behavior"
+		"message": "ឥរិយាបថ"
 	},
 	"byDay": {
-		"message": "Days"
+		"message": "ថ្ងៃ"
 	},
 	"byMonth": {
-		"message": "Months"
+		"message": "ខែ"
 	},
 	"byWeek": {
-		"message": "Weeks"
+		"message": "សប្ដាហ៍"
 	},
 	"cancel": {
-		"message": "Cancel"
+		"message": "បោះបង់"
 	},
 	"cannotDeleteProvider": {
-		"message": "Cannot delete provider \"$1\" because it is being used by $2 model(s)."
+		"message": "មិនអាចលុបអ្នកផ្តល់សេវា \"$1\" បានទេ ព្រោះវាកំពុងត្រូវបានប្រើដោយម៉ូដែល $2។"
 	},
 	"changelog": {
-		"message": "Changelog"
+		"message": "កំណត់ហេតុការផ្លាស់ប្តូរ"
 	},
 	"chooseFile": {
-		"message": "Choose a file"
+		"message": "ជ្រើសរើសឯកសារ"
 	},
 	"choosePropertiesFile": {
-		"message": "Choose properties file"
+		"message": "ជ្រើសរើសឯកសារលក្ខណៈសម្បត្តិ"
 	},
 	"chooseSettingsFile": {
-		"message": "Choose settings file"
+		"message": "ជ្រើសរើសឯកសារការកំណត់"
 	},
 	"chooseTemplateFile": {
-		"message": "Choose template file"
+		"message": "ជ្រើសរើសឯកសារគំរូ"
 	},
 	"clipBehavior": {
-		"message": "Clip behavior"
+		"message": "ឥរិយាបថការកាត់យក"
 	},
 	"clipBehaviorDescription": {
-		"message": "Choose how highlighted content is saved to Obsidian. Defines the $strong_start${{content}}$strong_end$ variable.",
+		"message": "ជ្រើសរើសរបៀបដែលមាតិកាដែលបានរំលេចត្រូវបានរក្សាទុកទៅ Obsidian។ កំណត់អថេរ $strong_start${{content}}$strong_end$។",
 		"placeholders": {
 			"strong_end": {
 				"content": "</strong>"
@@ -104,7 +104,7 @@
 		}
 	},
 	"clipboardError": {
-		"message": "Obsidian is not able to access your clipboard. Try the troubleshooting instructions here: $1",
+		"message": "Obsidian មិនអាចចូលប្រើក្តារតម្បៀតខ្ទាស់របស់អ្នកបានទេ។ សាកល្បងការណែនាំដោះស្រាយបញ្ហានៅទីនេះ៖ $1",
 		"placeholders": {
 			"1": {
 				"content": "$1"
@@ -112,79 +112,79 @@
 		}
 	},
 	"close": {
-		"message": "Close"
+		"message": "បិទ"
 	},
 	"commandOpenClipper": {
-		"message": "Open Obsidian Clipper"
+		"message": "បើក Obsidian Clipper"
 	},
 	"commandQuickClip": {
-		"message": "Quick clip"
+		"message": "កាត់យករហ័ស"
 	},
 	"commandToggleHighlighter": {
-		"message": "Toggle highlighter"
+		"message": "បិទ/បើក របៀបរំលេច"
 	},
 	"commandToggleReader": {
-		"message": "Toggle reader"
+		"message": "បិទ/បើក របៀបអាន"
 	},
 	"confirmDeleteTemplate": {
-		"message": "Are you sure you want to delete the template \"$1\"?"
+		"message": "តើអ្នកប្រាកដថាចង់លុបគំរូ \"$1\" មែនទេ?"
 	},
 	"confirmReplaceSettings": {
-		"message": "This will replace all your current settings, including templates and properties. Are you sure you want to continue?"
+		"message": "វានឹងជំនួសការកំណត់បច្ចុប្បន្នរបស់អ្នកទាំងអស់ រួមទាំងគំរូ និងលក្ខណៈសម្បត្តិ។ តើអ្នកប្រាកដថាចង់បន្តមែនទេ?"
 	},
 	"copied": {
-		"message": "Copied!"
+		"message": "បានចម្លង!"
 	},
 	"copyAsJson": {
-		"message": "Copy as JSON"
+		"message": "ចម្លងជា JSON"
 	},
 	"copyToClipboard": {
-		"message": "Copy to clipboard"
+		"message": "ចម្លងទៅក្តារតម្បៀតខ្ទាស់"
 	},
 	"createNewNote": {
-		"message": "Create new note"
+		"message": "បង្កើតកំណត់ត្រាថ្មី"
 	},
 	"custom": {
-		"message": "Custom"
+		"message": "ផ្ទាល់ខ្លួន"
 	},
 	"dailyNoteFormat": {
-		"message": "Daily note format (e.g., YYYY-MM-DD)"
+		"message": "ទម្រង់កំណត់ត្រាប្រចាំថ្ងៃ (ឧ. YYYY-MM-DD)"
 	},
 	"defaultInterpreterContext": {
-		"message": "Default interpreter context"
+		"message": "បរិបទ Interpreter លំនាំដើម"
 	},
 	"defaultInterpreterContextDescription": {
-		"message": "Override the context used to interpret prompt variables. Variables can be used here."
+		"message": "ជំនួសបរិបទដែលប្រើសម្រាប់បកស្រាយអថេរ prompt។ អថេរអាចត្រូវបានប្រើនៅទីនេះ។"
 	},
 	"defaultTemplateName": {
-		"message": "Default"
+		"message": "លំនាំដើម"
 	},
 	"delete": {
-		"message": "Delete"
+		"message": "លុប"
 	},
 	"deleteModelConfirm": {
-		"message": "Are you sure you want to delete this model?"
+		"message": "តើអ្នកប្រាកដថាចង់លុបម៉ូដែលនេះមែនទេ?"
 	},
 	"deleteProviderConfirm": {
-		"message": "Are you sure you want to delete this provider?"
+		"message": "តើអ្នកប្រាកដថាចង់លុបអ្នកផ្តល់សេវានេះមែនទេ?"
 	},
 	"disableHighlighter": {
-		"message": "Disable highlighter"
+		"message": "បិទការរំលេច"
 	},
 	"disableReader": {
-		"message": "Disable reader"
+		"message": "បិទរបៀបអាន"
 	},
 	"done": {
-		"message": "Done"
+		"message": "រួចរាល់"
 	},
 	"dragAndDropFile": {
-		"message": "Drag and drop file here"
+		"message": "អូស និងទម្លាក់ឯកសារនៅទីនេះ"
 	},
 	"duplicate": {
-		"message": "Duplicate"
+		"message": "ចម្លងទ្វេ"
 	},
 	"earlyAccessDescription": {
-		"message": "Use features that require the latest $link_start$early access version$link_end$ of Obsidian. Currently requires Obsidian 1.7.2 or later.",
+		"message": "ប្រើមុខងារដែលត្រូវការកំណែ $link_start$early access version$link_end$ ចុងក្រោយបំផុតរបស់ Obsidian។ បច្ចុប្បន្នត្រូវការ Obsidian 1.7.2 ឬថ្មីជាងនេះ។",
 		"placeholders": {
 			"link_end": {
 				"content": "</a>"
@@ -195,31 +195,31 @@
 		}
 	},
 	"earlyAccessFeatures": {
-		"message": "Early access features"
+		"message": "មុខងារ Early access"
 	},
 	"editModel": {
-		"message": "Edit model"
+		"message": "កែសម្រួលម៉ូដែល"
 	},
 	"editProvider": {
-		"message": "Edit provider"
+		"message": "កែសម្រួលអ្នកផ្តល់សេវា"
 	},
 	"editTemplate": {
-		"message": "Edit template"
+		"message": "កែសម្រួលគំរូ"
 	},
 	"embedded": {
-		"message": "Embedded"
+		"message": "បង្កប់"
 	},
 	"enableHighlighter": {
-		"message": "Enable highlighter"
+		"message": "បើកការរំលេច"
 	},
 	"enableHighlighterDescription": {
-		"message": "Highlight content on web pages that you can save to Obsidian."
+		"message": "រំលេចមាតិកានៅលើទំព័របណ្ដាញ ដែលអ្នកអាចរក្សាទុកទៅ Obsidian។"
 	},
 	"enableInterpreter": {
-		"message": "Enable interpreter"
+		"message": "បើក Interpreter"
 	},
 	"enableInterpreterDescription": {
-		"message": "Use natural language to extract data from pages. For example, you can use the template syntax $strong_start${{\"a summary of the page\"}}$strong_end$. Requires an API key or custom model configured below.  $link_start$Learn more$link_end$.",
+		"message": "ប្រើភាសាធម្មជាតិដើម្បីស្រង់ទិន្នន័យពីទំព័រ។ ឧទាហរណ៍ អ្នកអាចប្រើវាក្យសម្ព័ន្ធគំរូ $strong_start${{\"a summary of the page\"}}$strong_end$។ ត្រូវការសោ API ឬម៉ូដែលផ្ទាល់ខ្លួនដែលបានកំណត់រចនាសម្ព័ន្ធខាងក្រោម។ $link_start$ស្វែងយល់បន្ថែម$link_end$។",
 		"placeholders": {
 			"link_end": {
 				"content": "</a>"
@@ -236,31 +236,31 @@
 		}
 	},
 	"enableReader": {
-		"message": "Open reading view"
+		"message": "បើកទិដ្ឋភាពអាន"
 	},
 	"error": {
-		"message": "Error"
+		"message": "កំហុស"
 	},
 	"export": {
-		"message": "Export"
+		"message": "នាំចេញ"
 	},
 	"exportAllSettings": {
-		"message": "Export all settings"
+		"message": "នាំចេញការកំណត់ទាំងអស់"
 	},
 	"exportAllSettingsDescription": {
-		"message": "Export all settings including templates and properties."
+		"message": "នាំចេញការកំណត់ទាំងអស់ រួមទាំងគំរូ និងលក្ខណៈសម្បត្តិ។"
 	},
 	"exportHighlights": {
-		"message": "Export highlights"
+		"message": "នាំចេញការរំលេច"
 	},
 	"exportHighlightsDescription": {
-		"message": "Export your highlights to a file."
+		"message": "នាំចេញការរំលេចរបស់អ្នកទៅឯកសារ។"
 	},
 	"exportProperties": {
-		"message": "Export properties"
+		"message": "នាំចេញលក្ខណៈសម្បត្តិ"
 	},
 	"exportPropertiesDescription": {
-		"message": "Save Web Clipper properties to a $strong_start$types.json$strong_end$ file that can be imported into your Obsidian vault, or into Web Clipper on other devices.",
+		"message": "រក្សាទុកលក្ខណៈសម្បត្តិ Web Clipper ទៅឯកសារ $strong_start$types.json$strong_end$ ដែលអាចនាំចូលទៅក្នុង vault របស់ Obsidian របស់អ្នក ឬទៅក្នុង Web Clipper លើឧបករណ៍ផ្សេងៗ។",
 		"placeholders": {
 			"strong_end": {
 				"content": "</strong>"
@@ -271,121 +271,121 @@
 		}
 	},
 	"extensionDescription": {
-		"message": "Save content from the web in a private and durable format that you can access offline. The official browser extension for Obsidian."
+		"message": "រក្សាទុកមាតិកាពីបណ្ដាញក្នុងទម្រង់ឯកជន និងប្រើបានយូរ ដែលអ្នកអាចចូលប្រើក្រៅបណ្ដាញបាន។ ផ្នែកបន្ថែមកម្មវិធីរុករកផ្លូវការរបស់ Obsidian។"
 	},
 	"extensionName": {
 		"message": "Obsidian Web Clipper"
 	},
 	"failedToCopyText": {
-		"message": "Failed to copy text"
+		"message": "បានបរាជ័យក្នុងការចម្លងអត្ថបទ"
 	},
 	"failedToDeleteTemplate": {
-		"message": "Failed to delete template. Please try again."
+		"message": "បានបរាជ័យក្នុងការលុបគំរូ។ សូមព្យាយាមម្តងទៀត។"
 	},
 	"failedToDuplicateTemplate": {
-		"message": "Failed to duplicate template. Please try again."
+		"message": "បានបរាជ័យក្នុងការចម្លងទ្វេគំរូ។ សូមព្យាយាមម្តងទៀត។"
 	},
 	"failedToExportHighlights": {
-		"message": "Failed to export highlights. Please check the console for more details."
+		"message": "បានបរាជ័យក្នុងការនាំចេញការរំលេច។ សូមពិនិត្យ console សម្រាប់ព័ត៌មានលម្អិតបន្ថែម។"
 	},
 	"failedToExportSettings": {
-		"message": "Failed to export settings. Please check the console for more details."
+		"message": "បានបរាជ័យក្នុងការនាំចេញការកំណត់។ សូមពិនិត្យ console សម្រាប់ព័ត៌មានលម្អិតបន្ថែម។"
 	},
 	"failedToExtractContent": {
-		"message": "Unable to extract page content."
+		"message": "មិនអាចស្រង់មាតិកាទំព័របានទេ។"
 	},
 	"failedToImportTemplate": {
-		"message": "Error importing template. Please check the file and try again."
+		"message": "កំហុសក្នុងការនាំចូលគំរូ។ សូមពិនិត្យឯកសារ ហើយព្យាយាមម្តងទៀត។"
 	},
 	"failedToInitialize": {
-		"message": "Please try reloading the extension."
+		"message": "សូមព្យាយាមផ្ទុកផ្នែកបន្ថែមឡើងវិញ។"
 	},
 	"failedToInitializeContent": {
-		"message": "Unable to initialize page content."
+		"message": "មិនអាចចាប់ផ្តើមមាតិកាទំព័របានទេ។"
 	},
 	"failedToProcessInterpreter": {
-		"message": "Interpreter processing failed. Please try again."
+		"message": "ការដំណើរការ Interpreter បានបរាជ័យ។ សូមព្យាយាមម្តងទៀត។"
 	},
 	"failedToResetProviders": {
-		"message": "Failed to reset providers and models"
+		"message": "បានបរាជ័យក្នុងការកំណត់អ្នកផ្តល់សេវា និងម៉ូដែលឡើងវិញ"
 	},
 	"failedToResetTemplate": {
-		"message": "Failed to reset default template. Please try again."
+		"message": "បានបរាជ័យក្នុងការកំណត់គំរូលំនាំដើមឡើងវិញ។ សូមព្យាយាមម្តងទៀត។"
 	},
 	"failedToSave": {
-		"message": "Failed to save file"
+		"message": "បានបរាជ័យក្នុងការរក្សាទុកឯកសារ"
 	},
 	"failedToSaveFile": {
-		"message": "Failed to save file"
+		"message": "បានបរាជ័យក្នុងការរក្សាទុកឯកសារ"
 	},
 	"failedToSaveProvider": {
-		"message": "Failed to save provider. Please try again."
+		"message": "បានបរាជ័យក្នុងការរក្សាទុកអ្នកផ្តល់សេវា។ សូមព្យាយាមម្តងទៀត។"
 	},
 	"feedback": {
-		"message": "Feedback"
+		"message": "មតិយោបល់"
 	},
 	"feedbackDescription": {
-		"message": "How can we improve Web Clipper? Please visit our help page, where you can report bugs, suggest features, and get help with common issues."
+		"message": "តើយើងអាចកែលម្អ Web Clipper ដោយរបៀបណា? សូមចូលទៅទំព័រជំនួយរបស់យើង ដែលអ្នកអាចរាយការណ៍កំហុស ស្នើមុខងារ និងទទួលជំនួយសម្រាប់បញ្ហាទូទៅ។"
 	},
 	"feedbackTitle": {
-		"message": "Thanks for your feedback"
+		"message": "អរគុណសម្រាប់មតិយោបល់របស់អ្នក"
 	},
 	"folder": {
-		"message": "Folder"
+		"message": "ថត"
 	},
 	"general": {
-		"message": "General"
+		"message": "ទូទៅ"
 	},
 	"generalSettings": {
-		"message": "General settings"
+		"message": "ការកំណត់ទូទៅ"
 	},
 	"getApiKeyHere": {
-		"message": "Get your $1 API key here."
+		"message": "ទទួលសោ API $1 របស់អ្នកនៅទីនេះ។"
 	},
 	"help": {
-		"message": "Help"
+		"message": "ជំនួយ"
 	},
 	"helpDescription": {
-		"message": "Learn how to use Web Clipper and get help troubleshooting."
+		"message": "ស្វែងយល់ពីរបៀបប្រើ Web Clipper និងទទួលជំនួយដោះស្រាយបញ្ហា។"
 	},
 	"highlightInline": {
-		"message": "Highlight the page content"
+		"message": "រំលេចមាតិកាទំព័រ"
 	},
 	"highlightPage": {
-		"message": "Highlight page"
+		"message": "រំលេចទំព័រ"
 	},
 	"highlighter": {
-		"message": "Highlighter"
+		"message": "ឧបករណ៍រំលេច"
 	},
 	"highlighterSettings": {
-		"message": "Highlighter"
+		"message": "ឧបករណ៍រំលេច"
 	},
 	"history": {
-		"message": "History"
+		"message": "ប្រវត្តិ"
 	},
 	"hotkeys": {
-		"message": "Hotkeys"
+		"message": "គ្រាប់ចុចផ្លូវកាត់"
 	},
 	"import": {
-		"message": "Import"
+		"message": "នាំចូល"
 	},
 	"importAllSettings": {
-		"message": "Import all settings"
+		"message": "នាំចូលការកំណត់ទាំងអស់"
 	},
 	"importAllSettingsDescription": {
-		"message": "Import all settings including templates and properties. This will replace your current configuration."
+		"message": "នាំចូលការកំណត់ទាំងអស់ រួមទាំងគំរូ និងលក្ខណៈសម្បត្តិ។ វានឹងជំនួសការកំណត់រចនាសម្ព័ន្ធបច្ចុប្បន្នរបស់អ្នក។"
 	},
 	"importFailed": {
-		"message": "Import failed. Please check the console for more details."
+		"message": "ការនាំចូលបានបរាជ័យ។ សូមពិនិត្យ console សម្រាប់ព័ត៌មានលម្អិតបន្ថែម។"
 	},
 	"importModalTitle": {
-		"message": "Import"
+		"message": "នាំចូល"
 	},
 	"importProperties": {
-		"message": "Import properties"
+		"message": "នាំចូលលក្ខណៈសម្បត្តិ"
 	},
 	"importPropertiesDescription": {
-		"message": "To import your properties from Obsidian, locate the $strong_1_start$types.json$strong_1_end$ file in the $strong_2_start$.obsidian$strong_2_end$ folder within your vault. Note this folder is hidden by default on most operating systems.",
+		"message": "ដើម្បីនាំចូលលក្ខណៈសម្បត្តិរបស់អ្នកពី Obsidian សូមស្វែងរកឯកសារ $strong_1_start$types.json$strong_1_end$ នៅក្នុងថត $strong_2_start$.obsidian$strong_2_end$ ខាងក្នុង vault របស់អ្នក។ សូមចំណាំថា ថតនេះត្រូវបានលាក់ជាលំនាំដើមលើប្រព័ន្ធប្រតិបត្តិការភាគច្រើន។",
 		"placeholders": {
 			"strong_1_end": {
 				"content": "</strong>"
@@ -402,22 +402,22 @@
 		}
 	},
 	"importSettings": {
-		"message": "Import settings"
+		"message": "នាំចូលការកំណត់"
 	},
 	"importTemplate": {
-		"message": "Import template"
+		"message": "នាំចូលគំរូ"
 	},
 	"interpret": {
-		"message": "interpret"
+		"message": "បកស្រាយ"
 	},
 	"interpreter": {
 		"message": "Interpreter"
 	},
 	"interpreterContext": {
-		"message": "Interpreter context"
+		"message": "បរិបទ Interpreter"
 	},
 	"interpreterContextDescription": {
-		"message": "The context used to interpret prompt variables. Overrides the default context defined in $link_start$Interpreter settings$link_end$. Variables can be used here.",
+		"message": "បរិបទដែលប្រើសម្រាប់បកស្រាយអថេរ prompt។ វាជំនួសបរិបទលំនាំដើមដែលបានកំណត់នៅក្នុង $link_start$ការកំណត់ Interpreter$link_end$។ អថេរអាចត្រូវបានប្រើនៅទីនេះ។",
 		"placeholders": {
 			"link_end": {
 				"content": "</a>"
@@ -428,82 +428,82 @@
 		}
 	},
 	"language": {
-		"message": "Language"
+		"message": "ភាសា"
 	},
 	"languageDescription": {
-		"message": "Choose the display language for the extension interface."
+		"message": "ជ្រើសរើសភាសាបង្ហាញសម្រាប់ចំណុចប្រទាក់ផ្នែកបន្ថែម។"
 	},
 	"last30Days": {
-		"message": "Last 30 days"
+		"message": "30 ថ្ងៃចុងក្រោយ"
 	},
 	"lastUsed": {
-		"message": "Last used"
+		"message": "បានប្រើចុងក្រោយ"
 	},
 	"legacyMode": {
-		"message": "Legacy mode"
+		"message": "របៀបចាស់"
 	},
 	"legacyModeDescription": {
-		"message": "Uses the URI clipping method compatible with Obsidian 1.6.7 or earlier. Note that the length of the content you can clip is limited by your browser and OS. Some pages may fail without any errors."
+		"message": "ប្រើវិធីកាត់យកតាម URI ដែលឆបគ្នាជាមួយ Obsidian 1.6.7 ឬចាស់ជាងនេះ។ សូមចំណាំថា ប្រវែងមាតិកាដែលអ្នកអាចកាត់យកបាន ត្រូវបានកំណត់ដោយកម្មវិធីរុករក និងប្រព័ន្ធប្រតិបត្តិការរបស់អ្នក។ ទំព័រខ្លះអាចបរាជ័យដោយគ្មានកំហុសណាមួយ។"
 	},
 	"modelName": {
-		"message": "Display name"
+		"message": "ឈ្មោះបង្ហាញ"
 	},
 	"modelNameDescription": {
-		"message": "The name of the model you want to display in the interface."
+		"message": "ឈ្មោះម៉ូដែលដែលអ្នកចង់បង្ហាញក្នុងចំណុចប្រទាក់។"
 	},
 	"modelProvider": {
-		"message": "Provider"
+		"message": "អ្នកផ្តល់សេវា"
 	},
 	"modelProviderDescription": {
-		"message": "Select the provider for this model."
+		"message": "ជ្រើសរើសអ្នកផ្តល់សេវាសម្រាប់ម៉ូដែលនេះ។"
 	},
 	"modelProviderPlaceholder": {
-		"message": "Provider"
+		"message": "អ្នកផ្តល់សេវា"
 	},
 	"modelRequiredFields": {
-		"message": "Model name, Provider, and Model ID are required."
+		"message": "ត្រូវការឈ្មោះម៉ូដែល អ្នកផ្តល់សេវា និង Model ID។"
 	},
 	"models": {
-		"message": "Models"
+		"message": "ម៉ូដែល"
 	},
 	"modelsListFor": {
-		"message": "Models list for $1"
+		"message": "បញ្ជីម៉ូដែលសម្រាប់ $1"
 	},
 	"more": {
-		"message": "More"
+		"message": "បន្ថែម"
 	},
 	"newTemplate": {
-		"message": "New template"
+		"message": "គំរូថ្មី"
 	},
 	"noHighlights": {
-		"message": "Do nothing"
+		"message": "មិនធ្វើអ្វីទេ"
 	},
 	"noTemplates": {
-		"message": "No templates available. Please add a template in the settings."
+		"message": "មិនមានគំរូទេ។ សូមបន្ថែមគំរូនៅក្នុងការកំណត់។"
 	},
 	"noUnusedProperties": {
-		"message": "No unused properties found."
+		"message": "រកមិនឃើញលក្ខណៈសម្បត្តិដែលមិនបានប្រើទេ។"
 	},
 	"noteContent": {
-		"message": "Note content"
+		"message": "មាតិកាកំណត់ត្រា"
 	},
 	"noteContentDescription": {
-		"message": "Customize the content of the note. Use variables to pre-populate data from the page."
+		"message": "ប្ដូរតាមបំណងមាតិកាកំណត់ត្រា។ ប្រើអថេរដើម្បីបំពេញទិន្នន័យពីទំព័រជាមុន។"
 	},
 	"noteLocation": {
-		"message": "Note location"
+		"message": "ទីតាំងកំណត់ត្រា"
 	},
 	"noteLocationDescription": {
-		"message": "The folder or path of the note."
+		"message": "ថត ឬផ្លូវរបស់កំណត់ត្រា។"
 	},
 	"noteName": {
-		"message": "Note name"
+		"message": "ឈ្មោះកំណត់ត្រា"
 	},
 	"noteNameFormat": {
-		"message": "Note name"
+		"message": "ឈ្មោះកំណត់ត្រា"
 	},
 	"noteNameFormatDescription": {
-		"message": "Format for the file name of the note. You can use variables like {{title}}, {{date}}, and {{published}} to pre-populate data from the page. $link_start$Learn more$link_end$.",
+		"message": "ទម្រង់សម្រាប់ឈ្មោះឯកសាររបស់កំណត់ត្រា។ អ្នកអាចប្រើអថេរដូចជា {{title}}, {{date}}, និង {{published}} ដើម្បីបំពេញទិន្នន័យពីទំព័រជាមុន។ $link_start$ស្វែងយល់បន្ថែម$link_end$។",
 		"placeholders": {
 			"link_end": {
 				"content": "</a>"
@@ -514,223 +514,223 @@
 		}
 	},
 	"notesAboutPage": {
-		"message": "Notes about this page..."
+		"message": "កំណត់ត្រាអំពីទំព័រនេះ..."
 	},
 	"onlyHttpSupported": {
-		"message": "This page cannot be clipped. Only http and https URLs are supported."
+		"message": "មិនអាចកាត់យកទំព័រនេះបានទេ។ គាំទ្រតែ URL http និង https ប៉ុណ្ណោះ។"
 	},
 	"open": {
-		"message": "Open"
+		"message": "បើក"
 	},
 	"openBehaviorDescription": {
-		"message": "Choose how Web Clipper opens by default."
+		"message": "ជ្រើសរើសរបៀបដែល Web Clipper បើកជាលំនាំដើម។"
 	},
 	"openBehaviorTitle": {
-		"message": "Open behavior"
+		"message": "ឥរិយាបថការបើក"
 	},
 	"openEmbedded": {
-		"message": "Open in page"
+		"message": "បើកក្នុងទំព័រ"
 	},
 	"openSidePanel": {
-		"message": "Open side panel"
+		"message": "បើកផ្ទាំងចំហៀង"
 	},
 	"optional": {
-		"message": "(optional)"
+		"message": "(ជាជម្រើស)"
 	},
 	"orPasteBelow": {
-		"message": "Or paste content below"
+		"message": "ឬបិទភ្ជាប់មាតិកាខាងក្រោម"
 	},
 	"overwriteNote": {
-		"message": "Overwrite note"
+		"message": "សរសេរជាន់លើកំណត់ត្រា"
 	},
 	"pageCannotBeClipped": {
-		"message": "This page cannot be clipped."
+		"message": "មិនអាចកាត់យកទំព័រនេះបានទេ។"
 	},
 	"pageVariables": {
-		"message": "Page variables"
+		"message": "អថេរទំព័រ"
 	},
 	"pagesSaved": {
-		"message": "page saved"
+		"message": "បានរក្សាទុកទំព័រ"
 	},
 	"pagesSavedPlural": {
-		"message": "pages saved"
+		"message": "បានរក្សាទុកទំព័រ"
 	},
 	"pasteJsonHere": {
-		"message": "Paste JSON here"
+		"message": "បិទភ្ជាប់ JSON នៅទីនេះ"
 	},
 	"pleaseReload": {
-		"message": "Please try reloading the page."
+		"message": "សូមព្យាយាមផ្ទុកទំព័រឡើងវិញ។"
 	},
 	"popularModels": {
-		"message": "Popular models"
+		"message": "ម៉ូដែលពេញនិយម"
 	},
 	"popularModelsDescription": {
-		"message": "Choose from commonly used models or enter custom model details."
+		"message": "ជ្រើសរើសពីម៉ូដែលដែលប្រើជាញឹកញាប់ ឬបញ្ចូលព័ត៌មានលម្អិតម៉ូដែលផ្ទាល់ខ្លួន។"
 	},
 	"popup": {
-		"message": "Popup"
+		"message": "ផ្ទាំងលេចឡើង"
 	},
 	"prependToDaily": {
-		"message": "Add to daily note, at the top"
+		"message": "បន្ថែមទៅកំណត់ត្រាប្រចាំថ្ងៃ នៅខាងលើ"
 	},
 	"prependToExisting": {
-		"message": "Add to an existing note, at the top"
+		"message": "បន្ថែមទៅកំណត់ត្រាដែលមានស្រាប់ នៅខាងលើ"
 	},
 	"preview": {
-		"message": "Preview"
+		"message": "មើលជាមុន"
 	},
 	"processing": {
-		"message": "processing"
+		"message": "កំពុងដំណើរការ"
 	},
 	"properties": {
-		"message": "Properties"
+		"message": "លក្ខណៈសម្បត្តិ"
 	},
 	"propertiesSettings": {
-		"message": "Properties"
+		"message": "លក្ខណៈសម្បត្តិ"
 	},
 	"propertyName": {
-		"message": "Property name"
+		"message": "ឈ្មោះលក្ខណៈសម្បត្តិ"
 	},
 	"propertyTypeCheckbox": {
-		"message": "Checkbox"
+		"message": "ប្រអប់ធីក"
 	},
 	"propertyTypeDate": {
-		"message": "Date"
+		"message": "កាលបរិច្ឆេទ"
 	},
 	"propertyTypeDatetime": {
-		"message": "Date & time"
+		"message": "កាលបរិច្ឆេទ និងម៉ោង"
 	},
 	"propertyTypeMultitext": {
-		"message": "List"
+		"message": "បញ្ជី"
 	},
 	"propertyTypeNumber": {
-		"message": "Number"
+		"message": "លេខ"
 	},
 	"propertyTypeText": {
-		"message": "Text"
+		"message": "អត្ថបទ"
 	},
 	"propertyValue": {
-		"message": "Property value"
+		"message": "តម្លៃលក្ខណៈសម្បត្តិ"
 	},
 	"provider": {
-		"message": "Provider"
+		"message": "អ្នកផ្តល់សេវា"
 	},
 	"providerApiKey": {
-		"message": "API key"
+		"message": "សោ API"
 	},
 	"providerApiKeyDescription": {
-		"message": "Your API key for this provider."
+		"message": "សោ API របស់អ្នកសម្រាប់អ្នកផ្តល់សេវានេះ។"
 	},
 	"providerBaseUrl": {
-		"message": "Base URL"
+		"message": "URL មូលដ្ឋាន"
 	},
 	"providerBaseUrlDescription": {
-		"message": "The API endpoint URL for this provider."
+		"message": "URL ចំណុចបញ្ចប់ API សម្រាប់អ្នកផ្តល់សេវានេះ។"
 	},
 	"providerModelId": {
 		"message": "Model ID"
 	},
 	"providerModelIdDescription": {
-		"message": "The identifier of the model from your provider. Typically a short name without spaces."
+		"message": "អត្តសញ្ញាណរបស់ម៉ូដែលពីអ្នកផ្តល់សេវារបស់អ្នក។ ជាទូទៅជាឈ្មោះខ្លីដោយគ្មានដកឃ្លា។"
 	},
 	"providerModelIdPlaceholder": {
 		"message": "Model ID"
 	},
 	"providerName": {
-		"message": "Provider name"
+		"message": "ឈ្មោះអ្នកផ្តល់សេវា"
 	},
 	"providerNameDescription": {
-		"message": "Display name for this provider."
+		"message": "ឈ្មោះបង្ហាញសម្រាប់អ្នកផ្តល់សេវានេះ។"
 	},
 	"providerPreset": {
-		"message": "Preset"
+		"message": "ការកំណត់ជាមុន"
 	},
 	"providerPresetDescription": {
-		"message": "Choose a provider or create a custom one."
+		"message": "ជ្រើសរើសអ្នកផ្តល់សេវា ឬបង្កើតមួយផ្ទាល់ខ្លួន។"
 	},
 	"providerRequiredFields": {
-		"message": "Provider name and Base URL are required."
+		"message": "ត្រូវការឈ្មោះអ្នកផ្តល់សេវា និង URL មូលដ្ឋាន។"
 	},
 	"providers": {
-		"message": "Providers"
+		"message": "អ្នកផ្តល់សេវា"
 	},
 	"rateExtensionDescription": {
-		"message": "Are you enjoying Web Clipper? Help us by giving it a rating."
+		"message": "តើអ្នកកំពុងរីករាយជាមួយ Web Clipper មែនទេ? ជួយយើងដោយផ្តល់ការវាយតម្លៃ។"
 	},
 	"reader": {
-		"message": "Reader"
+		"message": "របៀបអាន"
 	},
 	"readerAppearance": {
-		"message": "Appearance"
+		"message": "រូបរាង"
 	},
 	"readerAppearanceAuto": {
-		"message": "Auto"
+		"message": "ស្វ័យប្រវត្តិ"
 	},
 	"readerAppearanceDark": {
-		"message": "Dark"
+		"message": "ងងឹត"
 	},
 	"readerAppearanceDescription": {
-		"message": "Choose light or dark appearance."
+		"message": "ជ្រើសរើសរូបរាងភ្លឺ ឬងងឹត។"
 	},
 	"readerAppearanceLight": {
-		"message": "Light"
+		"message": "ភ្លឺ"
 	},
 	"readerBlendImages": {
-		"message": "Blend images"
+		"message": "បញ្ចូលរូបភាពឲ្យស្របគ្នា"
 	},
 	"readerBlendImagesDescription": {
-		"message": "Blend images with the page background."
+		"message": "បញ្ចូលរូបភាពឲ្យស្របគ្នាជាមួយផ្ទៃខាងក្រោយទំព័រ។"
 	},
 	"readerCloseImageViewer": {
-		"message": "Close image viewer"
+		"message": "បិទកម្មវិធីមើលរូបភាព"
 	},
 	"readerCollapseComment": {
-		"message": "Collapse comment"
+		"message": "បង្រួមមតិយោបល់"
 	},
 	"readerColorLinks": {
-		"message": "Color links"
+		"message": "ដាក់ពណ៌តំណភ្ជាប់"
 	},
 	"readerColorSchemeDefault": {
-		"message": "Default"
+		"message": "លំនាំដើម"
 	},
 	"readerCustomCss": {
-		"message": "Custom CSS"
+		"message": "CSS ផ្ទាល់ខ្លួន"
 	},
 	"readerCustomCssDescription": {
-		"message": "CSS applied automatically in reading view."
+		"message": "CSS ដែលអនុវត្តដោយស្វ័យប្រវត្តិក្នុងទិដ្ឋភាពអាន។"
 	},
 	"readerDarkTheme": {
-		"message": "Dark mode theme"
+		"message": "ស្បែករបៀបងងឹត"
 	},
 	"readerDarkThemeDescription": {
-		"message": "Use a different theme in dark mode."
+		"message": "ប្រើស្បែកផ្សេងនៅក្នុងរបៀបងងឹត។"
 	},
 	"readerError": {
-		"message": "Failed to extract content."
+		"message": "បានបរាជ័យក្នុងការស្រង់មាតិកា។"
 	},
 	"readerFont": {
-		"message": "Font options"
+		"message": "ជម្រើសពុម្ពអក្សរ"
 	},
 	"readerFontDefault": {
-		"message": "Default"
+		"message": "លំនាំដើម"
 	},
 	"readerFontDescription": {
-		"message": "Add fonts installed on your system. Press enter to add a font."
+		"message": "បន្ថែមពុម្ពអក្សរដែលបានដំឡើងលើប្រព័ន្ធរបស់អ្នក។ ចុច Enter ដើម្បីបន្ថែមពុម្ពអក្សរ។"
 	},
 	"readerFontNotFound": {
-		"message": "Not found"
+		"message": "រកមិនឃើញ"
 	},
 	"readerFontPlaceholder": {
-		"message": "Press enter to add a font"
+		"message": "ចុច Enter ដើម្បីបន្ថែមពុម្ពអក្សរ"
 	},
 	"readerFontSetDefault": {
-		"message": "Set default"
+		"message": "កំណត់ជាលំនាំដើម"
 	},
 	"readerFontSize": {
-		"message": "Base font size"
+		"message": "ទំហំពុម្ពអក្សរមូលដ្ឋាន"
 	},
 	"readerFontSystem": {
-		"message": "System"
+		"message": "ប្រព័ន្ធ"
 	},
 	"readerFontSystemSans": {
 		"message": "Sans-serif"
@@ -739,217 +739,217 @@
 		"message": "Serif"
 	},
 	"readerFonts": {
-		"message": "Fonts"
+		"message": "ពុម្ពអក្សរ"
 	},
 	"readerFootnotes": {
-		"message": "Footnotes"
+		"message": "កំណត់សម្គាល់ជើងទំព័រ"
 	},
 	"readerImages": {
-		"message": "Images"
+		"message": "រូបភាព"
 	},
 	"readerLineHeight": {
-		"message": "Line height"
+		"message": "កម្ពស់បន្ទាត់"
 	},
 	"readerLineWidth": {
-		"message": "Line width"
+		"message": "ទទឹងបន្ទាត់"
 	},
 	"readerLoading": {
-		"message": "Defuddling…"
+		"message": "កំពុងសម្រួល…"
 	},
 	"readerSettings": {
-		"message": "Reader settings"
+		"message": "ការកំណត់របៀបអាន"
 	},
 	"readerTheme": {
-		"message": "Theme"
+		"message": "ស្បែក"
 	},
 	"readerThemeDescription": {
-		"message": "Choose the colors used in reading view."
+		"message": "ជ្រើសរើសពណ៌ដែលប្រើក្នុងទិដ្ឋភាពអាន។"
 	},
 	"readerThemeSection": {
-		"message": "Theme"
+		"message": "ស្បែក"
 	},
 	"readerTypography": {
-		"message": "Typography"
+		"message": "អក្សរសាស្ត្រ"
 	},
 	"readerViewFullSize": {
-		"message": "View full size"
+		"message": "មើលទំហំពេញ"
 	},
 	"recommended": {
-		"message": "recommended"
+		"message": "បានណែនាំ"
 	},
 	"refresh": {
-		"message": "Refresh"
+		"message": "ធ្វើឲ្យស្រស់"
 	},
 	"remove": {
-		"message": "Remove"
+		"message": "ដកចេញ"
 	},
 	"removeProperty": {
-		"message": "Remove property"
+		"message": "ដកលក្ខណៈសម្បត្តិចេញ"
 	},
 	"removeUnusedProperties": {
-		"message": "Remove unused properties"
+		"message": "ដកលក្ខណៈសម្បត្តិដែលមិនបានប្រើចេញ"
 	},
 	"removeUnusedPropertiesDescription": {
-		"message": "Remove all properties that are not used in any template."
+		"message": "ដកលក្ខណៈសម្បត្តិទាំងអស់ដែលមិនត្រូវបានប្រើក្នុងគំរូណាមួយចេញ។"
 	},
 	"removeVault": {
-		"message": "Remove vault"
+		"message": "ដក Vault ចេញ"
 	},
 	"replaceContent": {
-		"message": "Replace the page content"
+		"message": "ជំនួសមាតិកាទំព័រ"
 	},
 	"reset": {
-		"message": "Reset"
+		"message": "កំណត់ឡើងវិញ"
 	},
 	"resetDefaultTemplate": {
-		"message": "Reset default template"
+		"message": "កំណត់គំរូលំនាំដើមឡើងវិញ"
 	},
 	"resetDefaultTemplateDescription": {
-		"message": "Remove any changes you've made to the default template."
+		"message": "លុបការផ្លាស់ប្តូរណាមួយដែលអ្នកបានធ្វើលើគំរូលំនាំដើម។"
 	},
 	"resetProvidersAndModels": {
-		"message": "Reset default models"
+		"message": "កំណត់ម៉ូដែលលំនាំដើមឡើងវិញ"
 	},
 	"resetProvidersAndModelsDescription": {
-		"message": "Reset providers and models to the default settings."
+		"message": "កំណត់អ្នកផ្តល់សេវា និងម៉ូដែលទៅការកំណត់លំនាំដើមឡើងវិញ។"
 	},
 	"save": {
-		"message": "Save"
+		"message": "រក្សាទុក"
 	},
 	"saveBehaviorDescription": {
-		"message": "Choose the default option for saving pages. Alternate options appear in the dropdown menu next to the main button."
+		"message": "ជ្រើសរើសជម្រើសលំនាំដើមសម្រាប់រក្សាទុកទំព័រ។ ជម្រើសផ្សេងៗនឹងបង្ហាញនៅក្នុងម៉ឺនុយទម្លាក់ចុះជាប់នឹងប៊ូតុងមេ។"
 	},
 	"saveBehaviorLabel": {
-		"message": "Save behavior"
+		"message": "ឥរិយាបថការរក្សាទុក"
 	},
 	"saveFile": {
-		"message": "Save file..."
+		"message": "រក្សាទុកឯកសារ..."
 	},
 	"searchVariables": {
-		"message": "Search variables..."
+		"message": "ស្វែងរកអថេរ..."
 	},
 	"selectProvider": {
-		"message": "Select a provider"
+		"message": "ជ្រើសរើសអ្នកផ្តល់សេវា"
 	},
 	"selectTemplateToExport": {
-		"message": "Please select a template to export."
+		"message": "សូមជ្រើសរើសគំរូមួយដើម្បីនាំចេញ។"
 	},
 	"settings": {
-		"message": "Settings"
+		"message": "ការកំណត់"
 	},
 	"settingsHeading": {
-		"message": "Settings"
+		"message": "ការកំណត់"
 	},
 	"settingsImportSuccess": {
-		"message": "All settings imported successfully. Please refresh the page to see the changes."
+		"message": "បាននាំចូលការកំណត់ទាំងអស់ដោយជោគជ័យ។ សូមធ្វើឲ្យទំព័រស្រស់ ដើម្បីឃើញការផ្លាស់ប្តូរ។"
 	},
 	"share": {
-		"message": "Share..."
+		"message": "ចែករំលែក..."
 	},
 	"shortcutInstructionsBrave": {
-		"message": "To change key assignments, go to $1"
+		"message": "ដើម្បីប្តូរការកំណត់គ្រាប់ចុច សូមទៅកាន់ $1"
 	},
 	"shortcutInstructionsChrome": {
-		"message": "To change key assignments, go to $1"
+		"message": "ដើម្បីប្តូរការកំណត់គ្រាប់ចុច សូមទៅកាន់ $1"
 	},
 	"shortcutInstructionsDefault": {
-		"message": "To change key assignments, please refer to your browser's extension settings."
+		"message": "ដើម្បីប្តូរការកំណត់គ្រាប់ចុច សូមមើលការកំណត់ផ្នែកបន្ថែមរបស់កម្មវិធីរុករករបស់អ្នក។"
 	},
 	"shortcutInstructionsEdge": {
-		"message": "To change key assignments, go to $1"
+		"message": "ដើម្បីប្តូរការកំណត់គ្រាប់ចុច សូមទៅកាន់ $1"
 	},
 	"shortcutInstructionsFirefox": {
-		"message": "To change key assignments, go to $1, click the gear icon, and select \"Manage Extension Shortcuts\"."
+		"message": "ដើម្បីប្តូរការកំណត់គ្រាប់ចុច សូមទៅកាន់ $1 ចុចរូបតំណាងស្ពឺ ហើយជ្រើស \"គ្រប់គ្រងផ្លូវកាត់ផ្នែកបន្ថែម\"។"
 	},
 	"shortcutInstructionsIntro": {
-		"message": "Keyboard shortcuts give you quick access to clipper features."
+		"message": "ផ្លូវកាត់ក្តារចុចផ្តល់ឲ្យអ្នកនូវការចូលប្រើរហ័សទៅមុខងារ clipper។"
 	},
 	"shortcutInstructionsSafari": {
-		"message": "Keyboard shortcuts are not customizable on Safari."
+		"message": "ផ្លូវកាត់ក្តារចុចមិនអាចប្ដូរតាមបំណងបានទេនៅលើ Safari។"
 	},
 	"shortcutNotSet": {
-		"message": "Not set"
+		"message": "មិនបានកំណត់"
 	},
 	"showActionsButton": {
-		"message": "Show actions button"
+		"message": "បង្ហាញប៊ូតុងសកម្មភាព"
 	},
 	"showActionsDescription": {
-		"message": "Allows you to inspect page variables from the clipper menu. Useful for seeing the variables that are available to use in templates."
+		"message": "អនុញ្ញាតឲ្យអ្នកពិនិត្យអថេរទំព័រពីម៉ឺនុយ clipper។ មានប្រយោជន៍សម្រាប់មើលអថេរដែលអាចប្រើក្នុងគំរូបាន។"
 	},
 	"showPageVariables": {
-		"message": "Show page variables"
+		"message": "បង្ហាញអថេរទំព័រ"
 	},
 	"silentOpen": {
-		"message": "Save clipped note without opening it"
+		"message": "រក្សាទុកកំណត់ត្រាដែលបានកាត់យក ដោយមិនបើកវា"
 	},
 	"silentOpenDescription": {
-		"message": "Clipped notes will be saved but will not open as a new tab. Obsidian will still be brought to the foreground."
+		"message": "កំណត់ត្រាដែលបានកាត់យកនឹងត្រូវបានរក្សាទុក ប៉ុន្តែមិនបើកជាផ្ទាំងថ្មីទេ។ Obsidian នឹងត្រូវបាននាំមកខាងមុខនៅតែដដែល។"
 	},
 	"specificNoteName": {
-		"message": "Specific note name"
+		"message": "ឈ្មោះកំណត់ត្រាជាក់លាក់"
 	},
 	"systemDefault": {
-		"message": "System"
+		"message": "ប្រព័ន្ធ"
 	},
 	"template": {
-		"message": "Template"
+		"message": "គំរូ"
 	},
 	"templateCopied": {
-		"message": "Copied template JSON to clipboard"
+		"message": "បានចម្លង JSON គំរូទៅក្តារតម្បៀតខ្ទាស់"
 	},
 	"templateCopyError": {
-		"message": "Failed to copy template JSON to clipboard"
+		"message": "បានបរាជ័យក្នុងការចម្លង JSON គំរូទៅក្តារតម្បៀតខ្ទាស់"
 	},
 	"templateErrorCount": {
-		"message": "There is an error in your template."
+		"message": "មានកំហុសមួយនៅក្នុងគំរូរបស់អ្នក។"
 	},
 	"templateErrorsCount": {
-		"message": "There are $1 errors in your template."
+		"message": "មានកំហុស $1 នៅក្នុងគំរូរបស់អ្នក។"
 	},
 	"templateGroupContent": {
-		"message": "Content"
+		"message": "មាតិកា"
 	},
 	"templateGroupLocation": {
-		"message": "Location"
+		"message": "ទីតាំង"
 	},
 	"templateName": {
-		"message": "Template name"
+		"message": "ឈ្មោះគំរូ"
 	},
 	"templateProperties": {
-		"message": "Properties"
+		"message": "លក្ខណៈសម្បត្តិ"
 	},
 	"templatePropertiesDescription": {
-		"message": "Properties to add to the top of the clipped note. Use variables to pre-populate data from the page."
+		"message": "លក្ខណៈសម្បត្តិដែលត្រូវបន្ថែមនៅខាងលើកំណត់ត្រាដែលបានកាត់យក។ ប្រើអថេរដើម្បីបំពេញទិន្នន័យពីទំព័រជាមុន។"
 	},
 	"templateTriggers": {
-		"message": "Template triggers"
+		"message": "កត្តាបង្កគំរូ"
 	},
 	"templateTriggersDescription": {
-		"message": "Define rules to automatically select this template if it matches a URL pattern or contains schema.org data. One rule per line."
+		"message": "កំណត់ច្បាប់ដើម្បីជ្រើសរើសគំរូនេះដោយស្វ័យប្រវត្តិ ប្រសិនបើវាត្រូវនឹងលំនាំ URL ឬមានទិន្នន័យ schema.org។ មួយច្បាប់ក្នុងមួយបន្ទាត់។"
 	},
 	"templateValid": {
-		"message": "Template syntax is valid"
+		"message": "វាក្យសម្ព័ន្ធគំរូត្រឹមត្រូវ"
 	},
 	"templatesHeading": {
-		"message": "Templates"
+		"message": "គំរូ"
 	},
 	"thinking": {
-		"message": "thinking"
+		"message": "កំពុងគិត"
 	},
 	"unknownProvider": {
-		"message": "Unknown provider"
+		"message": "អ្នកផ្តល់សេវាមិនស្គាល់"
 	},
 	"updateAvailable": {
-		"message": "An update is available."
+		"message": "មានបច្ចុប្បន្នភាពថ្មី។"
 	},
 	"usingLatestVersion": {
-		"message": "You are using the latest version."
+		"message": "អ្នកកំពុងប្រើកំណែចុងក្រោយបំផុត។"
 	},
 	"vault": {
 		"message": "Vault"
 	},
 	"vaultDescription": {
-		"message": "Select the default vault for this template. Go to $link_start$general settings$link_end$ to add or remove vaults.",
+		"message": "ជ្រើសរើស vault លំនាំដើមសម្រាប់គំរូនេះ។ ទៅកាន់ $link_start$ការកំណត់ទូទៅ$link_end$ ដើម្បីបន្ថែម ឬដក vault ចេញ។",
 		"placeholders": {
 			"link_end": {
 				"content": "</a>"
@@ -963,7 +963,7 @@
 		"message": "Vaults"
 	},
 	"vaultsDescription": {
-		"message": "By default, clipped notes are saved to the currently open vault. You can add vaults here if you want the option to save to different vaults. Vault names must exactly match the name of the Obsidian vault. Press $strong_start$enter$strong_end$ to add a vault.",
+		"message": "តាមលំនាំដើម កំណត់ត្រាដែលបានកាត់យកនឹងត្រូវបានរក្សាទុកទៅ vault ដែលកំពុងបើក។ អ្នកអាចបន្ថែម vault នៅទីនេះ ប្រសិនបើអ្នកចង់មានជម្រើសរក្សាទុកទៅ vault ផ្សេងៗ។ ឈ្មោះ vault ត្រូវតែត្រូវគ្នាពិតប្រាកដជាមួយឈ្មោះ vault របស់ Obsidian។ ចុច $strong_start$enter$strong_end$ ដើម្បីបន្ថែម vault។",
 		"placeholders": {
 			"strong_end": {
 				"content": "</strong>"
@@ -974,6 +974,6 @@
 		}
 	},
 	"version": {
-		"message": "Version"
+		"message": "កំណែ"
 	}
 }
