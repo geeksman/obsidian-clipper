@@ -503,7 +503,15 @@
 		"message": "תבנית שם הפתק"
 	},
 	"noteNameFormatDescription": {
-		"message": "התבנית המשמשת ליצירת שם הפתק. ניתן להשתמש במשתנים."
+		"message": "התבנית המשמשת ליצירת שם הפתק. ניתן להשתמש במשתנים.",
+		"placeholders": {
+			"link_end": {
+				"content": "</a>"
+			},
+			"link_start": {
+				"content": "<a href=\"https://help.obsidian.md/web-clipper/variables\" target=\"_blank\">"
+			}
+		}
 	},
 	"notesAboutPage": {
 		"message": "הערות על העמוד הזה..."

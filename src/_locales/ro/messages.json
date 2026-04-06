@@ -503,7 +503,15 @@
 		"message": "Format nume notă"
 	},
 	"noteNameFormatDescription": {
-		"message": "Formatul folosit pentru generarea numelui notei. Poți folosi variabile."
+		"message": "Formatul folosit pentru generarea numelui notei. Poți folosi variabile.",
+		"placeholders": {
+			"link_end": {
+				"content": "</a>"
+			},
+			"link_start": {
+				"content": "<a href=\"https://help.obsidian.md/web-clipper/variables\" target=\"_blank\">"
+			}
+		}
 	},
 	"notesAboutPage": {
 		"message": "Note despre această pagină..."

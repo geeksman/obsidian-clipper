@@ -503,7 +503,15 @@
 		"message": "Formát názvu poznámky"
 	},
 	"noteNameFormatDescription": {
-		"message": "Formát názvu poznámky. Můžete použít proměnné."
+		"message": "Formát názvu poznámky. Můžete použít proměnné.",
+		"placeholders": {
+			"link_end": {
+				"content": "</a>"
+			},
+			"link_start": {
+				"content": "<a href=\"https://help.obsidian.md/web-clipper/variables\" target=\"_blank\">"
+			}
+		}
 	},
 	"notesAboutPage": {
 		"message": "Poznámky k této stránce..."
