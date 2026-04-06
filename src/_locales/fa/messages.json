@@ -1,99 +1,99 @@
 {
 	"activity": {
-		"message": "فعالیت"
+		"message": "Activity"
 	},
 	"addModel": {
-		"message": "+ افزودن مدل"
+		"message": "+ Add model"
 	},
 	"addModelTitle": {
-		"message": "افزودن مدل"
+		"message": "Add model"
 	},
 	"addProperty": {
-		"message": "+ افزودن خواص"
+		"message": "+ Add property"
 	},
 	"addProvider": {
-		"message": "+ اضافه کردن ارائه دهنده"
+		"message": "+ Add provider"
 	},
 	"addProviderTitle": {
-		"message": "افزودن ارائه دهنده"
+		"message": "Add provider"
 	},
 	"addToObsidian": {
-		"message": "به ابسیدین اضافه کنید"
+		"message": "Add to Obsidian"
 	},
 	"addVaultPlaceholder": {
-		"message": "برای افزودن به خزانه بر enter کلیک کنید"
+		"message": "Press enter to add a vault"
 	},
 	"advanced": {
-		"message": "پیشرفته"
+		"message": "Advanced"
 	},
 	"allProperties": {
-		"message": "همه خواص"
+		"message": "All properties"
 	},
 	"allTime": {
-		"message": "کل زمان"
+		"message": "All time"
 	},
 	"alwaysShowHighlights": {
-		"message": "همیشه جملات روشن را نشان دهید"
+		"message": "Always show highlights"
 	},
 	"alwaysShowHighlightsDescription": {
-		"message": "هنگام بارگذاری صفحه، جملات روشن ذخیره شده خود را نمایش بشود. آن را خاموش کنید تا فقط وقتی حالت جملات روشن فعال است جملات روشن نمایش داده شود."
+		"message": "Display your saved highlights when you load a page. Turn off to only display highlights when highlighter mode is activated."
 	},
 	"apiKeyMissing": {
-		"message": "کلید API وجود ندارد"
+		"message": "No API key"
 	},
 	"apiKeysWarning": {
-		"message": "با استفاده از یک ارائه‌دهنده خارجی، شما با شرایط و سیاست حریم خصوصی آنها موافقت می‌کنید. درخواست‌های مفسر مستقیماً به ارائه‌دهنده انتخابی شما ارسال می‌شود. Obsidian هیچ داده‌ای در مورد درخواست‌های شما جمع‌آوری یا ذخیره نمی‌کند."
+		"message": "By using an external provider you agree to their terms and privacy policy. Interpreter requests are sent directly to the provider you choose. Obsidian does not gather or store any data about your requests."
 	},
 	"appendToDaily": {
-		"message": "اضافه کردن به یادداشت روزانه، در آخر آن "
+		"message": "Add to daily note, at the bottom"
 	},
 	"appendToExisting": {
-		"message": "اضافه کردن به یادداشت موجود، در آخر آن"
+		"message": "Add to an existing note, at the bottom"
 	},
 	"autoRunInterpreter": {
-		"message": "اجرای خودکار"
+		"message": "Automatically run"
 	},
 	"autoRunInterpreterDescription": {
-		"message": "اگر قالب شامل متغیرهای پرامپت باشد، فوراً اجرا می‌شود. این کار اعتبار API ارائه‌دهنده مدل شما را مصرف می‌کند. اگر می‌خواهید مفسر را فقط به صورت دستی اجرا کنید، آن را خاموش کنید."
+		"message": "Run prompt variables immediately if the template contains any. This will consume API credits with your model provider. Turn off if you only want to run interpreter manually."
 	},
 	"behavior": {
-		"message": "رفتار"
+		"message": "Behavior"
 	},
 	"byDay": {
-		"message": "روزها"
+		"message": "Days"
 	},
 	"byMonth": {
-		"message": "ماه ها"
+		"message": "Months"
 	},
 	"byWeek": {
-		"message": "هفته ها"
+		"message": "Weeks"
 	},
 	"cancel": {
-		"message": "لغو"
+		"message": "Cancel"
 	},
 	"cannotDeleteProvider": {
-		"message": "امکان حذف ارائه دهنده $1 وجود ندارد زیرا توسط $2 مدل استفاده می شود."
+		"message": "Cannot delete provider \"$1\" because it is being used by $2 model(s)."
 	},
 	"changelog": {
-		"message": "تغییرات"
+		"message": "Changelog"
 	},
 	"chooseFile": {
-		"message": "یک فایل انتخاب کنید"
+		"message": "Choose a file"
 	},
 	"choosePropertiesFile": {
-		"message": "فایل خصوصیات را انتخاب کنید"
+		"message": "Choose properties file"
 	},
 	"chooseSettingsFile": {
-		"message": "فایل تنظیمات را انتخاب کنید"
+		"message": "Choose settings file"
 	},
 	"chooseTemplateFile": {
-		"message": "فایل قالب را انتخاب کنید"
+		"message": "Choose template file"
 	},
 	"clipBehavior": {
-		"message": "رفتار کلیپ"
+		"message": "Clip behavior"
 	},
 	"clipBehaviorDescription": {
-		"message": "نحوه ذخیره جملات روشن در ابسیدین را انتخاب کنید. متغییر مربوط به $strong_start$محتوا$strong_end$ را تعریف مي‌کند.",
+		"message": "Choose how highlighted content is saved to Obsidian. Defines the $strong_start${{content}}$strong_end$ variable.",
 		"placeholders": {
 			"strong_end": {
 				"content": "</strong>"
@@ -104,7 +104,7 @@
 		}
 	},
 	"clipboardError": {
-		"message": "اوبسیدین نمی‌تواند به کلیپ‌بورد شما دسترسی پیدا کند. دستورالعمل‌های عیب‌یابی را اینجا امتحان کنید: $1",
+		"message": "Obsidian is not able to access your clipboard. Try the troubleshooting instructions here: $1",
 		"placeholders": {
 			"1": {
 				"content": "$1"
@@ -112,79 +112,79 @@
 		}
 	},
 	"close": {
-		"message": "بستن"
+		"message": "Close"
 	},
 	"commandOpenClipper": {
-		"message": "کلیپر ابسیدین را باز کن"
+		"message": "Open Obsidian Clipper"
 	},
 	"commandQuickClip": {
-		"message": "کلیپ سریع"
+		"message": "Quick clip"
 	},
 	"commandToggleHighlighter": {
-		"message": "حالت جملات روشن را فعال یا نا‌فعال کن"
+		"message": "Toggle highlighter"
 	},
 	"commandToggleReader": {
-		"message": "تغییر نمای خواندن"
+		"message": "Toggle reader"
 	},
 	"confirmDeleteTemplate": {
-		"message": "آیا مطمئنید که می خواهید الگوی \"$1\" را حذف کنید؟"
+		"message": "Are you sure you want to delete the template \"$1\"?"
 	},
 	"confirmReplaceSettings": {
-		"message": "این کار تمام تنظیمات فعلی شما را، از جمله قالب ها و خصوصیات، جایگزین می کند. آیا مطمئن هستید که می خواهید ادامه دهید؟"
+		"message": "This will replace all your current settings, including templates and properties. Are you sure you want to continue?"
 	},
 	"copied": {
-		"message": "کپی شد!"
+		"message": "Copied!"
 	},
 	"copyAsJson": {
-		"message": "کپی به JSON"
+		"message": "Copy as JSON"
 	},
 	"copyToClipboard": {
-		"message": "به کلیپ بورد کپی کن"
+		"message": "Copy to clipboard"
 	},
 	"createNewNote": {
-		"message": "یادداشت جدید ایجاد کن"
+		"message": "Create new note"
 	},
 	"custom": {
-		"message": "سفارشی"
+		"message": "Custom"
 	},
 	"dailyNoteFormat": {
-		"message": "قالب یادداشت روزانه (به عنوان مثال، YYYY-MM-DD)"
+		"message": "Daily note format (e.g., YYYY-MM-DD)"
 	},
 	"defaultInterpreterContext": {
-		"message": "متن پیش‌فرض مفسر"
+		"message": "Default interpreter context"
 	},
 	"defaultInterpreterContextDescription": {
-		"message": "مدل از این متن برای تفسیر متغیرهای پرامپت استفاده خواهد کرد. متغیرها و فیلترها می‌توانند اینجا استفاده شوند."
+		"message": "Override the context used to interpret prompt variables. Variables can be used here."
 	},
 	"defaultTemplateName": {
-		"message": "پیش فرض"
+		"message": "Default"
 	},
 	"delete": {
-		"message": "حذف کن"
+		"message": "Delete"
 	},
 	"deleteModelConfirm": {
-		"message": "آیا مطمئن هستید که می‌خواهید این مدل را حذف کنید؟"
+		"message": "Are you sure you want to delete this model?"
 	},
 	"deleteProviderConfirm": {
-		"message": "آیا مطمئن هستید که می خواهید این ارائه دهنده را حذف کنید؟"
+		"message": "Are you sure you want to delete this provider?"
 	},
 	"disableHighlighter": {
-		"message": "مارکر جملات روشن را غیرفعال کن"
+		"message": "Disable highlighter"
 	},
 	"disableReader": {
-		"message": "غیرفعال کردن نمای خواندن"
+		"message": "Disable reader"
 	},
 	"done": {
-		"message": "انجام شد"
+		"message": "Done"
 	},
 	"dragAndDropFile": {
-		"message": "فایل را اینجا بکشید و رها کنید"
+		"message": "Drag and drop file here"
 	},
 	"duplicate": {
-		"message": "دو نسخه کن"
+		"message": "Duplicate"
 	},
 	"earlyAccessDescription": {
-		"message": "از ویژگی هایی استفاده کنید که به آخرین $link_start$نسخه زودرس$link_end$ ابسیدین نیاز دارند. در حال حاضر به ابسیدین ۱.۷.۲ یا جدیدتر نیاز دارید.",
+		"message": "Use features that require the latest $link_start$early access version$link_end$ of Obsidian. Currently requires Obsidian 1.7.2 or later.",
 		"placeholders": {
 			"link_end": {
 				"content": "</a>"
@@ -195,31 +195,31 @@
 		}
 	},
 	"earlyAccessFeatures": {
-		"message": "ویژگی‌های نسخه زودرس"
+		"message": "Early access features"
 	},
 	"editModel": {
-		"message": "ویرایش مدل"
+		"message": "Edit model"
 	},
 	"editProvider": {
-		"message": "ویرایش ارائه دهنده"
+		"message": "Edit provider"
 	},
 	"editTemplate": {
-		"message": "ویرایش قالب"
+		"message": "Edit template"
 	},
 	"embedded": {
-		"message": "درون خطی"
+		"message": "Embedded"
 	},
 	"enableHighlighter": {
-		"message": "مارکر جملات روشن را فعال کن"
+		"message": "Enable highlighter"
 	},
 	"enableHighlighterDescription": {
-		"message": "محتوایی را که می‌خواهید در ابسیدین ذخیره کنید را برجسته کنید"
+		"message": "Highlight content on web pages that you can save to Obsidian."
 	},
 	"enableInterpreter": {
-		"message": "فعال‌سازی مفسر"
+		"message": "Enable interpreter"
 	},
 	"enableInterpreterDescription": {
-		"message": "از زبان طبیعی برای استخراج داده‌ها از صفحات استفاده کنید. برای مثال، می‌توانید از نحو قالب $strong_start${{\"خلاصه‌ای از صفحه\"}}$strong_end$ استفاده کنید. نیاز به کلید API یا مدل سفارشی پیکربندی شده در زیر دارد. $link_start$بیشتر بدانید$link_end$",
+		"message": "Use natural language to extract data from pages. For example, you can use the template syntax $strong_start${{\"a summary of the page\"}}$strong_end$. Requires an API key or custom model configured below.  $link_start$Learn more$link_end$.",
 		"placeholders": {
 			"link_end": {
 				"content": "</a>"
@@ -236,31 +236,31 @@
 		}
 	},
 	"enableReader": {
-		"message": "باز کردن نمای خواندن"
+		"message": "Open reading view"
 	},
 	"error": {
-		"message": "خطا"
+		"message": "Error"
 	},
 	"export": {
-		"message": "استخراج"
+		"message": "Export"
 	},
 	"exportAllSettings": {
-		"message": "همه تنظیمات را استخراج کن"
+		"message": "Export all settings"
 	},
 	"exportAllSettingsDescription": {
-		"message": "همه تنظیمات را استخراج کنید حتی قالب‌ها و خواص."
+		"message": "Export all settings including templates and properties."
 	},
 	"exportHighlights": {
-		"message": "جملات روشن را استخراج کن "
+		"message": "Export highlights"
 	},
 	"exportHighlightsDescription": {
-		"message": "جملات روشن را به یک فایل استخراج کن "
+		"message": "Export your highlights to a file."
 	},
 	"exportProperties": {
-		"message": "استخراج خواص"
+		"message": "Export properties"
 	},
 	"exportPropertiesDescription": {
-		"message": "ویژگی‌های Web Clipper را در یک فایل $strong_start$types.json$strong_end$ ذخیره کنید که می‌تواند به خزانه ابسیدین شما یا در دستگاه‌های دیگر به Web Clipper وارد شود.",
+		"message": "Save Web Clipper properties to a $strong_start$types.json$strong_end$ file that can be imported into your Obsidian vault, or into Web Clipper on other devices.",
 		"placeholders": {
 			"strong_end": {
 				"content": "</strong>"
@@ -271,121 +271,121 @@
 		}
 	},
 	"extensionDescription": {
-		"message": "محتوای وب را در قالبی خصوصی و بادوام ذخیره کنید که بتوانید به صورت آفلاین به آن دسترسی داشته باشید. پسوند رسمی مرورگر برای ابسیدین."
+		"message": "Save content from the web in a private and durable format that you can access offline. The official browser extension for Obsidian."
 	},
 	"extensionName": {
 		"message": "Obsidian Web Clipper"
 	},
 	"failedToCopyText": {
-		"message": "متن کپی نشد"
+		"message": "Failed to copy text"
 	},
 	"failedToDeleteTemplate": {
-		"message": "حذف قالب انجام نشد. لطفا دوباره امتحان کنید."
+		"message": "Failed to delete template. Please try again."
 	},
 	"failedToDuplicateTemplate": {
-		"message": "تکثیر قالب با شکست مواجه شد. لطفا دوباره تلاش کنید."
+		"message": "Failed to duplicate template. Please try again."
 	},
 	"failedToExportHighlights": {
-		"message": "خروجی گرفتن از برجسته سازی ها با شکست مواجه شد. لطفا برای جزئیات بیشتر، کنسول را بررسی کنید."
+		"message": "Failed to export highlights. Please check the console for more details."
 	},
 	"failedToExportSettings": {
-		"message": "خروجی گرفتن از تنظیمات با شکست مواجه شد. لطفا برای جزئیات بیشتر، کنسول را بررسی کنید."
+		"message": "Failed to export settings. Please check the console for more details."
 	},
 	"failedToExtractContent": {
-		"message": "استخراج محتوای صفحه ناموفق بود."
+		"message": "Unable to extract page content."
 	},
 	"failedToImportTemplate": {
-		"message": "خطا در وارد کردن قالب. لطفا فایل را بررسی کنید و دوباره تلاش کنید."
+		"message": "Error importing template. Please check the file and try again."
 	},
 	"failedToInitialize": {
-		"message": "لطفاً برنامه افزودنی را دوباره بارگیری کنید."
+		"message": "Please try reloading the extension."
 	},
 	"failedToInitializeContent": {
-		"message": "مقداردهی اولیه محتوای صفحه ممکن نیست."
+		"message": "Unable to initialize page content."
 	},
 	"failedToProcessInterpreter": {
-		"message": "پردازش تفسیرگر ناموفق بود. لطفا دوباره امتحان کنید."
+		"message": "Interpreter processing failed. Please try again."
 	},
 	"failedToResetProviders": {
-		"message": "تنظیم مجدد ارائه دهندگان و مدل ها ناموفق بود"
+		"message": "Failed to reset providers and models"
 	},
 	"failedToResetTemplate": {
-		"message": "بازنشانی قالب پیش‌فرض انجام نشد. لطفا دوباره امتحان کنید."
+		"message": "Failed to reset default template. Please try again."
 	},
 	"failedToSave": {
-		"message": "فایل ذخیره نشد"
+		"message": "Failed to save file"
 	},
 	"failedToSaveFile": {
-		"message": "فایل ذخیره نشد"
+		"message": "Failed to save file"
 	},
 	"failedToSaveProvider": {
-		"message": "ذخیره سازی ارائه دهنده با شکست مواجه شد. لطفا دوباره تلاش کنید."
+		"message": "Failed to save provider. Please try again."
 	},
 	"feedback": {
-		"message": "بازخورد"
+		"message": "Feedback"
 	},
 	"feedbackDescription": {
-		"message": "چگونه می توانیم وب کلیپر را بهبود بخشیم؟ لطفا به صفحه کمک ما مراجعه کنید، که در آن می توانید اشکالات را گزارش دهید، ویژگی ها را پیشنهاد دهید و کمک در مورد مسائل رایج دریافت کنید."
+		"message": "How can we improve Web Clipper? Please visit our help page, where you can report bugs, suggest features, and get help with common issues."
 	},
 	"feedbackTitle": {
-		"message": "با تشکر از بازخورد شما"
+		"message": "Thanks for your feedback"
 	},
 	"folder": {
-		"message": "پوشه"
+		"message": "Folder"
 	},
 	"general": {
-		"message": "عمومی"
+		"message": "General"
 	},
 	"generalSettings": {
-		"message": "تنظیمات عمومی"
+		"message": "General settings"
 	},
 	"getApiKeyHere": {
-		"message": "کلید API $1 خود را از اینجا بگیرید."
+		"message": "Get your $1 API key here."
 	},
 	"help": {
-		"message": "راهنما"
+		"message": "Help"
 	},
 	"helpDescription": {
-		"message": "نحوه استفاده از Web Clipper را بیاموزید و در رفع مشکلات کمک بگیرید."
+		"message": "Learn how to use Web Clipper and get help troubleshooting."
 	},
 	"highlightInline": {
-		"message": "محتوای صفحه را برجسته کنید"
+		"message": "Highlight the page content"
 	},
 	"highlightPage": {
-		"message": "صحفه را برجسته کن"
+		"message": "Highlight page"
 	},
 	"highlighter": {
-		"message": "مارکر"
+		"message": "Highlighter"
 	},
 	"highlighterSettings": {
-		"message": "مارکر"
+		"message": "Highlighter"
 	},
 	"history": {
-		"message": "تاریخچه"
+		"message": "History"
 	},
 	"hotkeys": {
-		"message": "کلیدهای میانبر"
+		"message": "Hotkeys"
 	},
 	"import": {
-		"message": "درج"
+		"message": "Import"
 	},
 	"importAllSettings": {
-		"message": "درج تمام تنظیمات"
+		"message": "Import all settings"
 	},
 	"importAllSettingsDescription": {
-		"message": "درج تمام تنظیمات حتی خواص و قالب‌ها. این جایگزین تنظیمات فعلی شما خواهد شد."
+		"message": "Import all settings including templates and properties. This will replace your current configuration."
 	},
 	"importFailed": {
-		"message": "وارد کردن با شکست مواجه شد. لطفا برای جزئیات بیشتر، کنسول را بررسی کنید."
+		"message": "Import failed. Please check the console for more details."
 	},
 	"importModalTitle": {
-		"message": "وارد کردن"
+		"message": "Import"
 	},
 	"importProperties": {
-		"message": "درج خواص"
+		"message": "Import properties"
 	},
 	"importPropertiesDescription": {
-		"message": "برای وارد کردن خواص خود از ابسیدین فایل $strong_1_start$types.json$strong_1_end$ را در پوشه $strong_2_start$.obsidian$strong_2_end$ درون خزانه خود پیدا کنید. توجه داشته باشید که این پوشه به طور پیش فرض در اکثر سیستم عامل ها پنهان است.",
+		"message": "To import your properties from Obsidian, locate the $strong_1_start$types.json$strong_1_end$ file in the $strong_2_start$.obsidian$strong_2_end$ folder within your vault. Note this folder is hidden by default on most operating systems.",
 		"placeholders": {
 			"strong_1_end": {
 				"content": "</strong>"
@@ -402,22 +402,22 @@
 		}
 	},
 	"importSettings": {
-		"message": "وارد کردن تنظیمات"
+		"message": "Import settings"
 	},
 	"importTemplate": {
-		"message": "وارد کردن قالب"
+		"message": "Import template"
 	},
 	"interpret": {
-		"message": "تفسیر"
+		"message": "interpret"
 	},
 	"interpreter": {
-		"message": "تفسیرگر"
+		"message": "Interpreter"
 	},
 	"interpreterContext": {
-		"message": "زمینه تفسیرگر"
+		"message": "Interpreter context"
 	},
 	"interpreterContextDescription": {
-		"message": "زمینه مورد استفاده برای تفسیر متغیرهای سریع. زمینه پیش فرض تعریف شده در $link_start$تنظیمات تفسیرگر$link_end$ را لغو می کند. در اینجا می توان از متغیرها استفاده کرد.",
+		"message": "The context used to interpret prompt variables. Overrides the default context defined in $link_start$Interpreter settings$link_end$. Variables can be used here.",
 		"placeholders": {
 			"link_end": {
 				"content": "</a>"
@@ -428,82 +428,82 @@
 		}
 	},
 	"language": {
-		"message": "زبان"
+		"message": "Language"
 	},
 	"languageDescription": {
-		"message": "زبان نمایش را برای برنامه انتخاب کنید."
+		"message": "Choose the display language for the extension interface."
 	},
 	"last30Days": {
-		"message": "30 روز گذشته"
+		"message": "Last 30 days"
 	},
 	"lastUsed": {
-		"message": "آخرین استفاده"
+		"message": "Last used"
 	},
 	"legacyMode": {
-		"message": "حالت قدیمی"
+		"message": "Legacy mode"
 	},
 	"legacyModeDescription": {
-		"message": "از روش برش URI سازگار با ابسیدین ۱.۶.۷ یا نسخه قبلی استفاده می کند. توجه داشته باشید که طول محتوایی که می توانید کلیپ کنید توسط مرورگر و سیستم عامل شما محدود است. برخی از صفحات ممکن است بدون هیچ خطایی از کار بیفتند."
+		"message": "Uses the URI clipping method compatible with Obsidian 1.6.7 or earlier. Note that the length of the content you can clip is limited by your browser and OS. Some pages may fail without any errors."
 	},
 	"modelName": {
-		"message": "نام مدل"
+		"message": "Display name"
 	},
 	"modelNameDescription": {
-		"message": "نام مدلی که می‌خواهید در رابط کاربری نمایش داده شود."
+		"message": "The name of the model you want to display in the interface."
 	},
 	"modelProvider": {
-		"message": "ارائه‌دهنده"
+		"message": "Provider"
 	},
 	"modelProviderDescription": {
-		"message": "ارائه‌دهنده مدل، مثلاً Ollama، OpenRouter، Google و غیره."
+		"message": "Select the provider for this model."
 	},
 	"modelProviderPlaceholder": {
-		"message": "ارائه دهنده"
+		"message": "Provider"
 	},
 	"modelRequiredFields": {
-		"message": "نام مدل، ارائه دهنده، و شناسه مدل الزامی است."
+		"message": "Model name, Provider, and Model ID are required."
 	},
 	"models": {
-		"message": "مدل‌ها"
+		"message": "Models"
 	},
 	"modelsListFor": {
-		"message": "لیست مدل ها برای $1"
+		"message": "Models list for $1"
 	},
 	"more": {
-		"message": "بیشتر"
+		"message": "More"
 	},
 	"newTemplate": {
-		"message": "قالب جدید"
+		"message": "New template"
 	},
 	"noHighlights": {
-		"message": "هیچ کاری نکن"
+		"message": "Do nothing"
 	},
 	"noTemplates": {
-		"message": "هیچ قالبی در دسترس نیست لطفا یک قالب در تنظیمات اضافه کنید."
+		"message": "No templates available. Please add a template in the settings."
 	},
 	"noUnusedProperties": {
-		"message": "هیچ خصوصیت استفاده نشده ای یافت نشد."
+		"message": "No unused properties found."
 	},
 	"noteContent": {
-		"message": "محتوای یادداشت"
+		"message": "Note content"
 	},
 	"noteContentDescription": {
-		"message": "محتوای یادداشت را ویرایش کنید. از متغیرها برای پرکردن صحفه از اینترنت استفاده کنید."
+		"message": "Customize the content of the note. Use variables to pre-populate data from the page."
 	},
 	"noteLocation": {
-		"message": "مکان یادداشت"
+		"message": "Note location"
 	},
 	"noteLocationDescription": {
-		"message": "پوشه یا مسیر یادداشت."
+		"message": "The folder or path of the note."
 	},
 	"noteName": {
-		"message": "نام یادداشت"
+		"message": "Note name"
 	},
 	"noteNameFormat": {
-		"message": "نام یادداشت"
+		"message": "Note name"
 	},
 	"noteNameFormatDescription": {
-		"message": "فرمت نام فایل یادداشت. می‌توانید از متغیرهایی مانند {{title}}، {{date}} و {{published}} برای پر کردن داده‌های صفحه از قبل استفاده کنید. $link_start$بیشتر بیاموزید$link_end$.",
+		"message": "Format for the file name of the note. You can use variables like {{title}}, {{date}}, and {{published}} to pre-populate data from the page. $link_start$Learn more$link_end$.",
 		"placeholders": {
 			"link_end": {
 				"content": "</a>"
@@ -514,223 +514,223 @@
 		}
 	},
 	"notesAboutPage": {
-		"message": "یادداشت‌هایی در مورد این صفحه ..."
+		"message": "Notes about this page..."
 	},
 	"onlyHttpSupported": {
-		"message": "این صفحه را نمی توان کلیپ داد. فقط آدرس های http و https پشتیبانی می شوند."
+		"message": "This page cannot be clipped. Only http and https URLs are supported."
 	},
 	"open": {
-		"message": "باز کردن"
+		"message": "Open"
 	},
 	"openBehaviorDescription": {
-		"message": "انتخاب کنید که وب کلیپر به طور پیش فرض چگونه باز می شود."
+		"message": "Choose how Web Clipper opens by default."
 	},
 	"openBehaviorTitle": {
-		"message": "رفتار باز کردن"
+		"message": "Open behavior"
 	},
 	"openEmbedded": {
-		"message": "باز کردن در صفحه"
+		"message": "Open in page"
 	},
 	"openSidePanel": {
-		"message": "باز کردن پنل کناری"
+		"message": "Open side panel"
 	},
 	"optional": {
-		"message": "(اختیاری)"
+		"message": "(optional)"
 	},
 	"orPasteBelow": {
-		"message": "یا محتوا را در زیر بچسبانید"
+		"message": "Or paste content below"
 	},
 	"overwriteNote": {
-		"message": "یادداشت را بازنویسی کن"
+		"message": "Overwrite note"
 	},
 	"pageCannotBeClipped": {
-		"message": "این صفحه را نمی توان کلیپ داد."
+		"message": "This page cannot be clipped."
 	},
 	"pageVariables": {
-		"message": "متغیرهای صفحه"
+		"message": "Page variables"
 	},
 	"pagesSaved": {
-		"message": "صفحه ذخیره شد"
+		"message": "page saved"
 	},
 	"pagesSavedPlural": {
-		"message": "صفحات ذخیره شدند"
+		"message": "pages saved"
 	},
 	"pasteJsonHere": {
-		"message": "JSON را اینجا بچسبانید"
+		"message": "Paste JSON here"
 	},
 	"pleaseReload": {
-		"message": "لطفاً صفحه را دوباره بارگیری کنید."
+		"message": "Please try reloading the page."
 	},
 	"popularModels": {
-		"message": "مدل‌های محبوب"
+		"message": "Popular models"
 	},
 	"popularModelsDescription": {
-		"message": "از مدل‌هایی که بیشتر استفاده می‌شوند انتخاب کنید یا جزئیات مدل سفارشی را وارد کنید."
+		"message": "Choose from commonly used models or enter custom model details."
 	},
 	"popup": {
-		"message": "پاپ آپ"
+		"message": "Popup"
 	},
 	"prependToDaily": {
-		"message": "به یادداشت روزانه، از اول اضافه کنید"
+		"message": "Add to daily note, at the top"
 	},
 	"prependToExisting": {
-		"message": "به یادداشت موجود، از اول اضافه کنید"
+		"message": "Add to an existing note, at the top"
 	},
 	"preview": {
-		"message": "پیش‌نمایش"
+		"message": "Preview"
 	},
 	"processing": {
-		"message": "در حال پردازش"
+		"message": "processing"
 	},
 	"properties": {
-		"message": "خواص"
+		"message": "Properties"
 	},
 	"propertiesSettings": {
-		"message": "خواص"
+		"message": "Properties"
 	},
 	"propertyName": {
-		"message": "نام خاص"
+		"message": "Property name"
 	},
 	"propertyTypeCheckbox": {
-		"message": "چک‌باکس"
+		"message": "Checkbox"
 	},
 	"propertyTypeDate": {
-		"message": "تاریخ"
+		"message": "Date"
 	},
 	"propertyTypeDatetime": {
-		"message": "تاریخ و زمان"
+		"message": "Date & time"
 	},
 	"propertyTypeMultitext": {
-		"message": "لیست"
+		"message": "List"
 	},
 	"propertyTypeNumber": {
-		"message": "عدد"
+		"message": "Number"
 	},
 	"propertyTypeText": {
-		"message": "متن"
+		"message": "Text"
 	},
 	"propertyValue": {
-		"message": "مقدار خاص"
+		"message": "Property value"
 	},
 	"provider": {
-		"message": "ارائه دهنده"
+		"message": "Provider"
 	},
 	"providerApiKey": {
-		"message": "کلید API"
+		"message": "API key"
 	},
 	"providerApiKeyDescription": {
-		"message": "کلید API شما برای این ارائه دهنده."
+		"message": "Your API key for this provider."
 	},
 	"providerBaseUrl": {
-		"message": "URL پایه"
+		"message": "Base URL"
 	},
 	"providerBaseUrlDescription": {
-		"message": "URL نقطه پایانی API برای این ارائه دهنده."
+		"message": "The API endpoint URL for this provider."
 	},
 	"providerModelId": {
-		"message": "شناسه مدل"
+		"message": "Model ID"
 	},
 	"providerModelIdDescription": {
-		"message": "شناسه مدل از ارائه‌دهنده شما. معمولاً یک نام کوتاه بدون فاصله است."
+		"message": "The identifier of the model from your provider. Typically a short name without spaces."
 	},
 	"providerModelIdPlaceholder": {
-		"message": "شناسه مدل"
+		"message": "Model ID"
 	},
 	"providerName": {
-		"message": "نام ارائه دهنده"
+		"message": "Provider name"
 	},
 	"providerNameDescription": {
-		"message": "نام نمایش داده شده برای این ارائه دهنده."
+		"message": "Display name for this provider."
 	},
 	"providerPreset": {
-		"message": "پیش تنظیم شده"
+		"message": "Preset"
 	},
 	"providerPresetDescription": {
-		"message": "یک ارائه دهنده انتخاب کنید یا یکی سفارشی ایجاد کنید."
+		"message": "Choose a provider or create a custom one."
 	},
 	"providerRequiredFields": {
-		"message": "نام ارائه دهنده و URL پایه الزامی است."
+		"message": "Provider name and Base URL are required."
 	},
 	"providers": {
-		"message": "ارائه‌دهندگان"
+		"message": "Providers"
 	},
 	"rateExtensionDescription": {
-		"message": "آیا از وب کلیپر لذت می برید؟ با ارزیابی آن به ما کمک کنید."
+		"message": "Are you enjoying Web Clipper? Help us by giving it a rating."
 	},
 	"reader": {
-		"message": "خواننده"
+		"message": "Reader"
 	},
 	"readerAppearance": {
-		"message": "ظاهر"
+		"message": "Appearance"
 	},
 	"readerAppearanceAuto": {
-		"message": "خودکار"
+		"message": "Auto"
 	},
 	"readerAppearanceDark": {
-		"message": "تیره"
+		"message": "Dark"
 	},
 	"readerAppearanceDescription": {
-		"message": "ظاهر روشن یا تیره را انتخاب کنید."
+		"message": "Choose light or dark appearance."
 	},
 	"readerAppearanceLight": {
-		"message": "روشن"
+		"message": "Light"
 	},
 	"readerBlendImages": {
-		"message": "ترکیب تصاویر"
+		"message": "Blend images"
 	},
 	"readerBlendImagesDescription": {
-		"message": "تصاویر را با پس‌زمینهٔ صفحه ترکیب کنید."
+		"message": "Blend images with the page background."
 	},
 	"readerCloseImageViewer": {
-		"message": "بستن نمایشگر تصویر"
+		"message": "Close image viewer"
 	},
 	"readerCollapseComment": {
-		"message": "جمع کردن نظر"
+		"message": "Collapse comment"
 	},
 	"readerColorLinks": {
-		"message": "رنگی کردن پیوندها"
+		"message": "Color links"
 	},
 	"readerColorSchemeDefault": {
-		"message": "پیش‌فرض"
+		"message": "Default"
 	},
 	"readerCustomCss": {
-		"message": "CSS سفارشی"
+		"message": "Custom CSS"
 	},
 	"readerCustomCssDescription": {
-		"message": "CSS که به‌طور خودکار در نمای خواندن اعمال می‌شود."
+		"message": "CSS applied automatically in reading view."
 	},
 	"readerDarkTheme": {
-		"message": "پوستهٔ حالت تیره"
+		"message": "Dark mode theme"
 	},
 	"readerDarkThemeDescription": {
-		"message": "در حالت تیره از پوستهٔ دیگری استفاده کنید."
+		"message": "Use a different theme in dark mode."
 	},
 	"readerError": {
-		"message": "استخراج محتوا ناموفق بود."
+		"message": "Failed to extract content."
 	},
 	"readerFont": {
-		"message": "گزینه‌های فونت"
+		"message": "Font options"
 	},
 	"readerFontDefault": {
-		"message": "پیش‌فرض"
+		"message": "Default"
 	},
 	"readerFontDescription": {
-		"message": "فونت‌های نصب‌شده روی سیستم خود را اضافه کنید. برای افزودن فونت، Enter را بزنید."
+		"message": "Add fonts installed on your system. Press enter to add a font."
 	},
 	"readerFontNotFound": {
-		"message": "یافت نشد"
+		"message": "Not found"
 	},
 	"readerFontPlaceholder": {
-		"message": "برای افزودن فونت، Enter را بزنید"
+		"message": "Press enter to add a font"
 	},
 	"readerFontSetDefault": {
-		"message": "تنظیم به‌عنوان پیش‌فرض"
+		"message": "Set default"
 	},
 	"readerFontSize": {
-		"message": "اندازهٔ پایهٔ فونت"
+		"message": "Base font size"
 	},
 	"readerFontSystem": {
-		"message": "سیستم"
+		"message": "System"
 	},
 	"readerFontSystemSans": {
 		"message": "Sans-serif"
@@ -739,217 +739,217 @@
 		"message": "Serif"
 	},
 	"readerFonts": {
-		"message": "فونت‌ها"
+		"message": "Fonts"
 	},
 	"readerFootnotes": {
-		"message": "پانویس‌ها"
+		"message": "Footnotes"
 	},
 	"readerImages": {
-		"message": "تصاویر"
+		"message": "Images"
 	},
 	"readerLineHeight": {
-		"message": "ارتفاع خط"
+		"message": "Line height"
 	},
 	"readerLineWidth": {
-		"message": "عرض خط"
+		"message": "Line width"
 	},
 	"readerLoading": {
-		"message": "در حال ساده‌سازی…"
+		"message": "Defuddling…"
 	},
 	"readerSettings": {
-		"message": "تنظیمات خواننده"
+		"message": "Reader settings"
 	},
 	"readerTheme": {
-		"message": "پوسته"
+		"message": "Theme"
 	},
 	"readerThemeDescription": {
-		"message": "رنگ‌های استفاده‌شده در نمای خواندن را انتخاب کنید."
+		"message": "Choose the colors used in reading view."
 	},
 	"readerThemeSection": {
-		"message": "پوسته"
+		"message": "Theme"
 	},
 	"readerTypography": {
-		"message": "تایپوگرافی"
+		"message": "Typography"
 	},
 	"readerViewFullSize": {
-		"message": "نمایش در اندازهٔ کامل"
+		"message": "View full size"
 	},
 	"recommended": {
-		"message": "توصیه شده"
+		"message": "recommended"
 	},
 	"refresh": {
-		"message": "ریفرش"
+		"message": "Refresh"
 	},
 	"remove": {
-		"message": "حذف"
+		"message": "Remove"
 	},
 	"removeProperty": {
-		"message": "حذف خاص"
+		"message": "Remove property"
 	},
 	"removeUnusedProperties": {
-		"message": "حذف خواصی که استفاده نشدند"
+		"message": "Remove unused properties"
 	},
 	"removeUnusedPropertiesDescription": {
-		"message": "حذف تمام خواصی که در هیچ قالبی استفاده نشده‌اند"
+		"message": "Remove all properties that are not used in any template."
 	},
 	"removeVault": {
-		"message": "حذف خزانه"
+		"message": "Remove vault"
 	},
 	"replaceContent": {
-		"message": "محتوای صفحه را جایگزین کن"
+		"message": "Replace the page content"
 	},
 	"reset": {
-		"message": "بازنشانی کن"
+		"message": "Reset"
 	},
 	"resetDefaultTemplate": {
-		"message": "بازنشانی قالب پیش فرض"
+		"message": "Reset default template"
 	},
 	"resetDefaultTemplateDescription": {
-		"message": "هر تغییری که در قالب پیش فرض ایجاد کرده اید را حذف کن"
+		"message": "Remove any changes you've made to the default template."
 	},
 	"resetProvidersAndModels": {
-		"message": "تنظیم مجدد مدل های پیش فرض"
+		"message": "Reset default models"
 	},
 	"resetProvidersAndModelsDescription": {
-		"message": "ارائه دهندگان و مدل ها را به تنظیمات پیش فرض تنظیم مجدد کنید."
+		"message": "Reset providers and models to the default settings."
 	},
 	"save": {
-		"message": "ذخیره"
+		"message": "Save"
 	},
 	"saveBehaviorDescription": {
-		"message": "گزینه پیش فرض برای ذخیره صفحات را انتخاب کنید. گزینه های جایگزین در منوی کشویی کنار دکمه اصلی ظاهر می شوند."
+		"message": "Choose the default option for saving pages. Alternate options appear in the dropdown menu next to the main button."
 	},
 	"saveBehaviorLabel": {
-		"message": "رفتار ذخیره سازی"
+		"message": "Save behavior"
 	},
 	"saveFile": {
-		"message": "ذخیره فایل..."
+		"message": "Save file..."
 	},
 	"searchVariables": {
-		"message": "جستجوی متغیرها..."
+		"message": "Search variables..."
 	},
 	"selectProvider": {
-		"message": "یک ارائه دهنده انتخاب کنید"
+		"message": "Select a provider"
 	},
 	"selectTemplateToExport": {
-		"message": "لطفا یک قالب برای خروجی گرفتن انتخاب کنید."
+		"message": "Please select a template to export."
 	},
 	"settings": {
-		"message": "تنظیمات"
+		"message": "Settings"
 	},
 	"settingsHeading": {
-		"message": "تنظیمات"
+		"message": "Settings"
 	},
 	"settingsImportSuccess": {
-		"message": "تمام تنظیمات با موفقیت وارد شدند. لطفا صفحه را برای دیدن تغییرات تازه کنید."
+		"message": "All settings imported successfully. Please refresh the page to see the changes."
 	},
 	"share": {
-		"message": " اشتراک ..."
+		"message": "Share..."
 	},
 	"shortcutInstructionsBrave": {
-		"message": "برای تغییر کلیدهای میان‌بر به $1 بروید"
+		"message": "To change key assignments, go to $1"
 	},
 	"shortcutInstructionsChrome": {
-		"message": "برای تغییر کلیدهای میان‌بر به $1 بروید"
+		"message": "To change key assignments, go to $1"
 	},
 	"shortcutInstructionsDefault": {
-		"message": "برای تغییر کلیدهای میان‌بر، لطفاً به تنظیمات افزونه مرورگر خود مراجعه کنید."
+		"message": "To change key assignments, please refer to your browser's extension settings."
 	},
 	"shortcutInstructionsEdge": {
-		"message": "برای تغییر کلیدهای میان‌بر به $1 بروید"
+		"message": "To change key assignments, go to $1"
 	},
 	"shortcutInstructionsFirefox": {
-		"message": "برای تغییر کلیدهای میان‌بر، به $1 بروید، روی نماد چرخ دنده کلیک کنید و \"Manage Extension Shortcuts\" را انتخاب کنید."
+		"message": "To change key assignments, go to $1, click the gear icon, and select \"Manage Extension Shortcuts\"."
 	},
 	"shortcutInstructionsIntro": {
-		"message": "میانبرهای کلیدی به شما امکان دسترسی سریع به ویژگی های کلیپر می دهد."
+		"message": "Keyboard shortcuts give you quick access to clipper features."
 	},
 	"shortcutInstructionsSafari": {
-		"message": "میانبرهای صفحه کلید در Safari قابل تنظیم نیستند."
+		"message": "Keyboard shortcuts are not customizable on Safari."
 	},
 	"shortcutNotSet": {
-		"message": "تنظیم نشده است"
+		"message": "Not set"
 	},
 	"showActionsButton": {
-		"message": "دکمه نمایش اقدامات"
+		"message": "Show actions button"
 	},
 	"showActionsDescription": {
-		"message": "به شما امکان می دهد تا متغیرهای صفحه را از منوی کلیپر بررسی کنید. برای دیدن متغیرهایی که برای استفاده در قالب ها در دسترس هستند مفید است."
+		"message": "Allows you to inspect page variables from the clipper menu. Useful for seeing the variables that are available to use in templates."
 	},
 	"showPageVariables": {
-		"message": "نمایش متغیرهای صفحه"
+		"message": "Show page variables"
 	},
 	"silentOpen": {
-		"message": "یادداشت بریده شده را بدون باز کردن آن ذخیره کنید"
+		"message": "Save clipped note without opening it"
 	},
 	"silentOpenDescription": {
-		"message": "یادداشت های بریده شده ذخیره می شوند اما به عنوان یک برگه جدید باز نمی شوند. ابسیدین همچنان در پیش زمینه قرار خواهد گرفت."
+		"message": "Clipped notes will be saved but will not open as a new tab. Obsidian will still be brought to the foreground."
 	},
 	"specificNoteName": {
-		"message": "نام یادداشت خاص"
+		"message": "Specific note name"
 	},
 	"systemDefault": {
-		"message": "سیستم"
+		"message": "System"
 	},
 	"template": {
-		"message": "قالب"
+		"message": "Template"
 	},
 	"templateCopied": {
-		"message": "قالب JSON به کلیپ بورد کپی شد"
+		"message": "Copied template JSON to clipboard"
 	},
 	"templateCopyError": {
-		"message": "کپی کردن قالب JSON به کلیپ بورد با شکست مواجه شد"
+		"message": "Failed to copy template JSON to clipboard"
 	},
 	"templateErrorCount": {
-		"message": "یک خطا در قالب شما وجود دارد."
+		"message": "There is an error in your template."
 	},
 	"templateErrorsCount": {
-		"message": "$1 خطا در قالب شما وجود دارد."
+		"message": "There are $1 errors in your template."
 	},
 	"templateGroupContent": {
-		"message": "محتوا"
+		"message": "Content"
 	},
 	"templateGroupLocation": {
-		"message": "مکان"
+		"message": "Location"
 	},
 	"templateName": {
-		"message": "نام قالب"
+		"message": "Template name"
 	},
 	"templateProperties": {
-		"message": "خواص"
+		"message": "Properties"
 	},
 	"templatePropertiesDescription": {
-		"message": "خواص که برای افزودن به بالای یادداشت بریده شده. از متغیرها برای از پیش پر کردن داده ها از صفحه استفاده کنید."
+		"message": "Properties to add to the top of the clipped note. Use variables to pre-populate data from the page."
 	},
 	"templateTriggers": {
-		"message": "محرک های قالب"
+		"message": "Template triggers"
 	},
 	"templateTriggersDescription": {
-		"message": "قوانینی را تعریف کنید که وقتی URL با آن مطابق باشد این قالب انتخاب شود. فقط یک قانون در هر خط."
+		"message": "Define rules to automatically select this template if it matches a URL pattern or contains schema.org data. One rule per line."
 	},
 	"templateValid": {
-		"message": "نحو قالب معتبر است"
+		"message": "Template syntax is valid"
 	},
 	"templatesHeading": {
-		"message": "قالب‌ها"
+		"message": "Templates"
 	},
 	"thinking": {
-		"message": "در حال فکر کردن"
+		"message": "thinking"
 	},
 	"unknownProvider": {
-		"message": "ارائه دهنده ناشناخته"
+		"message": "Unknown provider"
 	},
 	"updateAvailable": {
-		"message": "به‌روزرسانی جدید در دسترس است."
+		"message": "An update is available."
 	},
 	"usingLatestVersion": {
-		"message": "شما از آخرین نسخه استفاده می‌کنید."
+		"message": "You are using the latest version."
 	},
 	"vault": {
-		"message": "خزانه"
+		"message": "Vault"
 	},
 	"vaultDescription": {
-		"message": "Sخزانه پیش فرض را برای این قالب انتخاب کنید. برای افزودن یا حذف خزانه‌ها به $link_start$تنظیمات عمومی$link_end$ بروید.",
+		"message": "Select the default vault for this template. Go to $link_start$general settings$link_end$ to add or remove vaults.",
 		"placeholders": {
 			"link_end": {
 				"content": "</a>"
@@ -960,10 +960,10 @@
 		}
 	},
 	"vaults": {
-		"message": "خزانه‌ها"
+		"message": "Vaults"
 	},
 	"vaultsDescription": {
-		"message": "به طور پیش‌فرض، یادداشت‌های بریده شده در خزانه باز فعلی ذخیره می‌شوند. اگر می‌خواهید گزینه ذخیره در خزانه‌های مختلف را داشته باشید، می‌توانید خزانه‌ها را در اینجا اضافه کنید. نام خزانه باید دقیقاً با نام خزانه ابسیدین مطابقت داشته باشد. برای افزودن خزانه، $strong_start$enter$strong_end$ را فشار دهید.",
+		"message": "By default, clipped notes are saved to the currently open vault. You can add vaults here if you want the option to save to different vaults. Vault names must exactly match the name of the Obsidian vault. Press $strong_start$enter$strong_end$ to add a vault.",
 		"placeholders": {
 			"strong_end": {
 				"content": "</strong>"
@@ -974,6 +974,6 @@
 		}
 	},
 	"version": {
-		"message": "نسخه"
+		"message": "Version"
 	}
 }
