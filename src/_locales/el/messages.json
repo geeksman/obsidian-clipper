@@ -1,99 +1,99 @@
 {
 	"activity": {
-		"message": "Δραστηριότητα"
+		"message": "Activity"
 	},
 	"addModel": {
-		"message": "+ Προσθήκη μοντέλου"
+		"message": "+ Add model"
 	},
 	"addModelTitle": {
-		"message": "Προσθήκη μοντέλου"
+		"message": "Add model"
 	},
 	"addProperty": {
-		"message": "+ Προσθήκη ιδιότητας"
+		"message": "+ Add property"
 	},
 	"addProvider": {
-		"message": "+ Προσθήκη παρόχου"
+		"message": "+ Add provider"
 	},
 	"addProviderTitle": {
-		"message": "Προσθήκη παρόχου"
+		"message": "Add provider"
 	},
 	"addToObsidian": {
-		"message": "Προσθήκη στο Obsidian"
+		"message": "Add to Obsidian"
 	},
 	"addVaultPlaceholder": {
-		"message": "Πατήστε Enter για προσθήκη θησαυροφυλακίου"
+		"message": "Press enter to add a vault"
 	},
 	"advanced": {
-		"message": "Προχωρημένα"
+		"message": "Advanced"
 	},
 	"allProperties": {
-		"message": "Όλες οι ιδιότητες"
+		"message": "All properties"
 	},
 	"allTime": {
-		"message": "Όλος ο χρόνος"
+		"message": "All time"
 	},
 	"alwaysShowHighlights": {
-		"message": "Εμφάνιση επισημάνσεων πάντα"
+		"message": "Always show highlights"
 	},
 	"alwaysShowHighlightsDescription": {
-		"message": "Εμφάνιση αποθηκευμένων επισημάνσεων κατά τη φόρτωση της σελίδας. Απενεργοποιήστε για εμφάνιση επισημάνσεων μόνο όταν είναι ενεργή η λειτουργία επισήμανσης."
+		"message": "Display your saved highlights when you load a page. Turn off to only display highlights when highlighter mode is activated."
 	},
 	"apiKeyMissing": {
-		"message": "Λείπει το κλειδί API"
+		"message": "No API key"
 	},
 	"apiKeysWarning": {
-		"message": "Χρησιμοποιώντας έναν εξωτερικό πάροχο, αποδέχεστε τους όρους χρήσης και την πολιτική απορρήτου τους. Τα αιτήματα διερμηνέα αποστέλλονται απευθείας στον επιλεγμένο πάροχό σας. Το Obsidian δεν συλλέγει ούτε αποθηκεύει πληροφορίες για τα αιτήματά σας."
+		"message": "By using an external provider you agree to their terms and privacy policy. Interpreter requests are sent directly to the provider you choose. Obsidian does not gather or store any data about your requests."
 	},
 	"appendToDaily": {
-		"message": "Προσθήκη στην ημερήσια σημείωση, στο τέλος"
+		"message": "Add to daily note, at the bottom"
 	},
 	"appendToExisting": {
-		"message": "Προσθήκη σε υπάρχουσα σημείωση, στο τέλος"
+		"message": "Add to an existing note, at the bottom"
 	},
 	"autoRunInterpreter": {
-		"message": "Αυτόματη εκτέλεση"
+		"message": "Automatically run"
 	},
 	"autoRunInterpreterDescription": {
-		"message": "Εκτελεί αμέσως τις μεταβλητές προτροπής εάν υπάρχουν στο πρότυπο. Καταναλώνει μονάδες API από τον πάροχο του μοντέλου σας. Απενεργοποιήστε εάν θέλετε να εκτελείτε τον διερμηνέα μόνο χειροκίνητα."
+		"message": "Run prompt variables immediately if the template contains any. This will consume API credits with your model provider. Turn off if you only want to run interpreter manually."
 	},
 	"behavior": {
-		"message": "Συμπεριφορά"
+		"message": "Behavior"
 	},
 	"byDay": {
-		"message": "Ημέρα"
+		"message": "Days"
 	},
 	"byMonth": {
-		"message": "Μήνας"
+		"message": "Months"
 	},
 	"byWeek": {
-		"message": "Εβδομάδα"
+		"message": "Weeks"
 	},
 	"cancel": {
-		"message": "Ακύρωση"
+		"message": "Cancel"
 	},
 	"cannotDeleteProvider": {
-		"message": "Δεν είναι δυνατή η διαγραφή του παρόχου \"$1\" επειδή χρησιμοποιείται από $2 μοντέλα."
+		"message": "Cannot delete provider \"$1\" because it is being used by $2 model(s)."
 	},
 	"changelog": {
-		"message": "Αρχείο αλλαγών"
+		"message": "Changelog"
 	},
 	"chooseFile": {
-		"message": "Επιλογή αρχείου"
+		"message": "Choose a file"
 	},
 	"choosePropertiesFile": {
-		"message": "Επιλογή αρχείου ιδιοτήτων"
+		"message": "Choose properties file"
 	},
 	"chooseSettingsFile": {
-		"message": "Επιλογή αρχείου ρυθμίσεων"
+		"message": "Choose settings file"
 	},
 	"chooseTemplateFile": {
-		"message": "Επιλογή αρχείου προτύπου"
+		"message": "Choose template file"
 	},
 	"clipBehavior": {
-		"message": "Συμπεριφορά αποκοπής"
+		"message": "Clip behavior"
 	},
 	"clipBehaviorDescription": {
-		"message": "Επιλέξτε πώς θα αποθηκευτεί το επιλεγμένο περιεχόμενο στο Obsidian. Ορίζει τη μεταβλητή $strong_start${{content}}$strong_end$",
+		"message": "Choose how highlighted content is saved to Obsidian. Defines the $strong_start${{content}}$strong_end$ variable.",
 		"placeholders": {
 			"strong_end": {
 				"content": "</strong>"
@@ -104,7 +104,7 @@
 		}
 	},
 	"clipboardError": {
-		"message": "Το Obsidian δεν μπορεί να αποκτήσει πρόσβαση στο πρόχειρό σας. Δοκιμάστε τις οδηγίες αντιμετώπισης προβλημάτων εδώ: $1",
+		"message": "Obsidian is not able to access your clipboard. Try the troubleshooting instructions here: $1",
 		"placeholders": {
 			"1": {
 				"content": "$1"
@@ -112,79 +112,79 @@
 		}
 	},
 	"close": {
-		"message": "Κλείσιμο"
+		"message": "Close"
 	},
 	"commandOpenClipper": {
-		"message": "Άνοιγμα Obsidian Clipper"
+		"message": "Open Obsidian Clipper"
 	},
 	"commandQuickClip": {
-		"message": "Γρήγορη αποκοπή"
+		"message": "Quick clip"
 	},
 	"commandToggleHighlighter": {
-		"message": "Εναλλαγή επισημαντή"
+		"message": "Toggle highlighter"
 	},
 	"commandToggleReader": {
-		"message": "Εναλλαγή προβολής ανάγνωσης"
+		"message": "Toggle reader"
 	},
 	"confirmDeleteTemplate": {
-		"message": "Είστε βέβαιοι ότι θέλετε να διαγράψετε το πρότυπο \"$1\";"
+		"message": "Are you sure you want to delete the template \"$1\"?"
 	},
 	"confirmReplaceSettings": {
-		"message": "Αυτή η ενέργεια θα αντικαταστήσει όλες τις τρέχουσες ρυθμίσεις σας, συμπεριλαμβανομένων των προτύπων και των ιδιοτήτων. Είστε βέβαιοι ότι θέλετε να συνεχίσετε;"
+		"message": "This will replace all your current settings, including templates and properties. Are you sure you want to continue?"
 	},
 	"copied": {
-		"message": "Αντιγράφηκε!"
+		"message": "Copied!"
 	},
 	"copyAsJson": {
-		"message": "Αντιγραφή ως JSON"
+		"message": "Copy as JSON"
 	},
 	"copyToClipboard": {
-		"message": "Αντιγραφή στο πρόχειρο"
+		"message": "Copy to clipboard"
 	},
 	"createNewNote": {
-		"message": "Δημιουργία νέας σημείωσης"
+		"message": "Create new note"
 	},
 	"custom": {
-		"message": "Προσαρμοσμένο"
+		"message": "Custom"
 	},
 	"dailyNoteFormat": {
-		"message": "Μορφή ημερήσιας σημείωσης (π.χ. YYYY-MM-DD)"
+		"message": "Daily note format (e.g., YYYY-MM-DD)"
 	},
 	"defaultInterpreterContext": {
-		"message": "Προεπιλεγμένο πλαίσιο διερμηνέα"
+		"message": "Default interpreter context"
 	},
 	"defaultInterpreterContextDescription": {
-		"message": "Αντικαθιστά το πλαίσιο που χρησιμοποιείται για την ερμηνεία των μεταβλητών προτροπής. Μπορείτε να χρησιμοποιήσετε μεταβλητές εδώ."
+		"message": "Override the context used to interpret prompt variables. Variables can be used here."
 	},
 	"defaultTemplateName": {
-		"message": "Προεπιλογή"
+		"message": "Default"
 	},
 	"delete": {
-		"message": "Διαγραφή"
+		"message": "Delete"
 	},
 	"deleteModelConfirm": {
-		"message": "Είστε βέβαιοι ότι θέλετε να διαγράψετε αυτό το μοντέλο;"
+		"message": "Are you sure you want to delete this model?"
 	},
 	"deleteProviderConfirm": {
-		"message": "Είστε βέβαιοι ότι θέλετε να διαγράψετε αυτόν τον πάροχο;"
+		"message": "Are you sure you want to delete this provider?"
 	},
 	"disableHighlighter": {
-		"message": "Απενεργοποίηση επισημαντή"
+		"message": "Disable highlighter"
 	},
 	"disableReader": {
-		"message": "Απενεργοποίηση προβολής ανάγνωσης"
+		"message": "Disable reader"
 	},
 	"done": {
-		"message": "Ολοκληρώθηκε"
+		"message": "Done"
 	},
 	"dragAndDropFile": {
-		"message": "Σύρετε και αφήστε το αρχείο εδώ"
+		"message": "Drag and drop file here"
 	},
 	"duplicate": {
-		"message": "Αντίγραφο"
+		"message": "Duplicate"
 	},
 	"earlyAccessDescription": {
-		"message": "Χρησιμοποιήστε λειτουργίες που απαιτούν την πιο πρόσφατη $link_start$έκδοση πρώιμης πρόσβασης$link_end$ του Obsidian. Αυτή τη στιγμή απαιτείται Obsidian 1.7.2 ή νεότερη έκδοση.",
+		"message": "Use features that require the latest $link_start$early access version$link_end$ of Obsidian. Currently requires Obsidian 1.7.2 or later.",
 		"placeholders": {
 			"link_end": {
 				"content": "</a>"
@@ -195,31 +195,31 @@
 		}
 	},
 	"earlyAccessFeatures": {
-		"message": "Λειτουργίες πρώιμης πρόσβασης"
+		"message": "Early access features"
 	},
 	"editModel": {
-		"message": "Επεξεργασία μοντέλου"
+		"message": "Edit model"
 	},
 	"editProvider": {
-		"message": "Επεξεργασία παρόχου"
+		"message": "Edit provider"
 	},
 	"editTemplate": {
-		"message": "Επεξεργασία προτύπου"
+		"message": "Edit template"
 	},
 	"embedded": {
-		"message": "Ενσωματωμένο"
+		"message": "Embedded"
 	},
 	"enableHighlighter": {
-		"message": "Ενεργοποίηση επισημαντή"
+		"message": "Enable highlighter"
 	},
 	"enableHighlighterDescription": {
-		"message": "Επισημάνετε περιεχόμενο σε ιστοσελίδες που μπορείτε να αποθηκεύσετε στο Obsidian"
+		"message": "Highlight content on web pages that you can save to Obsidian."
 	},
 	"enableInterpreter": {
-		"message": "Ενεργοποίηση διερμηνέα"
+		"message": "Enable interpreter"
 	},
 	"enableInterpreterDescription": {
-		"message": "Χρησιμοποιήστε φυσική γλώσσα για την εξαγωγή πληροφοριών από σελίδες. Για παράδειγμα, μπορείτε να χρησιμοποιήσετε τη σύνταξη προτύπου $strong_start${{\"περίληψη αυτής της σελίδας\"}}$strong_end$. Απαιτεί κλειδί API ή διαμόρφωση προσαρμοσμένου μοντέλου παρακάτω. $link_start$Μάθετε περισσότερα$link_end$",
+		"message": "Use natural language to extract data from pages. For example, you can use the template syntax $strong_start${{\"a summary of the page\"}}$strong_end$. Requires an API key or custom model configured below.  $link_start$Learn more$link_end$.",
 		"placeholders": {
 			"link_end": {
 				"content": "</a>"
@@ -236,31 +236,31 @@
 		}
 	},
 	"enableReader": {
-		"message": "Άνοιγμα προβολής ανάγνωσης"
+		"message": "Open reading view"
 	},
 	"error": {
-		"message": "Σφάλμα"
+		"message": "Error"
 	},
 	"export": {
-		"message": "Εξαγωγή"
+		"message": "Export"
 	},
 	"exportAllSettings": {
-		"message": "Εξαγωγή όλων των ρυθμίσεων"
+		"message": "Export all settings"
 	},
 	"exportAllSettingsDescription": {
-		"message": "Εξαγωγή όλων των ρυθμίσεων συμπεριλαμβανομένων των προτύπων και των ιδιοτήτων"
+		"message": "Export all settings including templates and properties."
 	},
 	"exportHighlights": {
-		"message": "Εξαγωγή επισημάνσεων"
+		"message": "Export highlights"
 	},
 	"exportHighlightsDescription": {
-		"message": "Εξαγωγή των επισημάνσεών σας σε αρχείο"
+		"message": "Export your highlights to a file."
 	},
 	"exportProperties": {
-		"message": "Εξαγωγή ιδιοτήτων"
+		"message": "Export properties"
 	},
 	"exportPropertiesDescription": {
-		"message": "Αποθηκεύστε τις ιδιότητες του Web Clipper σε ένα αρχείο $strong_start$types.json$strong_end$ που μπορεί να εισαχθεί στο θησαυροφυλάκιο Obsidian σας ή στο Web Clipper σε άλλες συσκευές",
+		"message": "Save Web Clipper properties to a $strong_start$types.json$strong_end$ file that can be imported into your Obsidian vault, or into Web Clipper on other devices.",
 		"placeholders": {
 			"strong_end": {
 				"content": "</strong>"
@@ -271,121 +271,121 @@
 		}
 	},
 	"extensionDescription": {
-		"message": "Αποθηκεύστε περιεχόμενο από τον ιστό σε ιδιωτική και βιώσιμη μορφή στην οποία έχετε πρόσβαση εκτός σύνδεσης. Η επίσημη επέκταση περιηγητή για το Obsidian."
+		"message": "Save content from the web in a private and durable format that you can access offline. The official browser extension for Obsidian."
 	},
 	"extensionName": {
 		"message": "Obsidian Web Clipper"
 	},
 	"failedToCopyText": {
-		"message": "Αποτυχία αντιγραφής κειμένου"
+		"message": "Failed to copy text"
 	},
 	"failedToDeleteTemplate": {
-		"message": "Αποτυχία διαγραφής προτύπου. Παρακαλώ δοκιμάστε ξανά."
+		"message": "Failed to delete template. Please try again."
 	},
 	"failedToDuplicateTemplate": {
-		"message": "Αποτυχία δημιουργίας αντιγράφου προτύπου. Παρακαλώ δοκιμάστε ξανά."
+		"message": "Failed to duplicate template. Please try again."
 	},
 	"failedToExportHighlights": {
-		"message": "Αποτυχία εξαγωγής επισημάνσεων. Ελέγξτε την κονσόλα για περισσότερες λεπτομέρειες."
+		"message": "Failed to export highlights. Please check the console for more details."
 	},
 	"failedToExportSettings": {
-		"message": "Αποτυχία εξαγωγής ρυθμίσεων. Ελέγξτε την κονσόλα για περισσότερες λεπτομέρειες."
+		"message": "Failed to export settings. Please check the console for more details."
 	},
 	"failedToExtractContent": {
-		"message": "Αποτυχία εξαγωγής περιεχομένου σελίδας."
+		"message": "Unable to extract page content."
 	},
 	"failedToImportTemplate": {
-		"message": "Σφάλμα κατά την εισαγωγή προτύπου. Ελέγξτε το αρχείο και δοκιμάστε ξανά."
+		"message": "Error importing template. Please check the file and try again."
 	},
 	"failedToInitialize": {
-		"message": "Παρακαλώ δοκιμάστε να επαναφορτώσετε την επέκταση."
+		"message": "Please try reloading the extension."
 	},
 	"failedToInitializeContent": {
-		"message": "Αποτυχία αρχικοποίησης περιεχομένου σελίδας."
+		"message": "Unable to initialize page content."
 	},
 	"failedToProcessInterpreter": {
-		"message": "Αποτυχία επεξεργασίας διερμηνέα. Παρακαλώ δοκιμάστε ξανά."
+		"message": "Interpreter processing failed. Please try again."
 	},
 	"failedToResetProviders": {
-		"message": "Αποτυχία επαναφοράς παρόχων και μοντέλων"
+		"message": "Failed to reset providers and models"
 	},
 	"failedToResetTemplate": {
-		"message": "Αποτυχία επαναφοράς προεπιλεγμένου προτύπου. Παρακαλώ δοκιμάστε ξανά."
+		"message": "Failed to reset default template. Please try again."
 	},
 	"failedToSave": {
-		"message": "Αποτυχία αποθήκευσης αρχείου"
+		"message": "Failed to save file"
 	},
 	"failedToSaveFile": {
-		"message": "Αποτυχία αποθήκευσης αρχείου"
+		"message": "Failed to save file"
 	},
 	"failedToSaveProvider": {
-		"message": "Αποτυχία αποθήκευσης παρόχου. Παρακαλώ δοκιμάστε ξανά."
+		"message": "Failed to save provider. Please try again."
 	},
 	"feedback": {
-		"message": "Ανατροφοδότηση"
+		"message": "Feedback"
 	},
 	"feedbackDescription": {
-		"message": "Πώς μπορούμε να βελτιώσουμε το Web Clipper; Επισκεφθείτε τη σελίδα βοήθειάς μας όπου μπορείτε να αναφέρετε σφάλματα, να προτείνετε λειτουργίες και να λάβετε βοήθεια για κοινά προβλήματα."
+		"message": "How can we improve Web Clipper? Please visit our help page, where you can report bugs, suggest features, and get help with common issues."
 	},
 	"feedbackTitle": {
-		"message": "Ευχαριστούμε για την ανατροφοδότηση"
+		"message": "Thanks for your feedback"
 	},
 	"folder": {
-		"message": "Φάκελος"
+		"message": "Folder"
 	},
 	"general": {
-		"message": "Γενικά"
+		"message": "General"
 	},
 	"generalSettings": {
-		"message": "Γενικές ρυθμίσεις"
+		"message": "General settings"
 	},
 	"getApiKeyHere": {
-		"message": "Αποκτήστε το κλειδί API $1 σας εδώ"
+		"message": "Get your $1 API key here."
 	},
 	"help": {
-		"message": "Βοήθεια"
+		"message": "Help"
 	},
 	"helpDescription": {
-		"message": "Μάθετε πώς να χρησιμοποιείτε το Web Clipper και λάβετε βοήθεια για την αντιμετώπιση προβλημάτων"
+		"message": "Learn how to use Web Clipper and get help troubleshooting."
 	},
 	"highlightInline": {
-		"message": "Επισήμανση περιεχομένου σελίδας"
+		"message": "Highlight the page content"
 	},
 	"highlightPage": {
-		"message": "Επισήμανση σελίδας"
+		"message": "Highlight page"
 	},
 	"highlighter": {
-		"message": "Επισημαντής"
+		"message": "Highlighter"
 	},
 	"highlighterSettings": {
-		"message": "Επισημαντής"
+		"message": "Highlighter"
 	},
 	"history": {
-		"message": "Ιστορικό"
+		"message": "History"
 	},
 	"hotkeys": {
-		"message": "Συντομεύσεις πληκτρολογίου"
+		"message": "Hotkeys"
 	},
 	"import": {
-		"message": "Εισαγωγή"
+		"message": "Import"
 	},
 	"importAllSettings": {
-		"message": "Εισαγωγή όλων των ρυθμίσεων"
+		"message": "Import all settings"
 	},
 	"importAllSettingsDescription": {
-		"message": "Εισαγωγή όλων των ρυθμίσεων συμπεριλαμβανομένων των προτύπων και των ιδιοτήτων. Αυτό θα αντικαταστήσει την τρέχουσα διαμόρφωσή σας."
+		"message": "Import all settings including templates and properties. This will replace your current configuration."
 	},
 	"importFailed": {
-		"message": "Η εισαγωγή απέτυχε. Ελέγξτε την κονσόλα για περισσότερες πληροφορίες."
+		"message": "Import failed. Please check the console for more details."
 	},
 	"importModalTitle": {
-		"message": "Εισαγωγή"
+		"message": "Import"
 	},
 	"importProperties": {
-		"message": "Εισαγωγή ιδιοτήτων"
+		"message": "Import properties"
 	},
 	"importPropertiesDescription": {
-		"message": "Για να εισάγετε ιδιότητες από το Obsidian, βρείτε το αρχείο $strong_1_start$types.json$strong_1_end$ στο φάκελο $strong_2_start$.obsidian$strong_2_end$ του θησαυροφυλακίου σας. Σημειώστε ότι αυτός ο φάκελος είναι κρυφός από προεπιλογή στα περισσότερα λειτουργικά συστήματα.",
+		"message": "To import your properties from Obsidian, locate the $strong_1_start$types.json$strong_1_end$ file in the $strong_2_start$.obsidian$strong_2_end$ folder within your vault. Note this folder is hidden by default on most operating systems.",
 		"placeholders": {
 			"strong_1_end": {
 				"content": "</strong>"
@@ -402,22 +402,22 @@
 		}
 	},
 	"importSettings": {
-		"message": "Εισαγωγή ρυθμίσεων"
+		"message": "Import settings"
 	},
 	"importTemplate": {
-		"message": "Εισαγωγή προτύπου"
+		"message": "Import template"
 	},
 	"interpret": {
-		"message": "Ερμηνεία"
+		"message": "interpret"
 	},
 	"interpreter": {
-		"message": "Διερμηνέας"
+		"message": "Interpreter"
 	},
 	"interpreterContext": {
-		"message": "Πλαίσιο διερμηνέα"
+		"message": "Interpreter context"
 	},
 	"interpreterContextDescription": {
-		"message": "Πλαίσιο που χρησιμοποιείται για την ερμηνεία μεταβλητών προτροπής. Αντικαθιστά το προεπιλεγμένο πλαίσιο που ορίζεται στις $link_start$ρυθμίσεις διερμηνέα$link_end$. Μπορείτε να χρησιμοποιήσετε μεταβλητές εδώ.",
+		"message": "The context used to interpret prompt variables. Overrides the default context defined in $link_start$Interpreter settings$link_end$. Variables can be used here.",
 		"placeholders": {
 			"link_end": {
 				"content": "</a>"
@@ -428,301 +428,309 @@
 		}
 	},
 	"language": {
-		"message": "Γλώσσα"
+		"message": "Language"
 	},
 	"languageDescription": {
-		"message": "Επιλέξτε τη γλώσσα εμφάνισης για το περιβάλλον της επέκτασης."
+		"message": "Choose the display language for the extension interface."
 	},
 	"last30Days": {
-		"message": "Τελευταίες 30 ημέρες"
+		"message": "Last 30 days"
 	},
 	"lastUsed": {
-		"message": "Τελευταία χρήση"
+		"message": "Last used"
 	},
 	"legacyMode": {
-		"message": "Λειτουργία παλαιού τύπου"
+		"message": "Legacy mode"
 	},
 	"legacyModeDescription": {
-		"message": "Χρησιμοποιεί τη μέθοδο αποκοπής URI που είναι συμβατή με το Obsidian 1.6.7 ή παλαιότερο. Σημειώστε ότι το μέγεθος του περιεχομένου που μπορεί να αποκοπεί περιορίζεται από τον περιηγητή και το λειτουργικό σύστημα. Ορισμένες σελίδες ενδέχεται να αποτύχουν χωρίς μήνυμα σφάλματος."
+		"message": "Uses the URI clipping method compatible with Obsidian 1.6.7 or earlier. Note that the length of the content you can clip is limited by your browser and OS. Some pages may fail without any errors."
 	},
 	"modelName": {
-		"message": "Όνομα μοντέλου"
+		"message": "Display name"
 	},
 	"modelNameDescription": {
-		"message": "Το όνομα που εμφανίζεται στο αναπτυσσόμενο μενού μοντέλων"
+		"message": "The name of the model you want to display in the interface."
 	},
 	"modelProvider": {
-		"message": "Πάροχος"
+		"message": "Provider"
 	},
 	"modelProviderDescription": {
-		"message": "Επιλέξτε τον πάροχο για αυτό το μοντέλο."
+		"message": "Select the provider for this model."
 	},
 	"modelProviderPlaceholder": {
-		"message": "Πάροχος"
+		"message": "Provider"
 	},
 	"modelRequiredFields": {
-		"message": "Το όνομα μοντέλου, ο πάροχος και το αναγνωριστικό μοντέλου είναι υποχρεωτικά."
+		"message": "Model name, Provider, and Model ID are required."
 	},
 	"models": {
-		"message": "Μοντέλα"
+		"message": "Models"
 	},
 	"modelsListFor": {
-		"message": "Λίστα μοντέλων για $1"
+		"message": "Models list for $1"
 	},
 	"more": {
-		"message": "Περισσότερα"
+		"message": "More"
 	},
 	"newTemplate": {
-		"message": "Νέο πρότυπο"
+		"message": "New template"
 	},
 	"noHighlights": {
-		"message": "Καμία ενέργεια"
+		"message": "Do nothing"
 	},
 	"noTemplates": {
-		"message": "Δεν υπάρχουν διαθέσιμα πρότυπα. Παρακαλώ προσθέστε ένα πρότυπο στις ρυθμίσεις."
+		"message": "No templates available. Please add a template in the settings."
 	},
 	"noUnusedProperties": {
-		"message": "Δεν βρέθηκαν αχρησιμοποίητες ιδιότητες."
+		"message": "No unused properties found."
 	},
 	"noteContent": {
-		"message": "Περιεχόμενο σημείωσης"
+		"message": "Note content"
 	},
 	"noteContentDescription": {
-		"message": "Προσαρμόστε το περιεχόμενο της σημείωσης. Χρησιμοποιήστε μεταβλητές για να προσυμπληρώσετε δεδομένα από τη σελίδα."
+		"message": "Customize the content of the note. Use variables to pre-populate data from the page."
 	},
 	"noteLocation": {
-		"message": "Τοποθεσία σημείωσης"
+		"message": "Note location"
 	},
 	"noteLocationDescription": {
-		"message": "Ο φάκελος ή η διαδρομή της σημείωσης."
+		"message": "The folder or path of the note."
 	},
 	"noteName": {
-		"message": "Όνομα σημείωσης"
+		"message": "Note name"
 	},
 	"noteNameFormat": {
-		"message": "Μορφή ονόματος σημείωσης"
+		"message": "Note name"
 	},
 	"noteNameFormatDescription": {
-		"message": "Η μορφή του ονόματος της σημείωσης. Μπορείτε να χρησιμοποιήσετε μεταβλητές."
+		"message": "Format for the file name of the note. You can use variables like {{title}}, {{date}}, and {{published}} to pre-populate data from the page. $link_start$Learn more$link_end$.",
+		"placeholders": {
+			"link_end": {
+				"content": "</a>"
+			},
+			"link_start": {
+				"content": "<a href=\"https://help.obsidian.md/web-clipper/variables\" target=\"_blank\">"
+			}
+		}
 	},
 	"notesAboutPage": {
-		"message": "Σημειώσεις για αυτή τη σελίδα..."
+		"message": "Notes about this page..."
 	},
 	"onlyHttpSupported": {
-		"message": "Αυτή η σελίδα δεν μπορεί να αποκοπεί. Υποστηρίζονται μόνο διευθύνσεις URL http και https."
+		"message": "This page cannot be clipped. Only http and https URLs are supported."
 	},
 	"open": {
-		"message": "Άνοιγμα"
+		"message": "Open"
 	},
 	"openBehaviorDescription": {
-		"message": "Επιλέξτε πώς θα ανοίγει από προεπιλογή το Web Clipper."
+		"message": "Choose how Web Clipper opens by default."
 	},
 	"openBehaviorTitle": {
-		"message": "Συμπεριφορά ανοίγματος"
+		"message": "Open behavior"
 	},
 	"openEmbedded": {
-		"message": "Άνοιγμα στη σελίδα"
+		"message": "Open in page"
 	},
 	"openSidePanel": {
-		"message": "Άνοιγμα πλευρικού πίνακα"
+		"message": "Open side panel"
 	},
 	"optional": {
-		"message": "(προαιρετικό)"
+		"message": "(optional)"
 	},
 	"orPasteBelow": {
-		"message": "Ή επικολλήστε το περιεχόμενο παρακάτω"
+		"message": "Or paste content below"
 	},
 	"overwriteNote": {
-		"message": "Αντικατάσταση σημείωσης"
+		"message": "Overwrite note"
 	},
 	"pageCannotBeClipped": {
-		"message": "Αυτή η σελίδα δεν μπορεί να αποκοπεί."
+		"message": "This page cannot be clipped."
 	},
 	"pageVariables": {
-		"message": "Μεταβλητές σελίδας"
+		"message": "Page variables"
 	},
 	"pagesSaved": {
-		"message": "σελίδα αποθηκεύτηκε"
+		"message": "page saved"
 	},
 	"pagesSavedPlural": {
-		"message": "σελίδες αποθηκεύτηκαν"
+		"message": "pages saved"
 	},
 	"pasteJsonHere": {
-		"message": "Επικολλήστε το JSON εδώ"
+		"message": "Paste JSON here"
 	},
 	"pleaseReload": {
-		"message": "Παρακαλώ δοκιμάστε να επαναφορτώσετε τη σελίδα."
+		"message": "Please try reloading the page."
 	},
 	"popularModels": {
-		"message": "Δημοφιλή μοντέλα"
+		"message": "Popular models"
 	},
 	"popularModelsDescription": {
-		"message": "Επιλέξτε από συχνά χρησιμοποιούμενα μοντέλα ή εισάγετε λεπτομέρειες προσαρμοσμένου μοντέλου."
+		"message": "Choose from commonly used models or enter custom model details."
 	},
 	"popup": {
-		"message": "Αναδυόμενο παράθυρο"
+		"message": "Popup"
 	},
 	"prependToDaily": {
-		"message": "Προσθήκη στην αρχή της ημερήσιας σημείωσης"
+		"message": "Add to daily note, at the top"
 	},
 	"prependToExisting": {
-		"message": "Προσθήκη στην αρχή υπάρχουσας σημείωσης"
+		"message": "Add to an existing note, at the top"
 	},
 	"preview": {
-		"message": "Προεπισκόπηση"
+		"message": "Preview"
 	},
 	"processing": {
-		"message": "επεξεργασία"
+		"message": "processing"
 	},
 	"properties": {
-		"message": "Ιδιότητες"
+		"message": "Properties"
 	},
 	"propertiesSettings": {
-		"message": "Ιδιότητες"
+		"message": "Properties"
 	},
 	"propertyName": {
-		"message": "Όνομα ιδιότητας"
+		"message": "Property name"
 	},
 	"propertyTypeCheckbox": {
-		"message": "Πλαίσιο ελέγχου"
+		"message": "Checkbox"
 	},
 	"propertyTypeDate": {
-		"message": "Ημερομηνία"
+		"message": "Date"
 	},
 	"propertyTypeDatetime": {
-		"message": "Ημερομηνία & ώρα"
+		"message": "Date & time"
 	},
 	"propertyTypeMultitext": {
-		"message": "Λίστα"
+		"message": "List"
 	},
 	"propertyTypeNumber": {
-		"message": "Αριθμός"
+		"message": "Number"
 	},
 	"propertyTypeText": {
-		"message": "Κείμενο"
+		"message": "Text"
 	},
 	"propertyValue": {
-		"message": "Τιμή ιδιότητας"
+		"message": "Property value"
 	},
 	"provider": {
-		"message": "Πάροχος"
+		"message": "Provider"
 	},
 	"providerApiKey": {
-		"message": "Κλειδί API"
+		"message": "API key"
 	},
 	"providerApiKeyDescription": {
-		"message": "Το κλειδί API σας για αυτόν τον πάροχο."
+		"message": "Your API key for this provider."
 	},
 	"providerBaseUrl": {
-		"message": "Βασική διεύθυνση URL"
+		"message": "Base URL"
 	},
 	"providerBaseUrlDescription": {
-		"message": "Η διεύθυνση URL του τελικού σημείου API για αυτόν τον πάροχο."
+		"message": "The API endpoint URL for this provider."
 	},
 	"providerModelId": {
-		"message": "Αναγνωριστικό μοντέλου"
+		"message": "Model ID"
 	},
 	"providerModelIdDescription": {
-		"message": "Το αναγνωριστικό του μοντέλου από τον πάροχό σας. Συνήθως ένα σύντομο όνομα χωρίς κενά."
+		"message": "The identifier of the model from your provider. Typically a short name without spaces."
 	},
 	"providerModelIdPlaceholder": {
-		"message": "Αναγνωριστικό μοντέλου"
+		"message": "Model ID"
 	},
 	"providerName": {
-		"message": "Όνομα παρόχου"
+		"message": "Provider name"
 	},
 	"providerNameDescription": {
-		"message": "Το εμφανιζόμενο όνομα αυτού του παρόχου."
+		"message": "Display name for this provider."
 	},
 	"providerPreset": {
-		"message": "Προεπιλογή"
+		"message": "Preset"
 	},
 	"providerPresetDescription": {
-		"message": "Επιλέξτε έναν πάροχο ή δημιουργήστε έναν προσαρμοσμένο."
+		"message": "Choose a provider or create a custom one."
 	},
 	"providerRequiredFields": {
-		"message": "Το όνομα παρόχου και η βασική διεύθυνση URL είναι υποχρεωτικά."
+		"message": "Provider name and Base URL are required."
 	},
 	"providers": {
-		"message": "Πάροχοι"
+		"message": "Providers"
 	},
 	"rateExtensionDescription": {
-		"message": "Σας αρέσει το Web Clipper; Βοηθήστε μας δίνοντάς του μια αξιολόγηση."
+		"message": "Are you enjoying Web Clipper? Help us by giving it a rating."
 	},
 	"reader": {
-		"message": "Αναγνώστης"
+		"message": "Reader"
 	},
 	"readerAppearance": {
-		"message": "Εμφάνιση"
+		"message": "Appearance"
 	},
 	"readerAppearanceAuto": {
-		"message": "Αυτόματο"
+		"message": "Auto"
 	},
 	"readerAppearanceDark": {
-		"message": "Σκούρο"
+		"message": "Dark"
 	},
 	"readerAppearanceDescription": {
-		"message": "Επιλέξτε φωτεινή ή σκούρα εμφάνιση."
+		"message": "Choose light or dark appearance."
 	},
 	"readerAppearanceLight": {
-		"message": "Φωτεινό"
+		"message": "Light"
 	},
 	"readerBlendImages": {
-		"message": "Ανάμειξη εικόνων"
+		"message": "Blend images"
 	},
 	"readerBlendImagesDescription": {
-		"message": "Αναμείξτε τις εικόνες με το φόντο της σελίδας."
+		"message": "Blend images with the page background."
 	},
 	"readerCloseImageViewer": {
-		"message": "Κλείσιμο προβολέα εικόνων"
+		"message": "Close image viewer"
 	},
 	"readerCollapseComment": {
-		"message": "Σύμπτυξη σχολίου"
+		"message": "Collapse comment"
 	},
 	"readerColorLinks": {
-		"message": "Χρωματισμός συνδέσμων"
+		"message": "Color links"
 	},
 	"readerColorSchemeDefault": {
-		"message": "Προεπιλογή"
+		"message": "Default"
 	},
 	"readerCustomCss": {
-		"message": "Προσαρμοσμένο CSS"
+		"message": "Custom CSS"
 	},
 	"readerCustomCssDescription": {
-		"message": "CSS που εφαρμόζεται αυτόματα στην προβολή ανάγνωσης."
+		"message": "CSS applied automatically in reading view."
 	},
 	"readerDarkTheme": {
-		"message": "Θέμα σκοτεινής λειτουργίας"
+		"message": "Dark mode theme"
 	},
 	"readerDarkThemeDescription": {
-		"message": "Χρησιμοποιήστε διαφορετικό θέμα στη σκοτεινή λειτουργία."
+		"message": "Use a different theme in dark mode."
 	},
 	"readerError": {
-		"message": "Αποτυχία εξαγωγής περιεχομένου."
+		"message": "Failed to extract content."
 	},
 	"readerFont": {
-		"message": "Επιλογές γραμματοσειράς"
+		"message": "Font options"
 	},
 	"readerFontDefault": {
-		"message": "Προεπιλογή"
+		"message": "Default"
 	},
 	"readerFontDescription": {
-		"message": "Προσθέστε γραμματοσειρές που είναι εγκατεστημένες στο σύστημά σας. Πατήστε Enter για να προσθέσετε μια γραμματοσειρά."
+		"message": "Add fonts installed on your system. Press enter to add a font."
 	},
 	"readerFontNotFound": {
-		"message": "Δεν βρέθηκε"
+		"message": "Not found"
 	},
 	"readerFontPlaceholder": {
-		"message": "Πατήστε Enter για να προσθέσετε μια γραμματοσειρά"
+		"message": "Press enter to add a font"
 	},
 	"readerFontSetDefault": {
-		"message": "Ορισμός ως προεπιλογή"
+		"message": "Set default"
 	},
 	"readerFontSize": {
-		"message": "Βασικό μέγεθος γραμματοσειράς"
+		"message": "Base font size"
 	},
 	"readerFontSystem": {
-		"message": "Σύστημα"
+		"message": "System"
 	},
 	"readerFontSystemSans": {
 		"message": "Sans-serif"
@@ -731,217 +739,217 @@
 		"message": "Serif"
 	},
 	"readerFonts": {
-		"message": "Γραμματοσειρές"
+		"message": "Fonts"
 	},
 	"readerFootnotes": {
-		"message": "Υποσημειώσεις"
+		"message": "Footnotes"
 	},
 	"readerImages": {
-		"message": "Εικόνες"
+		"message": "Images"
 	},
 	"readerLineHeight": {
-		"message": "Ύψος γραμμής"
+		"message": "Line height"
 	},
 	"readerLineWidth": {
-		"message": "Πλάτος γραμμής"
+		"message": "Line width"
 	},
 	"readerLoading": {
-		"message": "Αποθόλωση…"
+		"message": "Defuddling…"
 	},
 	"readerSettings": {
-		"message": "Ρυθμίσεις αναγνώστη"
+		"message": "Reader settings"
 	},
 	"readerTheme": {
-		"message": "Θέμα"
+		"message": "Theme"
 	},
 	"readerThemeDescription": {
-		"message": "Επιλέξτε τα χρώματα που χρησιμοποιούνται στην προβολή ανάγνωσης."
+		"message": "Choose the colors used in reading view."
 	},
 	"readerThemeSection": {
-		"message": "Θέμα"
+		"message": "Theme"
 	},
 	"readerTypography": {
-		"message": "Τυπογραφία"
+		"message": "Typography"
 	},
 	"readerViewFullSize": {
-		"message": "Προβολή σε πλήρες μέγεθος"
+		"message": "View full size"
 	},
 	"recommended": {
-		"message": "προτεινόμενο"
+		"message": "recommended"
 	},
 	"refresh": {
-		"message": "Ανανέωση"
+		"message": "Refresh"
 	},
 	"remove": {
-		"message": "Αφαίρεση"
+		"message": "Remove"
 	},
 	"removeProperty": {
-		"message": "Αφαίρεση ιδιότητας"
+		"message": "Remove property"
 	},
 	"removeUnusedProperties": {
-		"message": "Αφαίρεση αχρησιμοποίητων ιδιοτήτων"
+		"message": "Remove unused properties"
 	},
 	"removeUnusedPropertiesDescription": {
-		"message": "Αφαιρέστε όλες τις ιδιότητες που δεν χρησιμοποιούνται σε κανένα πρότυπο."
+		"message": "Remove all properties that are not used in any template."
 	},
 	"removeVault": {
-		"message": "Αφαίρεση θησαυροφυλακίου"
+		"message": "Remove vault"
 	},
 	"replaceContent": {
-		"message": "Αντικατάσταση περιεχομένου σημείωσης"
+		"message": "Replace the page content"
 	},
 	"reset": {
-		"message": "Επαναφορά"
+		"message": "Reset"
 	},
 	"resetDefaultTemplate": {
-		"message": "Επαναφορά προεπιλεγμένου προτύπου"
+		"message": "Reset default template"
 	},
 	"resetDefaultTemplateDescription": {
-		"message": "Αφαιρέστε όλες τις αλλαγές που έχετε κάνει στο προεπιλεγμένο πρότυπο."
+		"message": "Remove any changes you've made to the default template."
 	},
 	"resetProvidersAndModels": {
-		"message": "Επαναφορά προεπιλεγμένων μοντέλων"
+		"message": "Reset default models"
 	},
 	"resetProvidersAndModelsDescription": {
-		"message": "Επαναφέρετε τους παρόχους και τα μοντέλα στις προεπιλεγμένες ρυθμίσεις."
+		"message": "Reset providers and models to the default settings."
 	},
 	"save": {
-		"message": "Αποθήκευση"
+		"message": "Save"
 	},
 	"saveBehaviorDescription": {
-		"message": "Επιλέξτε την προεπιλεγμένη επιλογή για την αποθήκευση σελίδων. Εναλλακτικές επιλογές εμφανίζονται στο αναπτυσσόμενο μενού δίπλα στο κύριο κουμπί."
+		"message": "Choose the default option for saving pages. Alternate options appear in the dropdown menu next to the main button."
 	},
 	"saveBehaviorLabel": {
-		"message": "Συμπεριφορά αποθήκευσης"
+		"message": "Save behavior"
 	},
 	"saveFile": {
-		"message": "Αποθήκευση αρχείου..."
+		"message": "Save file..."
 	},
 	"searchVariables": {
-		"message": "Αναζήτηση μεταβλητών..."
+		"message": "Search variables..."
 	},
 	"selectProvider": {
-		"message": "Επιλέξτε πάροχο"
+		"message": "Select a provider"
 	},
 	"selectTemplateToExport": {
-		"message": "Επιλέξτε πρότυπο για εξαγωγή"
+		"message": "Please select a template to export."
 	},
 	"settings": {
-		"message": "Ρυθμίσεις"
+		"message": "Settings"
 	},
 	"settingsHeading": {
-		"message": "Ρυθμίσεις"
+		"message": "Settings"
 	},
 	"settingsImportSuccess": {
-		"message": "Όλες οι ρυθμίσεις εισήχθησαν με επιτυχία. Ανανεώστε τη σελίδα για να δείτε τις αλλαγές."
+		"message": "All settings imported successfully. Please refresh the page to see the changes."
 	},
 	"share": {
-		"message": "Κοινοποίηση..."
+		"message": "Share..."
 	},
 	"shortcutInstructionsBrave": {
-		"message": "Για να αλλάξετε τις αντιστοιχίσεις πλήκτρων, μεταβείτε στο $1"
+		"message": "To change key assignments, go to $1"
 	},
 	"shortcutInstructionsChrome": {
-		"message": "Για να αλλάξετε τις αντιστοιχίσεις πλήκτρων, μεταβείτε στο $1"
+		"message": "To change key assignments, go to $1"
 	},
 	"shortcutInstructionsDefault": {
-		"message": "Για να αλλάξετε τις αντιστοιχίσεις πλήκτρων, ανατρέξτε στις ρυθμίσεις επεκτάσεων του προγράμματος περιήγησής σας."
+		"message": "To change key assignments, please refer to your browser's extension settings."
 	},
 	"shortcutInstructionsEdge": {
-		"message": "Για να αλλάξετε τις αντιστοιχίσεις πλήκτρων, μεταβείτε στο $1"
+		"message": "To change key assignments, go to $1"
 	},
 	"shortcutInstructionsFirefox": {
-		"message": "Για να αλλάξετε τις αντιστοιχίσεις πλήκτρων, μεταβείτε στο $1, κάντε κλικ στο εικονίδιο γραναζιού και επιλέξτε \"Διαχείριση συντομεύσεων επέκτασης\""
+		"message": "To change key assignments, go to $1, click the gear icon, and select \"Manage Extension Shortcuts\"."
 	},
 	"shortcutInstructionsIntro": {
-		"message": "Οι συντομεύσεις πληκτρολογίου σας παρέχουν γρήγορη πρόσβαση στις λειτουργίες του clipper."
+		"message": "Keyboard shortcuts give you quick access to clipper features."
 	},
 	"shortcutInstructionsSafari": {
-		"message": "Οι συντομεύσεις πληκτρολογίου δεν μπορούν να προσαρμοστούν στο Safari."
+		"message": "Keyboard shortcuts are not customizable on Safari."
 	},
 	"shortcutNotSet": {
-		"message": "Δεν έχει οριστεί"
+		"message": "Not set"
 	},
 	"showActionsButton": {
-		"message": "Εμφάνιση κουμπιού ενεργειών"
+		"message": "Show actions button"
 	},
 	"showActionsDescription": {
-		"message": "Σας επιτρέπει να προβάλλετε τις μεταβλητές της σελίδας από το μενού του clipper. Χρήσιμο για να δείτε τις διαθέσιμες μεταβλητές για χρήση στα πρότυπα."
+		"message": "Allows you to inspect page variables from the clipper menu. Useful for seeing the variables that are available to use in templates."
 	},
 	"showPageVariables": {
-		"message": "Εμφάνιση μεταβλητών σελίδας"
+		"message": "Show page variables"
 	},
 	"silentOpen": {
-		"message": "Αποθήκευση σημειώσεων χωρίς άνοιγμα"
+		"message": "Save clipped note without opening it"
 	},
 	"silentOpenDescription": {
-		"message": "Οι αποκομμένες σημειώσεις θα αποθηκευτούν αλλά δεν θα ανοίξουν σε νέα καρτέλα. Το Obsidian θα εξακολουθεί να έρχεται στο προσκήνιο."
+		"message": "Clipped notes will be saved but will not open as a new tab. Obsidian will still be brought to the foreground."
 	},
 	"specificNoteName": {
-		"message": "Συγκεκριμένο όνομα σημείωσης"
+		"message": "Specific note name"
 	},
 	"systemDefault": {
-		"message": "Προεπιλογή συστήματος"
+		"message": "System"
 	},
 	"template": {
-		"message": "Πρότυπο"
+		"message": "Template"
 	},
 	"templateCopied": {
-		"message": "Το JSON προτύπου αντιγράφηκε στο πρόχειρο"
+		"message": "Copied template JSON to clipboard"
 	},
 	"templateCopyError": {
-		"message": "Αποτυχία αντιγραφής του JSON προτύπου στο πρόχειρο"
+		"message": "Failed to copy template JSON to clipboard"
 	},
 	"templateErrorCount": {
-		"message": "Υπάρχει ένα σφάλμα στο πρότυπό σας."
+		"message": "There is an error in your template."
 	},
 	"templateErrorsCount": {
-		"message": "Υπάρχουν $1 σφάλματα στο πρότυπό σας."
+		"message": "There are $1 errors in your template."
 	},
 	"templateGroupContent": {
-		"message": "Περιεχόμενο"
+		"message": "Content"
 	},
 	"templateGroupLocation": {
-		"message": "Τοποθεσία"
+		"message": "Location"
 	},
 	"templateName": {
-		"message": "Όνομα προτύπου"
+		"message": "Template name"
 	},
 	"templateProperties": {
-		"message": "Ιδιότητες"
+		"message": "Properties"
 	},
 	"templatePropertiesDescription": {
-		"message": "Ιδιότητες που θα προστεθούν στην αρχή της αποκομμένης σημείωσης. Χρησιμοποιήστε μεταβλητές για να προσυμπληρώσετε δεδομένα από τη σελίδα."
+		"message": "Properties to add to the top of the clipped note. Use variables to pre-populate data from the page."
 	},
 	"templateTriggers": {
-		"message": "Ενεργοποιητές προτύπου"
+		"message": "Template triggers"
 	},
 	"templateTriggersDescription": {
-		"message": "Ορίστε κανόνες για την αυτόματη επιλογή αυτού του προτύπου εάν ταιριάζει με το μοτίβο URL ή περιέχει δεδομένα schema.org. Ένας κανόνας ανά γραμμή."
+		"message": "Define rules to automatically select this template if it matches a URL pattern or contains schema.org data. One rule per line."
 	},
 	"templateValid": {
-		"message": "Η σύνταξη του προτύπου είναι έγκυρη"
+		"message": "Template syntax is valid"
 	},
 	"templatesHeading": {
-		"message": "Πρότυπα"
+		"message": "Templates"
 	},
 	"thinking": {
-		"message": "σκέφτεται"
+		"message": "thinking"
 	},
 	"unknownProvider": {
-		"message": "Άγνωστος πάροχος"
+		"message": "Unknown provider"
 	},
 	"updateAvailable": {
-		"message": "Διαθέσιμη ενημέρωση"
+		"message": "An update is available."
 	},
 	"usingLatestVersion": {
-		"message": "Χρησιμοποιείτε την πιο πρόσφατη έκδοση"
+		"message": "You are using the latest version."
 	},
 	"vault": {
-		"message": "Θησαυροφυλάκιο"
+		"message": "Vault"
 	},
 	"vaultDescription": {
-		"message": "Επιλέξτε το προεπιλεγμένο θησαυροφυλάκιο για αυτό το πρότυπο. Μεταβείτε στις $link_start$γενικές ρυθμίσεις$link_end$ για να προσθέσετε ή να αφαιρέσετε θησαυροφυλάκια.",
+		"message": "Select the default vault for this template. Go to $link_start$general settings$link_end$ to add or remove vaults.",
 		"placeholders": {
 			"link_end": {
 				"content": "</a>"
@@ -952,10 +960,10 @@
 		}
 	},
 	"vaults": {
-		"message": "Θησαυροφυλάκια"
+		"message": "Vaults"
 	},
 	"vaultsDescription": {
-		"message": "Από προεπιλογή, οι αποκομμένες σημειώσεις αποθηκεύονται στο ανοιχτό θησαυροφυλάκιο. Μπορείτε να προσθέσετε θησαυροφυλάκια εδώ εάν θέλετε την επιλογή να αποθηκεύετε σε διαφορετικά θησαυροφυλάκια. Το όνομα του θησαυροφυλακίου πρέπει να ταιριάζει ακριβώς με το όνομα του θησαυροφυλακίου Obsidian. Πατήστε $strong_start$enter$strong_end$ για να προσθέσετε θησαυροφυλάκιο.",
+		"message": "By default, clipped notes are saved to the currently open vault. You can add vaults here if you want the option to save to different vaults. Vault names must exactly match the name of the Obsidian vault. Press $strong_start$enter$strong_end$ to add a vault.",
 		"placeholders": {
 			"strong_end": {
 				"content": "</strong>"
@@ -966,6 +974,6 @@
 		}
 	},
 	"version": {
-		"message": "Έκδοση"
+		"message": "Version"
 	}
 }
