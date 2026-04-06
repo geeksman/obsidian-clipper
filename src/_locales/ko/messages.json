@@ -1,99 +1,99 @@
 {
 	"activity": {
-		"message": "활동"
+		"message": "Activity"
 	},
 	"addModel": {
-		"message": "+ 모델 추가"
+		"message": "+ Add model"
 	},
 	"addModelTitle": {
-		"message": "모델 추가"
+		"message": "Add model"
 	},
 	"addProperty": {
-		"message": "+ 속성 추가하기"
+		"message": "+ Add property"
 	},
 	"addProvider": {
-		"message": "+ 공급자 추가"
+		"message": "+ Add provider"
 	},
 	"addProviderTitle": {
-		"message": "제공자 추가"
+		"message": "Add provider"
 	},
 	"addToObsidian": {
-		"message": "Obsidian에 추가하기"
+		"message": "Add to Obsidian"
 	},
 	"addVaultPlaceholder": {
-		"message": "볼트(보관소)를 추가하려면 엔터를 누르세요."
+		"message": "Press enter to add a vault"
 	},
 	"advanced": {
-		"message": "고급 설정"
+		"message": "Advanced"
 	},
 	"allProperties": {
-		"message": "모든 속성"
+		"message": "All properties"
 	},
 	"allTime": {
-		"message": "전체 시간"
+		"message": "All time"
 	},
 	"alwaysShowHighlights": {
-		"message": "하이라이트 항상 표시"
+		"message": "Always show highlights"
 	},
 	"alwaysShowHighlightsDescription": {
-		"message": "웹페이지를 로드할 때 저장된 하이라이트를 표시합니다. 하이라이트 모드가 활성화된 경우에만 하이라이트를 표시하려면 이 옵션을 끄십시오."
+		"message": "Display your saved highlights when you load a page. Turn off to only display highlights when highlighter mode is activated."
 	},
 	"apiKeyMissing": {
-		"message": "API 키가 없습니다"
+		"message": "No API key"
 	},
 	"apiKeysWarning": {
-		"message": "외부 제공자를 사용하면 해당 제공자의 이용 약관 및 개인정보 보호정책에 동의하는 것입니다. 인터프리터 요청은 선택한 제공자에게 직접 전송됩니다. Obsidian은 요청에 대한 데이터를 수집하거나 저장하지 않습니다."
+		"message": "By using an external provider you agree to their terms and privacy policy. Interpreter requests are sent directly to the provider you choose. Obsidian does not gather or store any data about your requests."
 	},
 	"appendToDaily": {
-		"message": "데일리 노트 맨 아래에 추가"
+		"message": "Add to daily note, at the bottom"
 	},
 	"appendToExisting": {
-		"message": "기존에 있는 노트 맨 아래에 추가"
+		"message": "Add to an existing note, at the bottom"
 	},
 	"autoRunInterpreter": {
-		"message": "자동 실행"
+		"message": "Automatically run"
 	},
 	"autoRunInterpreterDescription": {
-		"message": "템플릿에 프롬프트 변수가 포함되어 있는 경우 즉시 실행합니다. 이는 모델 제공자의 API 크레딧을 소비합니다. 인터프리터를 수동으로만 실행하려면 끄십시오."
+		"message": "Run prompt variables immediately if the template contains any. This will consume API credits with your model provider. Turn off if you only want to run interpreter manually."
 	},
 	"behavior": {
-		"message": "동작 방식"
+		"message": "Behavior"
 	},
 	"byDay": {
-		"message": "일"
+		"message": "Days"
 	},
 	"byMonth": {
-		"message": "월"
+		"message": "Months"
 	},
 	"byWeek": {
-		"message": "주"
+		"message": "Weeks"
 	},
 	"cancel": {
-		"message": "취소"
+		"message": "Cancel"
 	},
 	"cannotDeleteProvider": {
-		"message": "\"$1\" 공급자를 삭제할 수 없습니다. 이는 $2 모델에서 사용 중이기 때문입니다."
+		"message": "Cannot delete provider \"$1\" because it is being used by $2 model(s)."
 	},
 	"changelog": {
-		"message": "변경 내역"
+		"message": "Changelog"
 	},
 	"chooseFile": {
-		"message": "파일을 선택하세요"
+		"message": "Choose a file"
 	},
 	"choosePropertiesFile": {
-		"message": "속성 파일 선택"
+		"message": "Choose properties file"
 	},
 	"chooseSettingsFile": {
-		"message": "설정 파일을 선택하십시오"
+		"message": "Choose settings file"
 	},
 	"chooseTemplateFile": {
-		"message": "템플릿 파일을 선택하세요"
+		"message": "Choose template file"
 	},
 	"clipBehavior": {
-		"message": "클립 동작 방식"
+		"message": "Clip behavior"
 	},
 	"clipBehaviorDescription": {
-		"message": "하이라이트 표시된 내용이 Obsidian에 저장되는 방식을 선택하세요. $strong_start${{content}}$strong_end$ 변수를 정의합니다.",
+		"message": "Choose how highlighted content is saved to Obsidian. Defines the $strong_start${{content}}$strong_end$ variable.",
 		"placeholders": {
 			"strong_end": {
 				"content": "</strong>"
@@ -104,7 +104,7 @@
 		}
 	},
 	"clipboardError": {
-		"message": "Obsidian이 클립보드에 접근할 수 없습니다. 여기의 문제 해결 안내를 시도해 보세요: $1",
+		"message": "Obsidian is not able to access your clipboard. Try the troubleshooting instructions here: $1",
 		"placeholders": {
 			"1": {
 				"content": "$1"
@@ -112,79 +112,79 @@
 		}
 	},
 	"close": {
-		"message": "닫기"
+		"message": "Close"
 	},
 	"commandOpenClipper": {
-		"message": "Obsidian Clipper 열기"
+		"message": "Open Obsidian Clipper"
 	},
 	"commandQuickClip": {
-		"message": "퀵 클립"
+		"message": "Quick clip"
 	},
 	"commandToggleHighlighter": {
-		"message": "하이라이터 모드 전환"
+		"message": "Toggle highlighter"
 	},
 	"commandToggleReader": {
-		"message": "독서 뷰 전환"
+		"message": "Toggle reader"
 	},
 	"confirmDeleteTemplate": {
-		"message": "템플릿을 삭제하시겠습니까? \"$1\"?"
+		"message": "Are you sure you want to delete the template \"$1\"?"
 	},
 	"confirmReplaceSettings": {
-		"message": "이 작업은 현재의 모든 설정, 템플릿 및 속성을 대체합니다. 계속하시겠습니까?"
+		"message": "This will replace all your current settings, including templates and properties. Are you sure you want to continue?"
 	},
 	"copied": {
-		"message": "복사되었습니다!"
+		"message": "Copied!"
 	},
 	"copyAsJson": {
-		"message": "JSON으로 복사하기"
+		"message": "Copy as JSON"
 	},
 	"copyToClipboard": {
-		"message": "클립보드에 복사하기"
+		"message": "Copy to clipboard"
 	},
 	"createNewNote": {
-		"message": "새 노트 만들기"
+		"message": "Create new note"
 	},
 	"custom": {
-		"message": "사용자 정의"
+		"message": "Custom"
 	},
 	"dailyNoteFormat": {
-		"message": "데일리 노트 형식 (e.g., YYYY-MM-DD)"
+		"message": "Daily note format (e.g., YYYY-MM-DD)"
 	},
 	"defaultInterpreterContext": {
-		"message": "기본 인터프리터 컨텍스트"
+		"message": "Default interpreter context"
 	},
 	"defaultInterpreterContextDescription": {
-		"message": "모델이 프롬프트 변수를 해석하는 데 사용할 컨텍스트입니다. 변수와 필터를 사용할 수 있습니다."
+		"message": "Override the context used to interpret prompt variables. Variables can be used here."
 	},
 	"defaultTemplateName": {
-		"message": "기본 템플릿"
+		"message": "Default"
 	},
 	"delete": {
-		"message": "삭제"
+		"message": "Delete"
 	},
 	"deleteModelConfirm": {
-		"message": "이 모델을 삭제하시겠습니까?"
+		"message": "Are you sure you want to delete this model?"
 	},
 	"deleteProviderConfirm": {
-		"message": "이 공급자를 삭제하시겠습니까?"
+		"message": "Are you sure you want to delete this provider?"
 	},
 	"disableHighlighter": {
-		"message": "하이라이터 끄기"
+		"message": "Disable highlighter"
 	},
 	"disableReader": {
-		"message": "독서 뷰 비활성화"
+		"message": "Disable reader"
 	},
 	"done": {
-		"message": "완료"
+		"message": "Done"
 	},
 	"dragAndDropFile": {
-		"message": "여기에 파일을 드래그 앤 드롭하세요"
+		"message": "Drag and drop file here"
 	},
 	"duplicate": {
-		"message": "복제"
+		"message": "Duplicate"
 	},
 	"earlyAccessDescription": {
-		"message": "Obsidian의 최신 얼리 액세스 (early access) 버전이 필요한 기능을 사용합니다. 현재 Obsidian 1.7.2 이상이 필요합니다.",
+		"message": "Use features that require the latest $link_start$early access version$link_end$ of Obsidian. Currently requires Obsidian 1.7.2 or later.",
 		"placeholders": {
 			"link_end": {
 				"content": "</a>"
@@ -195,31 +195,31 @@
 		}
 	},
 	"earlyAccessFeatures": {
-		"message": "얼리 액세스 기능"
+		"message": "Early access features"
 	},
 	"editModel": {
-		"message": "모델 편집"
+		"message": "Edit model"
 	},
 	"editProvider": {
-		"message": "공급자 편집"
+		"message": "Edit provider"
 	},
 	"editTemplate": {
-		"message": "템플릿 편집"
+		"message": "Edit template"
 	},
 	"embedded": {
-		"message": "임베디드"
+		"message": "Embedded"
 	},
 	"enableHighlighter": {
-		"message": "하이라이터 켜기"
+		"message": "Enable highlighter"
 	},
 	"enableHighlighterDescription": {
-		"message": "하이라이트한 웹페이지 내용을 Obsidian에 저장합니다."
+		"message": "Highlight content on web pages that you can save to Obsidian."
 	},
 	"enableInterpreter": {
-		"message": "인터프리터 활성화"
+		"message": "Enable interpreter"
 	},
 	"enableInterpreterDescription": {
-		"message": "자연어를 사용하여 페이지에서 데이터를 추출합니다. 예를 들어, $strong_start${{\"페이지 요약\"}}$strong_end$ 템플릿 구문을 사용할 수 있습니다. API 키 또는 아래에서 구성된 사용자 지정 모델이 필요합니다. $link_start$자세히 알아보기$link_end$",
+		"message": "Use natural language to extract data from pages. For example, you can use the template syntax $strong_start${{\"a summary of the page\"}}$strong_end$. Requires an API key or custom model configured below.  $link_start$Learn more$link_end$.",
 		"placeholders": {
 			"link_end": {
 				"content": "</a>"
@@ -236,31 +236,31 @@
 		}
 	},
 	"enableReader": {
-		"message": "독서 뷰 열기"
+		"message": "Open reading view"
 	},
 	"error": {
-		"message": "에러"
+		"message": "Error"
 	},
 	"export": {
-		"message": "내보내기"
+		"message": "Export"
 	},
 	"exportAllSettings": {
-		"message": "모든 설정 내보내기"
+		"message": "Export all settings"
 	},
 	"exportAllSettingsDescription": {
-		"message": "템플릿 및 속성을 포함한 모든 설정 내보내기."
+		"message": "Export all settings including templates and properties."
 	},
 	"exportHighlights": {
-		"message": "하이라이트 내보내기"
+		"message": "Export highlights"
 	},
 	"exportHighlightsDescription": {
-		"message": "하이라이트를 파일로 내보내기."
+		"message": "Export your highlights to a file."
 	},
 	"exportProperties": {
-		"message": "속성 내보내기"
+		"message": "Export properties"
 	},
 	"exportPropertiesDescription": {
-		"message": "Obsidian Vault 또는 다른 장치의 Web Clipper로 가져올 수 있는 $strong_start$types.json$strong_end$ 파일에 Web Clipper 속성을 저장합니다.",
+		"message": "Save Web Clipper properties to a $strong_start$types.json$strong_end$ file that can be imported into your Obsidian vault, or into Web Clipper on other devices.",
 		"placeholders": {
 			"strong_end": {
 				"content": "</strong>"
@@ -271,121 +271,121 @@
 		}
 	},
 	"extensionDescription": {
-		"message": "웹 콘텐츠를 저장하여 오프라인에서도 접근할 수 있는 개인적이고 내구성 있는 형식으로 보관하세요. Obsidian의 공식 브라우저 확장 프로그램입니다."
+		"message": "Save content from the web in a private and durable format that you can access offline. The official browser extension for Obsidian."
 	},
 	"extensionName": {
 		"message": "Obsidian Web Clipper"
 	},
 	"failedToCopyText": {
-		"message": "텍스트를 복사하지 못했습니다"
+		"message": "Failed to copy text"
 	},
 	"failedToDeleteTemplate": {
-		"message": "템플릿을 삭제하지 못했습니다. 다시 시도해 주세요."
+		"message": "Failed to delete template. Please try again."
 	},
 	"failedToDuplicateTemplate": {
-		"message": "템플릿 복제에 실패했습니다. 다시 시도해 주세요."
+		"message": "Failed to duplicate template. Please try again."
 	},
 	"failedToExportHighlights": {
-		"message": "하이라이트 내보내기에 실패했습니다. 자세한 내용은 콘솔을 확인해 주세요."
+		"message": "Failed to export highlights. Please check the console for more details."
 	},
 	"failedToExportSettings": {
-		"message": "설정 내보내기에 실패했습니다. 자세한 내용은 콘솔을 확인해 주세요."
+		"message": "Failed to export settings. Please check the console for more details."
 	},
 	"failedToExtractContent": {
-		"message": "페이지 콘텐츠를 추출하지 못했습니다."
+		"message": "Unable to extract page content."
 	},
 	"failedToImportTemplate": {
-		"message": "템플릿 가져오기 오류. 파일을 확인하고 다시 시도해 주세요."
+		"message": "Error importing template. Please check the file and try again."
 	},
 	"failedToInitialize": {
-		"message": "확장 프로그램을 다시 로드해 주세요."
+		"message": "Please try reloading the extension."
 	},
 	"failedToInitializeContent": {
-		"message": "페이지 콘텐츠를 초기화하지 못했습니다."
+		"message": "Unable to initialize page content."
 	},
 	"failedToProcessInterpreter": {
-		"message": "인터프리터 처리에 실패했습니다. 다시 시도해 주세요."
+		"message": "Interpreter processing failed. Please try again."
 	},
 	"failedToResetProviders": {
-		"message": "공급자 및 모델 재설정 실패"
+		"message": "Failed to reset providers and models"
 	},
 	"failedToResetTemplate": {
-		"message": "템플릿을 초기화하지 못했습니다. 다시 시도해 주세요."
+		"message": "Failed to reset default template. Please try again."
 	},
 	"failedToSave": {
-		"message": "파일을 저장하지 못했습니다"
+		"message": "Failed to save file"
 	},
 	"failedToSaveFile": {
-		"message": "파일을 저장하지 못했습니다"
+		"message": "Failed to save file"
 	},
 	"failedToSaveProvider": {
-		"message": "제공자 저장에 실패했습니다. 다시 시도해 주세요."
+		"message": "Failed to save provider. Please try again."
 	},
 	"feedback": {
-		"message": "피드백"
+		"message": "Feedback"
 	},
 	"feedbackDescription": {
-		"message": "웹 클리퍼를 어떻게 개선할 수 있을까요? 버그를 보고하고, 기능을 제안하고, 일반적인 문제를 해결하는 데 도움이 되는 도움말 페이지를 방문해 주세요."
+		"message": "How can we improve Web Clipper? Please visit our help page, where you can report bugs, suggest features, and get help with common issues."
 	},
 	"feedbackTitle": {
-		"message": "피드백 감사합니다"
+		"message": "Thanks for your feedback"
 	},
 	"folder": {
 		"message": "Folder"
 	},
 	"general": {
-		"message": "일반"
+		"message": "General"
 	},
 	"generalSettings": {
-		"message": "일반 설정"
+		"message": "General settings"
 	},
 	"getApiKeyHere": {
-		"message": "여기에서 $1 API 키를 받으세요."
+		"message": "Get your $1 API key here."
 	},
 	"help": {
-		"message": "도움말"
+		"message": "Help"
 	},
 	"helpDescription": {
-		"message": "Web Clipper 사용 방법을 알아보고 문제 해결을 위한 도움을 받으세요."
+		"message": "Learn how to use Web Clipper and get help troubleshooting."
 	},
 	"highlightInline": {
-		"message": "페이지 내용 인라인 하이라이트"
+		"message": "Highlight the page content"
 	},
 	"highlightPage": {
-		"message": "페이지 하이라이트"
+		"message": "Highlight page"
 	},
 	"highlighter": {
-		"message": "하이라이터"
+		"message": "Highlighter"
 	},
 	"highlighterSettings": {
-		"message": "하이라이터 설정"
+		"message": "Highlighter"
 	},
 	"history": {
-		"message": "기록"
+		"message": "History"
 	},
 	"hotkeys": {
-		"message": "단축키"
+		"message": "Hotkeys"
 	},
 	"import": {
-		"message": "들여오기"
+		"message": "Import"
 	},
 	"importAllSettings": {
-		"message": "모든 설정 들여오기"
+		"message": "Import all settings"
 	},
 	"importAllSettingsDescription": {
-		"message": "템플릿과 속성을 포함한 모든 설정을 들여옵니다. 현재 구성이 대체됩니다."
+		"message": "Import all settings including templates and properties. This will replace your current configuration."
 	},
 	"importFailed": {
-		"message": "가져오기 실패했습니다. 자세한 내용은 콘솔을 확인해 주세요."
+		"message": "Import failed. Please check the console for more details."
 	},
 	"importModalTitle": {
-		"message": "수입"
+		"message": "Import"
 	},
 	"importProperties": {
-		"message": "속성 들여오기"
+		"message": "Import properties"
 	},
 	"importPropertiesDescription": {
-		"message": "Obsidian에서 속성을 가져오려면 보괏소 내의 $strong_2_start$.obsidian$strong_2_end$ 폴더에서 $strong_1_start$types.json$strong_1_end$ 파일을 찾으세요. 이 폴더는 대부분의 운영 체제에서 기본적으로 숨겨져 있습니다.",
+		"message": "To import your properties from Obsidian, locate the $strong_1_start$types.json$strong_1_end$ file in the $strong_2_start$.obsidian$strong_2_end$ folder within your vault. Note this folder is hidden by default on most operating systems.",
 		"placeholders": {
 			"strong_1_end": {
 				"content": "</strong>"
@@ -402,22 +402,22 @@
 		}
 	},
 	"importSettings": {
-		"message": "설정 가져오기"
+		"message": "Import settings"
 	},
 	"importTemplate": {
-		"message": "템플릿 가져오기"
+		"message": "Import template"
 	},
 	"interpret": {
-		"message": "해석"
+		"message": "interpret"
 	},
 	"interpreter": {
-		"message": "인터프리터"
+		"message": "Interpreter"
 	},
 	"interpreterContext": {
-		"message": "인터프리터 컨텍스트"
+		"message": "Interpreter context"
 	},
 	"interpreterContextDescription": {
-		"message": "프롬프트 변수를 해석하는 데 사용되는 컨텍스트입니다. $link_start$인프리터 설정$link_end$에 정의된 기본 컨텍스트를 재정의합니다. 여기서 변수를 사용할 수 있습니다.",
+		"message": "The context used to interpret prompt variables. Overrides the default context defined in $link_start$Interpreter settings$link_end$. Variables can be used here.",
 		"placeholders": {
 			"link_end": {
 				"content": "</a>"
@@ -428,82 +428,82 @@
 		}
 	},
 	"language": {
-		"message": "언어"
+		"message": "Language"
 	},
 	"languageDescription": {
-		"message": "확장 프로그램 인터페이스의 표시 언어를 선택하세요."
+		"message": "Choose the display language for the extension interface."
 	},
 	"last30Days": {
-		"message": "지난 30일"
+		"message": "Last 30 days"
 	},
 	"lastUsed": {
-		"message": "마지막으로 사용된 보관소"
+		"message": "Last used"
 	},
 	"legacyMode": {
-		"message": "레거시 모드"
+		"message": "Legacy mode"
 	},
 	"legacyModeDescription": {
-		"message": "Obsidian 1.6.7 이하 버전과 호환되는 URI 클리핑 방법을 사용합니다. 클립할 수 있는 내용량은 브라우저와 OS에 따라 제한됩니다. 일부 페이지는 오류 없이 실패할 수 있습니다."
+		"message": "Uses the URI clipping method compatible with Obsidian 1.6.7 or earlier. Note that the length of the content you can clip is limited by your browser and OS. Some pages may fail without any errors."
 	},
 	"modelName": {
-		"message": "모델 이름"
+		"message": "Display name"
 	},
 	"modelNameDescription": {
-		"message": "인터페이스에 표시할 모델 이름입니다."
+		"message": "The name of the model you want to display in the interface."
 	},
 	"modelProvider": {
-		"message": "제공자"
+		"message": "Provider"
 	},
 	"modelProviderDescription": {
-		"message": "모델 제공자 (예: Ollama, OpenRouter, Google 등)"
+		"message": "Select the provider for this model."
 	},
 	"modelProviderPlaceholder": {
-		"message": "공급자"
+		"message": "Provider"
 	},
 	"modelRequiredFields": {
-		"message": "모델 이름, 제공자, 그리고 모델 ID가 필요합니다."
+		"message": "Model name, Provider, and Model ID are required."
 	},
 	"models": {
-		"message": "모델"
+		"message": "Models"
 	},
 	"modelsListFor": {
-		"message": "$1에 대한 모델 목록"
+		"message": "Models list for $1"
 	},
 	"more": {
-		"message": "더 보기"
+		"message": "More"
 	},
 	"newTemplate": {
-		"message": "새 템플릿"
+		"message": "New template"
 	},
 	"noHighlights": {
-		"message": "하이라이트 없음"
+		"message": "Do nothing"
 	},
 	"noTemplates": {
-		"message": "템플릿 없음. 설정에서 템플릿을 추가하세요."
+		"message": "No templates available. Please add a template in the settings."
 	},
 	"noUnusedProperties": {
-		"message": "사용하지 않는 속성이 발견되지 않았습니다."
+		"message": "No unused properties found."
 	},
 	"noteContent": {
-		"message": "노트 내용"
+		"message": "Note content"
 	},
 	"noteContentDescription": {
-		"message": "노트의 내용을 사용자 정의합니다. 변수를 사용하여 페이지의 데이터를 미리 채울 수 있습니다."
+		"message": "Customize the content of the note. Use variables to pre-populate data from the page."
 	},
 	"noteLocation": {
-		"message": "노트"
+		"message": "Note location"
 	},
 	"noteLocationDescription": {
-		"message": "노트의 폴더 또는 파일 경로"
+		"message": "The folder or path of the note."
 	},
 	"noteName": {
-		"message": "노트 이름"
+		"message": "Note name"
 	},
 	"noteNameFormat": {
-		"message": "노트 이름 형식"
+		"message": "Note name"
 	},
 	"noteNameFormatDescription": {
-		"message": "노트의 파일 이름 형식입니다. {{title}}, {{date}} 및 {{published}}와 같은 변수를 사용하여 페이지의 데이터를 미리 채울 수 있습니다. $link_start$자세히 알아보기$link_end$.",
+		"message": "Format for the file name of the note. You can use variables like {{title}}, {{date}}, and {{published}} to pre-populate data from the page. $link_start$Learn more$link_end$.",
 		"placeholders": {
 			"link_end": {
 				"content": "</a>"
@@ -514,442 +514,442 @@
 		}
 	},
 	"notesAboutPage": {
-		"message": "이 페이지에 대한 메모..."
+		"message": "Notes about this page..."
 	},
 	"onlyHttpSupported": {
-		"message": "이 페이지는 클립할 수 없습니다. http 및 https URL만 지원됩니다."
+		"message": "This page cannot be clipped. Only http and https URLs are supported."
 	},
 	"open": {
-		"message": "열기"
+		"message": "Open"
 	},
 	"openBehaviorDescription": {
-		"message": "웹 클리퍼가 기본적으로 어떻게 열리는지 선택하십시오."
+		"message": "Choose how Web Clipper opens by default."
 	},
 	"openBehaviorTitle": {
-		"message": "열기 동작"
+		"message": "Open behavior"
 	},
 	"openEmbedded": {
-		"message": "페이지에서 열기"
+		"message": "Open in page"
 	},
 	"openSidePanel": {
-		"message": "사이드 패널 열기"
+		"message": "Open side panel"
 	},
 	"optional": {
-		"message": "(선택사항)"
+		"message": "(optional)"
 	},
 	"orPasteBelow": {
-		"message": "아래에 내용을 붙여넣으세요."
+		"message": "Or paste content below"
 	},
 	"overwriteNote": {
-		"message": "노트 덮어쓰기"
+		"message": "Overwrite note"
 	},
 	"pageCannotBeClipped": {
-		"message": "이 페이지는 클립할 수 없습니다."
+		"message": "This page cannot be clipped."
 	},
 	"pageVariables": {
-		"message": "페이지 변수"
+		"message": "Page variables"
 	},
 	"pagesSaved": {
-		"message": "페이지 저장됨"
+		"message": "page saved"
 	},
 	"pagesSavedPlural": {
-		"message": "페이지들이 저장됨"
+		"message": "pages saved"
 	},
 	"pasteJsonHere": {
-		"message": "여기에 JSON을 붙여넣으세요"
+		"message": "Paste JSON here"
 	},
 	"pleaseReload": {
-		"message": "페이지를 다시 로드해 주세요."
+		"message": "Please try reloading the page."
 	},
 	"popularModels": {
-		"message": "인기 모델"
+		"message": "Popular models"
 	},
 	"popularModelsDescription": {
-		"message": "일반적으로 사용되는 모델 중에서 선택하거나 사용자 정의 모델 세부 정보를 입력하세요."
+		"message": "Choose from commonly used models or enter custom model details."
 	},
 	"popup": {
-		"message": "팝업"
+		"message": "Popup"
 	},
 	"prependToDaily": {
-		"message": "데일리 노트 맨 위에 추가"
+		"message": "Add to daily note, at the top"
 	},
 	"prependToExisting": {
-		"message": "기존에 있는 노트 맨 위에 추가"
+		"message": "Add to an existing note, at the top"
 	},
 	"preview": {
-		"message": "미리보기"
+		"message": "Preview"
 	},
 	"processing": {
-		"message": "처리 중"
+		"message": "processing"
 	},
 	"properties": {
-		"message": "속성"
+		"message": "Properties"
 	},
 	"propertiesSettings": {
-		"message": "속성 설정"
+		"message": "Properties"
 	},
 	"propertyName": {
-		"message": "속성 이름"
+		"message": "Property name"
 	},
 	"propertyTypeCheckbox": {
-		"message": "체크박스"
+		"message": "Checkbox"
 	},
 	"propertyTypeDate": {
-		"message": "날짜"
+		"message": "Date"
 	},
 	"propertyTypeDatetime": {
-		"message": "날짜 & 시간"
+		"message": "Date & time"
 	},
 	"propertyTypeMultitext": {
-		"message": "목록"
+		"message": "List"
 	},
 	"propertyTypeNumber": {
-		"message": "번호"
+		"message": "Number"
 	},
 	"propertyTypeText": {
-		"message": "텍스트"
+		"message": "Text"
 	},
 	"propertyValue": {
-		"message": "속성 값"
+		"message": "Property value"
 	},
 	"provider": {
-		"message": "공급자"
+		"message": "Provider"
 	},
 	"providerApiKey": {
-		"message": "API 키"
+		"message": "API key"
 	},
 	"providerApiKeyDescription": {
-		"message": "이 공급자를 위한 API 키입니다."
+		"message": "Your API key for this provider."
 	},
 	"providerBaseUrl": {
-		"message": "기본 URL"
+		"message": "Base URL"
 	},
 	"providerBaseUrlDescription": {
-		"message": "이 제공자를 위한 API 엔드포인트 URL입니다."
+		"message": "The API endpoint URL for this provider."
 	},
 	"providerModelId": {
-		"message": "모델 ID"
+		"message": "Model ID"
 	},
 	"providerModelIdDescription": {
-		"message": "제공자의 모델 식별자입니다. 일반적으로 공백이 없는 짧은 이름입니다."
+		"message": "The identifier of the model from your provider. Typically a short name without spaces."
 	},
 	"providerModelIdPlaceholder": {
-		"message": "모델 ID"
+		"message": "Model ID"
 	},
 	"providerName": {
-		"message": "제공자 이름"
+		"message": "Provider name"
 	},
 	"providerNameDescription": {
-		"message": "이 공급자의 표시 이름."
+		"message": "Display name for this provider."
 	},
 	"providerPreset": {
-		"message": "프리셋"
+		"message": "Preset"
 	},
 	"providerPresetDescription": {
-		"message": "공급자를 선택하거나 사용자 정의 공급자를 생성하십시오."
+		"message": "Choose a provider or create a custom one."
 	},
 	"providerRequiredFields": {
-		"message": "공급자 이름과 기본 URL이 필요합니다."
+		"message": "Provider name and Base URL are required."
 	},
 	"providers": {
-		"message": "제공자"
+		"message": "Providers"
 	},
 	"rateExtensionDescription": {
-		"message": "웹 클리퍼를 즐기고 계신가요? 평가를 통해 우리를 도와주세요."
+		"message": "Are you enjoying Web Clipper? Help us by giving it a rating."
 	},
 	"reader": {
-		"message": "리더"
+		"message": "Reader"
 	},
 	"readerAppearance": {
-		"message": "모양"
+		"message": "Appearance"
 	},
 	"readerAppearanceAuto": {
-		"message": "자동"
+		"message": "Auto"
 	},
 	"readerAppearanceDark": {
-		"message": "어둡게"
+		"message": "Dark"
 	},
 	"readerAppearanceDescription": {
-		"message": "밝은 모양 또는 어두운 모양을 선택하세요."
+		"message": "Choose light or dark appearance."
 	},
 	"readerAppearanceLight": {
-		"message": "밝게"
+		"message": "Light"
 	},
 	"readerBlendImages": {
-		"message": "이미지 블렌딩"
+		"message": "Blend images"
 	},
 	"readerBlendImagesDescription": {
-		"message": "이미지를 페이지 배경과 블렌딩합니다."
+		"message": "Blend images with the page background."
 	},
 	"readerCloseImageViewer": {
-		"message": "이미지 뷰어 닫기"
+		"message": "Close image viewer"
 	},
 	"readerCollapseComment": {
-		"message": "댓글 접기"
+		"message": "Collapse comment"
 	},
 	"readerColorLinks": {
-		"message": "링크 색상"
+		"message": "Color links"
 	},
 	"readerColorSchemeDefault": {
-		"message": "기본값"
+		"message": "Default"
 	},
 	"readerCustomCss": {
-		"message": "사용자 지정 CSS"
+		"message": "Custom CSS"
 	},
 	"readerCustomCssDescription": {
-		"message": "읽기 보기에서 자동으로 적용되는 CSS입니다."
+		"message": "CSS applied automatically in reading view."
 	},
 	"readerDarkTheme": {
-		"message": "다크 모드 테마"
+		"message": "Dark mode theme"
 	},
 	"readerDarkThemeDescription": {
-		"message": "다크 모드에서 다른 테마를 사용합니다."
+		"message": "Use a different theme in dark mode."
 	},
 	"readerError": {
-		"message": "콘텐츠를 추출하지 못했습니다."
+		"message": "Failed to extract content."
 	},
 	"readerFont": {
-		"message": "글꼴 옵션"
+		"message": "Font options"
 	},
 	"readerFontDefault": {
-		"message": "기본값"
+		"message": "Default"
 	},
 	"readerFontDescription": {
-		"message": "시스템에 설치된 글꼴을 추가하세요. Enter를 눌러 글꼴을 추가합니다."
+		"message": "Add fonts installed on your system. Press enter to add a font."
 	},
 	"readerFontNotFound": {
-		"message": "찾을 수 없음"
+		"message": "Not found"
 	},
 	"readerFontPlaceholder": {
-		"message": "Enter를 눌러 글꼴을 추가하세요"
+		"message": "Press enter to add a font"
 	},
 	"readerFontSetDefault": {
-		"message": "기본값으로 설정"
+		"message": "Set default"
 	},
 	"readerFontSize": {
-		"message": "기본 글꼴 크기"
+		"message": "Base font size"
 	},
 	"readerFontSystem": {
-		"message": "시스템"
+		"message": "System"
 	},
 	"readerFontSystemSans": {
-		"message": "산세리프"
+		"message": "Sans-serif"
 	},
 	"readerFontSystemSerif": {
-		"message": "세리프"
+		"message": "Serif"
 	},
 	"readerFonts": {
-		"message": "글꼴"
+		"message": "Fonts"
 	},
 	"readerFootnotes": {
-		"message": "각주"
+		"message": "Footnotes"
 	},
 	"readerImages": {
-		"message": "이미지"
+		"message": "Images"
 	},
 	"readerLineHeight": {
-		"message": "줄 높이"
+		"message": "Line height"
 	},
 	"readerLineWidth": {
-		"message": "줄 너비"
+		"message": "Line width"
 	},
 	"readerLoading": {
-		"message": "정리 중…"
+		"message": "Defuddling…"
 	},
 	"readerSettings": {
-		"message": "리더 설정"
+		"message": "Reader settings"
 	},
 	"readerTheme": {
-		"message": "테마"
+		"message": "Theme"
 	},
 	"readerThemeDescription": {
-		"message": "읽기 보기에서 사용할 색상을 선택하세요."
+		"message": "Choose the colors used in reading view."
 	},
 	"readerThemeSection": {
-		"message": "테마"
+		"message": "Theme"
 	},
 	"readerTypography": {
-		"message": "타이포그래피"
+		"message": "Typography"
 	},
 	"readerViewFullSize": {
-		"message": "원본 크기로 보기"
+		"message": "View full size"
 	},
 	"recommended": {
-		"message": "추천"
+		"message": "recommended"
 	},
 	"refresh": {
-		"message": "새로 고침"
+		"message": "Refresh"
 	},
 	"remove": {
-		"message": "제거"
+		"message": "Remove"
 	},
 	"removeProperty": {
-		"message": "속성 제거"
+		"message": "Remove property"
 	},
 	"removeUnusedProperties": {
-		"message": "사용하지 않는 속성 제거"
+		"message": "Remove unused properties"
 	},
 	"removeUnusedPropertiesDescription": {
-		"message": "어떤 템플릿에서도 사용되지 않는 모든 속성을 제거합니다."
+		"message": "Remove all properties that are not used in any template."
 	},
 	"removeVault": {
-		"message": "볼트 제거"
+		"message": "Remove vault"
 	},
 	"replaceContent": {
-		"message": "페이지 내용 바꾸기"
+		"message": "Replace the page content"
 	},
 	"reset": {
-		"message": "초기화"
+		"message": "Reset"
 	},
 	"resetDefaultTemplate": {
-		"message": "기본 템플릿으로 초기화"
+		"message": "Reset default template"
 	},
 	"resetDefaultTemplateDescription": {
-		"message": "기본 템플릿으로 초기화하여 템플릿에 대한 모든 사용자 정의를 제거합니다."
+		"message": "Remove any changes you've made to the default template."
 	},
 	"resetProvidersAndModels": {
-		"message": "기본 모델 재설정"
+		"message": "Reset default models"
 	},
 	"resetProvidersAndModelsDescription": {
-		"message": "공급자와 모델을 기본 설정으로 재설정합니다."
+		"message": "Reset providers and models to the default settings."
 	},
 	"save": {
-		"message": "저장"
+		"message": "Save"
 	},
 	"saveBehaviorDescription": {
-		"message": "페이지 저장을 위한 기본 옵션을 선택하세요. 대체 옵션은 주 버튼 옆의 드롭다운 메뉴에 표시됩니다."
+		"message": "Choose the default option for saving pages. Alternate options appear in the dropdown menu next to the main button."
 	},
 	"saveBehaviorLabel": {
-		"message": "저장 동작"
+		"message": "Save behavior"
 	},
 	"saveFile": {
-		"message": "파일 저장..."
+		"message": "Save file..."
 	},
 	"searchVariables": {
-		"message": "변수 검색..."
+		"message": "Search variables..."
 	},
 	"selectProvider": {
-		"message": "공급자를 선택하십시오"
+		"message": "Select a provider"
 	},
 	"selectTemplateToExport": {
-		"message": "내보낼 템플릿을 선택해 주세요."
+		"message": "Please select a template to export."
 	},
 	"settings": {
-		"message": "설정"
+		"message": "Settings"
 	},
 	"settingsHeading": {
-		"message": "설정"
+		"message": "Settings"
 	},
 	"settingsImportSuccess": {
-		"message": "모든 설정이 성공적으로 가져와졌습니다. 변경 사항을 확인하려면 페이지를 새로 고치십시오."
+		"message": "All settings imported successfully. Please refresh the page to see the changes."
 	},
 	"share": {
-		"message": "공유..."
+		"message": "Share..."
 	},
 	"shortcutInstructionsBrave": {
-		"message": "키보드 단축키를 변경하려면 $1로 이동하세요"
+		"message": "To change key assignments, go to $1"
 	},
 	"shortcutInstructionsChrome": {
-		"message": "키보드 단축키를 변경하려면 $1로 이동하세요"
+		"message": "To change key assignments, go to $1"
 	},
 	"shortcutInstructionsDefault": {
-		"message": "키보드 단축키를 변경하려면 브라우저 확장 프로그램 설정으로 이동하세요."
+		"message": "To change key assignments, please refer to your browser's extension settings."
 	},
 	"shortcutInstructionsEdge": {
-		"message": "키보드 단축키를 변경하려면 $1로 이동하세요"
+		"message": "To change key assignments, go to $1"
 	},
 	"shortcutInstructionsFirefox": {
-		"message": "키보드 단축키를 변경하려면 $1로 이동하여 설정 아이콘을 클릭한 다음 \"부가 기능 단축키 관리\"를 선택하세요."
+		"message": "To change key assignments, go to $1, click the gear icon, and select \"Manage Extension Shortcuts\"."
 	},
 	"shortcutInstructionsIntro": {
-		"message": "키보드 단축키를 사용하면 클리퍼 기능에 빠르게 액세스할 수 있습니다."
+		"message": "Keyboard shortcuts give you quick access to clipper features."
 	},
 	"shortcutInstructionsSafari": {
-		"message": "키보드 단축키는 Safari에서 사용자 정의할 수 없습니다."
+		"message": "Keyboard shortcuts are not customizable on Safari."
 	},
 	"shortcutNotSet": {
-		"message": "설정되지 않음"
+		"message": "Not set"
 	},
 	"showActionsButton": {
-		"message": "작업 버튼 표시"
+		"message": "Show actions button"
 	},
 	"showActionsDescription": {
-		"message": "클리퍼 메뉴에서 페이지 변수를 확인할 수 있습니다. 템플릿에서 사용할 수 있는 변수를 확인하는 데 유용합니다."
+		"message": "Allows you to inspect page variables from the clipper menu. Useful for seeing the variables that are available to use in templates."
 	},
 	"showPageVariables": {
-		"message": "페이지 변수 표시"
+		"message": "Show page variables"
 	},
 	"silentOpen": {
-		"message": "클립한 노트 열지 않고 저장"
+		"message": "Save clipped note without opening it"
 	},
 	"silentOpenDescription": {
-		"message": "클립된 노트는 저장되지만 새 탭으로 열리지 않습니다. Obsidian은 포그라운드에서 실행됩니다."
+		"message": "Clipped notes will be saved but will not open as a new tab. Obsidian will still be brought to the foreground."
 	},
 	"specificNoteName": {
-		"message": "특정 노트 이름"
+		"message": "Specific note name"
 	},
 	"systemDefault": {
-		"message": "시스템 기본값"
+		"message": "System"
 	},
 	"template": {
-		"message": "템플릿"
+		"message": "Template"
 	},
 	"templateCopied": {
-		"message": "클립보드에 템플릿 JSON을 복사했습니다."
+		"message": "Copied template JSON to clipboard"
 	},
 	"templateCopyError": {
-		"message": "템플릿 JSON을 클립보드에 복사하는 데 실패했습니다."
+		"message": "Failed to copy template JSON to clipboard"
 	},
 	"templateErrorCount": {
-		"message": "템플릿에 오류가 있습니다."
+		"message": "There is an error in your template."
 	},
 	"templateErrorsCount": {
-		"message": "템플릿에 오류가 $1개 있습니다."
+		"message": "There are $1 errors in your template."
 	},
 	"templateGroupContent": {
-		"message": "콘텐츠"
+		"message": "Content"
 	},
 	"templateGroupLocation": {
-		"message": "위치"
+		"message": "Location"
 	},
 	"templateName": {
-		"message": "템플릿 이름"
+		"message": "Template name"
 	},
 	"templateProperties": {
-		"message": "템플릿 속성"
+		"message": "Properties"
 	},
 	"templatePropertiesDescription": {
-		"message": "클립된 노트의 맨 위에 추가할 속성입니다. 변수를 사용하여 페이지에서 데이터를 미리 채울 수 있습니다."
+		"message": "Properties to add to the top of the clipped note. Use variables to pre-populate data from the page."
 	},
 	"templateTriggers": {
-		"message": "템플릿 트리거"
+		"message": "Template triggers"
 	},
 	"templateTriggersDescription": {
-		"message": "이 템플릿을 자동으로 선택하도록 URL 패턴과 schema.org 데이터를 포함하는 경우에 대한 규칙을 정의하세요. 한 줄에 하나의 규칙을 작성하세요."
+		"message": "Define rules to automatically select this template if it matches a URL pattern or contains schema.org data. One rule per line."
 	},
 	"templateValid": {
-		"message": "템플릿 구문이 유효합니다"
+		"message": "Template syntax is valid"
 	},
 	"templatesHeading": {
-		"message": "템플릿"
+		"message": "Templates"
 	},
 	"thinking": {
-		"message": "생각 중"
+		"message": "thinking"
 	},
 	"unknownProvider": {
-		"message": "알 수 없는 제공자"
+		"message": "Unknown provider"
 	},
 	"updateAvailable": {
-		"message": "업데이트가 있습니다."
+		"message": "An update is available."
 	},
 	"usingLatestVersion": {
-		"message": "최신 버전을 사용 중입니다."
+		"message": "You are using the latest version."
 	},
 	"vault": {
-		"message": "보관소"
+		"message": "Vault"
 	},
 	"vaultDescription": {
-		"message": "이 템플릿의 기본 보관소를 선택합니다. 보관소를 추가하거나 제거하려면 $link_start$일반 설정$link_end$으로 이동하세요.",
+		"message": "Select the default vault for this template. Go to $link_start$general settings$link_end$ to add or remove vaults.",
 		"placeholders": {
 			"link_end": {
 				"content": "</a>"
@@ -960,10 +960,10 @@
 		}
 	},
 	"vaults": {
-		"message": "보관소"
+		"message": "Vaults"
 	},
 	"vaultsDescription": {
-		"message": "기본적으로 클립된 노트는 현재 열려 있는 보관소에 저장됩니다. 다른 보관소에 저장하는 옵션을 원하는 경우 여기에 추가할 수 있습니다. 보관소 이름은 Obsidian 볼트 이름과 정확히 일치해야 합니다. 보관소를 추가하려면 $strong_start$엔터$strong_end$를 누르세요.",
+		"message": "By default, clipped notes are saved to the currently open vault. You can add vaults here if you want the option to save to different vaults. Vault names must exactly match the name of the Obsidian vault. Press $strong_start$enter$strong_end$ to add a vault.",
 		"placeholders": {
 			"strong_end": {
 				"content": "</strong>"
@@ -974,6 +974,6 @@
 		}
 	},
 	"version": {
-		"message": "버전"
+		"message": "Version"
 	}
 }
