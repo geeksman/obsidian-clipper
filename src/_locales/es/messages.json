@@ -1,99 +1,99 @@
 {
 	"activity": {
-		"message": "Activity"
+		"message": "Actividad"
 	},
 	"addModel": {
-		"message": "+ Add model"
+		"message": "+ Agregar modelo"
 	},
 	"addModelTitle": {
-		"message": "Add model"
+		"message": "Agregar modelo"
 	},
 	"addProperty": {
-		"message": "+ Add property"
+		"message": "+ Agregar propiedad"
 	},
 	"addProvider": {
-		"message": "+ Add provider"
+		"message": "+ Agregar proveedor"
 	},
 	"addProviderTitle": {
-		"message": "Add provider"
+		"message": "Agregar proveedor"
 	},
 	"addToObsidian": {
-		"message": "Add to Obsidian"
+		"message": "Agregar a Obsidian"
 	},
 	"addVaultPlaceholder": {
-		"message": "Press enter to add a vault"
+		"message": "Presiona enter para añadir una bóveda"
 	},
 	"advanced": {
-		"message": "Advanced"
+		"message": "Avanzado"
 	},
 	"allProperties": {
-		"message": "All properties"
+		"message": "Todas las propiedades"
 	},
 	"allTime": {
-		"message": "All time"
+		"message": "Todo el tiempo"
 	},
 	"alwaysShowHighlights": {
-		"message": "Always show highlights"
+		"message": "Mostrar siempre los resaltados"
 	},
 	"alwaysShowHighlightsDescription": {
-		"message": "Display your saved highlights when you load a page. Turn off to only display highlights when highlighter mode is activated."
+		"message": "Muestra tus resaltados guardados cuando cargas una página. Desactiva para mostrar los resaltados solo cuando el modo resaltador está activado."
 	},
 	"apiKeyMissing": {
-		"message": "No API key"
+		"message": "Sin clave API"
 	},
 	"apiKeysWarning": {
-		"message": "By using an external provider you agree to their terms and privacy policy. Interpreter requests are sent directly to the provider you choose. Obsidian does not gather or store any data about your requests."
+		"message": "Al usar un proveedor externo, aceptas sus términos y política de privacidad. Las solicitudes del intérprete se envían directamente al proveedor que elijas. Obsidian no recopila ni almacena ningún dato sobre tus solicitudes."
 	},
 	"appendToDaily": {
-		"message": "Add to daily note, at the bottom"
+		"message": "Agregar a la nota diaria, al final"
 	},
 	"appendToExisting": {
-		"message": "Add to an existing note, at the bottom"
+		"message": "Agregar a una nota existente, al final"
 	},
 	"autoRunInterpreter": {
-		"message": "Automatically run"
+		"message": "Ejecutar automáticamente"
 	},
 	"autoRunInterpreterDescription": {
-		"message": "Run prompt variables immediately if the template contains any. This will consume API credits with your model provider. Turn off if you only want to run interpreter manually."
+		"message": "Ejecuta las variables de prompt inmediatamente si la plantilla contiene alguna. Esto consumirá créditos de API con tu proveedor de modelo. Desactiva si solo quieres ejecutar el intérprete manualmente."
 	},
 	"behavior": {
-		"message": "Behavior"
+		"message": "Comportamiento"
 	},
 	"byDay": {
-		"message": "Days"
+		"message": "Días"
 	},
 	"byMonth": {
-		"message": "Months"
+		"message": "Meses"
 	},
 	"byWeek": {
-		"message": "Weeks"
+		"message": "Semanas"
 	},
 	"cancel": {
-		"message": "Cancel"
+		"message": "Cancelar"
 	},
 	"cannotDeleteProvider": {
-		"message": "Cannot delete provider \"$1\" because it is being used by $2 model(s)."
+		"message": "No se puede eliminar el proveedor \"$1\" porque está siendo utilizado por $2 modelo(s)."
 	},
 	"changelog": {
-		"message": "Changelog"
+		"message": "Registro de cambios"
 	},
 	"chooseFile": {
-		"message": "Choose a file"
+		"message": "Elegir un archivo"
 	},
 	"choosePropertiesFile": {
-		"message": "Choose properties file"
+		"message": "Elegir archivo de propiedades"
 	},
 	"chooseSettingsFile": {
-		"message": "Choose settings file"
+		"message": "Elegir archivo de configuración"
 	},
 	"chooseTemplateFile": {
-		"message": "Choose template file"
+		"message": "Elegir archivo de plantilla"
 	},
 	"clipBehavior": {
-		"message": "Clip behavior"
+		"message": "Comportamiento de guardado"
 	},
 	"clipBehaviorDescription": {
-		"message": "Choose how highlighted content is saved to Obsidian. Defines the $strong_start${{content}}$strong_end$ variable.",
+		"message": "Elige cómo se guarda el contenido resaltado en Obsidian. Define la variable $strong_start${{content}}$strong_end$.",
 		"placeholders": {
 			"strong_end": {
 				"content": "</strong>"
@@ -104,7 +104,7 @@
 		}
 	},
 	"clipboardError": {
-		"message": "Obsidian is not able to access your clipboard. Try the troubleshooting instructions here: $1",
+		"message": "Obsidian no puede acceder a tu portapapeles. Prueba las instrucciones de solución de problemas aquí: $1",
 		"placeholders": {
 			"1": {
 				"content": "$1"
@@ -112,79 +112,79 @@
 		}
 	},
 	"close": {
-		"message": "Close"
+		"message": "Cerrar"
 	},
 	"commandOpenClipper": {
-		"message": "Open Obsidian Clipper"
+		"message": "Abrir Obsidian Clipper"
 	},
 	"commandQuickClip": {
-		"message": "Quick clip"
+		"message": "Guardado rápido"
 	},
 	"commandToggleHighlighter": {
-		"message": "Toggle highlighter"
+		"message": "Alternar modo resaltador"
 	},
 	"commandToggleReader": {
-		"message": "Toggle reader"
+		"message": "Alternar vista de lectura"
 	},
 	"confirmDeleteTemplate": {
-		"message": "Are you sure you want to delete the template \"$1\"?"
+		"message": "¿Estás seguro de que quieres eliminar la plantilla \"$1\"?"
 	},
 	"confirmReplaceSettings": {
-		"message": "This will replace all your current settings, including templates and properties. Are you sure you want to continue?"
+		"message": "Esto reemplazará todas sus configuraciones actuales, incluyendo plantillas y propiedades. ¿Está seguro de que desea continuar?"
 	},
 	"copied": {
-		"message": "Copied!"
+		"message": "¡Copiado!"
 	},
 	"copyAsJson": {
-		"message": "Copy as JSON"
+		"message": "Copiar como JSON"
 	},
 	"copyToClipboard": {
-		"message": "Copy to clipboard"
+		"message": "Copiar al portapapeles"
 	},
 	"createNewNote": {
-		"message": "Create new note"
+		"message": "Crear nueva nota"
 	},
 	"custom": {
-		"message": "Custom"
+		"message": "Personalizado"
 	},
 	"dailyNoteFormat": {
-		"message": "Daily note format (e.g., YYYY-MM-DD)"
+		"message": "Formato de nota diaria (ej., YYYY-MM-DD)"
 	},
 	"defaultInterpreterContext": {
-		"message": "Default interpreter context"
+		"message": "Contexto predeterminado del intérprete"
 	},
 	"defaultInterpreterContextDescription": {
-		"message": "Override the context used to interpret prompt variables. Variables can be used here."
+		"message": "El modelo usará este contexto para interpretar las variables de prompt. Se pueden usar variables y filtros aquí."
 	},
 	"defaultTemplateName": {
-		"message": "Default"
+		"message": "Predeterminado"
 	},
 	"delete": {
-		"message": "Delete"
+		"message": "Eliminar"
 	},
 	"deleteModelConfirm": {
-		"message": "Are you sure you want to delete this model?"
+		"message": "¿Estás seguro de que quieres eliminar este modelo?"
 	},
 	"deleteProviderConfirm": {
-		"message": "Are you sure you want to delete this provider?"
+		"message": "¿Estás seguro de que quieres eliminar este proveedor?"
 	},
 	"disableHighlighter": {
-		"message": "Disable highlighter"
+		"message": "Desactivar resaltador"
 	},
 	"disableReader": {
-		"message": "Disable reader"
+		"message": "Desactivar vista de lectura"
 	},
 	"done": {
-		"message": "Done"
+		"message": "Hecho"
 	},
 	"dragAndDropFile": {
-		"message": "Drag and drop file here"
+		"message": "Arrastre y suelte el archivo aquí"
 	},
 	"duplicate": {
-		"message": "Duplicate"
+		"message": "Duplicar"
 	},
 	"earlyAccessDescription": {
-		"message": "Use features that require the latest $link_start$early access version$link_end$ of Obsidian. Currently requires Obsidian 1.7.2 or later.",
+		"message": "Usa funciones que requieren la última versión de $link_start$acceso anticipado$link_end$ de Obsidian. Actualmente requiere Obsidian 1.7.2 o posterior.",
 		"placeholders": {
 			"link_end": {
 				"content": "</a>"
@@ -195,31 +195,31 @@
 		}
 	},
 	"earlyAccessFeatures": {
-		"message": "Early access features"
+		"message": "Funciones de acceso anticipado"
 	},
 	"editModel": {
-		"message": "Edit model"
+		"message": "Editar modelo"
 	},
 	"editProvider": {
-		"message": "Edit provider"
+		"message": "Editar proveedor"
 	},
 	"editTemplate": {
-		"message": "Edit template"
+		"message": "Editar plantilla"
 	},
 	"embedded": {
-		"message": "Embedded"
+		"message": "Incrustado"
 	},
 	"enableHighlighter": {
-		"message": "Enable highlighter"
+		"message": "Activar resaltador"
 	},
 	"enableHighlighterDescription": {
-		"message": "Highlight content on web pages that you can save to Obsidian."
+		"message": "Resalta contenido en páginas web que puedes guardar en Obsidian."
 	},
 	"enableInterpreter": {
-		"message": "Enable interpreter"
+		"message": "Habilitar intérprete"
 	},
 	"enableInterpreterDescription": {
-		"message": "Use natural language to extract data from pages. For example, you can use the template syntax $strong_start${{\"a summary of the page\"}}$strong_end$. Requires an API key or custom model configured below.  $link_start$Learn more$link_end$.",
+		"message": "Usa lenguaje natural para extraer datos de las páginas. Por ejemplo, puedes usar la sintaxis de plantilla $strong_start${{\"un resumen de la página\"}}$strong_end$. Requiere una clave API o modelo personalizado configurado abajo. $link_start$Más información$link_end$",
 		"placeholders": {
 			"link_end": {
 				"content": "</a>"
@@ -236,31 +236,31 @@
 		}
 	},
 	"enableReader": {
-		"message": "Open reading view"
+		"message": "Abrir vista de lectura"
 	},
 	"error": {
 		"message": "Error"
 	},
 	"export": {
-		"message": "Export"
+		"message": "Exportar"
 	},
 	"exportAllSettings": {
-		"message": "Export all settings"
+		"message": "Exportar todos los ajustes"
 	},
 	"exportAllSettingsDescription": {
-		"message": "Export all settings including templates and properties."
+		"message": "Exporta todos los ajustes incluyendo plantillas y propiedades."
 	},
 	"exportHighlights": {
-		"message": "Export highlights"
+		"message": "Exportar resaltados"
 	},
 	"exportHighlightsDescription": {
-		"message": "Export your highlights to a file."
+		"message": "Exporta tus resaltados a un archivo."
 	},
 	"exportProperties": {
-		"message": "Export properties"
+		"message": "Exportar propiedades"
 	},
 	"exportPropertiesDescription": {
-		"message": "Save Web Clipper properties to a $strong_start$types.json$strong_end$ file that can be imported into your Obsidian vault, or into Web Clipper on other devices.",
+		"message": "Guarda las propiedades del Web Clipper en un archivo $strong_start$types.json$strong_end$ que puede ser importado en tu bóveda de Obsidian o en Web Clipper en otros dispositivos.",
 		"placeholders": {
 			"strong_end": {
 				"content": "</strong>"
@@ -271,121 +271,121 @@
 		}
 	},
 	"extensionDescription": {
-		"message": "Save content from the web in a private and durable format that you can access offline. The official browser extension for Obsidian."
+		"message": "Guarda contenido web en un formato privado y duradero al que puedes acceder sin conexión. La extensión oficial para Obsidian."
 	},
 	"extensionName": {
 		"message": "Obsidian Web Clipper"
 	},
 	"failedToCopyText": {
-		"message": "Failed to copy text"
+		"message": "Error al copiar el texto"
 	},
 	"failedToDeleteTemplate": {
-		"message": "Failed to delete template. Please try again."
+		"message": "Error al eliminar la plantilla. Por favor, inténtalo de nuevo."
 	},
 	"failedToDuplicateTemplate": {
-		"message": "Failed to duplicate template. Please try again."
+		"message": "Error al duplicar la plantilla. Por favor, inténtelo de nuevo."
 	},
 	"failedToExportHighlights": {
-		"message": "Failed to export highlights. Please check the console for more details."
+		"message": "Error al exportar los resaltados. Por favor, consulte la consola para más detalles."
 	},
 	"failedToExportSettings": {
-		"message": "Failed to export settings. Please check the console for more details."
+		"message": "Error al exportar las configuraciones. Por favor, consulte la consola para más detalles."
 	},
 	"failedToExtractContent": {
-		"message": "Unable to extract page content."
+		"message": "No se pudo extraer el contenido de la página."
 	},
 	"failedToImportTemplate": {
-		"message": "Error importing template. Please check the file and try again."
+		"message": "Error al importar la plantilla. Por favor, revise el archivo e intente de nuevo."
 	},
 	"failedToInitialize": {
-		"message": "Please try reloading the extension."
+		"message": "Por favor, intenta recargar la extensión."
 	},
 	"failedToInitializeContent": {
-		"message": "Unable to initialize page content."
+		"message": "No se pudo inicializar el contenido de la página."
 	},
 	"failedToProcessInterpreter": {
-		"message": "Interpreter processing failed. Please try again."
+		"message": "Error al procesar el intérprete. Por favor, inténtalo de nuevo."
 	},
 	"failedToResetProviders": {
-		"message": "Failed to reset providers and models"
+		"message": "Error al restablecer los proveedores y modelos"
 	},
 	"failedToResetTemplate": {
-		"message": "Failed to reset default template. Please try again."
+		"message": "Error al restablecer la plantilla predeterminada. Por favor, inténtalo de nuevo."
 	},
 	"failedToSave": {
-		"message": "Failed to save file"
+		"message": "Error al guardar el archivo"
 	},
 	"failedToSaveFile": {
-		"message": "Failed to save file"
+		"message": "Error al guardar el archivo"
 	},
 	"failedToSaveProvider": {
-		"message": "Failed to save provider. Please try again."
+		"message": "Error al guardar el proveedor. Por favor, intente de nuevo."
 	},
 	"feedback": {
-		"message": "Feedback"
+		"message": "Comentarios"
 	},
 	"feedbackDescription": {
-		"message": "How can we improve Web Clipper? Please visit our help page, where you can report bugs, suggest features, and get help with common issues."
+		"message": "¿Cómo podemos mejorar Web Clipper? Por favor, visita nuestra página de ayuda, donde puedes reportar errores, sugerir características y obtener ayuda con problemas comunes."
 	},
 	"feedbackTitle": {
-		"message": "Thanks for your feedback"
+		"message": "Gracias por tus comentarios"
 	},
 	"folder": {
-		"message": "Folder"
+		"message": "Carpeta"
 	},
 	"general": {
 		"message": "General"
 	},
 	"generalSettings": {
-		"message": "General settings"
+		"message": "Ajustes generales"
 	},
 	"getApiKeyHere": {
-		"message": "Get your $1 API key here."
+		"message": "Obtén tu clave API de $1 aquí."
 	},
 	"help": {
-		"message": "Help"
+		"message": "Ayuda"
 	},
 	"helpDescription": {
-		"message": "Learn how to use Web Clipper and get help troubleshooting."
+		"message": "Aprenda a usar Web Clipper y obtenga ayuda para solucionar problemas."
 	},
 	"highlightInline": {
-		"message": "Highlight the page content"
+		"message": "Resaltar el contenido de la página"
 	},
 	"highlightPage": {
-		"message": "Highlight page"
+		"message": "Resaltar página"
 	},
 	"highlighter": {
-		"message": "Highlighter"
+		"message": "Resaltador"
 	},
 	"highlighterSettings": {
-		"message": "Highlighter"
+		"message": "Resaltador"
 	},
 	"history": {
-		"message": "History"
+		"message": "Historial"
 	},
 	"hotkeys": {
-		"message": "Hotkeys"
+		"message": "Atajos de teclado"
 	},
 	"import": {
-		"message": "Import"
+		"message": "Importar"
 	},
 	"importAllSettings": {
-		"message": "Import all settings"
+		"message": "Importar todos los ajustes"
 	},
 	"importAllSettingsDescription": {
-		"message": "Import all settings including templates and properties. This will replace your current configuration."
+		"message": "Importa todos los ajustes incluyendo plantillas y propiedades. Esto reemplazará tu configuración actual."
 	},
 	"importFailed": {
-		"message": "Import failed. Please check the console for more details."
+		"message": "La importación falló. Por favor, consulte la consola para más detalles."
 	},
 	"importModalTitle": {
-		"message": "Import"
+		"message": "Importar"
 	},
 	"importProperties": {
-		"message": "Import properties"
+		"message": "Importar propiedades"
 	},
 	"importPropertiesDescription": {
-		"message": "To import your properties from Obsidian, locate the $strong_1_start$types.json$strong_1_end$ file in the $strong_2_start$.obsidian$strong_2_end$ folder within your vault. Note this folder is hidden by default on most operating systems.",
+		"message": "Para importar tus propiedades desde Obsidian, localiza el archivo $strong_1_start$types.json$strong_1_end$ en la carpeta $strong_2_start$.obsidian$strong_2_end$ dentro de tu bóveda. Ten en cuenta que esta carpeta está oculta por defecto en la mayoría de los sistemas operativos.",
 		"placeholders": {
 			"strong_1_end": {
 				"content": "</strong>"
@@ -402,22 +402,22 @@
 		}
 	},
 	"importSettings": {
-		"message": "Import settings"
+		"message": "Importar configuraciones"
 	},
 	"importTemplate": {
-		"message": "Import template"
+		"message": "Importar plantilla"
 	},
 	"interpret": {
-		"message": "interpret"
+		"message": "interpretar"
 	},
 	"interpreter": {
-		"message": "Interpreter"
+		"message": "Intérprete"
 	},
 	"interpreterContext": {
-		"message": "Interpreter context"
+		"message": "Contexto del intérprete"
 	},
 	"interpreterContextDescription": {
-		"message": "The context used to interpret prompt variables. Overrides the default context defined in $link_start$Interpreter settings$link_end$. Variables can be used here.",
+		"message": "El contexto utilizado para interpretar variables de prompt. Anula el contexto predeterminado definido en $link_start$Ajustes del intérprete$link_end$. Se pueden usar variables aquí.",
 		"placeholders": {
 			"link_end": {
 				"content": "</a>"
@@ -428,82 +428,82 @@
 		}
 	},
 	"language": {
-		"message": "Language"
+		"message": "Idioma"
 	},
 	"languageDescription": {
-		"message": "Choose the display language for the extension interface."
+		"message": "Elige el idioma de la interfaz de la extensión."
 	},
 	"last30Days": {
-		"message": "Last 30 days"
+		"message": "Últimos 30 días"
 	},
 	"lastUsed": {
-		"message": "Last used"
+		"message": "Último usado"
 	},
 	"legacyMode": {
-		"message": "Legacy mode"
+		"message": "Modo heredado"
 	},
 	"legacyModeDescription": {
-		"message": "Uses the URI clipping method compatible with Obsidian 1.6.7 or earlier. Note that the length of the content you can clip is limited by your browser and OS. Some pages may fail without any errors."
+		"message": "Usa el método de guardado URI compatible con Obsidian 1.6.7 o anterior. Ten en cuenta que la longitud del contenido que puedes guardar está limitada por tu navegador y sistema operativo. Algunas páginas pueden fallar sin mostrar errores."
 	},
 	"modelName": {
-		"message": "Display name"
+		"message": "Nombre del modelo"
 	},
 	"modelNameDescription": {
-		"message": "The name of the model you want to display in the interface."
+		"message": "El nombre del modelo que desea mostrar en la interfaz."
 	},
 	"modelProvider": {
-		"message": "Provider"
+		"message": "Proveedor"
 	},
 	"modelProviderDescription": {
-		"message": "Select the provider for this model."
+		"message": "El proveedor del modelo, por ejemplo Ollama, OpenRouter, Google, etc."
 	},
 	"modelProviderPlaceholder": {
-		"message": "Provider"
+		"message": "Proveedor"
 	},
 	"modelRequiredFields": {
-		"message": "Model name, Provider, and Model ID are required."
+		"message": "El nombre del modelo, el proveedor y la ID del modelo son obligatorios."
 	},
 	"models": {
-		"message": "Models"
+		"message": "Modelos"
 	},
 	"modelsListFor": {
-		"message": "Models list for $1"
+		"message": "Lista de modelos para $1"
 	},
 	"more": {
-		"message": "More"
+		"message": "Más"
 	},
 	"newTemplate": {
-		"message": "New template"
+		"message": "Nueva plantilla"
 	},
 	"noHighlights": {
-		"message": "Do nothing"
+		"message": "No hacer nada"
 	},
 	"noTemplates": {
-		"message": "No templates available. Please add a template in the settings."
+		"message": "No hay plantillas disponibles. Por favor, añade una plantilla en los ajustes."
 	},
 	"noUnusedProperties": {
-		"message": "No unused properties found."
+		"message": "No se encontraron propiedades sin usar."
 	},
 	"noteContent": {
-		"message": "Note content"
+		"message": "Contenido de la nota"
 	},
 	"noteContentDescription": {
-		"message": "Customize the content of the note. Use variables to pre-populate data from the page."
+		"message": "Personaliza el contenido de la nota. Usa variables para pre-poblar datos de la página."
 	},
 	"noteLocation": {
-		"message": "Note location"
+		"message": "Ubicación de la nota"
 	},
 	"noteLocationDescription": {
-		"message": "The folder or path of the note."
+		"message": "La carpeta o ruta de la nota."
 	},
 	"noteName": {
-		"message": "Note name"
+		"message": "Nombre de la nota"
 	},
 	"noteNameFormat": {
-		"message": "Note name"
+		"message": "Nombre de la nota"
 	},
 	"noteNameFormatDescription": {
-		"message": "Format for the file name of the note. You can use variables like {{title}}, {{date}}, and {{published}} to pre-populate data from the page. $link_start$Learn more$link_end$.",
+		"message": "Formato para el nombre del archivo de la nota. Puedes usar variables como {{title}}, {{date}} y {{published}} para pre-poblar datos de la página. $link_start$Más información$link_end$.",
 		"placeholders": {
 			"link_end": {
 				"content": "</a>"
@@ -514,223 +514,223 @@
 		}
 	},
 	"notesAboutPage": {
-		"message": "Notes about this page..."
+		"message": "Notas sobre esta página..."
 	},
 	"onlyHttpSupported": {
-		"message": "This page cannot be clipped. Only http and https URLs are supported."
+		"message": "Esta página no se puede guardar. Solo se admiten URLs http y https."
 	},
 	"open": {
-		"message": "Open"
+		"message": "Abrir"
 	},
 	"openBehaviorDescription": {
-		"message": "Choose how Web Clipper opens by default."
+		"message": "Elija cómo se abre Web Clipper por defecto."
 	},
 	"openBehaviorTitle": {
-		"message": "Open behavior"
+		"message": "Comportamiento de apertura"
 	},
 	"openEmbedded": {
-		"message": "Open in page"
+		"message": "Abrir en página"
 	},
 	"openSidePanel": {
-		"message": "Open side panel"
+		"message": "Abrir panel lateral"
 	},
 	"optional": {
-		"message": "(optional)"
+		"message": "(opcional)"
 	},
 	"orPasteBelow": {
-		"message": "Or paste content below"
+		"message": "O pegue el contenido a continuación"
 	},
 	"overwriteNote": {
-		"message": "Overwrite note"
+		"message": "Sobrescribir nota"
 	},
 	"pageCannotBeClipped": {
-		"message": "This page cannot be clipped."
+		"message": "Esta página no se puede guardar."
 	},
 	"pageVariables": {
-		"message": "Page variables"
+		"message": "Variables de página"
 	},
 	"pagesSaved": {
-		"message": "page saved"
+		"message": "página guardada"
 	},
 	"pagesSavedPlural": {
-		"message": "pages saved"
+		"message": "páginas guardadas"
 	},
 	"pasteJsonHere": {
-		"message": "Paste JSON here"
+		"message": "Pegue el JSON aquí"
 	},
 	"pleaseReload": {
-		"message": "Please try reloading the page."
+		"message": "Por favor, intenta recargar la página."
 	},
 	"popularModels": {
-		"message": "Popular models"
+		"message": "Modelos populares"
 	},
 	"popularModelsDescription": {
-		"message": "Choose from commonly used models or enter custom model details."
+		"message": "Elija entre los modelos comúnmente utilizados o ingrese los detalles del modelo personalizado."
 	},
 	"popup": {
-		"message": "Popup"
+		"message": "Ventana emergente"
 	},
 	"prependToDaily": {
-		"message": "Add to daily note, at the top"
+		"message": "Agregar a la nota diaria, al principio"
 	},
 	"prependToExisting": {
-		"message": "Add to an existing note, at the top"
+		"message": "Agregar a una nota existente, al principio"
 	},
 	"preview": {
-		"message": "Preview"
+		"message": "Vista previa"
 	},
 	"processing": {
-		"message": "processing"
+		"message": "procesando"
 	},
 	"properties": {
-		"message": "Properties"
+		"message": "Propiedades"
 	},
 	"propertiesSettings": {
-		"message": "Properties"
+		"message": "Propiedades"
 	},
 	"propertyName": {
-		"message": "Property name"
+		"message": "Nombre de la propiedad"
 	},
 	"propertyTypeCheckbox": {
-		"message": "Checkbox"
+		"message": "Casilla de verificación"
 	},
 	"propertyTypeDate": {
-		"message": "Date"
+		"message": "Fecha"
 	},
 	"propertyTypeDatetime": {
-		"message": "Date & time"
+		"message": "Fecha y hora"
 	},
 	"propertyTypeMultitext": {
-		"message": "List"
+		"message": "Lista"
 	},
 	"propertyTypeNumber": {
-		"message": "Number"
+		"message": "Número"
 	},
 	"propertyTypeText": {
-		"message": "Text"
+		"message": "Texto"
 	},
 	"propertyValue": {
-		"message": "Property value"
+		"message": "Valor de la propiedad"
 	},
 	"provider": {
-		"message": "Provider"
+		"message": "Proveedor"
 	},
 	"providerApiKey": {
-		"message": "API key"
+		"message": "Clave API"
 	},
 	"providerApiKeyDescription": {
-		"message": "Your API key for this provider."
+		"message": "Tu clave API para este proveedor."
 	},
 	"providerBaseUrl": {
-		"message": "Base URL"
+		"message": "URL base"
 	},
 	"providerBaseUrlDescription": {
-		"message": "The API endpoint URL for this provider."
+		"message": "La URL del punto final de la API para este proveedor."
 	},
 	"providerModelId": {
-		"message": "Model ID"
+		"message": "ID del modelo"
 	},
 	"providerModelIdDescription": {
-		"message": "The identifier of the model from your provider. Typically a short name without spaces."
+		"message": "El identificador del modelo de su proveedor. Típicamente un nombre corto sin espacios."
 	},
 	"providerModelIdPlaceholder": {
-		"message": "Model ID"
+		"message": "ID del modelo"
 	},
 	"providerName": {
-		"message": "Provider name"
+		"message": "Nombre del proveedor."
 	},
 	"providerNameDescription": {
-		"message": "Display name for this provider."
+		"message": "Nombre para mostrar de este proveedor."
 	},
 	"providerPreset": {
-		"message": "Preset"
+		"message": "Preestablecido"
 	},
 	"providerPresetDescription": {
-		"message": "Choose a provider or create a custom one."
+		"message": "Elige un proveedor o crea uno personalizado."
 	},
 	"providerRequiredFields": {
-		"message": "Provider name and Base URL are required."
+		"message": "El nombre del proveedor y la URL base son obligatorios."
 	},
 	"providers": {
-		"message": "Providers"
+		"message": "Proveedores"
 	},
 	"rateExtensionDescription": {
-		"message": "Are you enjoying Web Clipper? Help us by giving it a rating."
+		"message": "¿Estás disfrutando de Web Clipper? Ayúdanos dándole una calificación."
 	},
 	"reader": {
-		"message": "Reader"
+		"message": "Lector"
 	},
 	"readerAppearance": {
-		"message": "Appearance"
+		"message": "Apariencia"
 	},
 	"readerAppearanceAuto": {
-		"message": "Auto"
+		"message": "Automático"
 	},
 	"readerAppearanceDark": {
-		"message": "Dark"
+		"message": "Oscuro"
 	},
 	"readerAppearanceDescription": {
-		"message": "Choose light or dark appearance."
+		"message": "Elige apariencia clara u oscura."
 	},
 	"readerAppearanceLight": {
-		"message": "Light"
+		"message": "Claro"
 	},
 	"readerBlendImages": {
-		"message": "Blend images"
+		"message": "Mezclar imágenes"
 	},
 	"readerBlendImagesDescription": {
-		"message": "Blend images with the page background."
+		"message": "Mezcla las imágenes con el fondo de la página."
 	},
 	"readerCloseImageViewer": {
-		"message": "Close image viewer"
+		"message": "Cerrar visor de imágenes"
 	},
 	"readerCollapseComment": {
-		"message": "Collapse comment"
+		"message": "Contraer comentario"
 	},
 	"readerColorLinks": {
-		"message": "Color links"
+		"message": "Colorear enlaces"
 	},
 	"readerColorSchemeDefault": {
-		"message": "Default"
+		"message": "Predeterminado"
 	},
 	"readerCustomCss": {
-		"message": "Custom CSS"
+		"message": "CSS personalizado"
 	},
 	"readerCustomCssDescription": {
-		"message": "CSS applied automatically in reading view."
+		"message": "CSS aplicado automáticamente en la vista de lectura."
 	},
 	"readerDarkTheme": {
-		"message": "Dark mode theme"
+		"message": "Tema del modo oscuro"
 	},
 	"readerDarkThemeDescription": {
-		"message": "Use a different theme in dark mode."
+		"message": "Usa un tema diferente en el modo oscuro."
 	},
 	"readerError": {
-		"message": "Failed to extract content."
+		"message": "No se pudo extraer el contenido."
 	},
 	"readerFont": {
-		"message": "Font options"
+		"message": "Opciones de fuente"
 	},
 	"readerFontDefault": {
-		"message": "Default"
+		"message": "Predeterminado"
 	},
 	"readerFontDescription": {
-		"message": "Add fonts installed on your system. Press enter to add a font."
+		"message": "Añade fuentes instaladas en tu sistema. Pulsa Intro para añadir una fuente."
 	},
 	"readerFontNotFound": {
-		"message": "Not found"
+		"message": "No encontrado"
 	},
 	"readerFontPlaceholder": {
-		"message": "Press enter to add a font"
+		"message": "Pulsa Intro para añadir una fuente"
 	},
 	"readerFontSetDefault": {
-		"message": "Set default"
+		"message": "Establecer como predeterminado"
 	},
 	"readerFontSize": {
-		"message": "Base font size"
+		"message": "Tamaño de fuente base"
 	},
 	"readerFontSystem": {
-		"message": "System"
+		"message": "Sistema"
 	},
 	"readerFontSystemSans": {
 		"message": "Sans-serif"
@@ -739,217 +739,217 @@
 		"message": "Serif"
 	},
 	"readerFonts": {
-		"message": "Fonts"
+		"message": "Fuentes"
 	},
 	"readerFootnotes": {
-		"message": "Footnotes"
+		"message": "Notas al pie"
 	},
 	"readerImages": {
-		"message": "Images"
+		"message": "Imágenes"
 	},
 	"readerLineHeight": {
-		"message": "Line height"
+		"message": "Altura de línea"
 	},
 	"readerLineWidth": {
-		"message": "Line width"
+		"message": "Ancho de línea"
 	},
 	"readerLoading": {
-		"message": "Defuddling…"
+		"message": "Simplificando…"
 	},
 	"readerSettings": {
-		"message": "Reader settings"
+		"message": "Ajustes del lector"
 	},
 	"readerTheme": {
-		"message": "Theme"
+		"message": "Tema"
 	},
 	"readerThemeDescription": {
-		"message": "Choose the colors used in reading view."
+		"message": "Elige los colores usados en la vista de lectura."
 	},
 	"readerThemeSection": {
-		"message": "Theme"
+		"message": "Tema"
 	},
 	"readerTypography": {
-		"message": "Typography"
+		"message": "Tipografía"
 	},
 	"readerViewFullSize": {
-		"message": "View full size"
+		"message": "Ver a tamaño completo"
 	},
 	"recommended": {
-		"message": "recommended"
+		"message": "recomendado"
 	},
 	"refresh": {
-		"message": "Refresh"
+		"message": "Refrescar"
 	},
 	"remove": {
-		"message": "Remove"
+		"message": "Eliminar"
 	},
 	"removeProperty": {
-		"message": "Remove property"
+		"message": "Eliminar propiedad"
 	},
 	"removeUnusedProperties": {
-		"message": "Remove unused properties"
+		"message": "Eliminar propiedades no utilizadas"
 	},
 	"removeUnusedPropertiesDescription": {
-		"message": "Remove all properties that are not used in any template."
+		"message": "Elimina todas las propiedades que no se utilizan en ninguna plantilla."
 	},
 	"removeVault": {
-		"message": "Remove vault"
+		"message": "Eliminar bóveda"
 	},
 	"replaceContent": {
-		"message": "Replace the page content"
+		"message": "Reemplazar el contenido de la página"
 	},
 	"reset": {
-		"message": "Reset"
+		"message": "Restablecer"
 	},
 	"resetDefaultTemplate": {
-		"message": "Reset default template"
+		"message": "Restablecer plantilla predeterminada"
 	},
 	"resetDefaultTemplateDescription": {
-		"message": "Remove any changes you've made to the default template."
+		"message": "Elimina cualquier cambio que hayas hecho a la plantilla predeterminada."
 	},
 	"resetProvidersAndModels": {
-		"message": "Reset default models"
+		"message": "Restablecer modelos predeterminados"
 	},
 	"resetProvidersAndModelsDescription": {
-		"message": "Reset providers and models to the default settings."
+		"message": "Restablecer los proveedores y modelos a la configuración predeterminada."
 	},
 	"save": {
-		"message": "Save"
+		"message": "Guardar"
 	},
 	"saveBehaviorDescription": {
-		"message": "Choose the default option for saving pages. Alternate options appear in the dropdown menu next to the main button."
+		"message": "Elige la opción predeterminada para guardar páginas. Las opciones alternativas aparecen en el menú desplegable junto al botón principal."
 	},
 	"saveBehaviorLabel": {
-		"message": "Save behavior"
+		"message": "Comportamiento de guardado"
 	},
 	"saveFile": {
-		"message": "Save file..."
+		"message": "Guardar archivo..."
 	},
 	"searchVariables": {
-		"message": "Search variables..."
+		"message": "Buscar variables..."
 	},
 	"selectProvider": {
-		"message": "Select a provider"
+		"message": "Seleccionar un proveedor"
 	},
 	"selectTemplateToExport": {
-		"message": "Please select a template to export."
+		"message": "Por favor, seleccione una plantilla para exportar."
 	},
 	"settings": {
-		"message": "Settings"
+		"message": "Ajustes"
 	},
 	"settingsHeading": {
-		"message": "Settings"
+		"message": "Ajustes"
 	},
 	"settingsImportSuccess": {
-		"message": "All settings imported successfully. Please refresh the page to see the changes."
+		"message": "Todas las configuraciones se importaron con éxito. Por favor, actualice la página para ver los cambios."
 	},
 	"share": {
-		"message": "Share..."
+		"message": "Compartir..."
 	},
 	"shortcutInstructionsBrave": {
-		"message": "To change key assignments, go to $1"
+		"message": "Para cambiar las asignaciones de teclas, ve a $1"
 	},
 	"shortcutInstructionsChrome": {
-		"message": "To change key assignments, go to $1"
+		"message": "Para cambiar las asignaciones de teclas, ve a $1"
 	},
 	"shortcutInstructionsDefault": {
-		"message": "To change key assignments, please refer to your browser's extension settings."
+		"message": "Para cambiar las asignaciones de teclas, consulta la configuración de extensiones de tu navegador."
 	},
 	"shortcutInstructionsEdge": {
-		"message": "To change key assignments, go to $1"
+		"message": "Para cambiar las asignaciones de teclas, ve a $1"
 	},
 	"shortcutInstructionsFirefox": {
-		"message": "To change key assignments, go to $1, click the gear icon, and select \"Manage Extension Shortcuts\"."
+		"message": "Para cambiar las asignaciones de teclas, ve a $1, haz clic en el icono de engranaje y selecciona \"Gestionar atajos de extensión\"."
 	},
 	"shortcutInstructionsIntro": {
-		"message": "Keyboard shortcuts give you quick access to clipper features."
+		"message": "Los atajos de teclado te dan acceso rápido a las funciones del clipper."
 	},
 	"shortcutInstructionsSafari": {
-		"message": "Keyboard shortcuts are not customizable on Safari."
+		"message": "Los atajos de teclado no son personalizables en Safari."
 	},
 	"shortcutNotSet": {
-		"message": "Not set"
+		"message": "No establecido"
 	},
 	"showActionsButton": {
-		"message": "Show actions button"
+		"message": "Mostrar botón de acciones"
 	},
 	"showActionsDescription": {
-		"message": "Allows you to inspect page variables from the clipper menu. Useful for seeing the variables that are available to use in templates."
+		"message": "Permite inspeccionar las variables de página desde el menú del clipper. Útil para ver las variables disponibles para usar en las plantillas."
 	},
 	"showPageVariables": {
-		"message": "Show page variables"
+		"message": "Mostrar variables de página"
 	},
 	"silentOpen": {
-		"message": "Save clipped note without opening it"
+		"message": "Guardar nota sin abrirla"
 	},
 	"silentOpenDescription": {
-		"message": "Clipped notes will be saved but will not open as a new tab. Obsidian will still be brought to the foreground."
+		"message": "Las notas se guardarán pero no se abrirán en una nueva pestaña. Obsidian seguirá siendo traído al primer plano."
 	},
 	"specificNoteName": {
-		"message": "Specific note name"
+		"message": "Nombre específico de la nota"
 	},
 	"systemDefault": {
-		"message": "System"
+		"message": "Sistema"
 	},
 	"template": {
-		"message": "Template"
+		"message": "Plantilla"
 	},
 	"templateCopied": {
-		"message": "Copied template JSON to clipboard"
+		"message": "Se copió el JSON de la plantilla al portapapeles"
 	},
 	"templateCopyError": {
-		"message": "Failed to copy template JSON to clipboard"
+		"message": "Error al copiar el JSON de la plantilla al portapapeles"
 	},
 	"templateErrorCount": {
-		"message": "There is an error in your template."
+		"message": "Hay un error en tu plantilla."
 	},
 	"templateErrorsCount": {
-		"message": "There are $1 errors in your template."
+		"message": "Hay $1 errores en tu plantilla."
 	},
 	"templateGroupContent": {
-		"message": "Content"
+		"message": "Contenido"
 	},
 	"templateGroupLocation": {
-		"message": "Location"
+		"message": "Ubicación"
 	},
 	"templateName": {
-		"message": "Template name"
+		"message": "Nombre de la plantilla"
 	},
 	"templateProperties": {
-		"message": "Properties"
+		"message": "Propiedades"
 	},
 	"templatePropertiesDescription": {
-		"message": "Properties to add to the top of the clipped note. Use variables to pre-populate data from the page."
+		"message": "Propiedades para agregar en la parte superior de la nota guardada. Usa variables para pre-poblar datos de la página."
 	},
 	"templateTriggers": {
-		"message": "Template triggers"
+		"message": "Activadores de plantilla"
 	},
 	"templateTriggersDescription": {
-		"message": "Define rules to automatically select this template if it matches a URL pattern or contains schema.org data. One rule per line."
+		"message": "Define reglas para seleccionar automáticamente esta plantilla si coincide con un patrón de URL o contiene datos de schema.org. Una regla por línea."
 	},
 	"templateValid": {
-		"message": "Template syntax is valid"
+		"message": "La sintaxis de la plantilla es válida"
 	},
 	"templatesHeading": {
-		"message": "Templates"
+		"message": "Plantillas"
 	},
 	"thinking": {
-		"message": "thinking"
+		"message": "pensando"
 	},
 	"unknownProvider": {
-		"message": "Unknown provider"
+		"message": "Proveedor desconocido"
 	},
 	"updateAvailable": {
-		"message": "An update is available."
+		"message": "Hay una actualización disponible."
 	},
 	"usingLatestVersion": {
-		"message": "You are using the latest version."
+		"message": "Estás usando la última versión."
 	},
 	"vault": {
-		"message": "Vault"
+		"message": "Bóveda"
 	},
 	"vaultDescription": {
-		"message": "Select the default vault for this template. Go to $link_start$general settings$link_end$ to add or remove vaults.",
+		"message": "Selecciona la bóveda predeterminada para esta plantilla. Ve a $link_start$ajustes generales$link_end$ para agregar o eliminar bóvedas.",
 		"placeholders": {
 			"link_end": {
 				"content": "</a>"
@@ -960,10 +960,10 @@
 		}
 	},
 	"vaults": {
-		"message": "Vaults"
+		"message": "Bóvedas"
 	},
 	"vaultsDescription": {
-		"message": "By default, clipped notes are saved to the currently open vault. You can add vaults here if you want the option to save to different vaults. Vault names must exactly match the name of the Obsidian vault. Press $strong_start$enter$strong_end$ to add a vault.",
+		"message": "Por defecto, las notas se guardan en la bóveda abierta actualmente. Puedes añadir bóvedas aquí si quieres la opción de guardar en diferentes bóvedas. Los nombres de las bóvedas deben coincidir exactamente con el nombre de la bóveda de Obsidian. Presiona $strong_start$enter$strong_end$ para añadir una bóveda.",
 		"placeholders": {
 			"strong_end": {
 				"content": "</strong>"
@@ -974,6 +974,6 @@
 		}
 	},
 	"version": {
-		"message": "Version"
+		"message": "Versión"
 	}
 }
