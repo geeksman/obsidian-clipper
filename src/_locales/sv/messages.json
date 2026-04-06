@@ -1,99 +1,99 @@
 {
 	"activity": {
-		"message": "Activity"
+		"message": "Aktivitet"
 	},
 	"addModel": {
-		"message": "+ Add model"
+		"message": "+ Lägg till modell"
 	},
 	"addModelTitle": {
-		"message": "Add model"
+		"message": "Lägg till modell"
 	},
 	"addProperty": {
-		"message": "+ Add property"
+		"message": "+ Lägg till egenskap"
 	},
 	"addProvider": {
-		"message": "+ Add provider"
+		"message": "+ Lägg till leverantör"
 	},
 	"addProviderTitle": {
-		"message": "Add provider"
+		"message": "Lägg till leverantör"
 	},
 	"addToObsidian": {
-		"message": "Add to Obsidian"
+		"message": "Lägg till i Obsidian"
 	},
 	"addVaultPlaceholder": {
-		"message": "Press enter to add a vault"
+		"message": "Tryck på retur för att lägga till ett valv"
 	},
 	"advanced": {
-		"message": "Advanced"
+		"message": "Avancerat"
 	},
 	"allProperties": {
-		"message": "All properties"
+		"message": "Alla egenskaper"
 	},
 	"allTime": {
-		"message": "All time"
+		"message": "All tid"
 	},
 	"alwaysShowHighlights": {
-		"message": "Always show highlights"
+		"message": "Visa alltid markeringar"
 	},
 	"alwaysShowHighlightsDescription": {
-		"message": "Display your saved highlights when you load a page. Turn off to only display highlights when highlighter mode is activated."
+		"message": "Visa dina sparade markeringar när du laddar en sida. Stäng av för att endast visa markeringar när markeringsläget är aktiverat."
 	},
 	"apiKeyMissing": {
-		"message": "No API key"
+		"message": "Ingen API-nyckel"
 	},
 	"apiKeysWarning": {
-		"message": "By using an external provider you agree to their terms and privacy policy. Interpreter requests are sent directly to the provider you choose. Obsidian does not gather or store any data about your requests."
+		"message": "Genom att använda en extern leverantör godkänner du deras villkor och sekretesspolicy. Tolkningsförfrågningar skickas direkt till leverantören du väljer. Obsidian samlar inte in eller lagrar någon data om dina förfrågningar."
 	},
 	"appendToDaily": {
-		"message": "Add to daily note, at the bottom"
+		"message": "Lägg till i daglig anteckning, i slutet"
 	},
 	"appendToExisting": {
-		"message": "Add to an existing note, at the bottom"
+		"message": "Lägg till i befintlig anteckning, i slutet"
 	},
 	"autoRunInterpreter": {
-		"message": "Automatically run"
+		"message": "Kör automatiskt"
 	},
 	"autoRunInterpreterDescription": {
-		"message": "Run prompt variables immediately if the template contains any. This will consume API credits with your model provider. Turn off if you only want to run interpreter manually."
+		"message": "Kör promptvariabler omedelbart om mallen innehåller några. Detta kommer att förbruka API-krediter hos din modellleverantör. Stäng av om du bara vill köra tolken manuellt."
 	},
 	"behavior": {
-		"message": "Behavior"
+		"message": "Beteende"
 	},
 	"byDay": {
-		"message": "Days"
+		"message": "Dagar"
 	},
 	"byMonth": {
-		"message": "Months"
+		"message": "Månader"
 	},
 	"byWeek": {
-		"message": "Weeks"
+		"message": "Veckor"
 	},
 	"cancel": {
-		"message": "Cancel"
+		"message": "Avbryt"
 	},
 	"cannotDeleteProvider": {
-		"message": "Cannot delete provider \"$1\" because it is being used by $2 model(s)."
+		"message": "Kan inte ta bort leverantören \"$1\" eftersom den används av $2 modell(er)."
 	},
 	"changelog": {
-		"message": "Changelog"
+		"message": "Ändringslogg"
 	},
 	"chooseFile": {
-		"message": "Choose a file"
+		"message": "Välj en fil"
 	},
 	"choosePropertiesFile": {
-		"message": "Choose properties file"
+		"message": "Välj egenskapsfil"
 	},
 	"chooseSettingsFile": {
-		"message": "Choose settings file"
+		"message": "Välj inställningsfil"
 	},
 	"chooseTemplateFile": {
-		"message": "Choose template file"
+		"message": "Välj mallfil"
 	},
 	"clipBehavior": {
-		"message": "Clip behavior"
+		"message": "Klippbeteende"
 	},
 	"clipBehaviorDescription": {
-		"message": "Choose how highlighted content is saved to Obsidian. Defines the $strong_start${{content}}$strong_end$ variable.",
+		"message": "Välj hur markerat innehåll sparas till Obsidian. Definierar variabeln $strong_start${{content}}$strong_end$.",
 		"placeholders": {
 			"strong_end": {
 				"content": "</strong>"
@@ -104,7 +104,7 @@
 		}
 	},
 	"clipboardError": {
-		"message": "Obsidian is not able to access your clipboard. Try the troubleshooting instructions here: $1",
+		"message": "Obsidian kan inte komma åt ditt urklipp. Prova felsökningsinstruktionerna här: $1",
 		"placeholders": {
 			"1": {
 				"content": "$1"
@@ -112,79 +112,79 @@
 		}
 	},
 	"close": {
-		"message": "Close"
+		"message": "Stäng"
 	},
 	"commandOpenClipper": {
-		"message": "Open Obsidian Clipper"
+		"message": "Öppna Obsidian Clipper"
 	},
 	"commandQuickClip": {
-		"message": "Quick clip"
+		"message": "Snabbklipp"
 	},
 	"commandToggleHighlighter": {
-		"message": "Toggle highlighter"
+		"message": "Växla markeringsläge"
 	},
 	"commandToggleReader": {
-		"message": "Toggle reader"
+		"message": "Växla läsvy"
 	},
 	"confirmDeleteTemplate": {
-		"message": "Are you sure you want to delete the template \"$1\"?"
+		"message": "Är du säker på att du vill ta bort mallen \"$1\"?"
 	},
 	"confirmReplaceSettings": {
-		"message": "This will replace all your current settings, including templates and properties. Are you sure you want to continue?"
+		"message": "Detta kommer att ersätta alla dina nuvarande inställningar, inklusive mallar och egenskaper. Är du säker på att du vill fortsätta?"
 	},
 	"copied": {
-		"message": "Copied!"
+		"message": "Kopierat!"
 	},
 	"copyAsJson": {
-		"message": "Copy as JSON"
+		"message": "Kopiera som JSON"
 	},
 	"copyToClipboard": {
-		"message": "Copy to clipboard"
+		"message": "Kopiera till urklipp"
 	},
 	"createNewNote": {
-		"message": "Create new note"
+		"message": "Skapa ny anteckning"
 	},
 	"custom": {
-		"message": "Custom"
+		"message": "Anpassad"
 	},
 	"dailyNoteFormat": {
-		"message": "Daily note format (e.g., YYYY-MM-DD)"
+		"message": "Format för daglig anteckning (t.ex. YYYY-MM-DD)"
 	},
 	"defaultInterpreterContext": {
-		"message": "Default interpreter context"
+		"message": "Standardkontext för tolk"
 	},
 	"defaultInterpreterContextDescription": {
-		"message": "Override the context used to interpret prompt variables. Variables can be used here."
+		"message": "Åsidosätt kontexten som används för att tolka promptvariabler. Variabler kan användas här."
 	},
 	"defaultTemplateName": {
-		"message": "Default"
+		"message": "Standard"
 	},
 	"delete": {
-		"message": "Delete"
+		"message": "Ta bort"
 	},
 	"deleteModelConfirm": {
-		"message": "Are you sure you want to delete this model?"
+		"message": "Är du säker på att du vill ta bort denna modell?"
 	},
 	"deleteProviderConfirm": {
-		"message": "Are you sure you want to delete this provider?"
+		"message": "Är du säker på att du vill ta bort denna leverantör?"
 	},
 	"disableHighlighter": {
-		"message": "Disable highlighter"
+		"message": "Inaktivera markering"
 	},
 	"disableReader": {
-		"message": "Disable reader"
+		"message": "Inaktivera läsvy"
 	},
 	"done": {
-		"message": "Done"
+		"message": "Klar"
 	},
 	"dragAndDropFile": {
-		"message": "Drag and drop file here"
+		"message": "Dra och släpp fil här"
 	},
 	"duplicate": {
-		"message": "Duplicate"
+		"message": "Duplicera"
 	},
 	"earlyAccessDescription": {
-		"message": "Use features that require the latest $link_start$early access version$link_end$ of Obsidian. Currently requires Obsidian 1.7.2 or later.",
+		"message": "Använd funktioner som kräver den senaste $link_start$early access-versionen$link_end$ av Obsidian. Kräver för närvarande Obsidian 1.7.2 eller senare.",
 		"placeholders": {
 			"link_end": {
 				"content": "</a>"
@@ -195,31 +195,31 @@
 		}
 	},
 	"earlyAccessFeatures": {
-		"message": "Early access features"
+		"message": "Early access-funktioner"
 	},
 	"editModel": {
-		"message": "Edit model"
+		"message": "Redigera modell"
 	},
 	"editProvider": {
-		"message": "Edit provider"
+		"message": "Redigera leverantör"
 	},
 	"editTemplate": {
-		"message": "Edit template"
+		"message": "Redigera mall"
 	},
 	"embedded": {
-		"message": "Embedded"
+		"message": "Inbäddad"
 	},
 	"enableHighlighter": {
-		"message": "Enable highlighter"
+		"message": "Aktivera markering"
 	},
 	"enableHighlighterDescription": {
-		"message": "Highlight content on web pages that you can save to Obsidian."
+		"message": "Markera innehåll på webbsidor som du kan spara till Obsidian."
 	},
 	"enableInterpreter": {
-		"message": "Enable interpreter"
+		"message": "Aktivera tolk"
 	},
 	"enableInterpreterDescription": {
-		"message": "Use natural language to extract data from pages. For example, you can use the template syntax $strong_start${{\"a summary of the page\"}}$strong_end$. Requires an API key or custom model configured below.  $link_start$Learn more$link_end$.",
+		"message": "Använd naturligt språk för att extrahera data från sidor. Till exempel kan du använda mallsyntaxen $strong_start${{\"en sammanfattning av sidan\"}}$strong_end$. Kräver en API-nyckel eller anpassad modell konfigurerad nedan. $link_start$Läs mer$link_end$.",
 		"placeholders": {
 			"link_end": {
 				"content": "</a>"
@@ -236,31 +236,31 @@
 		}
 	},
 	"enableReader": {
-		"message": "Open reading view"
+		"message": "Öppna läsvy"
 	},
 	"error": {
-		"message": "Error"
+		"message": "Fel"
 	},
 	"export": {
-		"message": "Export"
+		"message": "Exportera"
 	},
 	"exportAllSettings": {
-		"message": "Export all settings"
+		"message": "Exportera alla inställningar"
 	},
 	"exportAllSettingsDescription": {
-		"message": "Export all settings including templates and properties."
+		"message": "Exportera alla inställningar inklusive mallar och egenskaper."
 	},
 	"exportHighlights": {
-		"message": "Export highlights"
+		"message": "Exportera markeringar"
 	},
 	"exportHighlightsDescription": {
-		"message": "Export your highlights to a file."
+		"message": "Exportera dina markeringar till en fil."
 	},
 	"exportProperties": {
-		"message": "Export properties"
+		"message": "Exportera egenskaper"
 	},
 	"exportPropertiesDescription": {
-		"message": "Save Web Clipper properties to a $strong_start$types.json$strong_end$ file that can be imported into your Obsidian vault, or into Web Clipper on other devices.",
+		"message": "Spara Web Clipper-egenskaper till en $strong_start$types.json$strong_end$-fil som kan importeras till ditt Obsidian-valv eller till Web Clipper på andra enheter.",
 		"placeholders": {
 			"strong_end": {
 				"content": "</strong>"
@@ -271,121 +271,121 @@
 		}
 	},
 	"extensionDescription": {
-		"message": "Save content from the web in a private and durable format that you can access offline. The official browser extension for Obsidian."
+		"message": "Spara innehåll från webben i ett privat och hållbart format som du kan komma åt offline. Den officiella webbläsartillägget för Obsidian."
 	},
 	"extensionName": {
 		"message": "Obsidian Web Clipper"
 	},
 	"failedToCopyText": {
-		"message": "Failed to copy text"
+		"message": "Det gick inte att kopiera texten"
 	},
 	"failedToDeleteTemplate": {
-		"message": "Failed to delete template. Please try again."
+		"message": "Det gick inte att ta bort mallen. Försök igen."
 	},
 	"failedToDuplicateTemplate": {
-		"message": "Failed to duplicate template. Please try again."
+		"message": "Det gick inte att duplicera mallen. Försök igen."
 	},
 	"failedToExportHighlights": {
-		"message": "Failed to export highlights. Please check the console for more details."
+		"message": "Det gick inte att exportera markeringar. Kontrollera konsolen för mer information."
 	},
 	"failedToExportSettings": {
-		"message": "Failed to export settings. Please check the console for more details."
+		"message": "Det gick inte att exportera inställningar. Kontrollera konsolen för mer information."
 	},
 	"failedToExtractContent": {
-		"message": "Unable to extract page content."
+		"message": "Det gick inte att extrahera sidinnehållet."
 	},
 	"failedToImportTemplate": {
-		"message": "Error importing template. Please check the file and try again."
+		"message": "Fel vid import av mall. Kontrollera filen och försök igen."
 	},
 	"failedToInitialize": {
-		"message": "Please try reloading the extension."
+		"message": "Försök att ladda om tillägget."
 	},
 	"failedToInitializeContent": {
-		"message": "Unable to initialize page content."
+		"message": "Det gick inte att initiera sidinnehållet."
 	},
 	"failedToProcessInterpreter": {
-		"message": "Interpreter processing failed. Please try again."
+		"message": "Tolkbearbetningen misslyckades. Försök igen."
 	},
 	"failedToResetProviders": {
-		"message": "Failed to reset providers and models"
+		"message": "Det gick inte att återställa leverantörer och modeller"
 	},
 	"failedToResetTemplate": {
-		"message": "Failed to reset default template. Please try again."
+		"message": "Det gick inte att återställa standardmallen. Försök igen."
 	},
 	"failedToSave": {
-		"message": "Failed to save file"
+		"message": "Det gick inte att spara filen"
 	},
 	"failedToSaveFile": {
-		"message": "Failed to save file"
+		"message": "Det gick inte att spara filen"
 	},
 	"failedToSaveProvider": {
-		"message": "Failed to save provider. Please try again."
+		"message": "Det gick inte att spara leverantören. Försök igen."
 	},
 	"feedback": {
-		"message": "Feedback"
+		"message": "Återkoppling"
 	},
 	"feedbackDescription": {
-		"message": "How can we improve Web Clipper? Please visit our help page, where you can report bugs, suggest features, and get help with common issues."
+		"message": "Hur kan vi förbättra Web Clipper? Besök vår hjälpsida där du kan rapportera buggar, föreslå funktioner och få hjälp med vanliga problem."
 	},
 	"feedbackTitle": {
-		"message": "Thanks for your feedback"
+		"message": "Tack för din återkoppling"
 	},
 	"folder": {
-		"message": "Folder"
+		"message": "Mapp"
 	},
 	"general": {
-		"message": "General"
+		"message": "Allmänt"
 	},
 	"generalSettings": {
-		"message": "General settings"
+		"message": "Allmänna inställningar"
 	},
 	"getApiKeyHere": {
-		"message": "Get your $1 API key here."
+		"message": "Skaffa din $1 API-nyckel här."
 	},
 	"help": {
-		"message": "Help"
+		"message": "Hjälp"
 	},
 	"helpDescription": {
-		"message": "Learn how to use Web Clipper and get help troubleshooting."
+		"message": "Lär dig hur du använder Web Clipper och få hjälp med felsökning."
 	},
 	"highlightInline": {
-		"message": "Highlight the page content"
+		"message": "Markera sidinnehållet"
 	},
 	"highlightPage": {
-		"message": "Highlight page"
+		"message": "Markera sida"
 	},
 	"highlighter": {
-		"message": "Highlighter"
+		"message": "Markering"
 	},
 	"highlighterSettings": {
-		"message": "Highlighter"
+		"message": "Markering"
 	},
 	"history": {
-		"message": "History"
+		"message": "Historik"
 	},
 	"hotkeys": {
-		"message": "Hotkeys"
+		"message": "Kortkommandon"
 	},
 	"import": {
-		"message": "Import"
+		"message": "Importera"
 	},
 	"importAllSettings": {
-		"message": "Import all settings"
+		"message": "Importera alla inställningar"
 	},
 	"importAllSettingsDescription": {
-		"message": "Import all settings including templates and properties. This will replace your current configuration."
+		"message": "Importera alla inställningar inklusive mallar och egenskaper. Detta kommer att ersätta din nuvarande konfiguration."
 	},
 	"importFailed": {
-		"message": "Import failed. Please check the console for more details."
+		"message": "Importen misslyckades. Kontrollera konsolen för mer information."
 	},
 	"importModalTitle": {
-		"message": "Import"
+		"message": "Importera"
 	},
 	"importProperties": {
-		"message": "Import properties"
+		"message": "Importera egenskaper"
 	},
 	"importPropertiesDescription": {
-		"message": "To import your properties from Obsidian, locate the $strong_1_start$types.json$strong_1_end$ file in the $strong_2_start$.obsidian$strong_2_end$ folder within your vault. Note this folder is hidden by default on most operating systems.",
+		"message": "För att importera dina egenskaper från Obsidian, hitta $strong_1_start$types.json$strong_1_end$-filen i mappen $strong_2_start$.obsidian$strong_2_end$ i ditt valv. Observera att denna mapp är dold som standard på de flesta operativsystem.",
 		"placeholders": {
 			"strong_1_end": {
 				"content": "</strong>"
@@ -402,22 +402,22 @@
 		}
 	},
 	"importSettings": {
-		"message": "Import settings"
+		"message": "Importera inställningar"
 	},
 	"importTemplate": {
-		"message": "Import template"
+		"message": "Importera mall"
 	},
 	"interpret": {
-		"message": "interpret"
+		"message": "tolka"
 	},
 	"interpreter": {
-		"message": "Interpreter"
+		"message": "Tolk"
 	},
 	"interpreterContext": {
-		"message": "Interpreter context"
+		"message": "Tolkkontext"
 	},
 	"interpreterContextDescription": {
-		"message": "The context used to interpret prompt variables. Overrides the default context defined in $link_start$Interpreter settings$link_end$. Variables can be used here.",
+		"message": "Kontexten som används för att tolka promptvariabler. Åsidosätter standardkontexten som definierats i $link_start$Tolkinställningar$link_end$. Variabler kan användas här.",
 		"placeholders": {
 			"link_end": {
 				"content": "</a>"
@@ -428,82 +428,82 @@
 		}
 	},
 	"language": {
-		"message": "Language"
+		"message": "Språk"
 	},
 	"languageDescription": {
-		"message": "Choose the display language for the extension interface."
+		"message": "Välj visningsspråk för tilläggets gränssnitt."
 	},
 	"last30Days": {
-		"message": "Last 30 days"
+		"message": "Senaste 30 dagarna"
 	},
 	"lastUsed": {
-		"message": "Last used"
+		"message": "Senast använd"
 	},
 	"legacyMode": {
-		"message": "Legacy mode"
+		"message": "Äldre läge"
 	},
 	"legacyModeDescription": {
-		"message": "Uses the URI clipping method compatible with Obsidian 1.6.7 or earlier. Note that the length of the content you can clip is limited by your browser and OS. Some pages may fail without any errors."
+		"message": "Använder URI-klippmetoden som är kompatibel med Obsidian 1.6.7 eller tidigare. Observera att längden på innehållet du kan klippa är begränsad av din webbläsare och operativsystem. Vissa sidor kan misslyckas utan felmeddelanden."
 	},
 	"modelName": {
-		"message": "Display name"
+		"message": "Visningsnamn"
 	},
 	"modelNameDescription": {
-		"message": "The name of the model you want to display in the interface."
+		"message": "Namnet på modellen du vill visa i gränssnittet."
 	},
 	"modelProvider": {
-		"message": "Provider"
+		"message": "Leverantör"
 	},
 	"modelProviderDescription": {
-		"message": "Select the provider for this model."
+		"message": "Välj leverantören för denna modell."
 	},
 	"modelProviderPlaceholder": {
-		"message": "Provider"
+		"message": "Leverantör"
 	},
 	"modelRequiredFields": {
-		"message": "Model name, Provider, and Model ID are required."
+		"message": "Modellnamn, Leverantör och Modell-ID krävs."
 	},
 	"models": {
-		"message": "Models"
+		"message": "Modeller"
 	},
 	"modelsListFor": {
-		"message": "Models list for $1"
+		"message": "Modellista för $1"
 	},
 	"more": {
-		"message": "More"
+		"message": "Mer"
 	},
 	"newTemplate": {
-		"message": "New template"
+		"message": "Ny mall"
 	},
 	"noHighlights": {
-		"message": "Do nothing"
+		"message": "Gör ingenting"
 	},
 	"noTemplates": {
-		"message": "No templates available. Please add a template in the settings."
+		"message": "Inga mallar tillgängliga. Lägg till en mall i inställningarna."
 	},
 	"noUnusedProperties": {
-		"message": "No unused properties found."
+		"message": "Inga oanvända egenskaper hittades."
 	},
 	"noteContent": {
-		"message": "Note content"
+		"message": "Anteckningsinnehåll"
 	},
 	"noteContentDescription": {
-		"message": "Customize the content of the note. Use variables to pre-populate data from the page."
+		"message": "Anpassa innehållet i anteckningen. Använd variabler för att förfylla data från sidan."
 	},
 	"noteLocation": {
-		"message": "Note location"
+		"message": "Anteckningsplats"
 	},
 	"noteLocationDescription": {
-		"message": "The folder or path of the note."
+		"message": "Mappen eller sökvägen för anteckningen."
 	},
 	"noteName": {
-		"message": "Note name"
+		"message": "Anteckningsnamn"
 	},
 	"noteNameFormat": {
-		"message": "Note name"
+		"message": "Anteckningsnamn"
 	},
 	"noteNameFormatDescription": {
-		"message": "Format for the file name of the note. You can use variables like {{title}}, {{date}}, and {{published}} to pre-populate data from the page. $link_start$Learn more$link_end$.",
+		"message": "Format för filnamnet på anteckningen. Du kan använda variabler som {{title}}, {{date}} och {{published}} för att förfylla data från sidan. $link_start$Läs mer$link_end$.",
 		"placeholders": {
 			"link_end": {
 				"content": "</a>"
@@ -514,220 +514,220 @@
 		}
 	},
 	"notesAboutPage": {
-		"message": "Notes about this page..."
+		"message": "Anteckningar om denna sida..."
 	},
 	"onlyHttpSupported": {
-		"message": "This page cannot be clipped. Only http and https URLs are supported."
+		"message": "Denna sida kan inte klippas. Endast http- och https-URL:er stöds."
 	},
 	"open": {
-		"message": "Open"
+		"message": "Öppna"
 	},
 	"openBehaviorDescription": {
-		"message": "Choose how Web Clipper opens by default."
+		"message": "Välj hur Web Clipper öppnas som standard."
 	},
 	"openBehaviorTitle": {
-		"message": "Open behavior"
+		"message": "Öppningsbeteende"
 	},
 	"openEmbedded": {
-		"message": "Open in page"
+		"message": "Öppna på sidan"
 	},
 	"openSidePanel": {
-		"message": "Open side panel"
+		"message": "Öppna sidopanel"
 	},
 	"optional": {
-		"message": "(optional)"
+		"message": "(valfritt)"
 	},
 	"orPasteBelow": {
-		"message": "Or paste content below"
+		"message": "Eller klistra in innehåll nedan"
 	},
 	"overwriteNote": {
-		"message": "Overwrite note"
+		"message": "Skriv över anteckning"
 	},
 	"pageCannotBeClipped": {
-		"message": "This page cannot be clipped."
+		"message": "Denna sida kan inte klippas."
 	},
 	"pageVariables": {
-		"message": "Page variables"
+		"message": "Sidvariabler"
 	},
 	"pagesSaved": {
-		"message": "page saved"
+		"message": "sida sparad"
 	},
 	"pagesSavedPlural": {
-		"message": "pages saved"
+		"message": "sidor sparade"
 	},
 	"pasteJsonHere": {
-		"message": "Paste JSON here"
+		"message": "Klistra in JSON här"
 	},
 	"pleaseReload": {
-		"message": "Please try reloading the page."
+		"message": "Försök att ladda om sidan."
 	},
 	"popularModels": {
-		"message": "Popular models"
+		"message": "Populära modeller"
 	},
 	"popularModelsDescription": {
-		"message": "Choose from commonly used models or enter custom model details."
+		"message": "Välj bland vanligt använda modeller eller ange anpassade modelldetaljer."
 	},
 	"popup": {
 		"message": "Popup"
 	},
 	"prependToDaily": {
-		"message": "Add to daily note, at the top"
+		"message": "Lägg till i daglig anteckning, i början"
 	},
 	"prependToExisting": {
-		"message": "Add to an existing note, at the top"
+		"message": "Lägg till i befintlig anteckning, i början"
 	},
 	"preview": {
-		"message": "Preview"
+		"message": "Förhandsgranskning"
 	},
 	"processing": {
-		"message": "processing"
+		"message": "bearbetar"
 	},
 	"properties": {
-		"message": "Properties"
+		"message": "Egenskaper"
 	},
 	"propertiesSettings": {
-		"message": "Properties"
+		"message": "Egenskaper"
 	},
 	"propertyName": {
-		"message": "Property name"
+		"message": "Egenskapsnamn"
 	},
 	"propertyTypeCheckbox": {
-		"message": "Checkbox"
+		"message": "Kryssruta"
 	},
 	"propertyTypeDate": {
-		"message": "Date"
+		"message": "Datum"
 	},
 	"propertyTypeDatetime": {
-		"message": "Date & time"
+		"message": "Datum & tid"
 	},
 	"propertyTypeMultitext": {
-		"message": "List"
+		"message": "Lista"
 	},
 	"propertyTypeNumber": {
-		"message": "Number"
+		"message": "Nummer"
 	},
 	"propertyTypeText": {
 		"message": "Text"
 	},
 	"propertyValue": {
-		"message": "Property value"
+		"message": "Egenskapsvärde"
 	},
 	"provider": {
-		"message": "Provider"
+		"message": "Leverantör"
 	},
 	"providerApiKey": {
-		"message": "API key"
+		"message": "API-nyckel"
 	},
 	"providerApiKeyDescription": {
-		"message": "Your API key for this provider."
+		"message": "Din API-nyckel för denna leverantör."
 	},
 	"providerBaseUrl": {
-		"message": "Base URL"
+		"message": "Bas-URL"
 	},
 	"providerBaseUrlDescription": {
-		"message": "The API endpoint URL for this provider."
+		"message": "API-slutpunktens URL för denna leverantör."
 	},
 	"providerModelId": {
-		"message": "Model ID"
+		"message": "Modell-ID"
 	},
 	"providerModelIdDescription": {
-		"message": "The identifier of the model from your provider. Typically a short name without spaces."
+		"message": "Identifieraren för modellen från din leverantör. Vanligtvis ett kort namn utan mellanslag."
 	},
 	"providerModelIdPlaceholder": {
-		"message": "Model ID"
+		"message": "Modell-ID"
 	},
 	"providerName": {
-		"message": "Provider name"
+		"message": "Leverantörsnamn"
 	},
 	"providerNameDescription": {
-		"message": "Display name for this provider."
+		"message": "Visningsnamn för denna leverantör."
 	},
 	"providerPreset": {
-		"message": "Preset"
+		"message": "Förinställning"
 	},
 	"providerPresetDescription": {
-		"message": "Choose a provider or create a custom one."
+		"message": "Välj en leverantör eller skapa en anpassad."
 	},
 	"providerRequiredFields": {
-		"message": "Provider name and Base URL are required."
+		"message": "Leverantörsnamn och Bas-URL krävs."
 	},
 	"providers": {
-		"message": "Providers"
+		"message": "Leverantörer"
 	},
 	"rateExtensionDescription": {
-		"message": "Are you enjoying Web Clipper? Help us by giving it a rating."
+		"message": "Gillar du Web Clipper? Hjälp oss genom att ge det ett betyg."
 	},
 	"reader": {
-		"message": "Reader"
+		"message": "Läsare"
 	},
 	"readerAppearance": {
-		"message": "Appearance"
+		"message": "Utseende"
 	},
 	"readerAppearanceAuto": {
-		"message": "Auto"
+		"message": "Automatiskt"
 	},
 	"readerAppearanceDark": {
-		"message": "Dark"
+		"message": "Mörkt"
 	},
 	"readerAppearanceDescription": {
-		"message": "Choose light or dark appearance."
+		"message": "Välj ljust eller mörkt utseende."
 	},
 	"readerAppearanceLight": {
-		"message": "Light"
+		"message": "Ljust"
 	},
 	"readerBlendImages": {
-		"message": "Blend images"
+		"message": "Blanda in bilder"
 	},
 	"readerBlendImagesDescription": {
-		"message": "Blend images with the page background."
+		"message": "Blanda in bilder med sidans bakgrund."
 	},
 	"readerCloseImageViewer": {
-		"message": "Close image viewer"
+		"message": "Stäng bildvisaren"
 	},
 	"readerCollapseComment": {
-		"message": "Collapse comment"
+		"message": "Fäll ihop kommentar"
 	},
 	"readerColorLinks": {
-		"message": "Color links"
+		"message": "Färga länkar"
 	},
 	"readerColorSchemeDefault": {
-		"message": "Default"
+		"message": "Standard"
 	},
 	"readerCustomCss": {
-		"message": "Custom CSS"
+		"message": "Anpassad CSS"
 	},
 	"readerCustomCssDescription": {
-		"message": "CSS applied automatically in reading view."
+		"message": "CSS som tillämpas automatiskt i läsvyn."
 	},
 	"readerDarkTheme": {
-		"message": "Dark mode theme"
+		"message": "Tema för mörkt läge"
 	},
 	"readerDarkThemeDescription": {
-		"message": "Use a different theme in dark mode."
+		"message": "Använd ett annat tema i mörkt läge."
 	},
 	"readerError": {
-		"message": "Failed to extract content."
+		"message": "Det gick inte att extrahera innehåll."
 	},
 	"readerFont": {
-		"message": "Font options"
+		"message": "Teckensnittsalternativ"
 	},
 	"readerFontDefault": {
-		"message": "Default"
+		"message": "Standard"
 	},
 	"readerFontDescription": {
-		"message": "Add fonts installed on your system. Press enter to add a font."
+		"message": "Lägg till teckensnitt som är installerade på ditt system. Tryck på Enter för att lägga till ett teckensnitt."
 	},
 	"readerFontNotFound": {
-		"message": "Not found"
+		"message": "Hittades inte"
 	},
 	"readerFontPlaceholder": {
-		"message": "Press enter to add a font"
+		"message": "Tryck på Enter för att lägga till ett teckensnitt"
 	},
 	"readerFontSetDefault": {
-		"message": "Set default"
+		"message": "Ange som standard"
 	},
 	"readerFontSize": {
-		"message": "Base font size"
+		"message": "Grundläggande teckenstorlek"
 	},
 	"readerFontSystem": {
 		"message": "System"
@@ -739,217 +739,217 @@
 		"message": "Serif"
 	},
 	"readerFonts": {
-		"message": "Fonts"
+		"message": "Teckensnitt"
 	},
 	"readerFootnotes": {
-		"message": "Footnotes"
+		"message": "Fotnoter"
 	},
 	"readerImages": {
-		"message": "Images"
+		"message": "Bilder"
 	},
 	"readerLineHeight": {
-		"message": "Line height"
+		"message": "Radhöjd"
 	},
 	"readerLineWidth": {
-		"message": "Line width"
+		"message": "Radbredd"
 	},
 	"readerLoading": {
-		"message": "Defuddling…"
+		"message": "Rensar…"
 	},
 	"readerSettings": {
-		"message": "Reader settings"
+		"message": "Läsarinställningar"
 	},
 	"readerTheme": {
-		"message": "Theme"
+		"message": "Tema"
 	},
 	"readerThemeDescription": {
-		"message": "Choose the colors used in reading view."
+		"message": "Välj färgerna som används i läsvyn."
 	},
 	"readerThemeSection": {
-		"message": "Theme"
+		"message": "Tema"
 	},
 	"readerTypography": {
-		"message": "Typography"
+		"message": "Typografi"
 	},
 	"readerViewFullSize": {
-		"message": "View full size"
+		"message": "Visa i full storlek"
 	},
 	"recommended": {
-		"message": "recommended"
+		"message": "rekommenderad"
 	},
 	"refresh": {
-		"message": "Refresh"
+		"message": "Uppdatera"
 	},
 	"remove": {
-		"message": "Remove"
+		"message": "Ta bort"
 	},
 	"removeProperty": {
-		"message": "Remove property"
+		"message": "Ta bort egenskap"
 	},
 	"removeUnusedProperties": {
-		"message": "Remove unused properties"
+		"message": "Ta bort oanvända egenskaper"
 	},
 	"removeUnusedPropertiesDescription": {
-		"message": "Remove all properties that are not used in any template."
+		"message": "Ta bort alla egenskaper som inte används i någon mall."
 	},
 	"removeVault": {
-		"message": "Remove vault"
+		"message": "Ta bort valv"
 	},
 	"replaceContent": {
-		"message": "Replace the page content"
+		"message": "Ersätt sidinnehållet"
 	},
 	"reset": {
-		"message": "Reset"
+		"message": "Återställ"
 	},
 	"resetDefaultTemplate": {
-		"message": "Reset default template"
+		"message": "Återställ standardmall"
 	},
 	"resetDefaultTemplateDescription": {
-		"message": "Remove any changes you've made to the default template."
+		"message": "Ta bort alla ändringar du gjort i standardmallen."
 	},
 	"resetProvidersAndModels": {
-		"message": "Reset default models"
+		"message": "Återställ standardmodeller"
 	},
 	"resetProvidersAndModelsDescription": {
-		"message": "Reset providers and models to the default settings."
+		"message": "Återställ leverantörer och modeller till standardinställningarna."
 	},
 	"save": {
-		"message": "Save"
+		"message": "Spara"
 	},
 	"saveBehaviorDescription": {
-		"message": "Choose the default option for saving pages. Alternate options appear in the dropdown menu next to the main button."
+		"message": "Välj standardalternativet för att spara sidor. Alternativa alternativ visas i rullgardinsmenyn bredvid huvudknappen."
 	},
 	"saveBehaviorLabel": {
-		"message": "Save behavior"
+		"message": "Spara beteende"
 	},
 	"saveFile": {
-		"message": "Save file..."
+		"message": "Spara fil..."
 	},
 	"searchVariables": {
-		"message": "Search variables..."
+		"message": "Sök variabler..."
 	},
 	"selectProvider": {
-		"message": "Select a provider"
+		"message": "Välj en leverantör"
 	},
 	"selectTemplateToExport": {
-		"message": "Please select a template to export."
+		"message": "Välj en mall att exportera."
 	},
 	"settings": {
-		"message": "Settings"
+		"message": "Inställningar"
 	},
 	"settingsHeading": {
-		"message": "Settings"
+		"message": "Inställningar"
 	},
 	"settingsImportSuccess": {
-		"message": "All settings imported successfully. Please refresh the page to see the changes."
+		"message": "Alla inställningar importerades framgångsrikt. Uppdatera sidan för att se ändringarna."
 	},
 	"share": {
-		"message": "Share..."
+		"message": "Dela..."
 	},
 	"shortcutInstructionsBrave": {
-		"message": "To change key assignments, go to $1"
+		"message": "För att ändra tangenttilldelningar, gå till $1"
 	},
 	"shortcutInstructionsChrome": {
-		"message": "To change key assignments, go to $1"
+		"message": "För att ändra tangenttilldelningar, gå till $1"
 	},
 	"shortcutInstructionsDefault": {
-		"message": "To change key assignments, please refer to your browser's extension settings."
+		"message": "För att ändra tangenttilldelningar, se din webbläsares tilläggsinställningar."
 	},
 	"shortcutInstructionsEdge": {
-		"message": "To change key assignments, go to $1"
+		"message": "För att ändra tangenttilldelningar, gå till $1"
 	},
 	"shortcutInstructionsFirefox": {
-		"message": "To change key assignments, go to $1, click the gear icon, and select \"Manage Extension Shortcuts\"."
+		"message": "För att ändra tangenttilldelningar, gå till $1, klicka på kugghjulsikonen och välj \"Hantera tilläggsgenvägar\""
 	},
 	"shortcutInstructionsIntro": {
-		"message": "Keyboard shortcuts give you quick access to clipper features."
+		"message": "Kortkommandon ger dig snabb åtkomst till clipper-funktioner."
 	},
 	"shortcutInstructionsSafari": {
-		"message": "Keyboard shortcuts are not customizable on Safari."
+		"message": "Kortkommandon kan inte anpassas i Safari."
 	},
 	"shortcutNotSet": {
-		"message": "Not set"
+		"message": "Inte inställd"
 	},
 	"showActionsButton": {
-		"message": "Show actions button"
+		"message": "Visa åtgärdsknapp"
 	},
 	"showActionsDescription": {
-		"message": "Allows you to inspect page variables from the clipper menu. Useful for seeing the variables that are available to use in templates."
+		"message": "Låter dig inspektera sidvariabler från clipper-menyn. Användbart för att se vilka variabler som finns tillgängliga att använda i mallar."
 	},
 	"showPageVariables": {
-		"message": "Show page variables"
+		"message": "Visa sidvariabler"
 	},
 	"silentOpen": {
-		"message": "Save clipped note without opening it"
+		"message": "Spara klippt anteckning utan att öppna den"
 	},
 	"silentOpenDescription": {
-		"message": "Clipped notes will be saved but will not open as a new tab. Obsidian will still be brought to the foreground."
+		"message": "Klippta anteckningar kommer att sparas men inte öppnas som en ny flik. Obsidian kommer fortfarande att flyttas till förgrunden."
 	},
 	"specificNoteName": {
-		"message": "Specific note name"
+		"message": "Specifikt anteckningsnamn"
 	},
 	"systemDefault": {
 		"message": "System"
 	},
 	"template": {
-		"message": "Template"
+		"message": "Mall"
 	},
 	"templateCopied": {
-		"message": "Copied template JSON to clipboard"
+		"message": "Mall-JSON kopierad till urklipp"
 	},
 	"templateCopyError": {
-		"message": "Failed to copy template JSON to clipboard"
+		"message": "Det gick inte att kopiera mall-JSON till urklipp"
 	},
 	"templateErrorCount": {
-		"message": "There is an error in your template."
+		"message": "Det finns ett fel i din mall."
 	},
 	"templateErrorsCount": {
-		"message": "There are $1 errors in your template."
+		"message": "Det finns $1 fel i din mall."
 	},
 	"templateGroupContent": {
-		"message": "Content"
+		"message": "Innehåll"
 	},
 	"templateGroupLocation": {
-		"message": "Location"
+		"message": "Plats"
 	},
 	"templateName": {
-		"message": "Template name"
+		"message": "Mallnamn"
 	},
 	"templateProperties": {
-		"message": "Properties"
+		"message": "Egenskaper"
 	},
 	"templatePropertiesDescription": {
-		"message": "Properties to add to the top of the clipped note. Use variables to pre-populate data from the page."
+		"message": "Egenskaper att lägga till överst i den klippta anteckningen. Använd variabler för att förfylla data från sidan."
 	},
 	"templateTriggers": {
-		"message": "Template triggers"
+		"message": "Mallutlösare"
 	},
 	"templateTriggersDescription": {
-		"message": "Define rules to automatically select this template if it matches a URL pattern or contains schema.org data. One rule per line."
+		"message": "Definiera regler för att automatiskt välja denna mall om den matchar ett URL-mönster eller innehåller schema.org-data. En regel per rad."
 	},
 	"templateValid": {
-		"message": "Template syntax is valid"
+		"message": "Mallens syntax är giltig"
 	},
 	"templatesHeading": {
-		"message": "Templates"
+		"message": "Mallar"
 	},
 	"thinking": {
-		"message": "thinking"
+		"message": "tänker"
 	},
 	"unknownProvider": {
-		"message": "Unknown provider"
+		"message": "Okänd leverantör"
 	},
 	"updateAvailable": {
-		"message": "An update is available."
+		"message": "En uppdatering finns tillgänglig."
 	},
 	"usingLatestVersion": {
-		"message": "You are using the latest version."
+		"message": "Du använder den senaste versionen."
 	},
 	"vault": {
-		"message": "Vault"
+		"message": "Valv"
 	},
 	"vaultDescription": {
-		"message": "Select the default vault for this template. Go to $link_start$general settings$link_end$ to add or remove vaults.",
+		"message": "Välj standardvalvet för denna mall. Gå till $link_start$allmänna inställningar$link_end$ för att lägga till eller ta bort valv.",
 		"placeholders": {
 			"link_end": {
 				"content": "</a>"
@@ -960,10 +960,10 @@
 		}
 	},
 	"vaults": {
-		"message": "Vaults"
+		"message": "Valv"
 	},
 	"vaultsDescription": {
-		"message": "By default, clipped notes are saved to the currently open vault. You can add vaults here if you want the option to save to different vaults. Vault names must exactly match the name of the Obsidian vault. Press $strong_start$enter$strong_end$ to add a vault.",
+		"message": "Som standard sparas klippta anteckningar i det för närvarande öppna valvet. Du kan lägga till valv här om du vill ha möjlighet att spara i olika valv. Valvnamn måste exakt matcha namnet på Obsidian-valvet. Tryck $strong_start$retur$strong_end$ för att lägga till ett valv.",
 		"placeholders": {
 			"strong_end": {
 				"content": "</strong>"
