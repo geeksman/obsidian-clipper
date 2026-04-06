@@ -1,99 +1,99 @@
 {
 	"activity": {
-		"message": "Activity"
+		"message": "Aktivita"
 	},
 	"addModel": {
-		"message": "+ Add model"
+		"message": "+ Pridať model"
 	},
 	"addModelTitle": {
-		"message": "Add model"
+		"message": "Pridať model"
 	},
 	"addProperty": {
-		"message": "+ Add property"
+		"message": "+ Pridať vlastnosť"
 	},
 	"addProvider": {
-		"message": "+ Add provider"
+		"message": "+ Pridať poskytovateľa"
 	},
 	"addProviderTitle": {
-		"message": "Add provider"
+		"message": "Pridať poskytovateľa"
 	},
 	"addToObsidian": {
-		"message": "Add to Obsidian"
+		"message": "Pridať do Obsidianu"
 	},
 	"addVaultPlaceholder": {
-		"message": "Press enter to add a vault"
+		"message": "Stlačte Enter na pridanie vaultu"
 	},
 	"advanced": {
-		"message": "Advanced"
+		"message": "Pokročilé"
 	},
 	"allProperties": {
-		"message": "All properties"
+		"message": "Všetky vlastnosti"
 	},
 	"allTime": {
-		"message": "All time"
+		"message": "Za celé obdobie"
 	},
 	"alwaysShowHighlights": {
-		"message": "Always show highlights"
+		"message": "Vždy zobrazovať zvýraznenia"
 	},
 	"alwaysShowHighlightsDescription": {
-		"message": "Display your saved highlights when you load a page. Turn off to only display highlights when highlighter mode is activated."
+		"message": "Zobrazovať uložené zvýraznenia pri načítaní stránky. Vypnite, ak chcete zvýraznenia zobrazovať iba pri aktivovanom režime zvýrazňovania."
 	},
 	"apiKeyMissing": {
-		"message": "No API key"
+		"message": "Chýba API kľúč"
 	},
 	"apiKeysWarning": {
-		"message": "By using an external provider you agree to their terms and privacy policy. Interpreter requests are sent directly to the provider you choose. Obsidian does not gather or store any data about your requests."
+		"message": "Používaním externého poskytovateľa súhlasíte s jeho podmienkami a zásadami ochrany súkromia. Požiadavky tlmočníka sa odosielajú priamo poskytovateľovi, ktorého si vyberiete. Obsidian nezhromažďuje ani neukladá žiadne údaje o vašich požiadavkách."
 	},
 	"appendToDaily": {
-		"message": "Add to daily note, at the bottom"
+		"message": "Pridať do dennej poznámky, na koniec"
 	},
 	"appendToExisting": {
-		"message": "Add to an existing note, at the bottom"
+		"message": "Pridať do existujúcej poznámky, na koniec"
 	},
 	"autoRunInterpreter": {
-		"message": "Automatically run"
+		"message": "Spúšťať automaticky"
 	},
 	"autoRunInterpreterDescription": {
-		"message": "Run prompt variables immediately if the template contains any. This will consume API credits with your model provider. Turn off if you only want to run interpreter manually."
+		"message": "Okamžite spustiť premenné výzvy, ak ich šablóna obsahuje. Tým sa spotrebujú API kredity u vášho poskytovateľa modelu. Vypnite, ak chcete tlmočníka spúšťať iba manuálne."
 	},
 	"behavior": {
-		"message": "Behavior"
+		"message": "Správanie"
 	},
 	"byDay": {
-		"message": "Days"
+		"message": "Dni"
 	},
 	"byMonth": {
-		"message": "Months"
+		"message": "Mesiace"
 	},
 	"byWeek": {
-		"message": "Weeks"
+		"message": "Týždne"
 	},
 	"cancel": {
-		"message": "Cancel"
+		"message": "Zrušiť"
 	},
 	"cannotDeleteProvider": {
-		"message": "Cannot delete provider \"$1\" because it is being used by $2 model(s)."
+		"message": "Nie je možné odstrániť poskytovateľa „$1“, pretože ho používa $2 model(ov)."
 	},
 	"changelog": {
-		"message": "Changelog"
+		"message": "Zoznam zmien"
 	},
 	"chooseFile": {
-		"message": "Choose a file"
+		"message": "Vybrať súbor"
 	},
 	"choosePropertiesFile": {
-		"message": "Choose properties file"
+		"message": "Vybrať súbor vlastností"
 	},
 	"chooseSettingsFile": {
-		"message": "Choose settings file"
+		"message": "Vybrať súbor nastavení"
 	},
 	"chooseTemplateFile": {
-		"message": "Choose template file"
+		"message": "Vybrať súbor šablóny"
 	},
 	"clipBehavior": {
-		"message": "Clip behavior"
+		"message": "Správanie výstrižku"
 	},
 	"clipBehaviorDescription": {
-		"message": "Choose how highlighted content is saved to Obsidian. Defines the $strong_start${{content}}$strong_end$ variable.",
+		"message": "Vyberte, ako sa zvýraznený obsah ukladá do Obsidianu. Definuje premennú $strong_start${{content}}$strong_end$.",
 		"placeholders": {
 			"strong_end": {
 				"content": "</strong>"
@@ -104,7 +104,7 @@
 		}
 	},
 	"clipboardError": {
-		"message": "Obsidian is not able to access your clipboard. Try the troubleshooting instructions here: $1",
+		"message": "Obsidian nemá prístup k vašej schránke. Skúste pokyny na riešenie problémov tu: $1",
 		"placeholders": {
 			"1": {
 				"content": "$1"
@@ -112,79 +112,79 @@
 		}
 	},
 	"close": {
-		"message": "Close"
+		"message": "Zavrieť"
 	},
 	"commandOpenClipper": {
-		"message": "Open Obsidian Clipper"
+		"message": "Otvoriť Obsidian Clipper"
 	},
 	"commandQuickClip": {
-		"message": "Quick clip"
+		"message": "Rýchly výstrižok"
 	},
 	"commandToggleHighlighter": {
-		"message": "Toggle highlighter"
+		"message": "Prepnúť zvýrazňovač"
 	},
 	"commandToggleReader": {
-		"message": "Toggle reader"
+		"message": "Prepnúť čítačku"
 	},
 	"confirmDeleteTemplate": {
-		"message": "Are you sure you want to delete the template \"$1\"?"
+		"message": "Naozaj chcete odstrániť šablónu „$1“?"
 	},
 	"confirmReplaceSettings": {
-		"message": "This will replace all your current settings, including templates and properties. Are you sure you want to continue?"
+		"message": "Týmto sa nahradia všetky vaše aktuálne nastavenia vrátane šablón a vlastností. Naozaj chcete pokračovať?"
 	},
 	"copied": {
-		"message": "Copied!"
+		"message": "Skopírované!"
 	},
 	"copyAsJson": {
-		"message": "Copy as JSON"
+		"message": "Kopírovať ako JSON"
 	},
 	"copyToClipboard": {
-		"message": "Copy to clipboard"
+		"message": "Kopírovať do schránky"
 	},
 	"createNewNote": {
-		"message": "Create new note"
+		"message": "Vytvoriť novú poznámku"
 	},
 	"custom": {
-		"message": "Custom"
+		"message": "Vlastné"
 	},
 	"dailyNoteFormat": {
-		"message": "Daily note format (e.g., YYYY-MM-DD)"
+		"message": "Formát dennej poznámky (napr. YYYY-MM-DD)"
 	},
 	"defaultInterpreterContext": {
-		"message": "Default interpreter context"
+		"message": "Predvolený kontext tlmočníka"
 	},
 	"defaultInterpreterContextDescription": {
-		"message": "Override the context used to interpret prompt variables. Variables can be used here."
+		"message": "Prepísať kontext používaný na interpretáciu premenných výzvy. Premenné tu možno použiť."
 	},
 	"defaultTemplateName": {
-		"message": "Default"
+		"message": "Predvolené"
 	},
 	"delete": {
-		"message": "Delete"
+		"message": "Odstrániť"
 	},
 	"deleteModelConfirm": {
-		"message": "Are you sure you want to delete this model?"
+		"message": "Naozaj chcete odstrániť tento model?"
 	},
 	"deleteProviderConfirm": {
-		"message": "Are you sure you want to delete this provider?"
+		"message": "Naozaj chcete odstrániť tohto poskytovateľa?"
 	},
 	"disableHighlighter": {
-		"message": "Disable highlighter"
+		"message": "Vypnúť zvýrazňovač"
 	},
 	"disableReader": {
-		"message": "Disable reader"
+		"message": "Vypnúť čítačku"
 	},
 	"done": {
-		"message": "Done"
+		"message": "Hotovo"
 	},
 	"dragAndDropFile": {
-		"message": "Drag and drop file here"
+		"message": "Presuňte sem súbor"
 	},
 	"duplicate": {
-		"message": "Duplicate"
+		"message": "Duplikovať"
 	},
 	"earlyAccessDescription": {
-		"message": "Use features that require the latest $link_start$early access version$link_end$ of Obsidian. Currently requires Obsidian 1.7.2 or later.",
+		"message": "Používajte funkcie, ktoré vyžadujú najnovšiu $link_start$verziu s predbežným prístupom$link_end$ Obsidianu. Aktuálne vyžaduje Obsidian 1.7.2 alebo novší.",
 		"placeholders": {
 			"link_end": {
 				"content": "</a>"
@@ -195,31 +195,31 @@
 		}
 	},
 	"earlyAccessFeatures": {
-		"message": "Early access features"
+		"message": "Funkcie predbežného prístupu"
 	},
 	"editModel": {
-		"message": "Edit model"
+		"message": "Upraviť model"
 	},
 	"editProvider": {
-		"message": "Edit provider"
+		"message": "Upraviť poskytovateľa"
 	},
 	"editTemplate": {
-		"message": "Edit template"
+		"message": "Upraviť šablónu"
 	},
 	"embedded": {
-		"message": "Embedded"
+		"message": "Vložené"
 	},
 	"enableHighlighter": {
-		"message": "Enable highlighter"
+		"message": "Zapnúť zvýrazňovač"
 	},
 	"enableHighlighterDescription": {
-		"message": "Highlight content on web pages that you can save to Obsidian."
+		"message": "Zvýrazňujte obsah na webových stránkach, ktorý môžete uložiť do Obsidianu."
 	},
 	"enableInterpreter": {
-		"message": "Enable interpreter"
+		"message": "Zapnúť tlmočníka"
 	},
 	"enableInterpreterDescription": {
-		"message": "Use natural language to extract data from pages. For example, you can use the template syntax $strong_start${{\"a summary of the page\"}}$strong_end$. Requires an API key or custom model configured below.  $link_start$Learn more$link_end$.",
+		"message": "Použite prirodzený jazyk na extrahovanie údajov zo stránok. Napríklad môžete použiť syntax šablóny $strong_start${{\"a summary of the page\"}}$strong_end$. Vyžaduje API kľúč alebo vlastný model nakonfigurovaný nižšie. $link_start$Zistiť viac$link_end$.",
 		"placeholders": {
 			"link_end": {
 				"content": "</a>"
@@ -236,31 +236,31 @@
 		}
 	},
 	"enableReader": {
-		"message": "Open reading view"
+		"message": "Otvoriť režim čítania"
 	},
 	"error": {
-		"message": "Error"
+		"message": "Chyba"
 	},
 	"export": {
-		"message": "Export"
+		"message": "Exportovať"
 	},
 	"exportAllSettings": {
-		"message": "Export all settings"
+		"message": "Exportovať všetky nastavenia"
 	},
 	"exportAllSettingsDescription": {
-		"message": "Export all settings including templates and properties."
+		"message": "Exportovať všetky nastavenia vrátane šablón a vlastností."
 	},
 	"exportHighlights": {
-		"message": "Export highlights"
+		"message": "Exportovať zvýraznenia"
 	},
 	"exportHighlightsDescription": {
-		"message": "Export your highlights to a file."
+		"message": "Exportovať vaše zvýraznenia do súboru."
 	},
 	"exportProperties": {
-		"message": "Export properties"
+		"message": "Exportovať vlastnosti"
 	},
 	"exportPropertiesDescription": {
-		"message": "Save Web Clipper properties to a $strong_start$types.json$strong_end$ file that can be imported into your Obsidian vault, or into Web Clipper on other devices.",
+		"message": "Uložiť vlastnosti Web Clippera do súboru $strong_start$types.json$strong_end$, ktorý možno importovať do vášho Obsidian vaultu alebo do Web Clippera na iných zariadeniach.",
 		"placeholders": {
 			"strong_end": {
 				"content": "</strong>"
@@ -271,121 +271,121 @@
 		}
 	},
 	"extensionDescription": {
-		"message": "Save content from the web in a private and durable format that you can access offline. The official browser extension for Obsidian."
+		"message": "Ukladajte obsah z webu v súkromnom a trvácnom formáte, ku ktorému máte prístup aj offline. Oficiálne rozšírenie prehliadača pre Obsidian."
 	},
 	"extensionName": {
 		"message": "Obsidian Web Clipper"
 	},
 	"failedToCopyText": {
-		"message": "Failed to copy text"
+		"message": "Nepodarilo sa skopírovať text"
 	},
 	"failedToDeleteTemplate": {
-		"message": "Failed to delete template. Please try again."
+		"message": "Nepodarilo sa odstrániť šablónu. Skúste to znova."
 	},
 	"failedToDuplicateTemplate": {
-		"message": "Failed to duplicate template. Please try again."
+		"message": "Nepodarilo sa duplikovať šablónu. Skúste to znova."
 	},
 	"failedToExportHighlights": {
-		"message": "Failed to export highlights. Please check the console for more details."
+		"message": "Nepodarilo sa exportovať zvýraznenia. Ďalšie podrobnosti nájdete v konzole."
 	},
 	"failedToExportSettings": {
-		"message": "Failed to export settings. Please check the console for more details."
+		"message": "Nepodarilo sa exportovať nastavenia. Ďalšie podrobnosti nájdete v konzole."
 	},
 	"failedToExtractContent": {
-		"message": "Unable to extract page content."
+		"message": "Nepodarilo sa extrahovať obsah stránky."
 	},
 	"failedToImportTemplate": {
-		"message": "Error importing template. Please check the file and try again."
+		"message": "Chyba pri importe šablóny. Skontrolujte súbor a skúste to znova."
 	},
 	"failedToInitialize": {
-		"message": "Please try reloading the extension."
+		"message": "Skúste rozšírenie znovu načítať."
 	},
 	"failedToInitializeContent": {
-		"message": "Unable to initialize page content."
+		"message": "Nepodarilo sa inicializovať obsah stránky."
 	},
 	"failedToProcessInterpreter": {
-		"message": "Interpreter processing failed. Please try again."
+		"message": "Spracovanie tlmočníkom zlyhalo. Skúste to znova."
 	},
 	"failedToResetProviders": {
-		"message": "Failed to reset providers and models"
+		"message": "Nepodarilo sa obnoviť poskytovateľov a modely"
 	},
 	"failedToResetTemplate": {
-		"message": "Failed to reset default template. Please try again."
+		"message": "Nepodarilo sa obnoviť predvolenú šablónu. Skúste to znova."
 	},
 	"failedToSave": {
-		"message": "Failed to save file"
+		"message": "Nepodarilo sa uložiť súbor"
 	},
 	"failedToSaveFile": {
-		"message": "Failed to save file"
+		"message": "Nepodarilo sa uložiť súbor"
 	},
 	"failedToSaveProvider": {
-		"message": "Failed to save provider. Please try again."
+		"message": "Nepodarilo sa uložiť poskytovateľa. Skúste to znova."
 	},
 	"feedback": {
-		"message": "Feedback"
+		"message": "Spätná väzba"
 	},
 	"feedbackDescription": {
-		"message": "How can we improve Web Clipper? Please visit our help page, where you can report bugs, suggest features, and get help with common issues."
+		"message": "Ako môžeme zlepšiť Web Clipper? Navštívte našu stránku pomoci, kde môžete nahlásiť chyby, navrhnúť funkcie a získať pomoc s bežnými problémami."
 	},
 	"feedbackTitle": {
-		"message": "Thanks for your feedback"
+		"message": "Ďakujeme za vašu spätnú väzbu"
 	},
 	"folder": {
-		"message": "Folder"
+		"message": "Priečinok"
 	},
 	"general": {
-		"message": "General"
+		"message": "Všeobecné"
 	},
 	"generalSettings": {
-		"message": "General settings"
+		"message": "Všeobecné nastavenia"
 	},
 	"getApiKeyHere": {
-		"message": "Get your $1 API key here."
+		"message": "Získajte svoj API kľúč pre $1 tu."
 	},
 	"help": {
-		"message": "Help"
+		"message": "Pomoc"
 	},
 	"helpDescription": {
-		"message": "Learn how to use Web Clipper and get help troubleshooting."
+		"message": "Zistite, ako používať Web Clipper, a získajte pomoc pri riešení problémov."
 	},
 	"highlightInline": {
-		"message": "Highlight the page content"
+		"message": "Zvýrazniť obsah stránky"
 	},
 	"highlightPage": {
-		"message": "Highlight page"
+		"message": "Zvýrazniť stránku"
 	},
 	"highlighter": {
-		"message": "Highlighter"
+		"message": "Zvýrazňovač"
 	},
 	"highlighterSettings": {
-		"message": "Highlighter"
+		"message": "Zvýrazňovač"
 	},
 	"history": {
-		"message": "History"
+		"message": "História"
 	},
 	"hotkeys": {
-		"message": "Hotkeys"
+		"message": "Klávesové skratky"
 	},
 	"import": {
-		"message": "Import"
+		"message": "Importovať"
 	},
 	"importAllSettings": {
-		"message": "Import all settings"
+		"message": "Importovať všetky nastavenia"
 	},
 	"importAllSettingsDescription": {
-		"message": "Import all settings including templates and properties. This will replace your current configuration."
+		"message": "Importovať všetky nastavenia vrátane šablón a vlastností. Týmto sa nahradí vaša aktuálna konfigurácia."
 	},
 	"importFailed": {
-		"message": "Import failed. Please check the console for more details."
+		"message": "Import zlyhal. Ďalšie podrobnosti nájdete v konzole."
 	},
 	"importModalTitle": {
-		"message": "Import"
+		"message": "Importovať"
 	},
 	"importProperties": {
-		"message": "Import properties"
+		"message": "Importovať vlastnosti"
 	},
 	"importPropertiesDescription": {
-		"message": "To import your properties from Obsidian, locate the $strong_1_start$types.json$strong_1_end$ file in the $strong_2_start$.obsidian$strong_2_end$ folder within your vault. Note this folder is hidden by default on most operating systems.",
+		"message": "Ak chcete importovať vlastnosti z Obsidianu, nájdite súbor $strong_1_start$types.json$strong_1_end$ v priečinku $strong_2_start$.obsidian$strong_2_end$ vo vašom vaulte. Upozorňujeme, že tento priečinok je vo väčšine operačných systémov predvolene skrytý.",
 		"placeholders": {
 			"strong_1_end": {
 				"content": "</strong>"
@@ -402,22 +402,22 @@
 		}
 	},
 	"importSettings": {
-		"message": "Import settings"
+		"message": "Importovať nastavenia"
 	},
 	"importTemplate": {
-		"message": "Import template"
+		"message": "Importovať šablónu"
 	},
 	"interpret": {
-		"message": "interpret"
+		"message": "interpretovať"
 	},
 	"interpreter": {
-		"message": "Interpreter"
+		"message": "Tlmočník"
 	},
 	"interpreterContext": {
-		"message": "Interpreter context"
+		"message": "Kontext tlmočníka"
 	},
 	"interpreterContextDescription": {
-		"message": "The context used to interpret prompt variables. Overrides the default context defined in $link_start$Interpreter settings$link_end$. Variables can be used here.",
+		"message": "Kontext používaný na interpretáciu premenných výzvy. Prepíše predvolený kontext definovaný v $link_start$Nastaveniach tlmočníka$link_end$. Premenné tu možno použiť.",
 		"placeholders": {
 			"link_end": {
 				"content": "</a>"
@@ -428,82 +428,82 @@
 		}
 	},
 	"language": {
-		"message": "Language"
+		"message": "Jazyk"
 	},
 	"languageDescription": {
-		"message": "Choose the display language for the extension interface."
+		"message": "Vyberte jazyk zobrazenia rozhrania rozšírenia."
 	},
 	"last30Days": {
-		"message": "Last 30 days"
+		"message": "Posledných 30 dní"
 	},
 	"lastUsed": {
-		"message": "Last used"
+		"message": "Naposledy použité"
 	},
 	"legacyMode": {
-		"message": "Legacy mode"
+		"message": "Režim kompatibility"
 	},
 	"legacyModeDescription": {
-		"message": "Uses the URI clipping method compatible with Obsidian 1.6.7 or earlier. Note that the length of the content you can clip is limited by your browser and OS. Some pages may fail without any errors."
+		"message": "Používa metódu orezávania cez URI kompatibilnú s Obsidianom 1.6.7 alebo starším. Upozorňujeme, že dĺžka obsahu, ktorý môžete uložiť, je obmedzená vaším prehliadačom a OS. Niektoré stránky môžu zlyhať bez akýchkoľvek chýb."
 	},
 	"modelName": {
-		"message": "Display name"
+		"message": "Zobrazovaný názov"
 	},
 	"modelNameDescription": {
-		"message": "The name of the model you want to display in the interface."
+		"message": "Názov modelu, ktorý chcete zobrazovať v rozhraní."
 	},
 	"modelProvider": {
-		"message": "Provider"
+		"message": "Poskytovateľ"
 	},
 	"modelProviderDescription": {
-		"message": "Select the provider for this model."
+		"message": "Vyberte poskytovateľa pre tento model."
 	},
 	"modelProviderPlaceholder": {
-		"message": "Provider"
+		"message": "Poskytovateľ"
 	},
 	"modelRequiredFields": {
-		"message": "Model name, Provider, and Model ID are required."
+		"message": "Vyžadujú sa názov modelu, poskytovateľ a ID modelu."
 	},
 	"models": {
-		"message": "Models"
+		"message": "Modely"
 	},
 	"modelsListFor": {
-		"message": "Models list for $1"
+		"message": "Zoznam modelov pre $1"
 	},
 	"more": {
-		"message": "More"
+		"message": "Viac"
 	},
 	"newTemplate": {
-		"message": "New template"
+		"message": "Nová šablóna"
 	},
 	"noHighlights": {
-		"message": "Do nothing"
+		"message": "Nerobiť nič"
 	},
 	"noTemplates": {
-		"message": "No templates available. Please add a template in the settings."
+		"message": "Nie sú dostupné žiadne šablóny. Pridajte šablónu v nastaveniach."
 	},
 	"noUnusedProperties": {
-		"message": "No unused properties found."
+		"message": "Nenašli sa žiadne nepoužité vlastnosti."
 	},
 	"noteContent": {
-		"message": "Note content"
+		"message": "Obsah poznámky"
 	},
 	"noteContentDescription": {
-		"message": "Customize the content of the note. Use variables to pre-populate data from the page."
+		"message": "Prispôsobte obsah poznámky. Použite premenné na predvyplnenie údajov zo stránky."
 	},
 	"noteLocation": {
-		"message": "Note location"
+		"message": "Umiestnenie poznámky"
 	},
 	"noteLocationDescription": {
-		"message": "The folder or path of the note."
+		"message": "Priečinok alebo cesta poznámky."
 	},
 	"noteName": {
-		"message": "Note name"
+		"message": "Názov poznámky"
 	},
 	"noteNameFormat": {
-		"message": "Note name"
+		"message": "Názov poznámky"
 	},
 	"noteNameFormatDescription": {
-		"message": "Format for the file name of the note. You can use variables like {{title}}, {{date}}, and {{published}} to pre-populate data from the page. $link_start$Learn more$link_end$.",
+		"message": "Formát názvu súboru poznámky. Na predvyplnenie údajov zo stránky môžete použiť premenné ako {{title}}, {{date}} a {{published}}. $link_start$Zistiť viac$link_end$.",
 		"placeholders": {
 			"link_end": {
 				"content": "</a>"
@@ -514,442 +514,442 @@
 		}
 	},
 	"notesAboutPage": {
-		"message": "Notes about this page..."
+		"message": "Poznámky k tejto stránke..."
 	},
 	"onlyHttpSupported": {
-		"message": "This page cannot be clipped. Only http and https URLs are supported."
+		"message": "Túto stránku nie je možné uložiť. Podporované sú iba URL http a https."
 	},
 	"open": {
-		"message": "Open"
+		"message": "Otvoriť"
 	},
 	"openBehaviorDescription": {
-		"message": "Choose how Web Clipper opens by default."
+		"message": "Vyberte, ako sa má Web Clipper predvolene otvárať."
 	},
 	"openBehaviorTitle": {
-		"message": "Open behavior"
+		"message": "Správanie pri otvorení"
 	},
 	"openEmbedded": {
-		"message": "Open in page"
+		"message": "Otvoriť na stránke"
 	},
 	"openSidePanel": {
-		"message": "Open side panel"
+		"message": "Otvoriť bočný panel"
 	},
 	"optional": {
-		"message": "(optional)"
+		"message": "(voliteľné)"
 	},
 	"orPasteBelow": {
-		"message": "Or paste content below"
+		"message": "Alebo vložte obsah nižšie"
 	},
 	"overwriteNote": {
-		"message": "Overwrite note"
+		"message": "Prepísať poznámku"
 	},
 	"pageCannotBeClipped": {
-		"message": "This page cannot be clipped."
+		"message": "Túto stránku nie je možné uložiť."
 	},
 	"pageVariables": {
-		"message": "Page variables"
+		"message": "Premenné stránky"
 	},
 	"pagesSaved": {
-		"message": "page saved"
+		"message": "stránka uložená"
 	},
 	"pagesSavedPlural": {
-		"message": "pages saved"
+		"message": "stránok uložených"
 	},
 	"pasteJsonHere": {
-		"message": "Paste JSON here"
+		"message": "Sem vložte JSON"
 	},
 	"pleaseReload": {
-		"message": "Please try reloading the page."
+		"message": "Skúste stránku znovu načítať."
 	},
 	"popularModels": {
-		"message": "Popular models"
+		"message": "Populárne modely"
 	},
 	"popularModelsDescription": {
-		"message": "Choose from commonly used models or enter custom model details."
+		"message": "Vyberte si z bežne používaných modelov alebo zadajte podrobnosti vlastného modelu."
 	},
 	"popup": {
-		"message": "Popup"
+		"message": "Vyskakovacie okno"
 	},
 	"prependToDaily": {
-		"message": "Add to daily note, at the top"
+		"message": "Pridať do dennej poznámky, na začiatok"
 	},
 	"prependToExisting": {
-		"message": "Add to an existing note, at the top"
+		"message": "Pridať do existujúcej poznámky, na začiatok"
 	},
 	"preview": {
-		"message": "Preview"
+		"message": "Náhľad"
 	},
 	"processing": {
-		"message": "processing"
+		"message": "spracováva sa"
 	},
 	"properties": {
-		"message": "Properties"
+		"message": "Vlastnosti"
 	},
 	"propertiesSettings": {
-		"message": "Properties"
+		"message": "Vlastnosti"
 	},
 	"propertyName": {
-		"message": "Property name"
+		"message": "Názov vlastnosti"
 	},
 	"propertyTypeCheckbox": {
-		"message": "Checkbox"
+		"message": "Zaškrtávacie políčko"
 	},
 	"propertyTypeDate": {
-		"message": "Date"
+		"message": "Dátum"
 	},
 	"propertyTypeDatetime": {
-		"message": "Date & time"
+		"message": "Dátum a čas"
 	},
 	"propertyTypeMultitext": {
-		"message": "List"
+		"message": "Zoznam"
 	},
 	"propertyTypeNumber": {
-		"message": "Number"
+		"message": "Číslo"
 	},
 	"propertyTypeText": {
 		"message": "Text"
 	},
 	"propertyValue": {
-		"message": "Property value"
+		"message": "Hodnota vlastnosti"
 	},
 	"provider": {
-		"message": "Provider"
+		"message": "Poskytovateľ"
 	},
 	"providerApiKey": {
-		"message": "API key"
+		"message": "API kľúč"
 	},
 	"providerApiKeyDescription": {
-		"message": "Your API key for this provider."
+		"message": "Váš API kľúč pre tohto poskytovateľa."
 	},
 	"providerBaseUrl": {
-		"message": "Base URL"
+		"message": "Základná URL"
 	},
 	"providerBaseUrlDescription": {
-		"message": "The API endpoint URL for this provider."
+		"message": "URL koncového bodu API pre tohto poskytovateľa."
 	},
 	"providerModelId": {
-		"message": "Model ID"
+		"message": "ID modelu"
 	},
 	"providerModelIdDescription": {
-		"message": "The identifier of the model from your provider. Typically a short name without spaces."
+		"message": "Identifikátor modelu od vášho poskytovateľa. Zvyčajne krátky názov bez medzier."
 	},
 	"providerModelIdPlaceholder": {
-		"message": "Model ID"
+		"message": "ID modelu"
 	},
 	"providerName": {
-		"message": "Provider name"
+		"message": "Názov poskytovateľa"
 	},
 	"providerNameDescription": {
-		"message": "Display name for this provider."
+		"message": "Zobrazovaný názov pre tohto poskytovateľa."
 	},
 	"providerPreset": {
-		"message": "Preset"
+		"message": "Predvoľba"
 	},
 	"providerPresetDescription": {
-		"message": "Choose a provider or create a custom one."
+		"message": "Vyberte poskytovateľa alebo vytvorte vlastného."
 	},
 	"providerRequiredFields": {
-		"message": "Provider name and Base URL are required."
+		"message": "Vyžadujú sa názov poskytovateľa a základná URL."
 	},
 	"providers": {
-		"message": "Providers"
+		"message": "Poskytovatelia"
 	},
 	"rateExtensionDescription": {
-		"message": "Are you enjoying Web Clipper? Help us by giving it a rating."
+		"message": "Páči sa vám Web Clipper? Pomôžte nám tým, že mu dáte hodnotenie."
 	},
 	"reader": {
-		"message": "Reader"
+		"message": "Čítačka"
 	},
 	"readerAppearance": {
-		"message": "Appearance"
+		"message": "Vzhľad"
 	},
 	"readerAppearanceAuto": {
-		"message": "Auto"
+		"message": "Automaticky"
 	},
 	"readerAppearanceDark": {
-		"message": "Dark"
+		"message": "Tmavý"
 	},
 	"readerAppearanceDescription": {
-		"message": "Choose light or dark appearance."
+		"message": "Vyberte svetlý alebo tmavý vzhľad."
 	},
 	"readerAppearanceLight": {
-		"message": "Light"
+		"message": "Svetlý"
 	},
 	"readerBlendImages": {
-		"message": "Blend images"
+		"message": "Zlúčiť obrázky"
 	},
 	"readerBlendImagesDescription": {
-		"message": "Blend images with the page background."
+		"message": "Zlúčiť obrázky s pozadím stránky."
 	},
 	"readerCloseImageViewer": {
-		"message": "Close image viewer"
+		"message": "Zavrieť prehliadač obrázkov"
 	},
 	"readerCollapseComment": {
-		"message": "Collapse comment"
+		"message": "Zbaliť komentár"
 	},
 	"readerColorLinks": {
-		"message": "Color links"
+		"message": "Zafarbiť odkazy"
 	},
 	"readerColorSchemeDefault": {
-		"message": "Default"
+		"message": "Predvolené"
 	},
 	"readerCustomCss": {
-		"message": "Custom CSS"
+		"message": "Vlastné CSS"
 	},
 	"readerCustomCssDescription": {
-		"message": "CSS applied automatically in reading view."
+		"message": "CSS automaticky použité v režime čítania."
 	},
 	"readerDarkTheme": {
-		"message": "Dark mode theme"
+		"message": "Téma pre tmavý režim"
 	},
 	"readerDarkThemeDescription": {
-		"message": "Use a different theme in dark mode."
+		"message": "Použiť inú tému v tmavom režime."
 	},
 	"readerError": {
-		"message": "Failed to extract content."
+		"message": "Nepodarilo sa extrahovať obsah."
 	},
 	"readerFont": {
-		"message": "Font options"
+		"message": "Možnosti písma"
 	},
 	"readerFontDefault": {
-		"message": "Default"
+		"message": "Predvolené"
 	},
 	"readerFontDescription": {
-		"message": "Add fonts installed on your system. Press enter to add a font."
+		"message": "Pridajte písma nainštalované vo vašom systéme. Stlačte Enter na pridanie písma."
 	},
 	"readerFontNotFound": {
-		"message": "Not found"
+		"message": "Nenašlo sa"
 	},
 	"readerFontPlaceholder": {
-		"message": "Press enter to add a font"
+		"message": "Stlačte Enter na pridanie písma"
 	},
 	"readerFontSetDefault": {
-		"message": "Set default"
+		"message": "Nastaviť ako predvolené"
 	},
 	"readerFontSize": {
-		"message": "Base font size"
+		"message": "Základná veľkosť písma"
 	},
 	"readerFontSystem": {
-		"message": "System"
+		"message": "Systémové"
 	},
 	"readerFontSystemSans": {
-		"message": "Sans-serif"
+		"message": "Bezpätkové"
 	},
 	"readerFontSystemSerif": {
-		"message": "Serif"
+		"message": "Pätkové"
 	},
 	"readerFonts": {
-		"message": "Fonts"
+		"message": "Písma"
 	},
 	"readerFootnotes": {
-		"message": "Footnotes"
+		"message": "Poznámky pod čiarou"
 	},
 	"readerImages": {
-		"message": "Images"
+		"message": "Obrázky"
 	},
 	"readerLineHeight": {
-		"message": "Line height"
+		"message": "Výška riadku"
 	},
 	"readerLineWidth": {
-		"message": "Line width"
+		"message": "Šírka riadku"
 	},
 	"readerLoading": {
-		"message": "Defuddling…"
+		"message": "Odstraňovanie balastu…"
 	},
 	"readerSettings": {
-		"message": "Reader settings"
+		"message": "Nastavenia čítačky"
 	},
 	"readerTheme": {
-		"message": "Theme"
+		"message": "Téma"
 	},
 	"readerThemeDescription": {
-		"message": "Choose the colors used in reading view."
+		"message": "Vyberte farby používané v režime čítania."
 	},
 	"readerThemeSection": {
-		"message": "Theme"
+		"message": "Téma"
 	},
 	"readerTypography": {
-		"message": "Typography"
+		"message": "Typografia"
 	},
 	"readerViewFullSize": {
-		"message": "View full size"
+		"message": "Zobraziť v plnej veľkosti"
 	},
 	"recommended": {
-		"message": "recommended"
+		"message": "odporúčané"
 	},
 	"refresh": {
-		"message": "Refresh"
+		"message": "Obnoviť"
 	},
 	"remove": {
-		"message": "Remove"
+		"message": "Odstrániť"
 	},
 	"removeProperty": {
-		"message": "Remove property"
+		"message": "Odstrániť vlastnosť"
 	},
 	"removeUnusedProperties": {
-		"message": "Remove unused properties"
+		"message": "Odstrániť nepoužité vlastnosti"
 	},
 	"removeUnusedPropertiesDescription": {
-		"message": "Remove all properties that are not used in any template."
+		"message": "Odstrániť všetky vlastnosti, ktoré sa nepoužívajú v žiadnej šablóne."
 	},
 	"removeVault": {
-		"message": "Remove vault"
+		"message": "Odstrániť vault"
 	},
 	"replaceContent": {
-		"message": "Replace the page content"
+		"message": "Nahradiť obsah stránky"
 	},
 	"reset": {
-		"message": "Reset"
+		"message": "Obnoviť"
 	},
 	"resetDefaultTemplate": {
-		"message": "Reset default template"
+		"message": "Obnoviť predvolenú šablónu"
 	},
 	"resetDefaultTemplateDescription": {
-		"message": "Remove any changes you've made to the default template."
+		"message": "Odstrániť všetky zmeny, ktoré ste vykonali v predvolenej šablóne."
 	},
 	"resetProvidersAndModels": {
-		"message": "Reset default models"
+		"message": "Obnoviť predvolené modely"
 	},
 	"resetProvidersAndModelsDescription": {
-		"message": "Reset providers and models to the default settings."
+		"message": "Obnoviť poskytovateľov a modely na predvolené nastavenia."
 	},
 	"save": {
-		"message": "Save"
+		"message": "Uložiť"
 	},
 	"saveBehaviorDescription": {
-		"message": "Choose the default option for saving pages. Alternate options appear in the dropdown menu next to the main button."
+		"message": "Vyberte predvolenú možnosť ukladania stránok. Alternatívne možnosti sa zobrazia v rozbaľovacej ponuke vedľa hlavného tlačidla."
 	},
 	"saveBehaviorLabel": {
-		"message": "Save behavior"
+		"message": "Správanie ukladania"
 	},
 	"saveFile": {
-		"message": "Save file..."
+		"message": "Uložiť súbor..."
 	},
 	"searchVariables": {
-		"message": "Search variables..."
+		"message": "Hľadať premenné..."
 	},
 	"selectProvider": {
-		"message": "Select a provider"
+		"message": "Vyberte poskytovateľa"
 	},
 	"selectTemplateToExport": {
-		"message": "Please select a template to export."
+		"message": "Vyberte šablónu na export."
 	},
 	"settings": {
-		"message": "Settings"
+		"message": "Nastavenia"
 	},
 	"settingsHeading": {
-		"message": "Settings"
+		"message": "Nastavenia"
 	},
 	"settingsImportSuccess": {
-		"message": "All settings imported successfully. Please refresh the page to see the changes."
+		"message": "Všetky nastavenia boli úspešne importované. Ak chcete vidieť zmeny, obnovte stránku."
 	},
 	"share": {
-		"message": "Share..."
+		"message": "Zdieľať..."
 	},
 	"shortcutInstructionsBrave": {
-		"message": "To change key assignments, go to $1"
+		"message": "Ak chcete zmeniť priradenie klávesov, prejdite na $1"
 	},
 	"shortcutInstructionsChrome": {
-		"message": "To change key assignments, go to $1"
+		"message": "Ak chcete zmeniť priradenie klávesov, prejdite na $1"
 	},
 	"shortcutInstructionsDefault": {
-		"message": "To change key assignments, please refer to your browser's extension settings."
+		"message": "Ak chcete zmeniť priradenie klávesov, pozrite si nastavenia rozšírení vo vašom prehliadači."
 	},
 	"shortcutInstructionsEdge": {
-		"message": "To change key assignments, go to $1"
+		"message": "Ak chcete zmeniť priradenie klávesov, prejdite na $1"
 	},
 	"shortcutInstructionsFirefox": {
-		"message": "To change key assignments, go to $1, click the gear icon, and select \"Manage Extension Shortcuts\"."
+		"message": "Ak chcete zmeniť priradenie klávesov, prejdite na $1, kliknite na ikonu ozubeného kolieska a vyberte „Spravovať klávesové skratky rozšírení“."
 	},
 	"shortcutInstructionsIntro": {
-		"message": "Keyboard shortcuts give you quick access to clipper features."
+		"message": "Klávesové skratky vám poskytujú rýchly prístup k funkciám clippera."
 	},
 	"shortcutInstructionsSafari": {
-		"message": "Keyboard shortcuts are not customizable on Safari."
+		"message": "Klávesové skratky nie je možné v Safari prispôsobiť."
 	},
 	"shortcutNotSet": {
-		"message": "Not set"
+		"message": "Nenastavené"
 	},
 	"showActionsButton": {
-		"message": "Show actions button"
+		"message": "Zobraziť tlačidlo akcií"
 	},
 	"showActionsDescription": {
-		"message": "Allows you to inspect page variables from the clipper menu. Useful for seeing the variables that are available to use in templates."
+		"message": "Umožňuje skontrolovať premenné stránky z ponuky clippera. Užitočné na zobrazenie premenných, ktoré sú k dispozícii na použitie v šablónach."
 	},
 	"showPageVariables": {
-		"message": "Show page variables"
+		"message": "Zobraziť premenné stránky"
 	},
 	"silentOpen": {
-		"message": "Save clipped note without opening it"
+		"message": "Uložiť výstrižok bez jeho otvorenia"
 	},
 	"silentOpenDescription": {
-		"message": "Clipped notes will be saved but will not open as a new tab. Obsidian will still be brought to the foreground."
+		"message": "Výstrižky sa uložia, ale neotvoria sa v novej karte. Obsidian sa aj tak presunie do popredia."
 	},
 	"specificNoteName": {
-		"message": "Specific note name"
+		"message": "Konkrétny názov poznámky"
 	},
 	"systemDefault": {
-		"message": "System"
+		"message": "Systémové"
 	},
 	"template": {
-		"message": "Template"
+		"message": "Šablóna"
 	},
 	"templateCopied": {
-		"message": "Copied template JSON to clipboard"
+		"message": "JSON šablóny bol skopírovaný do schránky"
 	},
 	"templateCopyError": {
-		"message": "Failed to copy template JSON to clipboard"
+		"message": "Nepodarilo sa skopírovať JSON šablóny do schránky"
 	},
 	"templateErrorCount": {
-		"message": "There is an error in your template."
+		"message": "V šablóne je chyba."
 	},
 	"templateErrorsCount": {
-		"message": "There are $1 errors in your template."
+		"message": "V šablóne sú $1 chyby."
 	},
 	"templateGroupContent": {
-		"message": "Content"
+		"message": "Obsah"
 	},
 	"templateGroupLocation": {
-		"message": "Location"
+		"message": "Umiestnenie"
 	},
 	"templateName": {
-		"message": "Template name"
+		"message": "Názov šablóny"
 	},
 	"templateProperties": {
-		"message": "Properties"
+		"message": "Vlastnosti"
 	},
 	"templatePropertiesDescription": {
-		"message": "Properties to add to the top of the clipped note. Use variables to pre-populate data from the page."
+		"message": "Vlastnosti, ktoré sa pridajú na začiatok uloženej poznámky. Použite premenné na predvyplnenie údajov zo stránky."
 	},
 	"templateTriggers": {
-		"message": "Template triggers"
+		"message": "Spúšťače šablóny"
 	},
 	"templateTriggersDescription": {
-		"message": "Define rules to automatically select this template if it matches a URL pattern or contains schema.org data. One rule per line."
+		"message": "Definujte pravidlá na automatický výber tejto šablóny, ak zodpovedá vzoru URL alebo obsahuje údaje schema.org. Jedno pravidlo na riadok."
 	},
 	"templateValid": {
-		"message": "Template syntax is valid"
+		"message": "Syntax šablóny je platná"
 	},
 	"templatesHeading": {
-		"message": "Templates"
+		"message": "Šablóny"
 	},
 	"thinking": {
-		"message": "thinking"
+		"message": "premýšľa sa"
 	},
 	"unknownProvider": {
-		"message": "Unknown provider"
+		"message": "Neznámy poskytovateľ"
 	},
 	"updateAvailable": {
-		"message": "An update is available."
+		"message": "Je k dispozícii aktualizácia."
 	},
 	"usingLatestVersion": {
-		"message": "You are using the latest version."
+		"message": "Používate najnovšiu verziu."
 	},
 	"vault": {
 		"message": "Vault"
 	},
 	"vaultDescription": {
-		"message": "Select the default vault for this template. Go to $link_start$general settings$link_end$ to add or remove vaults.",
+		"message": "Vyberte predvolený vault pre túto šablónu. Ak chcete pridať alebo odstrániť vaulty, prejdite do $link_start$všeobecných nastavení$link_end$.",
 		"placeholders": {
 			"link_end": {
 				"content": "</a>"
@@ -960,10 +960,10 @@
 		}
 	},
 	"vaults": {
-		"message": "Vaults"
+		"message": "Vaulty"
 	},
 	"vaultsDescription": {
-		"message": "By default, clipped notes are saved to the currently open vault. You can add vaults here if you want the option to save to different vaults. Vault names must exactly match the name of the Obsidian vault. Press $strong_start$enter$strong_end$ to add a vault.",
+		"message": "Predvolene sa výstrižky ukladajú do aktuálne otvoreného vaultu. Ak chcete mať možnosť ukladať do rôznych vaultov, môžete ich tu pridať. Názvy vaultov sa musia presne zhodovať s názvom Obsidian vaultu. Stlačte $strong_start$Enter$strong_end$ na pridanie vaultu.",
 		"placeholders": {
 			"strong_end": {
 				"content": "</strong>"
@@ -974,6 +974,6 @@
 		}
 	},
 	"version": {
-		"message": "Version"
+		"message": "Verzia"
 	}
 }
