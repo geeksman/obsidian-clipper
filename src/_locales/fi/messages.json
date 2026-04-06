@@ -1,99 +1,99 @@
 {
 	"activity": {
-		"message": "Activity"
+		"message": "Toiminta"
 	},
 	"addModel": {
-		"message": "+ Add model"
+		"message": "+ Lisää malli"
 	},
 	"addModelTitle": {
-		"message": "Add model"
+		"message": "Lisää malli"
 	},
 	"addProperty": {
-		"message": "+ Add property"
+		"message": "+ Lisää ominaisuus"
 	},
 	"addProvider": {
-		"message": "+ Add provider"
+		"message": "+ Lisää palveluntarjoaja"
 	},
 	"addProviderTitle": {
-		"message": "Add provider"
+		"message": "Lisää palveluntarjoaja"
 	},
 	"addToObsidian": {
-		"message": "Add to Obsidian"
+		"message": "Lisää Obsidianiin"
 	},
 	"addVaultPlaceholder": {
-		"message": "Press enter to add a vault"
+		"message": "Paina enter lisätäksesi holvin"
 	},
 	"advanced": {
-		"message": "Advanced"
+		"message": "Lisäasetukset"
 	},
 	"allProperties": {
-		"message": "All properties"
+		"message": "Kaikki ominaisuudet"
 	},
 	"allTime": {
-		"message": "All time"
+		"message": "Koko ajalta"
 	},
 	"alwaysShowHighlights": {
-		"message": "Always show highlights"
+		"message": "Näytä korostukset aina"
 	},
 	"alwaysShowHighlightsDescription": {
-		"message": "Display your saved highlights when you load a page. Turn off to only display highlights when highlighter mode is activated."
+		"message": "Näytä tallennetut korostukset sivun latautuessa. Poista käytöstä näyttääksesi korostukset vain kun korostustila on aktivoitu."
 	},
 	"apiKeyMissing": {
-		"message": "No API key"
+		"message": "Ei API-avainta"
 	},
 	"apiKeysWarning": {
-		"message": "By using an external provider you agree to their terms and privacy policy. Interpreter requests are sent directly to the provider you choose. Obsidian does not gather or store any data about your requests."
+		"message": "Käyttämällä ulkoista palveluntarjoajaa hyväksyt heidän käyttöehtonsa ja tietosuojakäytäntönsä. Tulkin pyynnöt lähetetään suoraan valitsemallesi palveluntarjoajalle. Obsidian ei kerää tai tallenna mitään tietoja pyynnöistäsi."
 	},
 	"appendToDaily": {
-		"message": "Add to daily note, at the bottom"
+		"message": "Lisää päivittäiseen muistiinpanoon, loppuun"
 	},
 	"appendToExisting": {
-		"message": "Add to an existing note, at the bottom"
+		"message": "Lisää olemassa olevaan muistiinpanoon, loppuun"
 	},
 	"autoRunInterpreter": {
-		"message": "Automatically run"
+		"message": "Suorita automaattisesti"
 	},
 	"autoRunInterpreterDescription": {
-		"message": "Run prompt variables immediately if the template contains any. This will consume API credits with your model provider. Turn off if you only want to run interpreter manually."
+		"message": "Suorittaa kehotteen muuttujat välittömästi, jos mallissa on niitä. Tämä kuluttaa API-krediittejä mallintarjoajaltasi. Poista käytöstä, jos haluat suorittaa tulkin vain manuaalisesti."
 	},
 	"behavior": {
-		"message": "Behavior"
+		"message": "Käyttäytyminen"
 	},
 	"byDay": {
-		"message": "Days"
+		"message": "Päivät"
 	},
 	"byMonth": {
-		"message": "Months"
+		"message": "Kuukaudet"
 	},
 	"byWeek": {
-		"message": "Weeks"
+		"message": "Viikot"
 	},
 	"cancel": {
-		"message": "Cancel"
+		"message": "Peruuta"
 	},
 	"cannotDeleteProvider": {
-		"message": "Cannot delete provider \"$1\" because it is being used by $2 model(s)."
+		"message": "Palveluntarjoajaa \"$1\" ei voi poistaa, koska sitä käyttää $2 malli(a)."
 	},
 	"changelog": {
-		"message": "Changelog"
+		"message": "Muutosloki"
 	},
 	"chooseFile": {
-		"message": "Choose a file"
+		"message": "Valitse tiedosto"
 	},
 	"choosePropertiesFile": {
-		"message": "Choose properties file"
+		"message": "Valitse ominaisuustiedosto"
 	},
 	"chooseSettingsFile": {
-		"message": "Choose settings file"
+		"message": "Valitse asetustiedosto"
 	},
 	"chooseTemplateFile": {
-		"message": "Choose template file"
+		"message": "Valitse mallitiedosto"
 	},
 	"clipBehavior": {
-		"message": "Clip behavior"
+		"message": "Leikkauksen käyttäytyminen"
 	},
 	"clipBehaviorDescription": {
-		"message": "Choose how highlighted content is saved to Obsidian. Defines the $strong_start${{content}}$strong_end$ variable.",
+		"message": "Valitse, miten valittu sisältö tallennetaan Obsidianiin. Määrittää muuttujan $strong_start${{content}}$strong_end$",
 		"placeholders": {
 			"strong_end": {
 				"content": "</strong>"
@@ -104,7 +104,7 @@
 		}
 	},
 	"clipboardError": {
-		"message": "Obsidian is not able to access your clipboard. Try the troubleshooting instructions here: $1",
+		"message": "Obsidian ei voi käyttää leikepöytääsi. Kokeile vianmääritysohjeita täällä: $1",
 		"placeholders": {
 			"1": {
 				"content": "$1"
@@ -112,79 +112,79 @@
 		}
 	},
 	"close": {
-		"message": "Close"
+		"message": "Sulje"
 	},
 	"commandOpenClipper": {
-		"message": "Open Obsidian Clipper"
+		"message": "Avaa Obsidian Clipper"
 	},
 	"commandQuickClip": {
-		"message": "Quick clip"
+		"message": "Pikaleikkaus"
 	},
 	"commandToggleHighlighter": {
-		"message": "Toggle highlighter"
+		"message": "Vaihda korostustila"
 	},
 	"commandToggleReader": {
-		"message": "Toggle reader"
+		"message": "Vaihda lukunäkymä"
 	},
 	"confirmDeleteTemplate": {
-		"message": "Are you sure you want to delete the template \"$1\"?"
+		"message": "Haluatko varmasti poistaa mallin \"$1\"?"
 	},
 	"confirmReplaceSettings": {
-		"message": "This will replace all your current settings, including templates and properties. Are you sure you want to continue?"
+		"message": "Tämä korvaa kaikki nykyiset asetuksesi, mukaan lukien mallit ja ominaisuudet. Haluatko varmasti jatkaa?"
 	},
 	"copied": {
-		"message": "Copied!"
+		"message": "Kopioitu!"
 	},
 	"copyAsJson": {
-		"message": "Copy as JSON"
+		"message": "Kopioi JSON:na"
 	},
 	"copyToClipboard": {
-		"message": "Copy to clipboard"
+		"message": "Kopioi leikepöydälle"
 	},
 	"createNewNote": {
-		"message": "Create new note"
+		"message": "Luo uusi muistiinpano"
 	},
 	"custom": {
-		"message": "Custom"
+		"message": "Mukautettu"
 	},
 	"dailyNoteFormat": {
-		"message": "Daily note format (e.g., YYYY-MM-DD)"
+		"message": "Päivittäisen muistiinpanon muoto (esim. YYYY-MM-DD)"
 	},
 	"defaultInterpreterContext": {
-		"message": "Default interpreter context"
+		"message": "Tulkin oletuskonteksti"
 	},
 	"defaultInterpreterContextDescription": {
-		"message": "Override the context used to interpret prompt variables. Variables can be used here."
+		"message": "Korvaa kehotemuuttujien tulkitsemiseen käytettävä konteksti. Muuttujia voi käyttää tässä."
 	},
 	"defaultTemplateName": {
-		"message": "Default"
+		"message": "Oletus"
 	},
 	"delete": {
-		"message": "Delete"
+		"message": "Poista"
 	},
 	"deleteModelConfirm": {
-		"message": "Are you sure you want to delete this model?"
+		"message": "Haluatko varmasti poistaa tämän mallin?"
 	},
 	"deleteProviderConfirm": {
-		"message": "Are you sure you want to delete this provider?"
+		"message": "Haluatko varmasti poistaa tämän palveluntarjoajan?"
 	},
 	"disableHighlighter": {
-		"message": "Disable highlighter"
+		"message": "Poista korostus käytöstä"
 	},
 	"disableReader": {
-		"message": "Disable reader"
+		"message": "Poista lukunäkymä käytöstä"
 	},
 	"done": {
-		"message": "Done"
+		"message": "Valmis"
 	},
 	"dragAndDropFile": {
-		"message": "Drag and drop file here"
+		"message": "Vedä ja pudota tiedosto tähän"
 	},
 	"duplicate": {
-		"message": "Duplicate"
+		"message": "Monista"
 	},
 	"earlyAccessDescription": {
-		"message": "Use features that require the latest $link_start$early access version$link_end$ of Obsidian. Currently requires Obsidian 1.7.2 or later.",
+		"message": "Käytä ominaisuuksia, jotka vaativat uusimman $link_start$early access -version$link_end$ Obsidianista. Vaatii tällä hetkellä Obsidian 1.7.2 tai uudemman.",
 		"placeholders": {
 			"link_end": {
 				"content": "</a>"
@@ -195,31 +195,31 @@
 		}
 	},
 	"earlyAccessFeatures": {
-		"message": "Early access features"
+		"message": "Early access -ominaisuudet"
 	},
 	"editModel": {
-		"message": "Edit model"
+		"message": "Muokkaa mallia"
 	},
 	"editProvider": {
-		"message": "Edit provider"
+		"message": "Muokkaa palveluntarjoajaa"
 	},
 	"editTemplate": {
-		"message": "Edit template"
+		"message": "Muokkaa mallia"
 	},
 	"embedded": {
-		"message": "Embedded"
+		"message": "Upotettu"
 	},
 	"enableHighlighter": {
-		"message": "Enable highlighter"
+		"message": "Ota korostustyökalu käyttöön"
 	},
 	"enableHighlighterDescription": {
-		"message": "Highlight content on web pages that you can save to Obsidian."
+		"message": "Korosta verkkosivujen sisältöä, jonka voit tallentaa Obsidianiin"
 	},
 	"enableInterpreter": {
-		"message": "Enable interpreter"
+		"message": "Ota tulkki käyttöön"
 	},
 	"enableInterpreterDescription": {
-		"message": "Use natural language to extract data from pages. For example, you can use the template syntax $strong_start${{\"a summary of the page\"}}$strong_end$. Requires an API key or custom model configured below.  $link_start$Learn more$link_end$.",
+		"message": "Käytä luonnollista kieltä tietojen poimimiseen sivuilta. Voit esimerkiksi käyttää mallisyntaksia $strong_start${{\"sivun yhteenveto\"}}$strong_end$. Vaatii API-avaimen tai mukautetun mallin määrittämisen alla. $link_start$Lue lisää$link_end$.",
 		"placeholders": {
 			"link_end": {
 				"content": "</a>"
@@ -236,31 +236,31 @@
 		}
 	},
 	"enableReader": {
-		"message": "Open reading view"
+		"message": "Avaa lukunäkymä"
 	},
 	"error": {
-		"message": "Error"
+		"message": "Virhe"
 	},
 	"export": {
-		"message": "Export"
+		"message": "Vie"
 	},
 	"exportAllSettings": {
-		"message": "Export all settings"
+		"message": "Vie kaikki asetukset"
 	},
 	"exportAllSettingsDescription": {
-		"message": "Export all settings including templates and properties."
+		"message": "Vie kaikki asetukset mukaan lukien mallit ja ominaisuudet"
 	},
 	"exportHighlights": {
-		"message": "Export highlights"
+		"message": "Vie korostukset"
 	},
 	"exportHighlightsDescription": {
-		"message": "Export your highlights to a file."
+		"message": "Vie korostuksesi tiedostoon"
 	},
 	"exportProperties": {
-		"message": "Export properties"
+		"message": "Vie ominaisuudet"
 	},
 	"exportPropertiesDescription": {
-		"message": "Save Web Clipper properties to a $strong_start$types.json$strong_end$ file that can be imported into your Obsidian vault, or into Web Clipper on other devices.",
+		"message": "Tallenna Web Clipperin ominaisuudet $strong_start$types.json$strong_end$ -tiedostoon, jonka voit tuoda Obsidian-holviin tai Web Clipperiin muilla laitteilla",
 		"placeholders": {
 			"strong_end": {
 				"content": "</strong>"
@@ -271,121 +271,121 @@
 		}
 	},
 	"extensionDescription": {
-		"message": "Save content from the web in a private and durable format that you can access offline. The official browser extension for Obsidian."
+		"message": "Tallenna verkkosisältöä yksityisessä ja kestävässä muodossa, jota voit käyttää offline-tilassa. Obsidianin virallinen selainlaajennus."
 	},
 	"extensionName": {
 		"message": "Obsidian Web Clipper"
 	},
 	"failedToCopyText": {
-		"message": "Failed to copy text"
+		"message": "Tekstin kopiointi epäonnistui"
 	},
 	"failedToDeleteTemplate": {
-		"message": "Failed to delete template. Please try again."
+		"message": "Mallin poistaminen epäonnistui. Yritä uudelleen."
 	},
 	"failedToDuplicateTemplate": {
-		"message": "Failed to duplicate template. Please try again."
+		"message": "Mallin monistaminen epäonnistui. Yritä uudelleen."
 	},
 	"failedToExportHighlights": {
-		"message": "Failed to export highlights. Please check the console for more details."
+		"message": "Korostusten vienti epäonnistui. Tarkista konsoli lisätietoja varten."
 	},
 	"failedToExportSettings": {
-		"message": "Failed to export settings. Please check the console for more details."
+		"message": "Asetusten vienti epäonnistui. Tarkista konsoli lisätietoja varten."
 	},
 	"failedToExtractContent": {
-		"message": "Unable to extract page content."
+		"message": "Sivun sisällön poiminta epäonnistui."
 	},
 	"failedToImportTemplate": {
-		"message": "Error importing template. Please check the file and try again."
+		"message": "Mallin tuonti epäonnistui. Tarkista tiedosto ja yritä uudelleen."
 	},
 	"failedToInitialize": {
-		"message": "Please try reloading the extension."
+		"message": "Yritä ladata laajennus uudelleen."
 	},
 	"failedToInitializeContent": {
-		"message": "Unable to initialize page content."
+		"message": "Sivun sisällön alustaminen epäonnistui."
 	},
 	"failedToProcessInterpreter": {
-		"message": "Interpreter processing failed. Please try again."
+		"message": "Tulkin käsittely epäonnistui. Yritä uudelleen."
 	},
 	"failedToResetProviders": {
-		"message": "Failed to reset providers and models"
+		"message": "Palveluntarjoajien ja mallien nollaus epäonnistui"
 	},
 	"failedToResetTemplate": {
-		"message": "Failed to reset default template. Please try again."
+		"message": "Oletusmallin nollaus epäonnistui. Yritä uudelleen."
 	},
 	"failedToSave": {
-		"message": "Failed to save file"
+		"message": "Tiedoston tallennus epäonnistui"
 	},
 	"failedToSaveFile": {
-		"message": "Failed to save file"
+		"message": "Tiedoston tallennus epäonnistui"
 	},
 	"failedToSaveProvider": {
-		"message": "Failed to save provider. Please try again."
+		"message": "Palveluntarjoajan tallennus epäonnistui. Yritä uudelleen."
 	},
 	"feedback": {
-		"message": "Feedback"
+		"message": "Palaute"
 	},
 	"feedbackDescription": {
-		"message": "How can we improve Web Clipper? Please visit our help page, where you can report bugs, suggest features, and get help with common issues."
+		"message": "Miten voimme parantaa Web Clipperia? Vieraile ohjesivullamme, jossa voit raportoida virheitä, ehdottaa ominaisuuksia ja saada apua yleisiin ongelmiin."
 	},
 	"feedbackTitle": {
-		"message": "Thanks for your feedback"
+		"message": "Kiitos palautteestasi"
 	},
 	"folder": {
-		"message": "Folder"
+		"message": "Kansio"
 	},
 	"general": {
-		"message": "General"
+		"message": "Yleiset"
 	},
 	"generalSettings": {
-		"message": "General settings"
+		"message": "Yleiset asetukset"
 	},
 	"getApiKeyHere": {
-		"message": "Get your $1 API key here."
+		"message": "Hanki $1 API-avaimesi täältä"
 	},
 	"help": {
-		"message": "Help"
+		"message": "Ohje"
 	},
 	"helpDescription": {
-		"message": "Learn how to use Web Clipper and get help troubleshooting."
+		"message": "Opi käyttämään Web Clipperia ja saa apua ongelmien ratkaisemiseen"
 	},
 	"highlightInline": {
-		"message": "Highlight the page content"
+		"message": "Korosta sivun sisältö"
 	},
 	"highlightPage": {
-		"message": "Highlight page"
+		"message": "Korosta sivu"
 	},
 	"highlighter": {
-		"message": "Highlighter"
+		"message": "Korostustyökalu"
 	},
 	"highlighterSettings": {
-		"message": "Highlighter"
+		"message": "Korostustyökalu"
 	},
 	"history": {
-		"message": "History"
+		"message": "Historia"
 	},
 	"hotkeys": {
-		"message": "Hotkeys"
+		"message": "Pikanäppäimet"
 	},
 	"import": {
-		"message": "Import"
+		"message": "Tuo"
 	},
 	"importAllSettings": {
-		"message": "Import all settings"
+		"message": "Tuo kaikki asetukset"
 	},
 	"importAllSettingsDescription": {
-		"message": "Import all settings including templates and properties. This will replace your current configuration."
+		"message": "Tuo kaikki asetukset mukaan lukien mallit ja ominaisuudet. Tämä korvaa nykyisen määrityksesi."
 	},
 	"importFailed": {
-		"message": "Import failed. Please check the console for more details."
+		"message": "Tuonti epäonnistui. Tarkista konsoli lisätietoja varten."
 	},
 	"importModalTitle": {
-		"message": "Import"
+		"message": "Tuo"
 	},
 	"importProperties": {
-		"message": "Import properties"
+		"message": "Tuo ominaisuudet"
 	},
 	"importPropertiesDescription": {
-		"message": "To import your properties from Obsidian, locate the $strong_1_start$types.json$strong_1_end$ file in the $strong_2_start$.obsidian$strong_2_end$ folder within your vault. Note this folder is hidden by default on most operating systems.",
+		"message": "Tuodaksesi ominaisuudet Obsidianista, etsi $strong_1_start$types.json$strong_1_end$ -tiedosto holvisi $strong_2_start$.obsidian$strong_2_end$ -kansiosta. Huomaa, että tämä kansio on oletuksena piilotettu useimmissa käyttöjärjestelmissä.",
 		"placeholders": {
 			"strong_1_end": {
 				"content": "</strong>"
@@ -402,22 +402,22 @@
 		}
 	},
 	"importSettings": {
-		"message": "Import settings"
+		"message": "Tuo asetukset"
 	},
 	"importTemplate": {
-		"message": "Import template"
+		"message": "Tuo malli"
 	},
 	"interpret": {
-		"message": "interpret"
+		"message": "Tulkitse"
 	},
 	"interpreter": {
-		"message": "Interpreter"
+		"message": "Tulkki"
 	},
 	"interpreterContext": {
-		"message": "Interpreter context"
+		"message": "Tulkkauksen konteksti"
 	},
 	"interpreterContextDescription": {
-		"message": "The context used to interpret prompt variables. Overrides the default context defined in $link_start$Interpreter settings$link_end$. Variables can be used here.",
+		"message": "Konteksti, jota käytetään kehotemuuttujien tulkitsemiseen. Korvaa oletuskontekstin, joka on määritetty $link_start$tulkin asetuksissa$link_end$. Muuttujia voi käyttää tässä.",
 		"placeholders": {
 			"link_end": {
 				"content": "</a>"
@@ -428,82 +428,82 @@
 		}
 	},
 	"language": {
-		"message": "Language"
+		"message": "Kieli"
 	},
 	"languageDescription": {
-		"message": "Choose the display language for the extension interface."
+		"message": "Valitse laajennuksen käyttöliittymän näyttökieli."
 	},
 	"last30Days": {
-		"message": "Last 30 days"
+		"message": "Viimeiset 30 päivää"
 	},
 	"lastUsed": {
-		"message": "Last used"
+		"message": "Viimeksi käytetty"
 	},
 	"legacyMode": {
-		"message": "Legacy mode"
+		"message": "Yhteensopivuustila"
 	},
 	"legacyModeDescription": {
-		"message": "Uses the URI clipping method compatible with Obsidian 1.6.7 or earlier. Note that the length of the content you can clip is limited by your browser and OS. Some pages may fail without any errors."
+		"message": "Käyttää URI-leikkausmenetelmää, joka on yhteensopiva Obsidian 1.6.7:n tai sitä aikaisempien versioiden kanssa. Huomaa, että selaimen ja käyttöjärjestelmän rajoittama leikattavan sisällön pituus. Jotkin sivut saattavat epäonnistua ilman virheitä."
 	},
 	"modelName": {
-		"message": "Display name"
+		"message": "Mallin nimi"
 	},
 	"modelNameDescription": {
-		"message": "The name of the model you want to display in the interface."
+		"message": "Mallin nimi, jonka haluat näyttää käyttöliittymässä."
 	},
 	"modelProvider": {
-		"message": "Provider"
+		"message": "Tarjoaja"
 	},
 	"modelProviderDescription": {
-		"message": "Select the provider for this model."
+		"message": "Valitse tämän mallin tarjoaja."
 	},
 	"modelProviderPlaceholder": {
-		"message": "Provider"
+		"message": "Tarjoaja"
 	},
 	"modelRequiredFields": {
-		"message": "Model name, Provider, and Model ID are required."
+		"message": "Mallin nimi, tarjoaja ja mallin tunnus ovat pakollisia."
 	},
 	"models": {
-		"message": "Models"
+		"message": "Mallit"
 	},
 	"modelsListFor": {
-		"message": "Models list for $1"
+		"message": "Malliluettelo $1"
 	},
 	"more": {
-		"message": "More"
+		"message": "Lisää"
 	},
 	"newTemplate": {
-		"message": "New template"
+		"message": "Uusi malli"
 	},
 	"noHighlights": {
-		"message": "Do nothing"
+		"message": "Ei korostuksia"
 	},
 	"noTemplates": {
-		"message": "No templates available. Please add a template in the settings."
+		"message": "Malleja ei ole saatavilla. Lisää malli asetuksiin."
 	},
 	"noUnusedProperties": {
-		"message": "No unused properties found."
+		"message": "Käyttämättömiä ominaisuuksia ei löytynyt."
 	},
 	"noteContent": {
-		"message": "Note content"
+		"message": "Muistiinpanon sisältö"
 	},
 	"noteContentDescription": {
-		"message": "Customize the content of the note. Use variables to pre-populate data from the page."
+		"message": "Mukauta muistiinpanon sisältö. Käytä muuttujia sivulta ennakkotäyttöön."
 	},
 	"noteLocation": {
-		"message": "Note location"
+		"message": "Muistiinpanon sijainti"
 	},
 	"noteLocationDescription": {
-		"message": "The folder or path of the note."
+		"message": "Muistiinpanon kansio tai polku."
 	},
 	"noteName": {
-		"message": "Note name"
+		"message": "Muistiinpanon nimi"
 	},
 	"noteNameFormat": {
-		"message": "Note name"
+		"message": "Muistiinpanon nimen muoto"
 	},
 	"noteNameFormatDescription": {
-		"message": "Format for the file name of the note. You can use variables like {{title}}, {{date}}, and {{published}} to pre-populate data from the page. $link_start$Learn more$link_end$.",
+		"message": "Muistiinpanon tiedostonimen muoto. Voit käyttää muuttujia, kuten {{title}}, {{date}} ja {{published}} sivulta ennakkotäytettyjen tietojen lisäämiseen. $link_start$Opi lisää$link_end$.",
 		"placeholders": {
 			"link_end": {
 				"content": "</a>"
@@ -514,223 +514,223 @@
 		}
 	},
 	"notesAboutPage": {
-		"message": "Notes about this page..."
+		"message": "Huomioita tästä sivusta..."
 	},
 	"onlyHttpSupported": {
-		"message": "This page cannot be clipped. Only http and https URLs are supported."
+		"message": "Tätä sivua ei voi leikata. Vain http- ja https-URL-osoitteita tuetaan."
 	},
 	"open": {
-		"message": "Open"
+		"message": "Avaa"
 	},
 	"openBehaviorDescription": {
-		"message": "Choose how Web Clipper opens by default."
+		"message": "Valitse, miten Web Clipper avautuu oletuksena."
 	},
 	"openBehaviorTitle": {
-		"message": "Open behavior"
+		"message": "Avautumiskäyttäytyminen"
 	},
 	"openEmbedded": {
-		"message": "Open in page"
+		"message": "Avaa sivulla"
 	},
 	"openSidePanel": {
-		"message": "Open side panel"
+		"message": "Avaa sivupaneeli"
 	},
 	"optional": {
-		"message": "(optional)"
+		"message": "(valinnainen)"
 	},
 	"orPasteBelow": {
-		"message": "Or paste content below"
+		"message": "Tai liitä sisältö alle"
 	},
 	"overwriteNote": {
-		"message": "Overwrite note"
+		"message": "Korvaa muistiinpano"
 	},
 	"pageCannotBeClipped": {
-		"message": "This page cannot be clipped."
+		"message": "Tätä sivua ei voi leikata."
 	},
 	"pageVariables": {
-		"message": "Page variables"
+		"message": "Sivun muuttujat"
 	},
 	"pagesSaved": {
-		"message": "page saved"
+		"message": "sivu tallennettu"
 	},
 	"pagesSavedPlural": {
-		"message": "pages saved"
+		"message": "sivut tallennettu"
 	},
 	"pasteJsonHere": {
-		"message": "Paste JSON here"
+		"message": "Liitä JSON tähän"
 	},
 	"pleaseReload": {
-		"message": "Please try reloading the page."
+		"message": "Yritä ladata sivu uudelleen."
 	},
 	"popularModels": {
-		"message": "Popular models"
+		"message": "Suositut mallit"
 	},
 	"popularModelsDescription": {
-		"message": "Choose from commonly used models or enter custom model details."
+		"message": "Valitse yleisesti käytettyjä malleja tai syötä mukautetut mallin tiedot."
 	},
 	"popup": {
-		"message": "Popup"
+		"message": "Ponnahdusikkuna"
 	},
 	"prependToDaily": {
-		"message": "Add to daily note, at the top"
+		"message": "Lisää päivittäiseen muistiinpanoon, yläosaan"
 	},
 	"prependToExisting": {
-		"message": "Add to an existing note, at the top"
+		"message": "Lisää olemassa olevaan muistiinpanoon, yläosaan"
 	},
 	"preview": {
-		"message": "Preview"
+		"message": "Esikatselu"
 	},
 	"processing": {
-		"message": "processing"
+		"message": "käsittely"
 	},
 	"properties": {
-		"message": "Properties"
+		"message": "Ominaisuudet"
 	},
 	"propertiesSettings": {
-		"message": "Properties"
+		"message": "Ominaisuudet"
 	},
 	"propertyName": {
-		"message": "Property name"
+		"message": "Ominaisuuden nimi"
 	},
 	"propertyTypeCheckbox": {
-		"message": "Checkbox"
+		"message": "Valintaruutu"
 	},
 	"propertyTypeDate": {
-		"message": "Date"
+		"message": "Päivämäärä"
 	},
 	"propertyTypeDatetime": {
-		"message": "Date & time"
+		"message": "Päivämäärä & aika"
 	},
 	"propertyTypeMultitext": {
-		"message": "List"
+		"message": "Lista"
 	},
 	"propertyTypeNumber": {
-		"message": "Number"
+		"message": "Numero"
 	},
 	"propertyTypeText": {
-		"message": "Text"
+		"message": "Teksti"
 	},
 	"propertyValue": {
-		"message": "Property value"
+		"message": "Ominaisuuden arvo"
 	},
 	"provider": {
-		"message": "Provider"
+		"message": "Palveluntarjoaja"
 	},
 	"providerApiKey": {
-		"message": "API key"
+		"message": "API-avain"
 	},
 	"providerApiKeyDescription": {
-		"message": "Your API key for this provider."
+		"message": "API-avaimesi tälle tarjoajalle."
 	},
 	"providerBaseUrl": {
-		"message": "Base URL"
+		"message": "Perus-URL"
 	},
 	"providerBaseUrlDescription": {
-		"message": "The API endpoint URL for this provider."
+		"message": "API:n perus-URL. Käytä $strong_start${model}$strong_end$ -muuttujaa mallin tunnuksen lisäämiseen."
 	},
 	"providerModelId": {
-		"message": "Model ID"
+		"message": "Mallin tunnus"
 	},
 	"providerModelIdDescription": {
-		"message": "The identifier of the model from your provider. Typically a short name without spaces."
+		"message": "Mallin tunniste tarjoajaltasi. Tyypillisesti lyhyt nimi ilman välilyöntejä."
 	},
 	"providerModelIdPlaceholder": {
-		"message": "Model ID"
+		"message": "Mallin tunnus"
 	},
 	"providerName": {
-		"message": "Provider name"
+		"message": "Palveluntarjoajan nimi"
 	},
 	"providerNameDescription": {
-		"message": "Display name for this provider."
+		"message": "Näyttönimi tälle palveluntarjoajalle."
 	},
 	"providerPreset": {
-		"message": "Preset"
+		"message": "Esiasetus"
 	},
 	"providerPresetDescription": {
-		"message": "Choose a provider or create a custom one."
+		"message": "Valitse palveluntarjoaja tai luo mukautettu palveluntarjoaja."
 	},
 	"providerRequiredFields": {
-		"message": "Provider name and Base URL are required."
+		"message": "Palveluntarjoajan nimi ja perus-URL ovat pakollisia."
 	},
 	"providers": {
-		"message": "Providers"
+		"message": "Palveluntarjoajat"
 	},
 	"rateExtensionDescription": {
-		"message": "Are you enjoying Web Clipper? Help us by giving it a rating."
+		"message": "Pidätkö Web Clipperista? Auta meitä antamalla sille arvostelu."
 	},
 	"reader": {
-		"message": "Reader"
+		"message": "Lukija"
 	},
 	"readerAppearance": {
-		"message": "Appearance"
+		"message": "Ulkoasu"
 	},
 	"readerAppearanceAuto": {
-		"message": "Auto"
+		"message": "Automaattinen"
 	},
 	"readerAppearanceDark": {
-		"message": "Dark"
+		"message": "Tumma"
 	},
 	"readerAppearanceDescription": {
-		"message": "Choose light or dark appearance."
+		"message": "Valitse vaalea tai tumma ulkoasu."
 	},
 	"readerAppearanceLight": {
-		"message": "Light"
+		"message": "Vaalea"
 	},
 	"readerBlendImages": {
-		"message": "Blend images"
+		"message": "Sulauta kuvat"
 	},
 	"readerBlendImagesDescription": {
-		"message": "Blend images with the page background."
+		"message": "Sulauta kuvat sivun taustaan."
 	},
 	"readerCloseImageViewer": {
-		"message": "Close image viewer"
+		"message": "Sulje kuvankatselin"
 	},
 	"readerCollapseComment": {
-		"message": "Collapse comment"
+		"message": "Kutista kommentti"
 	},
 	"readerColorLinks": {
-		"message": "Color links"
+		"message": "Väritä linkit"
 	},
 	"readerColorSchemeDefault": {
-		"message": "Default"
+		"message": "Oletus"
 	},
 	"readerCustomCss": {
-		"message": "Custom CSS"
+		"message": "Mukautettu CSS"
 	},
 	"readerCustomCssDescription": {
-		"message": "CSS applied automatically in reading view."
+		"message": "Lukunäkymässä automaattisesti käytettävä CSS."
 	},
 	"readerDarkTheme": {
-		"message": "Dark mode theme"
+		"message": "Tumman tilan teema"
 	},
 	"readerDarkThemeDescription": {
-		"message": "Use a different theme in dark mode."
+		"message": "Käytä eri teemaa tummassa tilassa."
 	},
 	"readerError": {
-		"message": "Failed to extract content."
+		"message": "Sisällön poiminta epäonnistui."
 	},
 	"readerFont": {
-		"message": "Font options"
+		"message": "Fonttiasetukset"
 	},
 	"readerFontDefault": {
-		"message": "Default"
+		"message": "Oletus"
 	},
 	"readerFontDescription": {
-		"message": "Add fonts installed on your system. Press enter to add a font."
+		"message": "Lisää järjestelmääsi asennettuja fontteja. Lisää fontti painamalla Enteriä."
 	},
 	"readerFontNotFound": {
-		"message": "Not found"
+		"message": "Ei löytynyt"
 	},
 	"readerFontPlaceholder": {
-		"message": "Press enter to add a font"
+		"message": "Lisää fontti painamalla Enteriä"
 	},
 	"readerFontSetDefault": {
-		"message": "Set default"
+		"message": "Aseta oletukseksi"
 	},
 	"readerFontSize": {
-		"message": "Base font size"
+		"message": "Perusfonttikoko"
 	},
 	"readerFontSystem": {
-		"message": "System"
+		"message": "Järjestelmä"
 	},
 	"readerFontSystemSans": {
 		"message": "Sans-serif"
@@ -739,217 +739,217 @@
 		"message": "Serif"
 	},
 	"readerFonts": {
-		"message": "Fonts"
+		"message": "Fontit"
 	},
 	"readerFootnotes": {
-		"message": "Footnotes"
+		"message": "Alaviitteet"
 	},
 	"readerImages": {
-		"message": "Images"
+		"message": "Kuvat"
 	},
 	"readerLineHeight": {
-		"message": "Line height"
+		"message": "Riviväli"
 	},
 	"readerLineWidth": {
-		"message": "Line width"
+		"message": "Rivileveys"
 	},
 	"readerLoading": {
-		"message": "Defuddling…"
+		"message": "Selkeytetään…"
 	},
 	"readerSettings": {
-		"message": "Reader settings"
+		"message": "Lukijan asetukset"
 	},
 	"readerTheme": {
-		"message": "Theme"
+		"message": "Teema"
 	},
 	"readerThemeDescription": {
-		"message": "Choose the colors used in reading view."
+		"message": "Valitse lukunäkymässä käytettävät värit."
 	},
 	"readerThemeSection": {
-		"message": "Theme"
+		"message": "Teema"
 	},
 	"readerTypography": {
-		"message": "Typography"
+		"message": "Typografia"
 	},
 	"readerViewFullSize": {
-		"message": "View full size"
+		"message": "Näytä täysikokoisena"
 	},
 	"recommended": {
-		"message": "recommended"
+		"message": "suositeltu"
 	},
 	"refresh": {
-		"message": "Refresh"
+		"message": "Päivitä"
 	},
 	"remove": {
-		"message": "Remove"
+		"message": "Poista"
 	},
 	"removeProperty": {
-		"message": "Remove property"
+		"message": "Poista ominaisuus"
 	},
 	"removeUnusedProperties": {
-		"message": "Remove unused properties"
+		"message": "Poista käyttämättömät ominaisuudet"
 	},
 	"removeUnusedPropertiesDescription": {
-		"message": "Remove all properties that are not used in any template."
+		"message": "Poista kaikki ominaisuudet, joita ei käytetä missään mallissa."
 	},
 	"removeVault": {
-		"message": "Remove vault"
+		"message": "Poista holvi"
 	},
 	"replaceContent": {
-		"message": "Replace the page content"
+		"message": "Korvaa sivun sisältö"
 	},
 	"reset": {
-		"message": "Reset"
+		"message": "Nollaa"
 	},
 	"resetDefaultTemplate": {
-		"message": "Reset default template"
+		"message": "Palauta oletusmalli"
 	},
 	"resetDefaultTemplateDescription": {
-		"message": "Remove any changes you've made to the default template."
+		"message": "Poista kaikki tekemäsi muutokset oletusmalliin."
 	},
 	"resetProvidersAndModels": {
-		"message": "Reset default models"
+		"message": "Nollaa oletusmallit"
 	},
 	"resetProvidersAndModelsDescription": {
-		"message": "Reset providers and models to the default settings."
+		"message": "Nollaa tarjoajat ja mallit oletusasetuksiin."
 	},
 	"save": {
-		"message": "Save"
+		"message": "Tallenna"
 	},
 	"saveBehaviorDescription": {
-		"message": "Choose the default option for saving pages. Alternate options appear in the dropdown menu next to the main button."
+		"message": "Valitse oletusvaihtoehto sivujen tallentamiseksi. Vaihtoehtoiset vaihtoehdot näkyvät pääpainikkeen vieressä olevasta pudotusvalikosta."
 	},
 	"saveBehaviorLabel": {
-		"message": "Save behavior"
+		"message": "Tallennuskäyttäytyminen"
 	},
 	"saveFile": {
-		"message": "Save file..."
+		"message": "Tallenna tiedosto..."
 	},
 	"searchVariables": {
-		"message": "Search variables..."
+		"message": "Etsi muuttujia..."
 	},
 	"selectProvider": {
-		"message": "Select a provider"
+		"message": "Valitse tarjoaja"
 	},
 	"selectTemplateToExport": {
-		"message": "Please select a template to export."
+		"message": "Valitse vietävä malli."
 	},
 	"settings": {
-		"message": "Settings"
+		"message": "Asetukset"
 	},
 	"settingsHeading": {
-		"message": "Settings"
+		"message": "Asetukset"
 	},
 	"settingsImportSuccess": {
-		"message": "All settings imported successfully. Please refresh the page to see the changes."
+		"message": "Kaikki asetukset tuotu onnistuneesti. Päivitä sivu nähdäksesi muutokset."
 	},
 	"share": {
-		"message": "Share..."
+		"message": "Jaa..."
 	},
 	"shortcutInstructionsBrave": {
-		"message": "To change key assignments, go to $1"
+		"message": "Muuttaaksesi pikanäppäimiä, mene osoitteeseen $1"
 	},
 	"shortcutInstructionsChrome": {
-		"message": "To change key assignments, go to $1"
+		"message": "Muuttaaksesi pikanäppäimiä, mene osoitteeseen $1"
 	},
 	"shortcutInstructionsDefault": {
-		"message": "To change key assignments, please refer to your browser's extension settings."
+		"message": "Muuttaaksesi pikanäppäimiä, katso selaimesi laajennusasetuksia."
 	},
 	"shortcutInstructionsEdge": {
-		"message": "To change key assignments, go to $1"
+		"message": "Muuttaaksesi pikanäppäimiä, mene osoitteeseen $1"
 	},
 	"shortcutInstructionsFirefox": {
-		"message": "To change key assignments, go to $1, click the gear icon, and select \"Manage Extension Shortcuts\"."
+		"message": "Muuttaaksesi pikanäppäimiä, mene osoitteeseen $1, napsauta hammaspyöräkuvaketta ja valitse \"Hallitse laajennuksen pikanäppäimiä\""
 	},
 	"shortcutInstructionsIntro": {
-		"message": "Keyboard shortcuts give you quick access to clipper features."
+		"message": "Pikanäppäimet antavat sinun käyttää clipperin toimintoja nopeasti."
 	},
 	"shortcutInstructionsSafari": {
-		"message": "Keyboard shortcuts are not customizable on Safari."
+		"message": "Pikanäppäimiä ei voi mukauttaa Safarissa."
 	},
 	"shortcutNotSet": {
-		"message": "Not set"
+		"message": "Ei asetettu"
 	},
 	"showActionsButton": {
-		"message": "Show actions button"
+		"message": "Näytä toimintopainike"
 	},
 	"showActionsDescription": {
-		"message": "Allows you to inspect page variables from the clipper menu. Useful for seeing the variables that are available to use in templates."
+		"message": "Antaa sinun tarkastella sivun muuttujia clipperin valikosta. Hyödyllinen nähdäksesi malleissa käytettävissä olevat muuttujat."
 	},
 	"showPageVariables": {
-		"message": "Show page variables"
+		"message": "Näytä sivun muuttujat"
 	},
 	"silentOpen": {
-		"message": "Save clipped note without opening it"
+		"message": "Tallenna leikatut muistiinpanot avaamatta"
 	},
 	"silentOpenDescription": {
-		"message": "Clipped notes will be saved but will not open as a new tab. Obsidian will still be brought to the foreground."
+		"message": "Leikatut muistiinpanot tallennetaan mutta niitä ei avata uudessa välilehdessä. Obsidian tuodaan silti etualalle."
 	},
 	"specificNoteName": {
-		"message": "Specific note name"
+		"message": "Tietty muistiinpanon nimi"
 	},
 	"systemDefault": {
-		"message": "System"
+		"message": "Järjestelmän oletus"
 	},
 	"template": {
-		"message": "Template"
+		"message": "Malli"
 	},
 	"templateCopied": {
-		"message": "Copied template JSON to clipboard"
+		"message": "Mallin JSON kopioitu leikepöydälle"
 	},
 	"templateCopyError": {
-		"message": "Failed to copy template JSON to clipboard"
+		"message": "Mallin JSON:n kopiointi leikepöydälle epäonnistui"
 	},
 	"templateErrorCount": {
-		"message": "There is an error in your template."
+		"message": "Mallissasi on virhe."
 	},
 	"templateErrorsCount": {
-		"message": "There are $1 errors in your template."
+		"message": "Mallissasi on $1 virhettä."
 	},
 	"templateGroupContent": {
-		"message": "Content"
+		"message": "Sisältö"
 	},
 	"templateGroupLocation": {
-		"message": "Location"
+		"message": "Sijainti"
 	},
 	"templateName": {
-		"message": "Template name"
+		"message": "Mallin nimi"
 	},
 	"templateProperties": {
-		"message": "Properties"
+		"message": "Ominaisuudet"
 	},
 	"templatePropertiesDescription": {
-		"message": "Properties to add to the top of the clipped note. Use variables to pre-populate data from the page."
+		"message": "Ominaisuudet, jotka lisätään leikatun muistiinpanon alkuun. Käytä muuttujia täyttääksesi tiedot sivulta."
 	},
 	"templateTriggers": {
-		"message": "Template triggers"
+		"message": "Mallin laukaisimet"
 	},
 	"templateTriggersDescription": {
-		"message": "Define rules to automatically select this template if it matches a URL pattern or contains schema.org data. One rule per line."
+		"message": "Määritä säännöt tämän mallin automaattiselle valinnalle, jos se vastaa URL-kaavaa tai sisältää schema.org-tietoja. Yksi sääntö per rivi."
 	},
 	"templateValid": {
-		"message": "Template syntax is valid"
+		"message": "Mallin syntaksi on kelvollinen"
 	},
 	"templatesHeading": {
-		"message": "Templates"
+		"message": "Mallit"
 	},
 	"thinking": {
-		"message": "thinking"
+		"message": "ajattelee"
 	},
 	"unknownProvider": {
-		"message": "Unknown provider"
+		"message": "Tuntematon palveluntarjoaja"
 	},
 	"updateAvailable": {
-		"message": "An update is available."
+		"message": "Päivitys saatavilla"
 	},
 	"usingLatestVersion": {
-		"message": "You are using the latest version."
+		"message": "Käytät uusinta versiota"
 	},
 	"vault": {
-		"message": "Vault"
+		"message": "Holvi"
 	},
 	"vaultDescription": {
-		"message": "Select the default vault for this template. Go to $link_start$general settings$link_end$ to add or remove vaults.",
+		"message": "Valitse oletusholvi tälle mallille. Mene $link_start$yleisiin asetuksiin$link_end$ lisätäksesi tai poistaaksesi holveja.",
 		"placeholders": {
 			"link_end": {
 				"content": "</a>"
@@ -960,10 +960,10 @@
 		}
 	},
 	"vaults": {
-		"message": "Vaults"
+		"message": "Holvit"
 	},
 	"vaultsDescription": {
-		"message": "By default, clipped notes are saved to the currently open vault. You can add vaults here if you want the option to save to different vaults. Vault names must exactly match the name of the Obsidian vault. Press $strong_start$enter$strong_end$ to add a vault.",
+		"message": "Oletuksena leikatut muistiinpanot tallennetaan avoinna olevaan holviin. Voit lisätä holveja täällä, jos haluat mahdollisuuden tallentaa eri holveihin. Holvin nimen täytyy vastata täsmälleen Obsidian-holvin nimeä. Paina $strong_start$enter$strong_end$ lisätäksesi holvin.",
 		"placeholders": {
 			"strong_end": {
 				"content": "</strong>"
@@ -974,6 +974,6 @@
 		}
 	},
 	"version": {
-		"message": "Version"
+		"message": "Versio"
 	}
 }
