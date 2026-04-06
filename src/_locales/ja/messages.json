@@ -1,99 +1,99 @@
 {
 	"activity": {
-		"message": "Activity"
+		"message": "アクティビティ"
 	},
 	"addModel": {
-		"message": "+ Add model"
+		"message": "+ モデルを追加"
 	},
 	"addModelTitle": {
-		"message": "Add model"
+		"message": "モデルを追加"
 	},
 	"addProperty": {
-		"message": "+ Add property"
+		"message": "+ プロパティを追加"
 	},
 	"addProvider": {
-		"message": "+ Add provider"
+		"message": "\"+ プロバイダーを追加\""
 	},
 	"addProviderTitle": {
-		"message": "Add provider"
+		"message": "\"プロバイダーを追加\""
 	},
 	"addToObsidian": {
-		"message": "Add to Obsidian"
+		"message": "Obsidianに追加"
 	},
 	"addVaultPlaceholder": {
-		"message": "Press enter to add a vault"
+		"message": "Enterキーを押して保管庫を追加"
 	},
 	"advanced": {
-		"message": "Advanced"
+		"message": "詳細設定"
 	},
 	"allProperties": {
-		"message": "All properties"
+		"message": "すべてのプロパティ"
 	},
 	"allTime": {
-		"message": "All time"
+		"message": "全期間"
 	},
 	"alwaysShowHighlights": {
-		"message": "Always show highlights"
+		"message": "常にハイライトを表示"
 	},
 	"alwaysShowHighlightsDescription": {
-		"message": "Display your saved highlights when you load a page. Turn off to only display highlights when highlighter mode is activated."
+		"message": "ページ読み込み時に保存したハイライトを表示します。オフにすると、ハイライトモードが有効な時のみ表示されます。"
 	},
 	"apiKeyMissing": {
-		"message": "No API key"
+		"message": "\"APIキーがありません\""
 	},
 	"apiKeysWarning": {
-		"message": "By using an external provider you agree to their terms and privacy policy. Interpreter requests are sent directly to the provider you choose. Obsidian does not gather or store any data about your requests."
+		"message": "外部プロバイダーを使用することで、そのプロバイダーの利用規約とプライバシーポリシーに同意したことになります。インタープリターのリクエストは選択したプロバイダーに直接送信されます。Obsidianはリクエストに関するデータを収集または保存しません。"
 	},
 	"appendToDaily": {
-		"message": "Add to daily note, at the bottom"
+		"message": "デイリーノートの末尾に追加"
 	},
 	"appendToExisting": {
-		"message": "Add to an existing note, at the bottom"
+		"message": "既存のノートの末尾に追加"
 	},
 	"autoRunInterpreter": {
-		"message": "Automatically run"
+		"message": "自動実行"
 	},
 	"autoRunInterpreterDescription": {
-		"message": "Run prompt variables immediately if the template contains any. This will consume API credits with your model provider. Turn off if you only want to run interpreter manually."
+		"message": "テンプレートにプロンプト変数が含まれている場合、即座に実行します。これによりモデルプロバイダーのAPIクレジットが消費されます。インタープリターを手動でのみ実行したい場合はオフにしてください。"
 	},
 	"behavior": {
-		"message": "Behavior"
+		"message": "動作"
 	},
 	"byDay": {
-		"message": "Days"
+		"message": "日別"
 	},
 	"byMonth": {
-		"message": "Months"
+		"message": "月別"
 	},
 	"byWeek": {
-		"message": "Weeks"
+		"message": "週別"
 	},
 	"cancel": {
-		"message": "Cancel"
+		"message": "キャンセル"
 	},
 	"cannotDeleteProvider": {
-		"message": "Cannot delete provider \"$1\" because it is being used by $2 model(s)."
+		"message": "\"$2 モデルで使用中のため、プロバイダー \"$1\" を削除できません。\""
 	},
 	"changelog": {
-		"message": "Changelog"
+		"message": "変更履歴"
 	},
 	"chooseFile": {
-		"message": "Choose a file"
+		"message": "\"ファイルを選択\""
 	},
 	"choosePropertiesFile": {
-		"message": "Choose properties file"
+		"message": "\"プロパティファイルを選択\""
 	},
 	"chooseSettingsFile": {
-		"message": "Choose settings file"
+		"message": "\"設定ファイルを選択\""
 	},
 	"chooseTemplateFile": {
-		"message": "Choose template file"
+		"message": "\"テンプレートファイルを選択\""
 	},
 	"clipBehavior": {
-		"message": "Clip behavior"
+		"message": "クリップの動作"
 	},
 	"clipBehaviorDescription": {
-		"message": "Choose how highlighted content is saved to Obsidian. Defines the $strong_start${{content}}$strong_end$ variable.",
+		"message": "ハイライトしたコンテンツをObsidianに保存する方法を選択します。$strong_start${{content}}$strong_end$変数を定義します。",
 		"placeholders": {
 			"strong_end": {
 				"content": "</strong>"
@@ -104,7 +104,7 @@
 		}
 	},
 	"clipboardError": {
-		"message": "Obsidian is not able to access your clipboard. Try the troubleshooting instructions here: $1",
+		"message": "Obsidian がクリップボードにアクセスできません。こちらのトラブルシューティング手順をお試しください: $1",
 		"placeholders": {
 			"1": {
 				"content": "$1"
@@ -112,79 +112,79 @@
 		}
 	},
 	"close": {
-		"message": "Close"
+		"message": "閉じる"
 	},
 	"commandOpenClipper": {
-		"message": "Open Obsidian Clipper"
+		"message": "Obsidian Clipperを開く"
 	},
 	"commandQuickClip": {
-		"message": "Quick clip"
+		"message": "クイッククリップ"
 	},
 	"commandToggleHighlighter": {
-		"message": "Toggle highlighter"
+		"message": "ハイライトモードの切り替え"
 	},
 	"commandToggleReader": {
-		"message": "Toggle reader"
+		"message": "閲覧ビューを切り替える"
 	},
 	"confirmDeleteTemplate": {
-		"message": "Are you sure you want to delete the template \"$1\"?"
+		"message": "テンプレート「$1」を削除してもよろしいですか？"
 	},
 	"confirmReplaceSettings": {
-		"message": "This will replace all your current settings, including templates and properties. Are you sure you want to continue?"
+		"message": "\"これにより、現在のすべての設定（テンプレートとプロパティを含む）が置き換えられます。本当に続行しますか？\""
 	},
 	"copied": {
-		"message": "Copied!"
+		"message": "コピーしました！"
 	},
 	"copyAsJson": {
-		"message": "Copy as JSON"
+		"message": "JSONとしてコピー"
 	},
 	"copyToClipboard": {
-		"message": "Copy to clipboard"
+		"message": "クリップボードにコピー"
 	},
 	"createNewNote": {
-		"message": "Create new note"
+		"message": "新規ノートを作成"
 	},
 	"custom": {
-		"message": "Custom"
+		"message": "\"カスタム\""
 	},
 	"dailyNoteFormat": {
-		"message": "Daily note format (e.g., YYYY-MM-DD)"
+		"message": "デイリーノートの形式（例：YYYY-MM-DD）"
 	},
 	"defaultInterpreterContext": {
-		"message": "Default interpreter context"
+		"message": "デフォルトインタープリターコンテキスト"
 	},
 	"defaultInterpreterContextDescription": {
-		"message": "Override the context used to interpret prompt variables. Variables can be used here."
+		"message": "モデルはプロンプト変数を解釈する際にこのコンテキストを使用します。変数とフィルターを使用できます。"
 	},
 	"defaultTemplateName": {
-		"message": "Default"
+		"message": "デフォルト"
 	},
 	"delete": {
-		"message": "Delete"
+		"message": "削除"
 	},
 	"deleteModelConfirm": {
-		"message": "Are you sure you want to delete this model?"
+		"message": "このモデルを削除してもよろしいですか？"
 	},
 	"deleteProviderConfirm": {
-		"message": "Are you sure you want to delete this provider?"
+		"message": "\"このプロバイダーを削除してもよろしいですか？\""
 	},
 	"disableHighlighter": {
-		"message": "Disable highlighter"
+		"message": "ハイライトを無効化"
 	},
 	"disableReader": {
-		"message": "Disable reader"
+		"message": "閲覧ビューを無効にする"
 	},
 	"done": {
-		"message": "Done"
+		"message": "完了"
 	},
 	"dragAndDropFile": {
-		"message": "Drag and drop file here"
+		"message": "\"ここにファイルをドラッグ＆ドロップ\""
 	},
 	"duplicate": {
-		"message": "Duplicate"
+		"message": "複製"
 	},
 	"earlyAccessDescription": {
-		"message": "Use features that require the latest $link_start$early access version$link_end$ of Obsidian. Currently requires Obsidian 1.7.2 or later.",
+		"message": "Obsidianの最新の$link_start$アーリーアクセスバージョン$link_end$が必要な機能を使用します。現在はObsidian 1.7.2以降が必要です。",
 		"placeholders": {
 			"link_end": {
 				"content": "</a>"
@@ -195,31 +195,31 @@
 		}
 	},
 	"earlyAccessFeatures": {
-		"message": "Early access features"
+		"message": "アーリーアクセス機能"
 	},
 	"editModel": {
-		"message": "Edit model"
+		"message": "モデルを編集"
 	},
 	"editProvider": {
-		"message": "Edit provider"
+		"message": "\"プロバイダーを編集\""
 	},
 	"editTemplate": {
-		"message": "Edit template"
+		"message": "テンプレートを編集"
 	},
 	"embedded": {
-		"message": "Embedded"
+		"message": "埋め込み"
 	},
 	"enableHighlighter": {
-		"message": "Enable highlighter"
+		"message": "ハイライトを有効化"
 	},
 	"enableHighlighterDescription": {
-		"message": "Highlight content on web pages that you can save to Obsidian."
+		"message": "WebページのコンテンツをハイライトしてObsidianに保存できます。"
 	},
 	"enableInterpreter": {
-		"message": "Enable interpreter"
+		"message": "インタープリターを有効化"
 	},
 	"enableInterpreterDescription": {
-		"message": "Use natural language to extract data from pages. For example, you can use the template syntax $strong_start${{\"a summary of the page\"}}$strong_end$. Requires an API key or custom model configured below.  $link_start$Learn more$link_end$.",
+		"message": "自然言語を使用してページからデータを抽出します。例えば、テンプレート構文$strong_start${{\"ページの要約\"}}$strong_end$を使用できます。APIキーまたは以下で設定したカスタムモデルが必要です。$link_start$詳細$link_end$",
 		"placeholders": {
 			"link_end": {
 				"content": "</a>"
@@ -236,31 +236,31 @@
 		}
 	},
 	"enableReader": {
-		"message": "Open reading view"
+		"message": "閲覧ビューを開く"
 	},
 	"error": {
-		"message": "Error"
+		"message": "エラー"
 	},
 	"export": {
-		"message": "Export"
+		"message": "エクスポート"
 	},
 	"exportAllSettings": {
-		"message": "Export all settings"
+		"message": "すべての設定をエクスポート"
 	},
 	"exportAllSettingsDescription": {
-		"message": "Export all settings including templates and properties."
+		"message": "テンプレートとプロパティを含むすべての設定をエクスポートします。"
 	},
 	"exportHighlights": {
-		"message": "Export highlights"
+		"message": "ハイライトをエクスポート"
 	},
 	"exportHighlightsDescription": {
-		"message": "Export your highlights to a file."
+		"message": "ハイライトをファイルにエクスポートします。"
 	},
 	"exportProperties": {
-		"message": "Export properties"
+		"message": "プロパティをエクスポート"
 	},
 	"exportPropertiesDescription": {
-		"message": "Save Web Clipper properties to a $strong_start$types.json$strong_end$ file that can be imported into your Obsidian vault, or into Web Clipper on other devices.",
+		"message": "Web Clipperのプロパティを$strong_start$types.json$strong_end$ファイルに保存します。このファイルはObsidian保管庫や他のデバイスのWeb Clipperにインポートできます。",
 		"placeholders": {
 			"strong_end": {
 				"content": "</strong>"
@@ -271,121 +271,121 @@
 		}
 	},
 	"extensionDescription": {
-		"message": "Save content from the web in a private and durable format that you can access offline. The official browser extension for Obsidian."
+		"message": "Webコンテンツをプライベートで永続的なオフラインアクセス可能な形式で保存します。Obsidianの公式ブラウザ拡張機能です。"
 	},
 	"extensionName": {
 		"message": "Obsidian Web Clipper"
 	},
 	"failedToCopyText": {
-		"message": "Failed to copy text"
+		"message": "テキストのコピーに失敗しました"
 	},
 	"failedToDeleteTemplate": {
-		"message": "Failed to delete template. Please try again."
+		"message": "テンプレートの削除に失敗しまた。もう一度お試しください。"
 	},
 	"failedToDuplicateTemplate": {
-		"message": "Failed to duplicate template. Please try again."
+		"message": "\"テンプレートの複製に失敗しました。もう一度お試しください。\""
 	},
 	"failedToExportHighlights": {
-		"message": "Failed to export highlights. Please check the console for more details."
+		"message": "\"ハイライトのエクスポートに失敗しました。詳細はコンソールを確認してください。\""
 	},
 	"failedToExportSettings": {
-		"message": "Failed to export settings. Please check the console for more details."
+		"message": "\"設定のエクスポートに失敗しました。詳細はコンソールを確認してください。\""
 	},
 	"failedToExtractContent": {
-		"message": "Unable to extract page content."
+		"message": "ページコンテンツの抽出に失敗しました。"
 	},
 	"failedToImportTemplate": {
-		"message": "Error importing template. Please check the file and try again."
+		"message": "\"テンプレートのインポートエラーです。ファイルを確認して、もう一度お試しください。\""
 	},
 	"failedToInitialize": {
-		"message": "Please try reloading the extension."
+		"message": "拡張機能の再読み込みをお試しください。"
 	},
 	"failedToInitializeContent": {
-		"message": "Unable to initialize page content."
+		"message": "ページコンテンツの初期化に失敗しました。"
 	},
 	"failedToProcessInterpreter": {
-		"message": "Interpreter processing failed. Please try again."
+		"message": "インタープリターの処理に失敗しました。もう一度お試しください。"
 	},
 	"failedToResetProviders": {
-		"message": "Failed to reset providers and models"
+		"message": "プロバイダーとモデルのリセットに失敗しました"
 	},
 	"failedToResetTemplate": {
-		"message": "Failed to reset default template. Please try again."
+		"message": "\"デフォルトテンプレートのリセットに失敗しました。もう一度お試しください。\""
 	},
 	"failedToSave": {
-		"message": "Failed to save file"
+		"message": "ファイルの保存に失敗しました"
 	},
 	"failedToSaveFile": {
-		"message": "Failed to save file"
+		"message": "ファイルの保存に失敗しました"
 	},
 	"failedToSaveProvider": {
-		"message": "Failed to save provider. Please try again."
+		"message": "\"プロバイダーの保存に失敗しました。もう一度お試しください。\""
 	},
 	"feedback": {
-		"message": "Feedback"
+		"message": "フィードバック"
 	},
 	"feedbackDescription": {
-		"message": "How can we improve Web Clipper? Please visit our help page, where you can report bugs, suggest features, and get help with common issues."
+		"message": "Web Clipperをどのように改善できるでしょうか？バグを報告したり、機能を提案したり、一般的な問題に対するヘルプを得るために、ヘルプページをご覧ください。"
 	},
 	"feedbackTitle": {
-		"message": "Thanks for your feedback"
+		"message": "フィードバックありがとうございます"
 	},
 	"folder": {
-		"message": "Folder"
+		"message": "フォルダ"
 	},
 	"general": {
-		"message": "General"
+		"message": "一般"
 	},
 	"generalSettings": {
-		"message": "General settings"
+		"message": "一般設定"
 	},
 	"getApiKeyHere": {
-		"message": "Get your $1 API key here."
+		"message": "\"$1のAPIキーはこちらから取得できます。\""
 	},
 	"help": {
-		"message": "Help"
+		"message": "ヘルプ"
 	},
 	"helpDescription": {
-		"message": "Learn how to use Web Clipper and get help troubleshooting."
+		"message": "Web Clipperの使い方とトラブルシューティングのヘルプを参照してください。"
 	},
 	"highlightInline": {
-		"message": "Highlight the page content"
+		"message": "ページ内容をハイライトする"
 	},
 	"highlightPage": {
-		"message": "Highlight page"
+		"message": "ページをハイライト"
 	},
 	"highlighter": {
-		"message": "Highlighter"
+		"message": "ハイライト"
 	},
 	"highlighterSettings": {
-		"message": "Highlighter"
+		"message": "ハイライト"
 	},
 	"history": {
-		"message": "History"
+		"message": "履歴"
 	},
 	"hotkeys": {
-		"message": "Hotkeys"
+		"message": "ホットキー"
 	},
 	"import": {
-		"message": "Import"
+		"message": "インポート"
 	},
 	"importAllSettings": {
-		"message": "Import all settings"
+		"message": "すべての設定をインポート"
 	},
 	"importAllSettingsDescription": {
-		"message": "Import all settings including templates and properties. This will replace your current configuration."
+		"message": "テンプレートとプロパティを含むすべての設定をインポートします。現在の設定は上書きされます。"
 	},
 	"importFailed": {
-		"message": "Import failed. Please check the console for more details."
+		"message": "\"インポートに失敗しました。詳細はコンソールを確認してください。\""
 	},
 	"importModalTitle": {
-		"message": "Import"
+		"message": "\"インポート\""
 	},
 	"importProperties": {
-		"message": "Import properties"
+		"message": "プロパティをインポート"
 	},
 	"importPropertiesDescription": {
-		"message": "To import your properties from Obsidian, locate the $strong_1_start$types.json$strong_1_end$ file in the $strong_2_start$.obsidian$strong_2_end$ folder within your vault. Note this folder is hidden by default on most operating systems.",
+		"message": "Obsidianからプロパティをインポートするには、保管庫内の$strong_2_start$.obsidian$strong_2_end$フォルダにある$strong_1_start$types.json$strong_1_end$ファイルを探してください。このフォルダは多くのOSでデフォルトで非表示になっています。",
 		"placeholders": {
 			"strong_1_end": {
 				"content": "</strong>"
@@ -402,22 +402,22 @@
 		}
 	},
 	"importSettings": {
-		"message": "Import settings"
+		"message": "設定をインポート"
 	},
 	"importTemplate": {
-		"message": "Import template"
+		"message": "テンプレートをインポート"
 	},
 	"interpret": {
-		"message": "interpret"
+		"message": "解釈"
 	},
 	"interpreter": {
-		"message": "Interpreter"
+		"message": "インタープリター"
 	},
 	"interpreterContext": {
-		"message": "Interpreter context"
+		"message": "インタープリターコンテキスト"
 	},
 	"interpreterContextDescription": {
-		"message": "The context used to interpret prompt variables. Overrides the default context defined in $link_start$Interpreter settings$link_end$. Variables can be used here.",
+		"message": "プロンプト変数の解釈に使用されるコンテキストです。$link_start$インタープリター設定$link_end$で定義されたデフォルトコンテキストを上書きします。ここで変数を使用できます。",
 		"placeholders": {
 			"link_end": {
 				"content": "</a>"
@@ -428,82 +428,82 @@
 		}
 	},
 	"language": {
-		"message": "Language"
+		"message": "言語"
 	},
 	"languageDescription": {
-		"message": "Choose the display language for the extension interface."
+		"message": "拡張機能のインターフェース表示言語を選択します。"
 	},
 	"last30Days": {
-		"message": "Last 30 days"
+		"message": "過去30日間"
 	},
 	"lastUsed": {
-		"message": "Last used"
+		"message": "最後に使用"
 	},
 	"legacyMode": {
-		"message": "Legacy mode"
+		"message": "レガシーモード"
 	},
 	"legacyModeDescription": {
-		"message": "Uses the URI clipping method compatible with Obsidian 1.6.7 or earlier. Note that the length of the content you can clip is limited by your browser and OS. Some pages may fail without any errors."
+		"message": "Obsidian 1.6.7以前と互換性のあるURIクリップ方式を使用します。クリップできるコンテンツの長さはブラウザとOSによって制限されます。エラーなしに失敗する場合があります。"
 	},
 	"modelName": {
-		"message": "Display name"
+		"message": "モデル名"
 	},
 	"modelNameDescription": {
-		"message": "The name of the model you want to display in the interface."
+		"message": "インターフェースに表示したいモデルの名前。"
 	},
 	"modelProvider": {
-		"message": "Provider"
+		"message": "プロバイダー"
 	},
 	"modelProviderDescription": {
-		"message": "Select the provider for this model."
+		"message": "モデルプロバイダー（例：Ollama、OpenRouter、Google など）。"
 	},
 	"modelProviderPlaceholder": {
-		"message": "Provider"
+		"message": "プロバイダー"
 	},
 	"modelRequiredFields": {
-		"message": "Model name, Provider, and Model ID are required."
+		"message": "モデル名、プロバイダー、モデルIDは必須です。"
 	},
 	"models": {
-		"message": "Models"
+		"message": "モデル"
 	},
 	"modelsListFor": {
-		"message": "Models list for $1"
+		"message": "$1のモデルリスト"
 	},
 	"more": {
-		"message": "More"
+		"message": "その他"
 	},
 	"newTemplate": {
-		"message": "New template"
+		"message": "新規テンプレート"
 	},
 	"noHighlights": {
-		"message": "Do nothing"
+		"message": "何もしない"
 	},
 	"noTemplates": {
-		"message": "No templates available. Please add a template in the settings."
+		"message": "テンプレートがありません。設定でテンプレートを追加してください。"
 	},
 	"noUnusedProperties": {
-		"message": "No unused properties found."
+		"message": "未使用のプロパティが見つかりませんでした。"
 	},
 	"noteContent": {
-		"message": "Note content"
+		"message": "ノートの内容"
 	},
 	"noteContentDescription": {
-		"message": "Customize the content of the note. Use variables to pre-populate data from the page."
+		"message": "ノートの内容をカスタマイズします。変数を使用してページのデータを事前に入力できます。"
 	},
 	"noteLocation": {
-		"message": "Note location"
+		"message": "ノートの場所"
 	},
 	"noteLocationDescription": {
-		"message": "The folder or path of the note."
+		"message": "ノートのフォルダまたはパス。"
 	},
 	"noteName": {
-		"message": "Note name"
+		"message": "ノート名"
 	},
 	"noteNameFormat": {
-		"message": "Note name"
+		"message": "ノート名"
 	},
 	"noteNameFormatDescription": {
-		"message": "Format for the file name of the note. You can use variables like {{title}}, {{date}}, and {{published}} to pre-populate data from the page. $link_start$Learn more$link_end$.",
+		"message": "ノートのファイル名の形式です。{{title}}、{{date}}、{{published}}などの変数を使用してページのデータを事前に入力できます。$link_start$詳細$link_end$",
 		"placeholders": {
 			"link_end": {
 				"content": "</a>"
@@ -514,442 +514,442 @@
 		}
 	},
 	"notesAboutPage": {
-		"message": "Notes about this page..."
+		"message": "このページに関するノート..."
 	},
 	"onlyHttpSupported": {
-		"message": "This page cannot be clipped. Only http and https URLs are supported."
+		"message": "このページはクリップできません。httpとhttpsのURLのみがサポートされています。"
 	},
 	"open": {
-		"message": "Open"
+		"message": "開く"
 	},
 	"openBehaviorDescription": {
-		"message": "Choose how Web Clipper opens by default."
+		"message": "Web Clipperがデフォルトでどのように開くかを選択します。"
 	},
 	"openBehaviorTitle": {
-		"message": "Open behavior"
+		"message": "開く動作"
 	},
 	"openEmbedded": {
-		"message": "Open in page"
+		"message": "ページ内で開く"
 	},
 	"openSidePanel": {
-		"message": "Open side panel"
+		"message": "サイドパネルを開く"
 	},
 	"optional": {
-		"message": "(optional)"
+		"message": "(オプション)"
 	},
 	"orPasteBelow": {
-		"message": "Or paste content below"
+		"message": "または以下に内容を貼り付けてください"
 	},
 	"overwriteNote": {
-		"message": "Overwrite note"
+		"message": "ノートを上書きする"
 	},
 	"pageCannotBeClipped": {
-		"message": "This page cannot be clipped."
+		"message": "このページはクリップできません。"
 	},
 	"pageVariables": {
-		"message": "Page variables"
+		"message": "ページ変数"
 	},
 	"pagesSaved": {
-		"message": "page saved"
+		"message": "ページが保存されました"
 	},
 	"pagesSavedPlural": {
-		"message": "pages saved"
+		"message": "ページが保存されました"
 	},
 	"pasteJsonHere": {
-		"message": "Paste JSON here"
+		"message": "ここにJSONを貼り付けてください"
 	},
 	"pleaseReload": {
-		"message": "Please try reloading the page."
+		"message": "ページの再読み込みをお試しください。"
 	},
 	"popularModels": {
-		"message": "Popular models"
+		"message": "人気のモデル"
 	},
 	"popularModelsDescription": {
-		"message": "Choose from commonly used models or enter custom model details."
+		"message": "よく使用されるモデルから選択するか、カスタムモデルの詳細を入力してください。"
 	},
 	"popup": {
-		"message": "Popup"
+		"message": "ポップアップ"
 	},
 	"prependToDaily": {
-		"message": "Add to daily note, at the top"
+		"message": "デイリーノートの先頭に追加"
 	},
 	"prependToExisting": {
-		"message": "Add to an existing note, at the top"
+		"message": "既存のノートの先頭に追加"
 	},
 	"preview": {
-		"message": "Preview"
+		"message": "プレビュー"
 	},
 	"processing": {
-		"message": "processing"
+		"message": "処理中"
 	},
 	"properties": {
-		"message": "Properties"
+		"message": "プロパティ"
 	},
 	"propertiesSettings": {
-		"message": "Properties"
+		"message": "プロパティ"
 	},
 	"propertyName": {
-		"message": "Property name"
+		"message": "プロパティ名"
 	},
 	"propertyTypeCheckbox": {
-		"message": "Checkbox"
+		"message": "チェックボックス"
 	},
 	"propertyTypeDate": {
-		"message": "Date"
+		"message": "日付"
 	},
 	"propertyTypeDatetime": {
-		"message": "Date & time"
+		"message": "日付＆時間"
 	},
 	"propertyTypeMultitext": {
-		"message": "List"
+		"message": "リスト"
 	},
 	"propertyTypeNumber": {
-		"message": "Number"
+		"message": "番号"
 	},
 	"propertyTypeText": {
-		"message": "Text"
+		"message": "テキスト"
 	},
 	"propertyValue": {
-		"message": "Property value"
+		"message": "プロパティ値"
 	},
 	"provider": {
-		"message": "Provider"
+		"message": "プロバイダー"
 	},
 	"providerApiKey": {
-		"message": "API key"
+		"message": "APIキー"
 	},
 	"providerApiKeyDescription": {
-		"message": "Your API key for this provider."
+		"message": "このプロバイダーのAPIキー。"
 	},
 	"providerBaseUrl": {
-		"message": "Base URL"
+		"message": "ベースURL"
 	},
 	"providerBaseUrlDescription": {
-		"message": "The API endpoint URL for this provider."
+		"message": "このプロバイダーのAPIエンドポイントURL。"
 	},
 	"providerModelId": {
-		"message": "Model ID"
+		"message": "モデルID"
 	},
 	"providerModelIdDescription": {
-		"message": "The identifier of the model from your provider. Typically a short name without spaces."
+		"message": "プロバイダーのモデルの識別子。通常はスペースを含まない短い名前です。"
 	},
 	"providerModelIdPlaceholder": {
-		"message": "Model ID"
+		"message": "モデルID"
 	},
 	"providerName": {
-		"message": "Provider name"
+		"message": "プロバイダー名"
 	},
 	"providerNameDescription": {
-		"message": "Display name for this provider."
+		"message": "このプロバイダーの表示名。"
 	},
 	"providerPreset": {
-		"message": "Preset"
+		"message": "プリセット"
 	},
 	"providerPresetDescription": {
-		"message": "Choose a provider or create a custom one."
+		"message": "プロバイダーを選択するか、カスタムプロバイダーを作成してください。"
 	},
 	"providerRequiredFields": {
-		"message": "Provider name and Base URL are required."
+		"message": "プロバイダー名とベースURLは必須です。"
 	},
 	"providers": {
-		"message": "Providers"
+		"message": "プロバイダー"
 	},
 	"rateExtensionDescription": {
-		"message": "Are you enjoying Web Clipper? Help us by giving it a rating."
+		"message": "Web Clipperを楽しんでいますか？評価をつけることで私たちを支えてください。"
 	},
 	"reader": {
-		"message": "Reader"
+		"message": "リーダー"
 	},
 	"readerAppearance": {
-		"message": "Appearance"
+		"message": "外観"
 	},
 	"readerAppearanceAuto": {
-		"message": "Auto"
+		"message": "自動"
 	},
 	"readerAppearanceDark": {
-		"message": "Dark"
+		"message": "ダーク"
 	},
 	"readerAppearanceDescription": {
-		"message": "Choose light or dark appearance."
+		"message": "ライトまたはダークの外観を選択します。"
 	},
 	"readerAppearanceLight": {
-		"message": "Light"
+		"message": "ライト"
 	},
 	"readerBlendImages": {
-		"message": "Blend images"
+		"message": "画像を背景になじませる"
 	},
 	"readerBlendImagesDescription": {
-		"message": "Blend images with the page background."
+		"message": "画像をページの背景に溶け込ませます。"
 	},
 	"readerCloseImageViewer": {
-		"message": "Close image viewer"
+		"message": "画像ビューアを閉じる"
 	},
 	"readerCollapseComment": {
-		"message": "Collapse comment"
+		"message": "コメントを折りたたむ"
 	},
 	"readerColorLinks": {
-		"message": "Color links"
+		"message": "リンクに色を付ける"
 	},
 	"readerColorSchemeDefault": {
-		"message": "Default"
+		"message": "デフォルト"
 	},
 	"readerCustomCss": {
-		"message": "Custom CSS"
+		"message": "カスタムCSS"
 	},
 	"readerCustomCssDescription": {
-		"message": "CSS applied automatically in reading view."
+		"message": "読み取りビューで自動的に適用されるCSSです。"
 	},
 	"readerDarkTheme": {
-		"message": "Dark mode theme"
+		"message": "ダークモードのテーマ"
 	},
 	"readerDarkThemeDescription": {
-		"message": "Use a different theme in dark mode."
+		"message": "ダークモードで別のテーマを使用します。"
 	},
 	"readerError": {
-		"message": "Failed to extract content."
+		"message": "コンテンツの抽出に失敗しました。"
 	},
 	"readerFont": {
-		"message": "Font options"
+		"message": "フォントオプション"
 	},
 	"readerFontDefault": {
-		"message": "Default"
+		"message": "デフォルト"
 	},
 	"readerFontDescription": {
-		"message": "Add fonts installed on your system. Press enter to add a font."
+		"message": "システムにインストールされているフォントを追加します。Enterキーを押してフォントを追加します。"
 	},
 	"readerFontNotFound": {
-		"message": "Not found"
+		"message": "見つかりません"
 	},
 	"readerFontPlaceholder": {
-		"message": "Press enter to add a font"
+		"message": "Enterキーを押してフォントを追加"
 	},
 	"readerFontSetDefault": {
-		"message": "Set default"
+		"message": "デフォルトに設定"
 	},
 	"readerFontSize": {
-		"message": "Base font size"
+		"message": "基本フォントサイズ"
 	},
 	"readerFontSystem": {
-		"message": "System"
+		"message": "システム"
 	},
 	"readerFontSystemSans": {
-		"message": "Sans-serif"
+		"message": "サンセリフ"
 	},
 	"readerFontSystemSerif": {
-		"message": "Serif"
+		"message": "セリフ"
 	},
 	"readerFonts": {
-		"message": "Fonts"
+		"message": "フォント"
 	},
 	"readerFootnotes": {
-		"message": "Footnotes"
+		"message": "脚注"
 	},
 	"readerImages": {
-		"message": "Images"
+		"message": "画像"
 	},
 	"readerLineHeight": {
-		"message": "Line height"
+		"message": "行間"
 	},
 	"readerLineWidth": {
-		"message": "Line width"
+		"message": "行幅"
 	},
 	"readerLoading": {
-		"message": "Defuddling…"
+		"message": "読みやすくしています…"
 	},
 	"readerSettings": {
-		"message": "Reader settings"
+		"message": "リーダー設定"
 	},
 	"readerTheme": {
-		"message": "Theme"
+		"message": "テーマ"
 	},
 	"readerThemeDescription": {
-		"message": "Choose the colors used in reading view."
+		"message": "読み取りビューで使用する色を選択します。"
 	},
 	"readerThemeSection": {
-		"message": "Theme"
+		"message": "テーマ"
 	},
 	"readerTypography": {
-		"message": "Typography"
+		"message": "タイポグラフィ"
 	},
 	"readerViewFullSize": {
-		"message": "View full size"
+		"message": "フルサイズで表示"
 	},
 	"recommended": {
-		"message": "recommended"
+		"message": "推奨"
 	},
 	"refresh": {
-		"message": "Refresh"
+		"message": "更新"
 	},
 	"remove": {
-		"message": "Remove"
+		"message": "削除"
 	},
 	"removeProperty": {
-		"message": "Remove property"
+		"message": "プロパティを削除"
 	},
 	"removeUnusedProperties": {
-		"message": "Remove unused properties"
+		"message": "未使用のプロパティを削除"
 	},
 	"removeUnusedPropertiesDescription": {
-		"message": "Remove all properties that are not used in any template."
+		"message": "どのテンプレートでも使用されていないプロパティをすべて削除します。"
 	},
 	"removeVault": {
-		"message": "Remove vault"
+		"message": "保管庫を削除"
 	},
 	"replaceContent": {
-		"message": "Replace the page content"
+		"message": "ページコンテンツを置換"
 	},
 	"reset": {
-		"message": "Reset"
+		"message": "リセット"
 	},
 	"resetDefaultTemplate": {
-		"message": "Reset default template"
+		"message": "デフォルトテンプレートをリセット"
 	},
 	"resetDefaultTemplateDescription": {
-		"message": "Remove any changes you've made to the default template."
+		"message": "デフォルトテンプレートへの変更をすべて削除します。"
 	},
 	"resetProvidersAndModels": {
-		"message": "Reset default models"
+		"message": "デフォルトモデルをリセット"
 	},
 	"resetProvidersAndModelsDescription": {
-		"message": "Reset providers and models to the default settings."
+		"message": "プロバイダーとモデルをデフォルト設定にリセットします。"
 	},
 	"save": {
-		"message": "Save"
+		"message": "保存"
 	},
 	"saveBehaviorDescription": {
-		"message": "Choose the default option for saving pages. Alternate options appear in the dropdown menu next to the main button."
+		"message": "ページを保存するためのデフォルトオプションを選択します。他のオプションはメインボタンの隣のドロップダウンメニューに表示されます。"
 	},
 	"saveBehaviorLabel": {
-		"message": "Save behavior"
+		"message": "保存の動作"
 	},
 	"saveFile": {
-		"message": "Save file..."
+		"message": "ファイルを保存..."
 	},
 	"searchVariables": {
-		"message": "Search variables..."
+		"message": "変数を検索..."
 	},
 	"selectProvider": {
-		"message": "Select a provider"
+		"message": "プロバイダーを選択"
 	},
 	"selectTemplateToExport": {
-		"message": "Please select a template to export."
+		"message": "エクスポートするテンプレートを選択してください。"
 	},
 	"settings": {
-		"message": "Settings"
+		"message": "設定"
 	},
 	"settingsHeading": {
-		"message": "Settings"
+		"message": "設定"
 	},
 	"settingsImportSuccess": {
-		"message": "All settings imported successfully. Please refresh the page to see the changes."
+		"message": "すべての設定が正常にインポートされました。変更を確認するにはページを更新してください。"
 	},
 	"share": {
-		"message": "Share..."
+		"message": "共有..."
 	},
 	"shortcutInstructionsBrave": {
-		"message": "To change key assignments, go to $1"
+		"message": "キー割り当てを変更するには、$1に移動してください"
 	},
 	"shortcutInstructionsChrome": {
-		"message": "To change key assignments, go to $1"
+		"message": "キー割り当てを変更するには、$1に移動してください"
 	},
 	"shortcutInstructionsDefault": {
-		"message": "To change key assignments, please refer to your browser's extension settings."
+		"message": "キー割り当てを変更するには、ブラウザの拡張機能設定を参照してください。"
 	},
 	"shortcutInstructionsEdge": {
-		"message": "To change key assignments, go to $1"
+		"message": "キー割り当てを変更するには、$1に移動してください"
 	},
 	"shortcutInstructionsFirefox": {
-		"message": "To change key assignments, go to $1, click the gear icon, and select \"Manage Extension Shortcuts\"."
+		"message": "キー割り当てを変更するには、$1に移動し、歯車アイコンをクリックして「拡張機能のショートカットを管理」を選択してください。"
 	},
 	"shortcutInstructionsIntro": {
-		"message": "Keyboard shortcuts give you quick access to clipper features."
+		"message": "キーボードショートカットでクリッパー機能に素早くアクセスできます。"
 	},
 	"shortcutInstructionsSafari": {
-		"message": "Keyboard shortcuts are not customizable on Safari."
+		"message": "Safariではキーボードショートカットをカスタマイズできません。"
 	},
 	"shortcutNotSet": {
-		"message": "Not set"
+		"message": "未設定"
 	},
 	"showActionsButton": {
-		"message": "Show actions button"
+		"message": "アクションボタンを表示"
 	},
 	"showActionsDescription": {
-		"message": "Allows you to inspect page variables from the clipper menu. Useful for seeing the variables that are available to use in templates."
+		"message": "クリッパーメニューからページ変数を確認できます。テンプレートで使用可能な変数を確認するのに便利です。"
 	},
 	"showPageVariables": {
-		"message": "Show page variables"
+		"message": "ページ変数を表示"
 	},
 	"silentOpen": {
-		"message": "Save clipped note without opening it"
+		"message": "ノートを開かずに保存"
 	},
 	"silentOpenDescription": {
-		"message": "Clipped notes will be saved but will not open as a new tab. Obsidian will still be brought to the foreground."
+		"message": "クリップしたノートは保存されますが、新しいタブで開きません。Obsidianは引き続き前面に表示されます。"
 	},
 	"specificNoteName": {
-		"message": "Specific note name"
+		"message": "特定のノート名"
 	},
 	"systemDefault": {
-		"message": "System"
+		"message": "システム"
 	},
 	"template": {
-		"message": "Template"
+		"message": "テンプレート"
 	},
 	"templateCopied": {
-		"message": "Copied template JSON to clipboard"
+		"message": "テンプレートのJSONをクリップボードにコピーしました"
 	},
 	"templateCopyError": {
-		"message": "Failed to copy template JSON to clipboard"
+		"message": "テンプレートのJSONのクリップボードへのコピーに失敗しました"
 	},
 	"templateErrorCount": {
-		"message": "There is an error in your template."
+		"message": "テンプレートにエラーがあります。"
 	},
 	"templateErrorsCount": {
-		"message": "There are $1 errors in your template."
+		"message": "テンプレートに$1件のエラーがあります。"
 	},
 	"templateGroupContent": {
-		"message": "Content"
+		"message": "コンテンツ"
 	},
 	"templateGroupLocation": {
-		"message": "Location"
+		"message": "場所"
 	},
 	"templateName": {
-		"message": "Template name"
+		"message": "テンプレート名"
 	},
 	"templateProperties": {
-		"message": "Properties"
+		"message": "プロパティ"
 	},
 	"templatePropertiesDescription": {
-		"message": "Properties to add to the top of the clipped note. Use variables to pre-populate data from the page."
+		"message": "クリップしたノートの先頭に追加するプロパティです。変数を使用してページのデータを事前に入力できます。"
 	},
 	"templateTriggers": {
-		"message": "Template triggers"
+		"message": "テンプレートトリガー"
 	},
 	"templateTriggersDescription": {
-		"message": "Define rules to automatically select this template if it matches a URL pattern or contains schema.org data. One rule per line."
+		"message": "URLパターンやschema.orgデータに一致する場合に、このテンプレートを自動的に択するルールを定義します。1行に1つのルールを述してください。"
 	},
 	"templateValid": {
-		"message": "Template syntax is valid"
+		"message": "テンプレート構文は有効です"
 	},
 	"templatesHeading": {
-		"message": "Templates"
+		"message": "テンプレート"
 	},
 	"thinking": {
-		"message": "thinking"
+		"message": "考え中"
 	},
 	"unknownProvider": {
-		"message": "Unknown provider"
+		"message": "不明なプロバイダー"
 	},
 	"updateAvailable": {
-		"message": "An update is available."
+		"message": "アップデートが利用可能です。"
 	},
 	"usingLatestVersion": {
-		"message": "You are using the latest version."
+		"message": "最新バージョンを使用しています。"
 	},
 	"vault": {
-		"message": "Vault"
+		"message": "保管庫"
 	},
 	"vaultDescription": {
-		"message": "Select the default vault for this template. Go to $link_start$general settings$link_end$ to add or remove vaults.",
+		"message": "このテンプレートのデフォルト保管庫を選択します。保管庫の追加や削除は$link_start$一般設定$link_end$で行えます。",
 		"placeholders": {
 			"link_end": {
 				"content": "</a>"
@@ -960,10 +960,10 @@
 		}
 	},
 	"vaults": {
-		"message": "Vaults"
+		"message": "保管庫"
 	},
 	"vaultsDescription": {
-		"message": "By default, clipped notes are saved to the currently open vault. You can add vaults here if you want the option to save to different vaults. Vault names must exactly match the name of the Obsidian vault. Press $strong_start$enter$strong_end$ to add a vault.",
+		"message": "デフォルトでは、クリップしたノートは現在開いている保管庫に保存されます。異なる保管庫に保存するオプションが必要な場合は、ここで保管庫を追加できます。保管庫名はObsidian保管庫の名前と完全に一致する必要があります。$strong_start$Enter$strong_end$キーを押して保管庫を追加します。",
 		"placeholders": {
 			"strong_end": {
 				"content": "</strong>"
@@ -974,6 +974,6 @@
 		}
 	},
 	"version": {
-		"message": "Version"
+		"message": "バージョン"
 	}
 }
