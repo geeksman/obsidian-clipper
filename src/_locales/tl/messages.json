@@ -1,99 +1,99 @@
 {
 	"activity": {
-		"message": "Activity"
+		"message": "Aktibidad"
 	},
 	"addModel": {
-		"message": "+ Add model"
+		"message": "+ Magdagdag ng modelo"
 	},
 	"addModelTitle": {
-		"message": "Add model"
+		"message": "Magdagdag ng modelo"
 	},
 	"addProperty": {
-		"message": "+ Add property"
+		"message": "+ Magdagdag ng katangian"
 	},
 	"addProvider": {
-		"message": "+ Add provider"
+		"message": "+ Magdagdag ng provider"
 	},
 	"addProviderTitle": {
-		"message": "Add provider"
+		"message": "Magdagdag ng provider"
 	},
 	"addToObsidian": {
-		"message": "Add to Obsidian"
+		"message": "Idagdag sa Obsidian"
 	},
 	"addVaultPlaceholder": {
-		"message": "Press enter to add a vault"
+		"message": "Pindutin ang Enter para magdagdag ng vault"
 	},
 	"advanced": {
 		"message": "Advanced"
 	},
 	"allProperties": {
-		"message": "All properties"
+		"message": "Lahat ng katangian"
 	},
 	"allTime": {
-		"message": "All time"
+		"message": "Lahat ng oras"
 	},
 	"alwaysShowHighlights": {
-		"message": "Always show highlights"
+		"message": "Palaging ipakita ang mga highlight"
 	},
 	"alwaysShowHighlightsDescription": {
-		"message": "Display your saved highlights when you load a page. Turn off to only display highlights when highlighter mode is activated."
+		"message": "Ipakita ang mga naka-save na highlight kapag nag-load ang pahina. I-disable para ipakita lang ang mga highlight kapag aktibo ang highlight mode."
 	},
 	"apiKeyMissing": {
-		"message": "No API key"
+		"message": "Nawawala ang API key"
 	},
 	"apiKeysWarning": {
-		"message": "By using an external provider you agree to their terms and privacy policy. Interpreter requests are sent directly to the provider you choose. Obsidian does not gather or store any data about your requests."
+		"message": "Sa paggamit ng external provider, tinatanggap mo ang kanilang mga tuntunin at patakaran sa privacy. Ang mga kahilingan sa interpreter ay direktang ipinapadala sa iyong napiling provider. Hindi nangongolekta o nag-iimbak ang Obsidian ng impormasyon tungkol sa iyong mga kahilingan."
 	},
 	"appendToDaily": {
-		"message": "Add to daily note, at the bottom"
+		"message": "Idagdag sa daily note, sa dulo"
 	},
 	"appendToExisting": {
-		"message": "Add to an existing note, at the bottom"
+		"message": "Idagdag sa umiiral na note, sa dulo"
 	},
 	"autoRunInterpreter": {
-		"message": "Automatically run"
+		"message": "Awtomatikong patakbuhin"
 	},
 	"autoRunInterpreterDescription": {
-		"message": "Run prompt variables immediately if the template contains any. This will consume API credits with your model provider. Turn off if you only want to run interpreter manually."
+		"message": "Agad na isinasagawa ang mga prompt variable kung mayroon sa template. Gumagamit ng API credits mula sa iyong model provider. I-disable kung gusto mo lang patakbuhin ang interpreter nang manu-mano."
 	},
 	"behavior": {
-		"message": "Behavior"
+		"message": "Pag-uugali"
 	},
 	"byDay": {
-		"message": "Days"
+		"message": "Ayon sa araw"
 	},
 	"byMonth": {
-		"message": "Months"
+		"message": "Ayon sa buwan"
 	},
 	"byWeek": {
-		"message": "Weeks"
+		"message": "Ayon sa linggo"
 	},
 	"cancel": {
-		"message": "Cancel"
+		"message": "Kanselahin"
 	},
 	"cannotDeleteProvider": {
-		"message": "Cannot delete provider \"$1\" because it is being used by $2 model(s)."
+		"message": "Hindi maaaring tanggalin ang provider na \"$1\" dahil ginagamit ito ng $2 (na) modelo."
 	},
 	"changelog": {
-		"message": "Changelog"
+		"message": "Talaan ng mga pagbabago"
 	},
 	"chooseFile": {
-		"message": "Choose a file"
+		"message": "Pumili ng file"
 	},
 	"choosePropertiesFile": {
-		"message": "Choose properties file"
+		"message": "Pumili ng properties file"
 	},
 	"chooseSettingsFile": {
-		"message": "Choose settings file"
+		"message": "Pumili ng settings file"
 	},
 	"chooseTemplateFile": {
-		"message": "Choose template file"
+		"message": "Pumili ng template file"
 	},
 	"clipBehavior": {
-		"message": "Clip behavior"
+		"message": "Pag-uugali ng pag-clip"
 	},
 	"clipBehaviorDescription": {
-		"message": "Choose how highlighted content is saved to Obsidian. Defines the $strong_start${{content}}$strong_end$ variable.",
+		"message": "Piliin kung paano i-save ang napiling content sa Obsidian. Itinatakda ang variable na $strong_start${{content}}$strong_end$",
 		"placeholders": {
 			"strong_end": {
 				"content": "</strong>"
@@ -104,7 +104,7 @@
 		}
 	},
 	"clipboardError": {
-		"message": "Obsidian is not able to access your clipboard. Try the troubleshooting instructions here: $1",
+		"message": "Hindi ma-access ng Obsidian ang iyong clipboard. Subukan ang mga tagubilin sa pag-troubleshoot dito: $1",
 		"placeholders": {
 			"1": {
 				"content": "$1"
@@ -112,79 +112,79 @@
 		}
 	},
 	"close": {
-		"message": "Close"
+		"message": "Isara"
 	},
 	"commandOpenClipper": {
-		"message": "Open Obsidian Clipper"
+		"message": "Buksan ang Obsidian Clipper"
 	},
 	"commandQuickClip": {
 		"message": "Quick clip"
 	},
 	"commandToggleHighlighter": {
-		"message": "Toggle highlighter"
+		"message": "I-toggle ang highlighter"
 	},
 	"commandToggleReader": {
-		"message": "Toggle reader"
+		"message": "Palitan ang tanawin ng pagbabasa"
 	},
 	"confirmDeleteTemplate": {
-		"message": "Are you sure you want to delete the template \"$1\"?"
+		"message": "Sigurado ka bang gusto mong tanggalin ang template na \"$1\"?"
 	},
 	"confirmReplaceSettings": {
-		"message": "This will replace all your current settings, including templates and properties. Are you sure you want to continue?"
+		"message": "Ang aksyong ito ay papalitan ang lahat ng iyong kasalukuyang settings, kasama ang mga template at properties. Sigurado ka bang gusto mong magpatuloy?"
 	},
 	"copied": {
-		"message": "Copied!"
+		"message": "Nakopya na!"
 	},
 	"copyAsJson": {
-		"message": "Copy as JSON"
+		"message": "Kopyahin bilang JSON"
 	},
 	"copyToClipboard": {
-		"message": "Copy to clipboard"
+		"message": "Kopyahin sa clipboard"
 	},
 	"createNewNote": {
-		"message": "Create new note"
+		"message": "Gumawa ng bagong note"
 	},
 	"custom": {
 		"message": "Custom"
 	},
 	"dailyNoteFormat": {
-		"message": "Daily note format (e.g., YYYY-MM-DD)"
+		"message": "Format ng daily note (hal. YYYY-MM-DD)"
 	},
 	"defaultInterpreterContext": {
-		"message": "Default interpreter context"
+		"message": "Default na konteksto ng interpreter"
 	},
 	"defaultInterpreterContextDescription": {
-		"message": "Override the context used to interpret prompt variables. Variables can be used here."
+		"message": "I-override ang kontekstong ginagamit para sa pag-interpret ng mga prompt variable. Maaari kang gumamit ng mga variable dito."
 	},
 	"defaultTemplateName": {
 		"message": "Default"
 	},
 	"delete": {
-		"message": "Delete"
+		"message": "Tanggalin"
 	},
 	"deleteModelConfirm": {
-		"message": "Are you sure you want to delete this model?"
+		"message": "Sigurado ka bang gusto mong tanggalin ang modelong ito?"
 	},
 	"deleteProviderConfirm": {
-		"message": "Are you sure you want to delete this provider?"
+		"message": "Sigurado ka bang gusto mong tanggalin ang provider na ito?"
 	},
 	"disableHighlighter": {
-		"message": "Disable highlighter"
+		"message": "I-disable ang highlighter"
 	},
 	"disableReader": {
-		"message": "Disable reader"
+		"message": "Huwag paganahin ang tanawin ng pagbabasa"
 	},
 	"done": {
-		"message": "Done"
+		"message": "Tapos na"
 	},
 	"dragAndDropFile": {
-		"message": "Drag and drop file here"
+		"message": "I-drag at i-drop ang file dito"
 	},
 	"duplicate": {
-		"message": "Duplicate"
+		"message": "Kopyahin"
 	},
 	"earlyAccessDescription": {
-		"message": "Use features that require the latest $link_start$early access version$link_end$ of Obsidian. Currently requires Obsidian 1.7.2 or later.",
+		"message": "Gamitin ang mga feature na nangangailangan ng pinakabagong $link_start$early access version$link_end$ ng Obsidian. Kasalukuyang kailangan ang Obsidian 1.7.2 o mas bago.",
 		"placeholders": {
 			"link_end": {
 				"content": "</a>"
@@ -195,31 +195,31 @@
 		}
 	},
 	"earlyAccessFeatures": {
-		"message": "Early access features"
+		"message": "Mga early access na feature"
 	},
 	"editModel": {
-		"message": "Edit model"
+		"message": "I-edit ang modelo"
 	},
 	"editProvider": {
-		"message": "Edit provider"
+		"message": "I-edit ang provider"
 	},
 	"editTemplate": {
-		"message": "Edit template"
+		"message": "I-edit ang template"
 	},
 	"embedded": {
-		"message": "Embedded"
+		"message": "Naka-embed"
 	},
 	"enableHighlighter": {
-		"message": "Enable highlighter"
+		"message": "I-enable ang highlighter"
 	},
 	"enableHighlighterDescription": {
-		"message": "Highlight content on web pages that you can save to Obsidian."
+		"message": "Mag-highlight ng content sa mga webpage para i-save sa Obsidian"
 	},
 	"enableInterpreter": {
-		"message": "Enable interpreter"
+		"message": "I-enable ang interpreter"
 	},
 	"enableInterpreterDescription": {
-		"message": "Use natural language to extract data from pages. For example, you can use the template syntax $strong_start${{\"a summary of the page\"}}$strong_end$. Requires an API key or custom model configured below.  $link_start$Learn more$link_end$.",
+		"message": "Gumamit ng natural na wika para kunin ang impormasyon mula sa mga pahina. Halimbawa, maaari mong gamitin ang template syntax na $strong_start${{\"i-summarize ang pahinang ito\"}}$strong_end$. Nangangailangan ng API key o pag-setup ng custom model sa ibaba. $link_start$Matuto pa$link_end$",
 		"placeholders": {
 			"link_end": {
 				"content": "</a>"
@@ -236,31 +236,31 @@
 		}
 	},
 	"enableReader": {
-		"message": "Open reading view"
+		"message": "Buksan ang tanawin ng pagbabasa"
 	},
 	"error": {
 		"message": "Error"
 	},
 	"export": {
-		"message": "Export"
+		"message": "I-export"
 	},
 	"exportAllSettings": {
-		"message": "Export all settings"
+		"message": "I-export lahat ng settings"
 	},
 	"exportAllSettingsDescription": {
-		"message": "Export all settings including templates and properties."
+		"message": "I-export lahat ng settings, kasama ang mga template at properties"
 	},
 	"exportHighlights": {
-		"message": "Export highlights"
+		"message": "I-export ang mga highlight"
 	},
 	"exportHighlightsDescription": {
-		"message": "Export your highlights to a file."
+		"message": "I-export ang iyong mga highlight sa isang file"
 	},
 	"exportProperties": {
-		"message": "Export properties"
+		"message": "I-export ang mga property"
 	},
 	"exportPropertiesDescription": {
-		"message": "Save Web Clipper properties to a $strong_start$types.json$strong_end$ file that can be imported into your Obsidian vault, or into Web Clipper on other devices.",
+		"message": "I-save ang mga Web Clipper property sa $strong_start$types.json$strong_end$ file, na maaaring i-import sa iyong Obsidian vault o Web Clipper sa ibang device",
 		"placeholders": {
 			"strong_end": {
 				"content": "</strong>"
@@ -271,88 +271,88 @@
 		}
 	},
 	"extensionDescription": {
-		"message": "Save content from the web in a private and durable format that you can access offline. The official browser extension for Obsidian."
+		"message": "I-save ang web content sa pribado at pangmatagalang format, na maaaring ma-access offline. Ang opisyal na browser extension para sa Obsidian."
 	},
 	"extensionName": {
 		"message": "Obsidian Web Clipper"
 	},
 	"failedToCopyText": {
-		"message": "Failed to copy text"
+		"message": "Hindi makopya ang text"
 	},
 	"failedToDeleteTemplate": {
-		"message": "Failed to delete template. Please try again."
+		"message": "Hindi matanggal ang template. Pakisubukang muli."
 	},
 	"failedToDuplicateTemplate": {
-		"message": "Failed to duplicate template. Please try again."
+		"message": "Hindi makopya ang template. Pakisubukang muli."
 	},
 	"failedToExportHighlights": {
-		"message": "Failed to export highlights. Please check the console for more details."
+		"message": "Hindi ma-export ang mga highlight. Tingnan ang console para sa mga detalye."
 	},
 	"failedToExportSettings": {
-		"message": "Failed to export settings. Please check the console for more details."
+		"message": "Hindi ma-export ang mga setting. Tingnan ang console para sa mga detalye."
 	},
 	"failedToExtractContent": {
-		"message": "Unable to extract page content."
+		"message": "Hindi makuha ang content ng pahina."
 	},
 	"failedToImportTemplate": {
-		"message": "Error importing template. Please check the file and try again."
+		"message": "Error sa pag-import ng template. Tingnan ang file at subukang muli."
 	},
 	"failedToInitialize": {
-		"message": "Please try reloading the extension."
+		"message": "Paki-reload ang extension."
 	},
 	"failedToInitializeContent": {
-		"message": "Unable to initialize page content."
+		"message": "Hindi ma-initialize ang content ng pahina."
 	},
 	"failedToProcessInterpreter": {
-		"message": "Interpreter processing failed. Please try again."
+		"message": "Hindi maproseso ang interpreter. Pakisubukang muli."
 	},
 	"failedToResetProviders": {
-		"message": "Failed to reset providers and models"
+		"message": "Hindi ma-reset ang mga provider at model"
 	},
 	"failedToResetTemplate": {
-		"message": "Failed to reset default template. Please try again."
+		"message": "Hindi ma-reset ang default template. Pakisubukang muli."
 	},
 	"failedToSave": {
-		"message": "Failed to save file"
+		"message": "Hindi ma-save ang file"
 	},
 	"failedToSaveFile": {
-		"message": "Failed to save file"
+		"message": "Hindi ma-save ang file"
 	},
 	"failedToSaveProvider": {
-		"message": "Failed to save provider. Please try again."
+		"message": "Hindi ma-save ang provider. Pakisubukang muli."
 	},
 	"feedback": {
 		"message": "Feedback"
 	},
 	"feedbackDescription": {
-		"message": "How can we improve Web Clipper? Please visit our help page, where you can report bugs, suggest features, and get help with common issues."
+		"message": "Paano namin mapapabuti ang Web Clipper? Bisitahin ang aming help page para mag-report ng bugs, magmungkahi ng mga feature, at makakuha ng tulong sa mga karaniwang problema."
 	},
 	"feedbackTitle": {
-		"message": "Thanks for your feedback"
+		"message": "Salamat sa iyong feedback"
 	},
 	"folder": {
 		"message": "Folder"
 	},
 	"general": {
-		"message": "General"
+		"message": "Pangkalahatan"
 	},
 	"generalSettings": {
-		"message": "General settings"
+		"message": "Pangkalahatang Settings"
 	},
 	"getApiKeyHere": {
-		"message": "Get your $1 API key here."
+		"message": "Kunin ang $1 API key dito"
 	},
 	"help": {
-		"message": "Help"
+		"message": "Tulong"
 	},
 	"helpDescription": {
-		"message": "Learn how to use Web Clipper and get help troubleshooting."
+		"message": "Alamin kung paano gamitin ang Web Clipper at makakuha ng tulong sa troubleshooting"
 	},
 	"highlightInline": {
-		"message": "Highlight the page content"
+		"message": "I-highlight ang content sa pahina"
 	},
 	"highlightPage": {
-		"message": "Highlight page"
+		"message": "I-highlight ang pahina"
 	},
 	"highlighter": {
 		"message": "Highlighter"
@@ -361,31 +361,31 @@
 		"message": "Highlighter"
 	},
 	"history": {
-		"message": "History"
+		"message": "Kasaysayan"
 	},
 	"hotkeys": {
-		"message": "Hotkeys"
+		"message": "Mga hotkey"
 	},
 	"import": {
-		"message": "Import"
+		"message": "I-import"
 	},
 	"importAllSettings": {
-		"message": "Import all settings"
+		"message": "I-import lahat ng settings"
 	},
 	"importAllSettingsDescription": {
-		"message": "Import all settings including templates and properties. This will replace your current configuration."
+		"message": "I-import lahat ng settings, kasama ang mga template at properties. Papalitan nito ang iyong kasalukuyang configuration."
 	},
 	"importFailed": {
-		"message": "Import failed. Please check the console for more details."
+		"message": "Nabigo ang pag-import. Tingnan ang console para sa mga detalye."
 	},
 	"importModalTitle": {
-		"message": "Import"
+		"message": "I-import"
 	},
 	"importProperties": {
-		"message": "Import properties"
+		"message": "I-import ang mga property"
 	},
 	"importPropertiesDescription": {
-		"message": "To import your properties from Obsidian, locate the $strong_1_start$types.json$strong_1_end$ file in the $strong_2_start$.obsidian$strong_2_end$ folder within your vault. Note this folder is hidden by default on most operating systems.",
+		"message": "Para i-import ang mga property mula sa Obsidian, hanapin ang $strong_1_start$types.json$strong_1_end$ file sa $strong_2_start$.obsidian$strong_2_end$ folder ng iyong vault. Ang folder na ito ay nakatago by default sa karamihan ng operating system.",
 		"placeholders": {
 			"strong_1_end": {
 				"content": "</strong>"
@@ -402,22 +402,22 @@
 		}
 	},
 	"importSettings": {
-		"message": "Import settings"
+		"message": "I-import ang mga setting"
 	},
 	"importTemplate": {
-		"message": "Import template"
+		"message": "I-import ang template"
 	},
 	"interpret": {
-		"message": "interpret"
+		"message": "I-interpret"
 	},
 	"interpreter": {
 		"message": "Interpreter"
 	},
 	"interpreterContext": {
-		"message": "Interpreter context"
+		"message": "Konteksto ng interpreter"
 	},
 	"interpreterContextDescription": {
-		"message": "The context used to interpret prompt variables. Overrides the default context defined in $link_start$Interpreter settings$link_end$. Variables can be used here.",
+		"message": "Ang kontekstong ginagamit para i-interpret ang mga prompt variable. Ino-override nito ang default na konteksto na nakatakda sa $link_start$interpreter settings$link_end$. Maaari kang gumamit ng mga variable dito.",
 		"placeholders": {
 			"link_end": {
 				"content": "</a>"
@@ -428,82 +428,82 @@
 		}
 	},
 	"language": {
-		"message": "Language"
+		"message": "Wika"
 	},
 	"languageDescription": {
-		"message": "Choose the display language for the extension interface."
+		"message": "Piliin ang wika ng display para sa interface ng extension."
 	},
 	"last30Days": {
-		"message": "Last 30 days"
+		"message": "Huling 30 araw"
 	},
 	"lastUsed": {
-		"message": "Last used"
+		"message": "Huling ginamit"
 	},
 	"legacyMode": {
 		"message": "Legacy mode"
 	},
 	"legacyModeDescription": {
-		"message": "Uses the URI clipping method compatible with Obsidian 1.6.7 or earlier. Note that the length of the content you can clip is limited by your browser and OS. Some pages may fail without any errors."
+		"message": "Gumagamit ng URI capture method na compatible sa Obsidian 1.6.7 at mas luma. Tandaan na ang haba ng na-capture na content ay limitado ng browser at operating system. Ang ilang pahina ay maaaring mabigo nang walang error message."
 	},
 	"modelName": {
-		"message": "Display name"
+		"message": "Pangalan ng model"
 	},
 	"modelNameDescription": {
-		"message": "The name of the model you want to display in the interface."
+		"message": "Ang pangalang ipapakita sa model dropdown"
 	},
 	"modelProvider": {
 		"message": "Provider"
 	},
 	"modelProviderDescription": {
-		"message": "Select the provider for this model."
+		"message": "Piliin ang provider para sa model na ito"
 	},
 	"modelProviderPlaceholder": {
 		"message": "Provider"
 	},
 	"modelRequiredFields": {
-		"message": "Model name, Provider, and Model ID are required."
+		"message": "Ang pangalan ng model, provider, at model ID ay kinakailangan."
 	},
 	"models": {
-		"message": "Models"
+		"message": "Mga model"
 	},
 	"modelsListFor": {
-		"message": "Models list for $1"
+		"message": "Listahan ng mga model para sa $1"
 	},
 	"more": {
-		"message": "More"
+		"message": "Higit pa"
 	},
 	"newTemplate": {
-		"message": "New template"
+		"message": "Bagong template"
 	},
 	"noHighlights": {
-		"message": "Do nothing"
+		"message": "Walang mga highlight"
 	},
 	"noTemplates": {
-		"message": "No templates available. Please add a template in the settings."
+		"message": "Walang available na mga template. Magdagdag ng template sa settings."
 	},
 	"noUnusedProperties": {
-		"message": "No unused properties found."
+		"message": "Walang nahanap na hindi ginagamit na mga property."
 	},
 	"noteContent": {
-		"message": "Note content"
+		"message": "Content ng note"
 	},
 	"noteContentDescription": {
-		"message": "Customize the content of the note. Use variables to pre-populate data from the page."
+		"message": "I-customize ang content ng note. Gumamit ng mga variable para i-prefill ang data mula sa pahina."
 	},
 	"noteLocation": {
-		"message": "Note location"
+		"message": "Lokasyon ng note"
 	},
 	"noteLocationDescription": {
-		"message": "The folder or path of the note."
+		"message": "Ang folder o path para sa note."
 	},
 	"noteName": {
-		"message": "Note name"
+		"message": "Pangalan ng note"
 	},
 	"noteNameFormat": {
-		"message": "Note name"
+		"message": "Format ng pangalan ng note"
 	},
 	"noteNameFormatDescription": {
-		"message": "Format for the file name of the note. You can use variables like {{title}}, {{date}}, and {{published}} to pre-populate data from the page. $link_start$Learn more$link_end$.",
+		"message": "Ang format na ginagamit para bumuo ng mga pangalan ng note. Maaari kang gumamit ng mga variable.",
 		"placeholders": {
 			"link_end": {
 				"content": "</a>"
@@ -514,103 +514,103 @@
 		}
 	},
 	"notesAboutPage": {
-		"message": "Notes about this page..."
+		"message": "Mga note tungkol sa pahinang ito..."
 	},
 	"onlyHttpSupported": {
-		"message": "This page cannot be clipped. Only http and https URLs are supported."
+		"message": "Hindi ma-clip ang pahinang ito. Tanging http at https URL lang ang suportado."
 	},
 	"open": {
-		"message": "Open"
+		"message": "Buksan"
 	},
 	"openBehaviorDescription": {
-		"message": "Choose how Web Clipper opens by default."
+		"message": "Pumili kung paano magbubukas ang Web Clipper bilang default."
 	},
 	"openBehaviorTitle": {
-		"message": "Open behavior"
+		"message": "Pag-uugali ng pagbubukas"
 	},
 	"openEmbedded": {
-		"message": "Open in page"
+		"message": "Bukas sa pahina"
 	},
 	"openSidePanel": {
-		"message": "Open side panel"
+		"message": "Bukas na panel sa gilid"
 	},
 	"optional": {
-		"message": "(optional)"
+		"message": "(opsyonal)"
 	},
 	"orPasteBelow": {
-		"message": "Or paste content below"
+		"message": "O i-paste ang content sa ibaba"
 	},
 	"overwriteNote": {
-		"message": "Overwrite note"
+		"message": "I-overwrite ang note"
 	},
 	"pageCannotBeClipped": {
-		"message": "This page cannot be clipped."
+		"message": "Hindi ma-clip ang pahinang ito."
 	},
 	"pageVariables": {
-		"message": "Page variables"
+		"message": "Mga variable ng pahina"
 	},
 	"pagesSaved": {
-		"message": "page saved"
+		"message": "Na-save na ang pahina"
 	},
 	"pagesSavedPlural": {
-		"message": "pages saved"
+		"message": "Na-save na ang mga pahina"
 	},
 	"pasteJsonHere": {
-		"message": "Paste JSON here"
+		"message": "I-paste ang JSON dito"
 	},
 	"pleaseReload": {
-		"message": "Please try reloading the page."
+		"message": "Paki-reload ang pahina."
 	},
 	"popularModels": {
-		"message": "Popular models"
+		"message": "Mga sikat na model"
 	},
 	"popularModelsDescription": {
-		"message": "Choose from commonly used models or enter custom model details."
+		"message": "Pumili mula sa mga karaniwang ginagamit na model o maglagay ng mga detalye para sa custom model."
 	},
 	"popup": {
 		"message": "Popup"
 	},
 	"prependToDaily": {
-		"message": "Add to daily note, at the top"
+		"message": "Idagdag sa daily note, sa simula"
 	},
 	"prependToExisting": {
-		"message": "Add to an existing note, at the top"
+		"message": "Idagdag sa umiiral na note, sa simula"
 	},
 	"preview": {
 		"message": "Preview"
 	},
 	"processing": {
-		"message": "processing"
+		"message": "pinoproseso"
 	},
 	"properties": {
-		"message": "Properties"
+		"message": "Mga property"
 	},
 	"propertiesSettings": {
-		"message": "Properties"
+		"message": "Mga property"
 	},
 	"propertyName": {
-		"message": "Property name"
+		"message": "Pangalan ng property"
 	},
 	"propertyTypeCheckbox": {
 		"message": "Checkbox"
 	},
 	"propertyTypeDate": {
-		"message": "Date"
+		"message": "Petsa"
 	},
 	"propertyTypeDatetime": {
-		"message": "Date & time"
+		"message": "Petsa & oras"
 	},
 	"propertyTypeMultitext": {
-		"message": "List"
+		"message": "Listahan"
 	},
 	"propertyTypeNumber": {
-		"message": "Number"
+		"message": "Numero"
 	},
 	"propertyTypeText": {
-		"message": "Text"
+		"message": "Teksto"
 	},
 	"propertyValue": {
-		"message": "Property value"
+		"message": "Value ng property"
 	},
 	"provider": {
 		"message": "Provider"
@@ -619,76 +619,76 @@
 		"message": "API key"
 	},
 	"providerApiKeyDescription": {
-		"message": "Your API key for this provider."
+		"message": "Ang iyong API key para sa provider na ito."
 	},
 	"providerBaseUrl": {
 		"message": "Base URL"
 	},
 	"providerBaseUrlDescription": {
-		"message": "The API endpoint URL for this provider."
+		"message": "Ang API endpoint URL para sa provider na ito."
 	},
 	"providerModelId": {
 		"message": "Model ID"
 	},
 	"providerModelIdDescription": {
-		"message": "The identifier of the model from your provider. Typically a short name without spaces."
+		"message": "Ang identifier ng model mula sa iyong provider. Karaniwang maikling pangalan na walang mga space."
 	},
 	"providerModelIdPlaceholder": {
 		"message": "Model ID"
 	},
 	"providerName": {
-		"message": "Provider name"
+		"message": "Pangalan ng provider"
 	},
 	"providerNameDescription": {
-		"message": "Display name for this provider."
+		"message": "Display name para sa provider na ito."
 	},
 	"providerPreset": {
 		"message": "Preset"
 	},
 	"providerPresetDescription": {
-		"message": "Choose a provider or create a custom one."
+		"message": "Pumili ng provider o gumawa ng custom."
 	},
 	"providerRequiredFields": {
-		"message": "Provider name and Base URL are required."
+		"message": "Kinakailangan ang pangalan ng provider at base URL."
 	},
 	"providers": {
-		"message": "Providers"
+		"message": "Mga provider"
 	},
 	"rateExtensionDescription": {
-		"message": "Are you enjoying Web Clipper? Help us by giving it a rating."
+		"message": "Nagustuhan mo ba ang Web Clipper? Tulungan mo kami sa pamamagitan ng pagbibigay ng rating."
 	},
 	"reader": {
-		"message": "Reader"
+		"message": "Tagabasa"
 	},
 	"readerAppearance": {
-		"message": "Appearance"
+		"message": "Hitsura"
 	},
 	"readerAppearanceAuto": {
-		"message": "Auto"
+		"message": "Awtomatiko"
 	},
 	"readerAppearanceDark": {
-		"message": "Dark"
+		"message": "Madilim"
 	},
 	"readerAppearanceDescription": {
-		"message": "Choose light or dark appearance."
+		"message": "Pumili ng maliwanag o madilim na hitsura."
 	},
 	"readerAppearanceLight": {
-		"message": "Light"
+		"message": "Maliwanag"
 	},
 	"readerBlendImages": {
-		"message": "Blend images"
+		"message": "Ihalo ang mga larawan"
 	},
 	"readerBlendImagesDescription": {
-		"message": "Blend images with the page background."
+		"message": "Ihalo ang mga larawan sa background ng pahina."
 	},
 	"readerCloseImageViewer": {
-		"message": "Close image viewer"
+		"message": "Isara ang viewer ng larawan"
 	},
 	"readerCollapseComment": {
-		"message": "Collapse comment"
+		"message": "I-collapse ang komento"
 	},
 	"readerColorLinks": {
-		"message": "Color links"
+		"message": "Kulayan ang mga link"
 	},
 	"readerColorSchemeDefault": {
 		"message": "Default"
@@ -697,37 +697,37 @@
 		"message": "Custom CSS"
 	},
 	"readerCustomCssDescription": {
-		"message": "CSS applied automatically in reading view."
+		"message": "Awtomatikong inilalapat ang CSS sa reading view."
 	},
 	"readerDarkTheme": {
-		"message": "Dark mode theme"
+		"message": "Tema ng dark mode"
 	},
 	"readerDarkThemeDescription": {
-		"message": "Use a different theme in dark mode."
+		"message": "Gumamit ng ibang tema sa dark mode."
 	},
 	"readerError": {
-		"message": "Failed to extract content."
+		"message": "Nabigong i-extract ang nilalaman."
 	},
 	"readerFont": {
-		"message": "Font options"
+		"message": "Mga opsyon sa font"
 	},
 	"readerFontDefault": {
 		"message": "Default"
 	},
 	"readerFontDescription": {
-		"message": "Add fonts installed on your system. Press enter to add a font."
+		"message": "Magdagdag ng mga font na naka-install sa iyong system. Pindutin ang Enter para magdagdag ng font."
 	},
 	"readerFontNotFound": {
-		"message": "Not found"
+		"message": "Hindi nahanap"
 	},
 	"readerFontPlaceholder": {
-		"message": "Press enter to add a font"
+		"message": "Pindutin ang Enter para magdagdag ng font"
 	},
 	"readerFontSetDefault": {
-		"message": "Set default"
+		"message": "Itakda bilang default"
 	},
 	"readerFontSize": {
-		"message": "Base font size"
+		"message": "Base na laki ng font"
 	},
 	"readerFontSystem": {
 		"message": "System"
@@ -739,217 +739,217 @@
 		"message": "Serif"
 	},
 	"readerFonts": {
-		"message": "Fonts"
+		"message": "Mga font"
 	},
 	"readerFootnotes": {
-		"message": "Footnotes"
+		"message": "Mga talababa"
 	},
 	"readerImages": {
-		"message": "Images"
+		"message": "Mga larawan"
 	},
 	"readerLineHeight": {
-		"message": "Line height"
+		"message": "Taas ng linya"
 	},
 	"readerLineWidth": {
-		"message": "Line width"
+		"message": "Lapad ng linya"
 	},
 	"readerLoading": {
-		"message": "Defuddling…"
+		"message": "Inaayos ang kalabuan…"
 	},
 	"readerSettings": {
-		"message": "Reader settings"
+		"message": "Mga setting ng reader"
 	},
 	"readerTheme": {
-		"message": "Theme"
+		"message": "Tema"
 	},
 	"readerThemeDescription": {
-		"message": "Choose the colors used in reading view."
+		"message": "Piliin ang mga kulay na gagamitin sa reading view."
 	},
 	"readerThemeSection": {
-		"message": "Theme"
+		"message": "Tema"
 	},
 	"readerTypography": {
-		"message": "Typography"
+		"message": "Tipograpiya"
 	},
 	"readerViewFullSize": {
-		"message": "View full size"
+		"message": "Tingnan sa buong laki"
 	},
 	"recommended": {
-		"message": "recommended"
+		"message": "inirerekomenda"
 	},
 	"refresh": {
-		"message": "Refresh"
+		"message": "I-refresh"
 	},
 	"remove": {
-		"message": "Remove"
+		"message": "Tanggalin"
 	},
 	"removeProperty": {
-		"message": "Remove property"
+		"message": "Tanggalin ang property"
 	},
 	"removeUnusedProperties": {
-		"message": "Remove unused properties"
+		"message": "Tanggalin ang mga hindi ginagamit na property"
 	},
 	"removeUnusedPropertiesDescription": {
-		"message": "Remove all properties that are not used in any template."
+		"message": "Tanggalin ang lahat ng property na hindi ginagamit sa kahit anong template."
 	},
 	"removeVault": {
-		"message": "Remove vault"
+		"message": "Tanggalin ang vault"
 	},
 	"replaceContent": {
-		"message": "Replace the page content"
+		"message": "Palitan ang content ng note"
 	},
 	"reset": {
-		"message": "Reset"
+		"message": "I-reset"
 	},
 	"resetDefaultTemplate": {
-		"message": "Reset default template"
+		"message": "I-reset ang default template"
 	},
 	"resetDefaultTemplateDescription": {
-		"message": "Remove any changes you've made to the default template."
+		"message": "Tanggalin ang lahat ng pagbabagong ginawa sa default template."
 	},
 	"resetProvidersAndModels": {
-		"message": "Reset default models"
+		"message": "I-reset ang mga model sa default"
 	},
 	"resetProvidersAndModelsDescription": {
-		"message": "Reset providers and models to the default settings."
+		"message": "I-reset ang mga provider at model sa default na settings."
 	},
 	"save": {
-		"message": "Save"
+		"message": "I-save"
 	},
 	"saveBehaviorDescription": {
-		"message": "Choose the default option for saving pages. Alternate options appear in the dropdown menu next to the main button."
+		"message": "Pumili ng default na opsyon para sa pag-save ng mga pahina. Ang mga alternatibong opsyon ay lumilitaw sa dropdown menu na katabi ng pangunahing button."
 	},
 	"saveBehaviorLabel": {
-		"message": "Save behavior"
+		"message": "Ugali ng pag-save"
 	},
 	"saveFile": {
-		"message": "Save file..."
+		"message": "I-save ang file..."
 	},
 	"searchVariables": {
-		"message": "Search variables..."
+		"message": "Maghanap sa mga variable..."
 	},
 	"selectProvider": {
-		"message": "Select a provider"
+		"message": "Pumili ng provider"
 	},
 	"selectTemplateToExport": {
-		"message": "Please select a template to export."
+		"message": "Pumili ng template na i-export"
 	},
 	"settings": {
-		"message": "Settings"
+		"message": "Mga Setting"
 	},
 	"settingsHeading": {
-		"message": "Settings"
+		"message": "Mga Setting"
 	},
 	"settingsImportSuccess": {
-		"message": "All settings imported successfully. Please refresh the page to see the changes."
+		"message": "Matagumpay na na-import ang lahat ng settings. I-reload ang pahina para makita ang mga pagbabago."
 	},
 	"share": {
-		"message": "Share..."
+		"message": "Ibahagi..."
 	},
 	"shortcutInstructionsBrave": {
-		"message": "To change key assignments, go to $1"
+		"message": "Para baguhin ang mga shortcut, pumunta sa $1"
 	},
 	"shortcutInstructionsChrome": {
-		"message": "To change key assignments, go to $1"
+		"message": "Para baguhin ang mga shortcut, pumunta sa $1"
 	},
 	"shortcutInstructionsDefault": {
-		"message": "To change key assignments, please refer to your browser's extension settings."
+		"message": "Para baguhin ang mga shortcut, tingnan ang extension settings ng iyong browser."
 	},
 	"shortcutInstructionsEdge": {
-		"message": "To change key assignments, go to $1"
+		"message": "Para baguhin ang mga shortcut, pumunta sa $1"
 	},
 	"shortcutInstructionsFirefox": {
-		"message": "To change key assignments, go to $1, click the gear icon, and select \"Manage Extension Shortcuts\"."
+		"message": "Para baguhin ang mga shortcut, pumunta sa $1, i-click ang gear icon at piliin ang \"Manage Extension Shortcuts\""
 	},
 	"shortcutInstructionsIntro": {
-		"message": "Keyboard shortcuts give you quick access to clipper features."
+		"message": "Ang mga shortcut ay nagbibigay ng mabilis na access sa mga clipping function."
 	},
 	"shortcutInstructionsSafari": {
-		"message": "Keyboard shortcuts are not customizable on Safari."
+		"message": "Hindi maaaring i-configure ang mga shortcut sa Safari."
 	},
 	"shortcutNotSet": {
-		"message": "Not set"
+		"message": "Hindi nakatakda"
 	},
 	"showActionsButton": {
-		"message": "Show actions button"
+		"message": "Ipakita ang action button"
 	},
 	"showActionsDescription": {
-		"message": "Allows you to inspect page variables from the clipper menu. Useful for seeing the variables that are available to use in templates."
+		"message": "Nagpapahintulot na makita ang mga variable ng pahina mula sa clipper menu. Kapaki-pakinabang para makita kung aling mga variable ang available para gamitin sa mga template."
 	},
 	"showPageVariables": {
-		"message": "Show page variables"
+		"message": "Ipakita ang mga variable ng pahina"
 	},
 	"silentOpen": {
-		"message": "Save clipped note without opening it"
+		"message": "I-save ang mga note nang hindi binubuksan"
 	},
 	"silentOpenDescription": {
-		"message": "Clipped notes will be saved but will not open as a new tab. Obsidian will still be brought to the foreground."
+		"message": "Ang mga na-clip na note ay mase-save pero hindi bubuksan sa bagong tab. Ang Obsidian ay dadalhin pa rin sa foreground."
 	},
 	"specificNoteName": {
-		"message": "Specific note name"
+		"message": "Tiyak na pangalan ng note"
 	},
 	"systemDefault": {
-		"message": "System"
+		"message": "System default"
 	},
 	"template": {
 		"message": "Template"
 	},
 	"templateCopied": {
-		"message": "Copied template JSON to clipboard"
+		"message": "Na-copy na ang template JSON sa clipboard"
 	},
 	"templateCopyError": {
-		"message": "Failed to copy template JSON to clipboard"
+		"message": "Hindi ma-copy ang template JSON sa clipboard"
 	},
 	"templateErrorCount": {
-		"message": "There is an error in your template."
+		"message": "May error sa template mo."
 	},
 	"templateErrorsCount": {
-		"message": "There are $1 errors in your template."
+		"message": "May $1 error sa template mo."
 	},
 	"templateGroupContent": {
-		"message": "Content"
+		"message": "Nilalaman"
 	},
 	"templateGroupLocation": {
-		"message": "Location"
+		"message": "Lokasyon"
 	},
 	"templateName": {
-		"message": "Template name"
+		"message": "Pangalan ng template"
 	},
 	"templateProperties": {
-		"message": "Properties"
+		"message": "Mga Property"
 	},
 	"templatePropertiesDescription": {
-		"message": "Properties to add to the top of the clipped note. Use variables to pre-populate data from the page."
+		"message": "Mga property na idadagdag sa simula ng na-clip na note. Gumamit ng mga variable para i-prefill ang data mula sa pahina."
 	},
 	"templateTriggers": {
-		"message": "Template triggers"
+		"message": "Mga Template Trigger"
 	},
 	"templateTriggersDescription": {
-		"message": "Define rules to automatically select this template if it matches a URL pattern or contains schema.org data. One rule per line."
+		"message": "Magtakda ng mga patakaran para awtomatikong piliin ang template na ito kung tumutugma sa URL pattern o naglalaman ng schema.org data. Isang patakaran bawat linya."
 	},
 	"templateValid": {
-		"message": "Template syntax is valid"
+		"message": "Valid ang syntax ng template"
 	},
 	"templatesHeading": {
-		"message": "Templates"
+		"message": "Mga Template"
 	},
 	"thinking": {
-		"message": "thinking"
+		"message": "nag-iisip"
 	},
 	"unknownProvider": {
-		"message": "Unknown provider"
+		"message": "Hindi kilalang provider"
 	},
 	"updateAvailable": {
-		"message": "An update is available."
+		"message": "May available na update"
 	},
 	"usingLatestVersion": {
-		"message": "You are using the latest version."
+		"message": "Gumagamit ka ng pinakabagong bersyon"
 	},
 	"vault": {
 		"message": "Vault"
 	},
 	"vaultDescription": {
-		"message": "Select the default vault for this template. Go to $link_start$general settings$link_end$ to add or remove vaults.",
+		"message": "Piliin ang default vault para sa template na ito. Pumunta sa $link_start$general settings$link_end$ para magdagdag o magtanggal ng mga vault.",
 		"placeholders": {
 			"link_end": {
 				"content": "</a>"
@@ -960,10 +960,10 @@
 		}
 	},
 	"vaults": {
-		"message": "Vaults"
+		"message": "Mga Vault"
 	},
 	"vaultsDescription": {
-		"message": "By default, clipped notes are saved to the currently open vault. You can add vaults here if you want the option to save to different vaults. Vault names must exactly match the name of the Obsidian vault. Press $strong_start$enter$strong_end$ to add a vault.",
+		"message": "By default, ang mga na-clip na note ay sine-save sa bukas na vault. Maaari kang magdagdag ng mga vault dito kung gusto mong magkaroon ng opsyon na mag-save sa iba't ibang vault. Ang pangalan ng vault ay dapat eksaktong tumugma sa pangalan ng Obsidian vault. Pindutin ang $strong_start$enter$strong_end$ para magdagdag ng vault.",
 		"placeholders": {
 			"strong_end": {
 				"content": "</strong>"
@@ -974,6 +974,6 @@
 		}
 	},
 	"version": {
-		"message": "Version"
+		"message": "Bersyon"
 	}
 }
