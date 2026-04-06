@@ -1,99 +1,99 @@
 {
 	"activity": {
-		"message": "Activity"
+		"message": "Hoạt động"
 	},
 	"addModel": {
-		"message": "+ Add model"
+		"message": "+ Thêm mô hình"
 	},
 	"addModelTitle": {
-		"message": "Add model"
+		"message": "Thêm mô hình"
 	},
 	"addProperty": {
-		"message": "+ Add property"
+		"message": "+ Thêm thuộc tính"
 	},
 	"addProvider": {
-		"message": "+ Add provider"
+		"message": "+ Thêm nhà cung cấp"
 	},
 	"addProviderTitle": {
-		"message": "Add provider"
+		"message": "Thêm nhà cung cấp"
 	},
 	"addToObsidian": {
-		"message": "Add to Obsidian"
+		"message": "Thêm vào Obsidian"
 	},
 	"addVaultPlaceholder": {
-		"message": "Press enter to add a vault"
+		"message": "Nhấn enter để thêm kho lưu trữ"
 	},
 	"advanced": {
-		"message": "Advanced"
+		"message": "Nâng cao"
 	},
 	"allProperties": {
-		"message": "All properties"
+		"message": "Tất cả thuộc tính"
 	},
 	"allTime": {
-		"message": "All time"
+		"message": "Mọi thời điểm"
 	},
 	"alwaysShowHighlights": {
-		"message": "Always show highlights"
+		"message": "Luôn hiển thị đánh dấu"
 	},
 	"alwaysShowHighlightsDescription": {
-		"message": "Display your saved highlights when you load a page. Turn off to only display highlights when highlighter mode is activated."
+		"message": "Hiển thị các đánh dấu đã lưu khi tải trang. Tắt để chỉ hiển thị đánh dấu khi chế độ đánh dấu được kích hoạt."
 	},
 	"apiKeyMissing": {
-		"message": "No API key"
+		"message": "Không có khóa API"
 	},
 	"apiKeysWarning": {
-		"message": "By using an external provider you agree to their terms and privacy policy. Interpreter requests are sent directly to the provider you choose. Obsidian does not gather or store any data about your requests."
+		"message": "Bằng cách sử dụng nhà cung cấp bên ngoài, bạn đồng ý với điều khoản và chính sách bảo mật của họ. Các yêu cầu thông dịch được gửi trực tiếp đến nhà cung cấp bạn chọn. Obsidian không thu thập hoặc lưu trữ bất kỳ dữ liệu nào về các yêu cầu của bạn."
 	},
 	"appendToDaily": {
-		"message": "Add to daily note, at the bottom"
+		"message": "Thêm vào ghi chú hàng ngày, ở cuối"
 	},
 	"appendToExisting": {
-		"message": "Add to an existing note, at the bottom"
+		"message": "Thêm vào ghi chú hiện có, ở cuối"
 	},
 	"autoRunInterpreter": {
-		"message": "Automatically run"
+		"message": "Tự động chạy"
 	},
 	"autoRunInterpreterDescription": {
-		"message": "Run prompt variables immediately if the template contains any. This will consume API credits with your model provider. Turn off if you only want to run interpreter manually."
+		"message": "Chạy các biến lời nhắc ngay lập tức nếu mẫu có chứa. Điều này sẽ tiêu tốn tín dụng API với nhà cung cấp mô hình của bạn. Tắt nếu bạn chỉ muốn chạy thông dịch thủ công."
 	},
 	"behavior": {
-		"message": "Behavior"
+		"message": "Hành vi"
 	},
 	"byDay": {
-		"message": "Days"
+		"message": "Ngày"
 	},
 	"byMonth": {
-		"message": "Months"
+		"message": "Tháng"
 	},
 	"byWeek": {
-		"message": "Weeks"
+		"message": "Tuần"
 	},
 	"cancel": {
-		"message": "Cancel"
+		"message": "Hủy"
 	},
 	"cannotDeleteProvider": {
-		"message": "Cannot delete provider \"$1\" because it is being used by $2 model(s)."
+		"message": "Không thể xóa nhà cung cấp \"$1\" vì đang được sử dụng bởi $2 mô hình."
 	},
 	"changelog": {
-		"message": "Changelog"
+		"message": "Nhật ký thay đổi"
 	},
 	"chooseFile": {
-		"message": "Choose a file"
+		"message": "Chọn tệp"
 	},
 	"choosePropertiesFile": {
-		"message": "Choose properties file"
+		"message": "Chọn tệp thuộc tính"
 	},
 	"chooseSettingsFile": {
-		"message": "Choose settings file"
+		"message": "Chọn tệp cài đặt"
 	},
 	"chooseTemplateFile": {
-		"message": "Choose template file"
+		"message": "Chọn tệp mẫu"
 	},
 	"clipBehavior": {
-		"message": "Clip behavior"
+		"message": "Hành vi lưu"
 	},
 	"clipBehaviorDescription": {
-		"message": "Choose how highlighted content is saved to Obsidian. Defines the $strong_start${{content}}$strong_end$ variable.",
+		"message": "Chọn cách lưu nội dung đã đánh dấu vào Obsidian. Xác định biến $strong_start${{content}}$strong_end$.",
 		"placeholders": {
 			"strong_end": {
 				"content": "</strong>"
@@ -104,7 +104,7 @@
 		}
 	},
 	"clipboardError": {
-		"message": "Obsidian is not able to access your clipboard. Try the troubleshooting instructions here: $1",
+		"message": "Obsidian không thể truy cập bảng tạm của bạn. Hãy thử làm theo hướng dẫn khắc phục sự cố tại đây: $1",
 		"placeholders": {
 			"1": {
 				"content": "$1"
@@ -112,79 +112,79 @@
 		}
 	},
 	"close": {
-		"message": "Close"
+		"message": "Đóng"
 	},
 	"commandOpenClipper": {
-		"message": "Open Obsidian Clipper"
+		"message": "Mở Obsidian Clipper"
 	},
 	"commandQuickClip": {
-		"message": "Quick clip"
+		"message": "Lưu nhanh"
 	},
 	"commandToggleHighlighter": {
-		"message": "Toggle highlighter"
+		"message": "Bật/tắt chế độ đánh dấu"
 	},
 	"commandToggleReader": {
-		"message": "Toggle reader"
+		"message": "Chuyển đổi chế độ đọc"
 	},
 	"confirmDeleteTemplate": {
-		"message": "Are you sure you want to delete the template \"$1\"?"
+		"message": "Bạn có chắc chắn muốn xóa mẫu \"$1\"?"
 	},
 	"confirmReplaceSettings": {
-		"message": "This will replace all your current settings, including templates and properties. Are you sure you want to continue?"
+		"message": "Điều này sẽ thay thế tất cả cài đặt hiện tại của bạn, bao gồm mẫu và thuộc tính. Bạn có chắc chắn muốn tiếp tục?"
 	},
 	"copied": {
-		"message": "Copied!"
+		"message": "Đã sao chép!"
 	},
 	"copyAsJson": {
-		"message": "Copy as JSON"
+		"message": "Sao chép dưới dạng JSON"
 	},
 	"copyToClipboard": {
-		"message": "Copy to clipboard"
+		"message": "Sao chép vào bộ nhớ tạm"
 	},
 	"createNewNote": {
-		"message": "Create new note"
+		"message": "Tạo ghi chú mới"
 	},
 	"custom": {
-		"message": "Custom"
+		"message": "Tùy chỉnh"
 	},
 	"dailyNoteFormat": {
-		"message": "Daily note format (e.g., YYYY-MM-DD)"
+		"message": "Định dạng ghi chú hàng ngày (ví dụ: YYYY-MM-DD)"
 	},
 	"defaultInterpreterContext": {
-		"message": "Default interpreter context"
+		"message": "Ngữ cảnh thông dịch mặc định"
 	},
 	"defaultInterpreterContextDescription": {
-		"message": "Override the context used to interpret prompt variables. Variables can be used here."
+		"message": "Ghi đè ngữ cảnh được sử dụng để thông dịch các biến lời nhắc. Có thể sử dụng biến ở đây."
 	},
 	"defaultTemplateName": {
-		"message": "Default"
+		"message": "Mặc định"
 	},
 	"delete": {
-		"message": "Delete"
+		"message": "Xóa"
 	},
 	"deleteModelConfirm": {
-		"message": "Are you sure you want to delete this model?"
+		"message": "Bạn có chắc chắn muốn xóa mô hình này?"
 	},
 	"deleteProviderConfirm": {
-		"message": "Are you sure you want to delete this provider?"
+		"message": "Bạn có chắc chắn muốn xóa nhà cung cấp này?"
 	},
 	"disableHighlighter": {
-		"message": "Disable highlighter"
+		"message": "Tắt đánh dấu"
 	},
 	"disableReader": {
-		"message": "Disable reader"
+		"message": "Tắt chế độ đọc"
 	},
 	"done": {
-		"message": "Done"
+		"message": "Xong"
 	},
 	"dragAndDropFile": {
-		"message": "Drag and drop file here"
+		"message": "Kéo và thả tệp vào đây"
 	},
 	"duplicate": {
-		"message": "Duplicate"
+		"message": "Nhân bản"
 	},
 	"earlyAccessDescription": {
-		"message": "Use features that require the latest $link_start$early access version$link_end$ of Obsidian. Currently requires Obsidian 1.7.2 or later.",
+		"message": "Sử dụng các tính năng yêu cầu phiên bản $link_start$early access$link_end$ mới nhất của Obsidian. Hiện yêu cầu Obsidian 1.7.2 trở lên.",
 		"placeholders": {
 			"link_end": {
 				"content": "</a>"
@@ -195,31 +195,31 @@
 		}
 	},
 	"earlyAccessFeatures": {
-		"message": "Early access features"
+		"message": "Tính năng truy cập sớm"
 	},
 	"editModel": {
-		"message": "Edit model"
+		"message": "Chỉnh sửa mô hình"
 	},
 	"editProvider": {
-		"message": "Edit provider"
+		"message": "Chỉnh sửa nhà cung cấp"
 	},
 	"editTemplate": {
-		"message": "Edit template"
+		"message": "Chỉnh sửa mẫu"
 	},
 	"embedded": {
-		"message": "Embedded"
+		"message": "Được nhúng"
 	},
 	"enableHighlighter": {
-		"message": "Enable highlighter"
+		"message": "Bật đánh dấu"
 	},
 	"enableHighlighterDescription": {
-		"message": "Highlight content on web pages that you can save to Obsidian."
+		"message": "Đánh dấu nội dung trên trang web mà bạn có thể lưu vào Obsidian."
 	},
 	"enableInterpreter": {
-		"message": "Enable interpreter"
+		"message": "Bật thông dịch"
 	},
 	"enableInterpreterDescription": {
-		"message": "Use natural language to extract data from pages. For example, you can use the template syntax $strong_start${{\"a summary of the page\"}}$strong_end$. Requires an API key or custom model configured below.  $link_start$Learn more$link_end$.",
+		"message": "Sử dụng ngôn ngữ tự nhiên để trích xuất dữ liệu từ trang. Ví dụ, bạn có thể sử dụng cú pháp mẫu $strong_start${{\"tóm tắt trang\"}}$strong_end$. Yêu cầu khóa API hoặc mô hình tùy chỉnh được cấu hình bên dưới. $link_start$Tìm hiểu thêm$link_end$.",
 		"placeholders": {
 			"link_end": {
 				"content": "</a>"
@@ -236,31 +236,31 @@
 		}
 	},
 	"enableReader": {
-		"message": "Open reading view"
+		"message": "Mở chế độ đọc"
 	},
 	"error": {
-		"message": "Error"
+		"message": "Lỗi"
 	},
 	"export": {
-		"message": "Export"
+		"message": "Xuất"
 	},
 	"exportAllSettings": {
-		"message": "Export all settings"
+		"message": "Xuất tất cả cài đặt"
 	},
 	"exportAllSettingsDescription": {
-		"message": "Export all settings including templates and properties."
+		"message": "Xuất tất cả cài đặt bao gồm mẫu và thuộc tính."
 	},
 	"exportHighlights": {
-		"message": "Export highlights"
+		"message": "Xuất đánh dấu"
 	},
 	"exportHighlightsDescription": {
-		"message": "Export your highlights to a file."
+		"message": "Xuất các đánh dấu của bạn vào một tệp."
 	},
 	"exportProperties": {
-		"message": "Export properties"
+		"message": "Xuất thuộc tính"
 	},
 	"exportPropertiesDescription": {
-		"message": "Save Web Clipper properties to a $strong_start$types.json$strong_end$ file that can be imported into your Obsidian vault, or into Web Clipper on other devices.",
+		"message": "Lưu thuộc tính Web Clipper vào tệp $strong_start$types.json$strong_end$ có thể được nhập vào kho lưu trữ Obsidian của bạn hoặc vào Web Clipper trên các thiết bị khác.",
 		"placeholders": {
 			"strong_end": {
 				"content": "</strong>"
@@ -271,121 +271,121 @@
 		}
 	},
 	"extensionDescription": {
-		"message": "Save content from the web in a private and durable format that you can access offline. The official browser extension for Obsidian."
+		"message": "Lưu nội dung từ web trong định dạng riêng tư và bền vững mà bạn có thể truy cập ngoại tuyến. Tiện ích mở rộng trình duyệt chính thức cho Obsidian."
 	},
 	"extensionName": {
 		"message": "Obsidian Web Clipper"
 	},
 	"failedToCopyText": {
-		"message": "Failed to copy text"
+		"message": "Không thể sao chép văn bản"
 	},
 	"failedToDeleteTemplate": {
-		"message": "Failed to delete template. Please try again."
+		"message": "Không thể xóa mẫu. Vui lòng thử lại."
 	},
 	"failedToDuplicateTemplate": {
-		"message": "Failed to duplicate template. Please try again."
+		"message": "Không thể nhân bản mẫu. Vui lòng thử lại."
 	},
 	"failedToExportHighlights": {
-		"message": "Failed to export highlights. Please check the console for more details."
+		"message": "Không thể xuất đánh dấu. Vui lòng kiểm tra bảng điều khiển để biết thêm chi tiết."
 	},
 	"failedToExportSettings": {
-		"message": "Failed to export settings. Please check the console for more details."
+		"message": "Không thể xuất cài đặt. Vui lòng kiểm tra bảng điều khiển để biết thêm chi tiết."
 	},
 	"failedToExtractContent": {
-		"message": "Unable to extract page content."
+		"message": "Không thể trích xuất nội dung trang."
 	},
 	"failedToImportTemplate": {
-		"message": "Error importing template. Please check the file and try again."
+		"message": "Lỗi khi nhập mẫu. Vui lòng kiểm tra tệp và thử lại."
 	},
 	"failedToInitialize": {
-		"message": "Please try reloading the extension."
+		"message": "Vui lòng thử tải lại tiện ích mở rộng."
 	},
 	"failedToInitializeContent": {
-		"message": "Unable to initialize page content."
+		"message": "Không thể khởi tạo nội dung trang."
 	},
 	"failedToProcessInterpreter": {
-		"message": "Interpreter processing failed. Please try again."
+		"message": "Xử lý thông dịch thất bại. Vui lòng thử lại."
 	},
 	"failedToResetProviders": {
-		"message": "Failed to reset providers and models"
+		"message": "Không thể đặt lại nhà cung cấp và mô hình"
 	},
 	"failedToResetTemplate": {
-		"message": "Failed to reset default template. Please try again."
+		"message": "Không thể đặt lại mẫu mặc định. Vui lòng thử lại."
 	},
 	"failedToSave": {
-		"message": "Failed to save file"
+		"message": "Không thể lưu tệp"
 	},
 	"failedToSaveFile": {
-		"message": "Failed to save file"
+		"message": "Không thể lưu tệp"
 	},
 	"failedToSaveProvider": {
-		"message": "Failed to save provider. Please try again."
+		"message": "Không thể lưu nhà cung cấp. Vui lòng thử lại."
 	},
 	"feedback": {
-		"message": "Feedback"
+		"message": "Phản hồi"
 	},
 	"feedbackDescription": {
-		"message": "How can we improve Web Clipper? Please visit our help page, where you can report bugs, suggest features, and get help with common issues."
+		"message": "Làm thế nào chúng tôi có thể cải thiện Web Clipper? Vui lòng truy cập trang trợ giúp của chúng tôi, nơi bạn có thể báo cáo lỗi, đề xuất tính năng và nhận trợ giúp về các vấn đề phổ biến."
 	},
 	"feedbackTitle": {
-		"message": "Thanks for your feedback"
+		"message": "Cảm ơn phản hồi của bạn"
 	},
 	"folder": {
-		"message": "Folder"
+		"message": "Thư mục"
 	},
 	"general": {
-		"message": "General"
+		"message": "Chung"
 	},
 	"generalSettings": {
-		"message": "General settings"
+		"message": "Cài đặt chung"
 	},
 	"getApiKeyHere": {
-		"message": "Get your $1 API key here."
+		"message": "Nhận khóa API $1 của bạn tại đây."
 	},
 	"help": {
-		"message": "Help"
+		"message": "Trợ giúp"
 	},
 	"helpDescription": {
-		"message": "Learn how to use Web Clipper and get help troubleshooting."
+		"message": "Tìm hiểu cách sử dụng Web Clipper và nhận trợ giúp xử lý sự cố."
 	},
 	"highlightInline": {
-		"message": "Highlight the page content"
+		"message": "Đánh dấu nội dung trang"
 	},
 	"highlightPage": {
-		"message": "Highlight page"
+		"message": "Đánh dấu trang"
 	},
 	"highlighter": {
-		"message": "Highlighter"
+		"message": "Đánh dấu"
 	},
 	"highlighterSettings": {
-		"message": "Highlighter"
+		"message": "Đánh dấu"
 	},
 	"history": {
-		"message": "History"
+		"message": "Lịch sử"
 	},
 	"hotkeys": {
-		"message": "Hotkeys"
+		"message": "Phím tắt"
 	},
 	"import": {
-		"message": "Import"
+		"message": "Nhập"
 	},
 	"importAllSettings": {
-		"message": "Import all settings"
+		"message": "Nhập tất cả cài đặt"
 	},
 	"importAllSettingsDescription": {
-		"message": "Import all settings including templates and properties. This will replace your current configuration."
+		"message": "Nhập tất cả cài đặt bao gồm mẫu và thuộc tính. Điều này sẽ thay thế cấu hình hiện tại của bạn."
 	},
 	"importFailed": {
-		"message": "Import failed. Please check the console for more details."
+		"message": "Nhập thất bại. Vui lòng kiểm tra bảng điều khiển để biết thêm chi tiết."
 	},
 	"importModalTitle": {
-		"message": "Import"
+		"message": "Nhập"
 	},
 	"importProperties": {
-		"message": "Import properties"
+		"message": "Nhập thuộc tính"
 	},
 	"importPropertiesDescription": {
-		"message": "To import your properties from Obsidian, locate the $strong_1_start$types.json$strong_1_end$ file in the $strong_2_start$.obsidian$strong_2_end$ folder within your vault. Note this folder is hidden by default on most operating systems.",
+		"message": "Để nhập thuộc tính từ Obsidian, hãy tìm tệp $strong_1_start$types.json$strong_1_end$ trong thư mục $strong_2_start$.obsidian$strong_2_end$ trong kho lưu trữ của bạn. Lưu ý rằng thư mục này được ẩn theo mặc định trên hầu hết các hệ điều hành.",
 		"placeholders": {
 			"strong_1_end": {
 				"content": "</strong>"
@@ -402,22 +402,22 @@
 		}
 	},
 	"importSettings": {
-		"message": "Import settings"
+		"message": "Nhập cài đặt"
 	},
 	"importTemplate": {
-		"message": "Import template"
+		"message": "Nhập mẫu"
 	},
 	"interpret": {
-		"message": "interpret"
+		"message": "thông dịch"
 	},
 	"interpreter": {
-		"message": "Interpreter"
+		"message": "Thông dịch"
 	},
 	"interpreterContext": {
-		"message": "Interpreter context"
+		"message": "Ngữ cảnh thông dịch"
 	},
 	"interpreterContextDescription": {
-		"message": "The context used to interpret prompt variables. Overrides the default context defined in $link_start$Interpreter settings$link_end$. Variables can be used here.",
+		"message": "Ngữ cảnh được sử dụng để thông dịch các biến lời nhắc. Ghi đè ngữ cảnh mặc định được định nghĩa trong $link_start$Cài đặt thông dịch$link_end$. Có thể sử dụng biến ở đây.",
 		"placeholders": {
 			"link_end": {
 				"content": "</a>"
@@ -428,82 +428,82 @@
 		}
 	},
 	"language": {
-		"message": "Language"
+		"message": "Ngôn ngữ"
 	},
 	"languageDescription": {
-		"message": "Choose the display language for the extension interface."
+		"message": "Chọn ngôn ngữ hiển thị cho giao diện tiện ích mở rộng."
 	},
 	"last30Days": {
-		"message": "Last 30 days"
+		"message": "30 ngày qua"
 	},
 	"lastUsed": {
-		"message": "Last used"
+		"message": "Sử dụng lần cuối"
 	},
 	"legacyMode": {
-		"message": "Legacy mode"
+		"message": "Chế độ cũ"
 	},
 	"legacyModeDescription": {
-		"message": "Uses the URI clipping method compatible with Obsidian 1.6.7 or earlier. Note that the length of the content you can clip is limited by your browser and OS. Some pages may fail without any errors."
+		"message": "Sử dụng phương thức lưu URI tương thích với Obsidian 1.6.7 hoặc cũ hơn. Lưu ý rằng độ dài nội dung bạn có thể lưu bị giới hạn bởi trình duyệt và hệ điều hành của bạn. Một số trang có thể thất bại mà không có thông báo lỗi."
 	},
 	"modelName": {
-		"message": "Display name"
+		"message": "Tên hiển thị"
 	},
 	"modelNameDescription": {
-		"message": "The name of the model you want to display in the interface."
+		"message": "Tên của mô hình bạn muốn hiển thị trong giao diện."
 	},
 	"modelProvider": {
-		"message": "Provider"
+		"message": "Nhà cung cấp"
 	},
 	"modelProviderDescription": {
-		"message": "Select the provider for this model."
+		"message": "Chọn nhà cung cấp cho mô hình này."
 	},
 	"modelProviderPlaceholder": {
-		"message": "Provider"
+		"message": "Nhà cung cấp"
 	},
 	"modelRequiredFields": {
-		"message": "Model name, Provider, and Model ID are required."
+		"message": "Tên mô hình, Nhà cung cấp và ID mô hình là bắt buộc."
 	},
 	"models": {
-		"message": "Models"
+		"message": "Mô hình"
 	},
 	"modelsListFor": {
-		"message": "Models list for $1"
+		"message": "Danh sách mô hình cho $1"
 	},
 	"more": {
-		"message": "More"
+		"message": "Thêm"
 	},
 	"newTemplate": {
-		"message": "New template"
+		"message": "Mẫu mới"
 	},
 	"noHighlights": {
-		"message": "Do nothing"
+		"message": "Không làm gì"
 	},
 	"noTemplates": {
-		"message": "No templates available. Please add a template in the settings."
+		"message": "Không có mẫu khả dụng. Vui lòng thêm mẫu trong cài đặt."
 	},
 	"noUnusedProperties": {
-		"message": "No unused properties found."
+		"message": "Không tìm thấy thuộc tính không sử dụng."
 	},
 	"noteContent": {
-		"message": "Note content"
+		"message": "Nội dung ghi chú"
 	},
 	"noteContentDescription": {
-		"message": "Customize the content of the note. Use variables to pre-populate data from the page."
+		"message": "Tùy chỉnh nội dung của ghi chú. Sử dụng biến để điền trước dữ liệu từ trang."
 	},
 	"noteLocation": {
-		"message": "Note location"
+		"message": "Vị trí ghi chú"
 	},
 	"noteLocationDescription": {
-		"message": "The folder or path of the note."
+		"message": "Thư mục hoặc đường dẫn của ghi chú."
 	},
 	"noteName": {
-		"message": "Note name"
+		"message": "Tên ghi chú"
 	},
 	"noteNameFormat": {
-		"message": "Note name"
+		"message": "Tên ghi chú"
 	},
 	"noteNameFormatDescription": {
-		"message": "Format for the file name of the note. You can use variables like {{title}}, {{date}}, and {{published}} to pre-populate data from the page. $link_start$Learn more$link_end$.",
+		"message": "Định dạng cho tên tệp của ghi chú. Bạn có thể sử dụng các biến như {{title}}, {{date}} và {{published}} để điền trước dữ liệu từ trang. $link_start$Tìm hiểu thêm$link_end$.",
 		"placeholders": {
 			"link_end": {
 				"content": "</a>"
@@ -514,223 +514,223 @@
 		}
 	},
 	"notesAboutPage": {
-		"message": "Notes about this page..."
+		"message": "Ghi chú về trang này..."
 	},
 	"onlyHttpSupported": {
-		"message": "This page cannot be clipped. Only http and https URLs are supported."
+		"message": "Trang này không thể được lưu. Chỉ hỗ trợ URL http và https."
 	},
 	"open": {
-		"message": "Open"
+		"message": "Mở"
 	},
 	"openBehaviorDescription": {
-		"message": "Choose how Web Clipper opens by default."
+		"message": "Chọn cách mở Web Clipper mặc định."
 	},
 	"openBehaviorTitle": {
-		"message": "Open behavior"
+		"message": "Hành vi mở"
 	},
 	"openEmbedded": {
-		"message": "Open in page"
+		"message": "Mở trong trang"
 	},
 	"openSidePanel": {
-		"message": "Open side panel"
+		"message": "Mở bảng bên"
 	},
 	"optional": {
-		"message": "(optional)"
+		"message": "(tùy chọn)"
 	},
 	"orPasteBelow": {
-		"message": "Or paste content below"
+		"message": "Hoặc dán nội dung bên dưới"
 	},
 	"overwriteNote": {
-		"message": "Overwrite note"
+		"message": "Ghi đè ghi chú"
 	},
 	"pageCannotBeClipped": {
-		"message": "This page cannot be clipped."
+		"message": "Trang này không thể được lưu."
 	},
 	"pageVariables": {
-		"message": "Page variables"
+		"message": "Biến trang"
 	},
 	"pagesSaved": {
-		"message": "page saved"
+		"message": "trang đã lưu"
 	},
 	"pagesSavedPlural": {
-		"message": "pages saved"
+		"message": "trang đã lưu"
 	},
 	"pasteJsonHere": {
-		"message": "Paste JSON here"
+		"message": "Dán JSON vào đây"
 	},
 	"pleaseReload": {
-		"message": "Please try reloading the page."
+		"message": "Vui lòng thử tải lại trang."
 	},
 	"popularModels": {
-		"message": "Popular models"
+		"message": "Mô hình phổ biến"
 	},
 	"popularModelsDescription": {
-		"message": "Choose from commonly used models or enter custom model details."
+		"message": "Chọn từ các mô hình thường được sử dụng hoặc nhập chi tiết mô hình tùy chỉnh."
 	},
 	"popup": {
 		"message": "Popup"
 	},
 	"prependToDaily": {
-		"message": "Add to daily note, at the top"
+		"message": "Thêm vào ghi chú hàng ngày, ở đầu"
 	},
 	"prependToExisting": {
-		"message": "Add to an existing note, at the top"
+		"message": "Thêm vào ghi chú hiện có, ở đầu"
 	},
 	"preview": {
-		"message": "Preview"
+		"message": "Xem trước"
 	},
 	"processing": {
-		"message": "processing"
+		"message": "đang xử lý"
 	},
 	"properties": {
-		"message": "Properties"
+		"message": "Thuộc tính"
 	},
 	"propertiesSettings": {
-		"message": "Properties"
+		"message": "Thuộc tính"
 	},
 	"propertyName": {
-		"message": "Property name"
+		"message": "Tên thuộc tính"
 	},
 	"propertyTypeCheckbox": {
-		"message": "Checkbox"
+		"message": "Hộp kiểm"
 	},
 	"propertyTypeDate": {
-		"message": "Date"
+		"message": "Ngày"
 	},
 	"propertyTypeDatetime": {
-		"message": "Date & time"
+		"message": "Ngày & giờ"
 	},
 	"propertyTypeMultitext": {
-		"message": "List"
+		"message": "Danh sách"
 	},
 	"propertyTypeNumber": {
-		"message": "Number"
+		"message": "Số"
 	},
 	"propertyTypeText": {
-		"message": "Text"
+		"message": "Văn bản"
 	},
 	"propertyValue": {
-		"message": "Property value"
+		"message": "Giá trị thuộc tính"
 	},
 	"provider": {
-		"message": "Provider"
+		"message": "Nhà cung cấp"
 	},
 	"providerApiKey": {
-		"message": "API key"
+		"message": "Khóa API"
 	},
 	"providerApiKeyDescription": {
-		"message": "Your API key for this provider."
+		"message": "Khóa API của bạn cho nhà cung cấp này."
 	},
 	"providerBaseUrl": {
-		"message": "Base URL"
+		"message": "URL cơ sở"
 	},
 	"providerBaseUrlDescription": {
-		"message": "The API endpoint URL for this provider."
+		"message": "URL điểm cuối API cho nhà cung cấp này."
 	},
 	"providerModelId": {
-		"message": "Model ID"
+		"message": "ID mô hình"
 	},
 	"providerModelIdDescription": {
-		"message": "The identifier of the model from your provider. Typically a short name without spaces."
+		"message": "Định danh của mô hình từ nhà cung cấp của bạn. Thường là một tên ngắn không có dấu cách."
 	},
 	"providerModelIdPlaceholder": {
-		"message": "Model ID"
+		"message": "ID mô hình"
 	},
 	"providerName": {
-		"message": "Provider name"
+		"message": "Tên nhà cung cấp"
 	},
 	"providerNameDescription": {
-		"message": "Display name for this provider."
+		"message": "Tên hiển thị cho nhà cung cấp này."
 	},
 	"providerPreset": {
-		"message": "Preset"
+		"message": "Cài đặt trước"
 	},
 	"providerPresetDescription": {
-		"message": "Choose a provider or create a custom one."
+		"message": "Chọn một nhà cung cấp hoặc tạo một nhà cung cấp tùy chỉnh."
 	},
 	"providerRequiredFields": {
-		"message": "Provider name and Base URL are required."
+		"message": "Tên nhà cung cấp và URL cơ sở là bắt buộc."
 	},
 	"providers": {
-		"message": "Providers"
+		"message": "Nhà cung cấp"
 	},
 	"rateExtensionDescription": {
-		"message": "Are you enjoying Web Clipper? Help us by giving it a rating."
+		"message": "Bạn thích Web Clipper? Hãy giúp chúng tôi bằng cách đánh giá nó."
 	},
 	"reader": {
-		"message": "Reader"
+		"message": "Đọc"
 	},
 	"readerAppearance": {
-		"message": "Appearance"
+		"message": "Giao diện"
 	},
 	"readerAppearanceAuto": {
-		"message": "Auto"
+		"message": "Tự động"
 	},
 	"readerAppearanceDark": {
-		"message": "Dark"
+		"message": "Tối"
 	},
 	"readerAppearanceDescription": {
-		"message": "Choose light or dark appearance."
+		"message": "Chọn giao diện sáng hoặc tối."
 	},
 	"readerAppearanceLight": {
-		"message": "Light"
+		"message": "Sáng"
 	},
 	"readerBlendImages": {
-		"message": "Blend images"
+		"message": "Hòa trộn hình ảnh"
 	},
 	"readerBlendImagesDescription": {
-		"message": "Blend images with the page background."
+		"message": "Hòa trộn hình ảnh với nền của trang."
 	},
 	"readerCloseImageViewer": {
-		"message": "Close image viewer"
+		"message": "Đóng trình xem hình ảnh"
 	},
 	"readerCollapseComment": {
-		"message": "Collapse comment"
+		"message": "Thu gọn bình luận"
 	},
 	"readerColorLinks": {
-		"message": "Color links"
+		"message": "Tô màu liên kết"
 	},
 	"readerColorSchemeDefault": {
-		"message": "Default"
+		"message": "Mặc định"
 	},
 	"readerCustomCss": {
-		"message": "Custom CSS"
+		"message": "CSS tùy chỉnh"
 	},
 	"readerCustomCssDescription": {
-		"message": "CSS applied automatically in reading view."
+		"message": "CSS được tự động áp dụng trong chế độ đọc."
 	},
 	"readerDarkTheme": {
-		"message": "Dark mode theme"
+		"message": "Chủ đề chế độ tối"
 	},
 	"readerDarkThemeDescription": {
-		"message": "Use a different theme in dark mode."
+		"message": "Dùng một chủ đề khác trong chế độ tối."
 	},
 	"readerError": {
-		"message": "Failed to extract content."
+		"message": "Không thể trích xuất nội dung."
 	},
 	"readerFont": {
-		"message": "Font options"
+		"message": "Tùy chọn phông chữ"
 	},
 	"readerFontDefault": {
-		"message": "Default"
+		"message": "Mặc định"
 	},
 	"readerFontDescription": {
-		"message": "Add fonts installed on your system. Press enter to add a font."
+		"message": "Thêm các phông chữ đã cài trên hệ thống của bạn. Nhấn Enter để thêm một phông chữ."
 	},
 	"readerFontNotFound": {
-		"message": "Not found"
+		"message": "Không tìm thấy"
 	},
 	"readerFontPlaceholder": {
-		"message": "Press enter to add a font"
+		"message": "Nhấn Enter để thêm một phông chữ"
 	},
 	"readerFontSetDefault": {
-		"message": "Set default"
+		"message": "Đặt làm mặc định"
 	},
 	"readerFontSize": {
-		"message": "Base font size"
+		"message": "Cỡ chữ cơ bản"
 	},
 	"readerFontSystem": {
-		"message": "System"
+		"message": "Hệ thống"
 	},
 	"readerFontSystemSans": {
 		"message": "Sans-serif"
@@ -739,217 +739,217 @@
 		"message": "Serif"
 	},
 	"readerFonts": {
-		"message": "Fonts"
+		"message": "Phông chữ"
 	},
 	"readerFootnotes": {
-		"message": "Footnotes"
+		"message": "Chú thích"
 	},
 	"readerImages": {
-		"message": "Images"
+		"message": "Hình ảnh"
 	},
 	"readerLineHeight": {
-		"message": "Line height"
+		"message": "Chiều cao dòng"
 	},
 	"readerLineWidth": {
-		"message": "Line width"
+		"message": "Độ rộng dòng"
 	},
 	"readerLoading": {
-		"message": "Defuddling…"
+		"message": "Đang làm rõ…"
 	},
 	"readerSettings": {
-		"message": "Reader settings"
+		"message": "Cài đặt chế độ đọc"
 	},
 	"readerTheme": {
-		"message": "Theme"
+		"message": "Chủ đề"
 	},
 	"readerThemeDescription": {
-		"message": "Choose the colors used in reading view."
+		"message": "Chọn màu sắc dùng trong chế độ đọc."
 	},
 	"readerThemeSection": {
-		"message": "Theme"
+		"message": "Chủ đề"
 	},
 	"readerTypography": {
-		"message": "Typography"
+		"message": "Kiểu chữ"
 	},
 	"readerViewFullSize": {
-		"message": "View full size"
+		"message": "Xem kích thước đầy đủ"
 	},
 	"recommended": {
-		"message": "recommended"
+		"message": "được đề xuất"
 	},
 	"refresh": {
-		"message": "Refresh"
+		"message": "Làm mới"
 	},
 	"remove": {
-		"message": "Remove"
+		"message": "Xóa"
 	},
 	"removeProperty": {
-		"message": "Remove property"
+		"message": "Xóa thuộc tính"
 	},
 	"removeUnusedProperties": {
-		"message": "Remove unused properties"
+		"message": "Xóa thuộc tính không sử dụng"
 	},
 	"removeUnusedPropertiesDescription": {
-		"message": "Remove all properties that are not used in any template."
+		"message": "Xóa tất cả thuộc tính không được sử dụng trong bất kỳ mẫu nào."
 	},
 	"removeVault": {
-		"message": "Remove vault"
+		"message": "Xóa kho lưu trữ"
 	},
 	"replaceContent": {
-		"message": "Replace the page content"
+		"message": "Thay thế nội dung trang"
 	},
 	"reset": {
-		"message": "Reset"
+		"message": "Đặt lại"
 	},
 	"resetDefaultTemplate": {
-		"message": "Reset default template"
+		"message": "Đặt lại mẫu mặc định"
 	},
 	"resetDefaultTemplateDescription": {
-		"message": "Remove any changes you've made to the default template."
+		"message": "Xóa mọi thay đổi bạn đã thực hiện đối với mẫu mặc định."
 	},
 	"resetProvidersAndModels": {
-		"message": "Reset default models"
+		"message": "Đặt lại mô hình mặc định"
 	},
 	"resetProvidersAndModelsDescription": {
-		"message": "Reset providers and models to the default settings."
+		"message": "Đặt lại nhà cung cấp và mô hình về cài đặt mặc định."
 	},
 	"save": {
-		"message": "Save"
+		"message": "Lưu"
 	},
 	"saveBehaviorDescription": {
-		"message": "Choose the default option for saving pages. Alternate options appear in the dropdown menu next to the main button."
+		"message": "Chọn tùy chọn mặc định để lưu trang. Các tùy chọn khác xuất hiện trong menu dropdown bên cạnh nút chính."
 	},
 	"saveBehaviorLabel": {
-		"message": "Save behavior"
+		"message": "Hành vi lưu"
 	},
 	"saveFile": {
-		"message": "Save file..."
+		"message": "Lưu tệp..."
 	},
 	"searchVariables": {
-		"message": "Search variables..."
+		"message": "Tìm kiếm biến..."
 	},
 	"selectProvider": {
-		"message": "Select a provider"
+		"message": "Chọn nhà cung cấp"
 	},
 	"selectTemplateToExport": {
-		"message": "Please select a template to export."
+		"message": "Chọn mẫu để xuất."
 	},
 	"settings": {
-		"message": "Settings"
+		"message": "Cài đặt"
 	},
 	"settingsHeading": {
-		"message": "Settings"
+		"message": "Cài đặt"
 	},
 	"settingsImportSuccess": {
-		"message": "All settings imported successfully. Please refresh the page to see the changes."
+		"message": "Tất cả cài đặt đã được nhập thành công. Vui lòng làm mới trang để xem các thay đổi."
 	},
 	"share": {
-		"message": "Share..."
+		"message": "Chia sẻ..."
 	},
 	"shortcutInstructionsBrave": {
-		"message": "To change key assignments, go to $1"
+		"message": "Để thay đổi phím tắt, hãy đi tới $1"
 	},
 	"shortcutInstructionsChrome": {
-		"message": "To change key assignments, go to $1"
+		"message": "Để thay đổi phím tắt, hãy đi tới $1"
 	},
 	"shortcutInstructionsDefault": {
-		"message": "To change key assignments, please refer to your browser's extension settings."
+		"message": "Để thay đổi phím tắt, vui lòng xem cài đặt tiện ích mở rộng của trình duyệt của bạn."
 	},
 	"shortcutInstructionsEdge": {
-		"message": "To change key assignments, go to $1"
+		"message": "Để thay đổi phím tắt, hãy đi tới $1"
 	},
 	"shortcutInstructionsFirefox": {
-		"message": "To change key assignments, go to $1, click the gear icon, and select \"Manage Extension Shortcuts\"."
+		"message": "Để thay đổi phím tắt, hãy đi tới $1, nhấp vào biểu tượng bánh răng và chọn \"Quản lý phím tắt tiện ích mở rộng\""
 	},
 	"shortcutInstructionsIntro": {
-		"message": "Keyboard shortcuts give you quick access to clipper features."
+		"message": "Phím tắt giúp bạn truy cập nhanh các tính năng của clipper."
 	},
 	"shortcutInstructionsSafari": {
-		"message": "Keyboard shortcuts are not customizable on Safari."
+		"message": "Phím tắt không thể tùy chỉnh trong Safari."
 	},
 	"shortcutNotSet": {
-		"message": "Not set"
+		"message": "Chưa đặt"
 	},
 	"showActionsButton": {
-		"message": "Show actions button"
+		"message": "Hiển thị nút hành động"
 	},
 	"showActionsDescription": {
-		"message": "Allows you to inspect page variables from the clipper menu. Useful for seeing the variables that are available to use in templates."
+		"message": "Cho phép kiểm tra các biến trang từ menu clipper. Hữu ích để xem các biến có sẵn để sử dụng trong mẫu."
 	},
 	"showPageVariables": {
-		"message": "Show page variables"
+		"message": "Hiển thị biến trang"
 	},
 	"silentOpen": {
-		"message": "Save clipped note without opening it"
+		"message": "Lưu ghi chú đã lưu mà không mở"
 	},
 	"silentOpenDescription": {
-		"message": "Clipped notes will be saved but will not open as a new tab. Obsidian will still be brought to the foreground."
+		"message": "Ghi chú đã lưu sẽ được lưu nhưng không mở trong tab mới. Obsidian vẫn sẽ được đưa lên phía trước."
 	},
 	"specificNoteName": {
-		"message": "Specific note name"
+		"message": "Tên ghi chú cụ thể"
 	},
 	"systemDefault": {
-		"message": "System"
+		"message": "Mặc định hệ thống"
 	},
 	"template": {
-		"message": "Template"
+		"message": "Mẫu"
 	},
 	"templateCopied": {
-		"message": "Copied template JSON to clipboard"
+		"message": "Đã sao chép JSON mẫu vào bộ nhớ tạm"
 	},
 	"templateCopyError": {
-		"message": "Failed to copy template JSON to clipboard"
+		"message": "Không thể sao chép JSON mẫu vào bộ nhớ tạm"
 	},
 	"templateErrorCount": {
-		"message": "There is an error in your template."
+		"message": "Có lỗi trong mẫu của bạn."
 	},
 	"templateErrorsCount": {
-		"message": "There are $1 errors in your template."
+		"message": "Có $1 lỗi trong mẫu của bạn."
 	},
 	"templateGroupContent": {
-		"message": "Content"
+		"message": "Nội dung"
 	},
 	"templateGroupLocation": {
-		"message": "Location"
+		"message": "Vị trí"
 	},
 	"templateName": {
-		"message": "Template name"
+		"message": "Tên mẫu"
 	},
 	"templateProperties": {
-		"message": "Properties"
+		"message": "Thuộc tính"
 	},
 	"templatePropertiesDescription": {
-		"message": "Properties to add to the top of the clipped note. Use variables to pre-populate data from the page."
+		"message": "Thuộc tính để thêm vào đầu ghi chú đã lưu. Sử dụng biến để điền trước dữ liệu từ trang."
 	},
 	"templateTriggers": {
-		"message": "Template triggers"
+		"message": "Bộ kích hoạt mẫu"
 	},
 	"templateTriggersDescription": {
-		"message": "Define rules to automatically select this template if it matches a URL pattern or contains schema.org data. One rule per line."
+		"message": "Xác định quy tắc để tự động chọn mẫu này nếu nó khớp với mẫu URL hoặc chứa dữ liệu schema.org. Một quy tắc mỗi dòng."
 	},
 	"templateValid": {
-		"message": "Template syntax is valid"
+		"message": "Cú pháp mẫu hợp lệ"
 	},
 	"templatesHeading": {
-		"message": "Templates"
+		"message": "Mẫu"
 	},
 	"thinking": {
-		"message": "thinking"
+		"message": "đang suy nghĩ"
 	},
 	"unknownProvider": {
-		"message": "Unknown provider"
+		"message": "Nhà cung cấp không xác định"
 	},
 	"updateAvailable": {
-		"message": "An update is available."
+		"message": "Có bản cập nhật mới."
 	},
 	"usingLatestVersion": {
-		"message": "You are using the latest version."
+		"message": "Bạn đang sử dụng phiên bản mới nhất."
 	},
 	"vault": {
-		"message": "Vault"
+		"message": "Kho lưu trữ"
 	},
 	"vaultDescription": {
-		"message": "Select the default vault for this template. Go to $link_start$general settings$link_end$ to add or remove vaults.",
+		"message": "Chọn kho lưu trữ mặc định cho mẫu này. Đi tới $link_start$cài đặt chung$link_end$ để thêm hoặc xóa kho lưu trữ.",
 		"placeholders": {
 			"link_end": {
 				"content": "</a>"
@@ -960,10 +960,10 @@
 		}
 	},
 	"vaults": {
-		"message": "Vaults"
+		"message": "Kho lưu trữ"
 	},
 	"vaultsDescription": {
-		"message": "By default, clipped notes are saved to the currently open vault. You can add vaults here if you want the option to save to different vaults. Vault names must exactly match the name of the Obsidian vault. Press $strong_start$enter$strong_end$ to add a vault.",
+		"message": "Theo mặc định, ghi chú đã lưu được lưu vào kho lưu trữ hiện đang mở. Bạn có thể thêm kho lưu trữ ở đây nếu muốn có tùy chọn lưu vào các kho lưu trữ khác nhau. Tên kho lưu trữ phải khớp chính xác với tên kho lưu trữ Obsidian. Nhấn $strong_start$enter$strong_end$ để thêm kho lưu trữ.",
 		"placeholders": {
 			"strong_end": {
 				"content": "</strong>"
@@ -974,6 +974,6 @@
 		}
 	},
 	"version": {
-		"message": "Version"
+		"message": "Phiên bản"
 	}
 }
