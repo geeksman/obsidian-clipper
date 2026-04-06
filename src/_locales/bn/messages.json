@@ -1,99 +1,99 @@
 {
 	"activity": {
-		"message": "ক্রিয়াকলাপ"
+		"message": "Activity"
 	},
 	"addModel": {
-		"message": "+ মডেল যোগ করুন"
+		"message": "+ Add model"
 	},
 	"addModelTitle": {
-		"message": "মডেল যোগ করুন"
+		"message": "Add model"
 	},
 	"addProperty": {
-		"message": "+ প্রোপার্টি যোগ করুন"
+		"message": "+ Add property"
 	},
 	"addProvider": {
-		"message": "+ প্রোভাইডার যোগ করুন"
+		"message": "+ Add provider"
 	},
 	"addProviderTitle": {
-		"message": "প্রোভাইডার যোগ করুন"
+		"message": "Add provider"
 	},
 	"addToObsidian": {
-		"message": "অবসিডিয়ানে যোগ করুন"
+		"message": "Add to Obsidian"
 	},
 	"addVaultPlaceholder": {
-		"message": "ভল্ট যোগ করতে এন্টার চাপুন"
+		"message": "Press enter to add a vault"
 	},
 	"advanced": {
-		"message": "অ্যাডভান্সড"
+		"message": "Advanced"
 	},
 	"allProperties": {
-		"message": "সমস্ত প্রপার্টি"
+		"message": "All properties"
 	},
 	"allTime": {
-		"message": "সমস্ত সময়"
+		"message": "All time"
 	},
 	"alwaysShowHighlights": {
-		"message": "সবসময় হাইলাইট দেখান"
+		"message": "Always show highlights"
 	},
 	"alwaysShowHighlightsDescription": {
-		"message": "পেইজ লোড হওয়ার সাথে সাথে আপনার হাইলাইট করা অংশগুলি দেখতে চান? এই বিকল্পটি চালু রাখুন। অন্যথায়, শুধুমাত্র হাইলাইটার মোড চালু থাকাকালীনই এগুলি দেখতে পাবেন।"
+		"message": "Display your saved highlights when you load a page. Turn off to only display highlights when highlighter mode is activated."
 	},
 	"apiKeyMissing": {
-		"message": "API কী নেই"
+		"message": "No API key"
 	},
 	"apiKeysWarning": {
-		"message": "বাহ্যিক প্রোভাইডার ব্যবহার করে আপনি তাদের শর্তাবলী এবং গোপনীয়তা নীতির সাথে সম্মত হচ্ছেন। ইন্টারপ্রিটার রিকোয়েস্টগুলি আপনার নির্বাচিত প্রোভাইডারের কাছে সরাসরি পাঠানো হয়। Obsidian আপনার রিকোয়েস্ট সম্পর্কিত কোনও তথ্য সংগ্রহ বা সংরক্ষণ করে না।"
+		"message": "By using an external provider you agree to their terms and privacy policy. Interpreter requests are sent directly to the provider you choose. Obsidian does not gather or store any data about your requests."
 	},
 	"appendToDaily": {
-		"message": "ডেইলি নোটের শেষে যোগ করুন"
+		"message": "Add to daily note, at the bottom"
 	},
 	"appendToExisting": {
-		"message": "একটি বিদ্যমান নোটের শেষে যোগ করুন"
+		"message": "Add to an existing note, at the bottom"
 	},
 	"autoRunInterpreter": {
-		"message": "স্বয়ংক্রিয়ভাবে চালান"
+		"message": "Automatically run"
 	},
 	"autoRunInterpreterDescription": {
-		"message": "টেমপ্লেটে কোনও প্রম্পট ভেরিয়েবল থাকলে তা স্বয়ংক্রিয়ভাবে চালানো হবে। এটি আপনার মডেল প্রোভাইডারের সাথে এপিআই ক্রেডিট ব্যবহার করবে। শুধুমাত্র ম্যানুয়ালি ইন্টারপ্রিটার চালাতে চাইলে এটি বন্ধ করুন।"
+		"message": "Run prompt variables immediately if the template contains any. This will consume API credits with your model provider. Turn off if you only want to run interpreter manually."
 	},
 	"behavior": {
-		"message": "আচরণ"
+		"message": "Behavior"
 	},
 	"byDay": {
-		"message": "দিন"
+		"message": "Days"
 	},
 	"byMonth": {
-		"message": "মাস"
+		"message": "Months"
 	},
 	"byWeek": {
-		"message": "সপ্তাহ"
+		"message": "Weeks"
 	},
 	"cancel": {
-		"message": "বাতিল করুন"
+		"message": "Cancel"
 	},
 	"cannotDeleteProvider": {
-		"message": "প্রোভাইডার \"$1\" মুছে ফেলা যাবে না কারণ এটি $2 টি মডেল দ্বারা ব্যবহৃত হচ্ছে।"
+		"message": "Cannot delete provider \"$1\" because it is being used by $2 model(s)."
 	},
 	"changelog": {
-		"message": "চেঞ্জলগ"
+		"message": "Changelog"
 	},
 	"chooseFile": {
-		"message": "একটি ফাইল নির্বাচন করুন"
+		"message": "Choose a file"
 	},
 	"choosePropertiesFile": {
-		"message": "প্রোপার্টি ফাইল নির্বাচন করুন"
+		"message": "Choose properties file"
 	},
 	"chooseSettingsFile": {
-		"message": "সেটিংস ফাইল নির্বাচন করুন"
+		"message": "Choose settings file"
 	},
 	"chooseTemplateFile": {
-		"message": "টেমপ্লেট ফাইল নির্বাচন করুন"
+		"message": "Choose template file"
 	},
 	"clipBehavior": {
-		"message": "ক্লিপের আচরণ"
+		"message": "Clip behavior"
 	},
 	"clipBehaviorDescription": {
-		"message": "Obsidian এ হাইলাইট করা কনটেন্ট কীভাবে সংরক্ষণ করা হবে তা নির্বাচন করুন। এটি $strong_start${{content}}$strong_end$ ভেরিয়েবল সংজ্ঞায়িত করে।",
+		"message": "Choose how highlighted content is saved to Obsidian. Defines the $strong_start${{content}}$strong_end$ variable.",
 		"placeholders": {
 			"strong_end": {
 				"content": "</strong>"
@@ -104,7 +104,7 @@
 		}
 	},
 	"clipboardError": {
-		"message": "Obsidian আপনার ক্লিপবোর্ডে অ্যাক্সেস করতে পারছে না। এখানে ট্রাবলশুটিং নির্দেশনা দেখুন: $1",
+		"message": "Obsidian is not able to access your clipboard. Try the troubleshooting instructions here: $1",
 		"placeholders": {
 			"1": {
 				"content": "$1"
@@ -112,79 +112,79 @@
 		}
 	},
 	"close": {
-		"message": "বন্ধ করুন"
+		"message": "Close"
 	},
 	"commandOpenClipper": {
-		"message": "Obsidian Clipper খুলুন"
+		"message": "Open Obsidian Clipper"
 	},
 	"commandQuickClip": {
-		"message": "দ্রুত ক্লিপ করুন"
+		"message": "Quick clip"
 	},
 	"commandToggleHighlighter": {
-		"message": "হাইলাইটার মোড চালু/বন্ধ করুন"
+		"message": "Toggle highlighter"
 	},
 	"commandToggleReader": {
-		"message": "পাঠন দৃশ্য টগল করুন"
+		"message": "Toggle reader"
 	},
 	"confirmDeleteTemplate": {
-		"message": "আপনি কি নিশ্চিতভাবে \"$1\" টেমপ্লেটটি মুছে ফেলতে চান?"
+		"message": "Are you sure you want to delete the template \"$1\"?"
 	},
 	"confirmReplaceSettings": {
-		"message": "এটি আপনার সকল বর্তমান সেটিংস, টেমপ্লেট এবং প্রোপার্টিস সহ প্রতিস্থাপন করবে।  আপনি কি নিশ্চিতভাবে এগিয়ে যেতে চান?"
+		"message": "This will replace all your current settings, including templates and properties. Are you sure you want to continue?"
 	},
 	"copied": {
-		"message": "কপি করা হয়েছে!"
+		"message": "Copied!"
 	},
 	"copyAsJson": {
-		"message": "JSON হিসেবে কপি করুন"
+		"message": "Copy as JSON"
 	},
 	"copyToClipboard": {
-		"message": "ক্লিপবোর্ডে কপি করুন"
+		"message": "Copy to clipboard"
 	},
 	"createNewNote": {
-		"message": "নতুন নোট তৈরি করুন"
+		"message": "Create new note"
 	},
 	"custom": {
-		"message": "কাস্টম"
+		"message": "Custom"
 	},
 	"dailyNoteFormat": {
-		"message": "ডেইলি নোটের ফরম্যাট (যেমন, YYYY-MM-DD)"
+		"message": "Daily note format (e.g., YYYY-MM-DD)"
 	},
 	"defaultInterpreterContext": {
-		"message": "ডিফল্ট ইন্টারপ্রিটারের কনটেক্সট"
+		"message": "Default interpreter context"
 	},
 	"defaultInterpreterContextDescription": {
-		"message": "প্রম্পট ভেরিয়েবলগুলিকে ব্যাখ্যা করতে ব্যবহৃত কনটেক্সটটি ওভাররাইড করুন। এখানে ভেরিয়েবল ব্যবহার করা যেতে পারে।"
+		"message": "Override the context used to interpret prompt variables. Variables can be used here."
 	},
 	"defaultTemplateName": {
-		"message": "ডিফল্ট"
+		"message": "Default"
 	},
 	"delete": {
-		"message": "মুছে ফেলুন"
+		"message": "Delete"
 	},
 	"deleteModelConfirm": {
-		"message": "আপনি কি নিশ্চিতভাবে এই মডেলটি মুছে ফেলতে চান?"
+		"message": "Are you sure you want to delete this model?"
 	},
 	"deleteProviderConfirm": {
-		"message": "আপনি কি নিশ্চিতভাবে এই প্রোভাইডারটি মুছে ফেলতে চান?"
+		"message": "Are you sure you want to delete this provider?"
 	},
 	"disableHighlighter": {
-		"message": "হাইলাইটার নিষ্ক্রিয় করুন"
+		"message": "Disable highlighter"
 	},
 	"disableReader": {
-		"message": "পাঠন দৃশ্য অক্ষম করুন"
+		"message": "Disable reader"
 	},
 	"done": {
-		"message": "হয়েছে"
+		"message": "Done"
 	},
 	"dragAndDropFile": {
-		"message": "এখানে ফাইল টেনে আনুন এবং ছেড়ে দিন"
+		"message": "Drag and drop file here"
 	},
 	"duplicate": {
-		"message": "ডুপ্লিকেট করুন"
+		"message": "Duplicate"
 	},
 	"earlyAccessDescription": {
-		"message": "Obsidian এর সর্বশেষ $link_start$আর্লি অ্যাক্সেস সংস্করণের$link_end$ প্রয়োজনীয় ফিচারগুলো ব্যবহার করুন। বর্তমানে Obsidian 1.7.2 বা তার পরের সংস্করণ প্রয়োজন।",
+		"message": "Use features that require the latest $link_start$early access version$link_end$ of Obsidian. Currently requires Obsidian 1.7.2 or later.",
 		"placeholders": {
 			"link_end": {
 				"content": "</a>"
@@ -195,31 +195,31 @@
 		}
 	},
 	"earlyAccessFeatures": {
-		"message": "আর্লি অ্যাক্সেসের ফিচারগুলো"
+		"message": "Early access features"
 	},
 	"editModel": {
-		"message": "মডেল সম্পাদনা করুন"
+		"message": "Edit model"
 	},
 	"editProvider": {
-		"message": "প্রোভাইডার সম্পাদনা করুন"
+		"message": "Edit provider"
 	},
 	"editTemplate": {
-		"message": "টেমপ্লেট সম্পাদনা করুন"
+		"message": "Edit template"
 	},
 	"embedded": {
-		"message": "এম্বেডেড"
+		"message": "Embedded"
 	},
 	"enableHighlighter": {
-		"message": "হাইলাইটার সক্রিয় করুন"
+		"message": "Enable highlighter"
 	},
 	"enableHighlighterDescription": {
-		"message": "ওয়েব পেজ থেকে বিষয়বস্তু হাইলাইট করে Obsidian এ সংরক্ষণ করুন।"
+		"message": "Highlight content on web pages that you can save to Obsidian."
 	},
 	"enableInterpreter": {
-		"message": "ইন্টারপ্রিটার সক্রিয় করুন"
+		"message": "Enable interpreter"
 	},
 	"enableInterpreterDescription": {
-		"message": "পেজগুলো থেকে তথ্য আহরণের জন্য ন্যাচারাল ল্যাঙ্গুয়েজ ব্যবহার করুন। উদাহরণস্বরূপ, আপনি টেমপ্লেট সিনট্যাক্স $strong_start${{\"পৃষ্ঠার একটি সারাংশ\"}}$strong_end$ ব্যবহার করতে পারেন। নীচে কনফিগার করা একটি এপিআই কী বা কাস্টম মডেল প্রয়োজন।  $link_start$আরও জানুন$link_end$।",
+		"message": "Use natural language to extract data from pages. For example, you can use the template syntax $strong_start${{\"a summary of the page\"}}$strong_end$. Requires an API key or custom model configured below.  $link_start$Learn more$link_end$.",
 		"placeholders": {
 			"link_end": {
 				"content": "</a>"
@@ -236,31 +236,31 @@
 		}
 	},
 	"enableReader": {
-		"message": "পাঠন দৃশ্য খুলুন"
+		"message": "Open reading view"
 	},
 	"error": {
-		"message": "ত্রুটি"
+		"message": "Error"
 	},
 	"export": {
-		"message": "এক্সপোর্ট করুন"
+		"message": "Export"
 	},
 	"exportAllSettings": {
-		"message": "সব সেটিংস এক্সপোর্ট করুন"
+		"message": "Export all settings"
 	},
 	"exportAllSettingsDescription": {
-		"message": "টেমপ্লেট এবং প্রোপার্টি সহ সমস্ত সেটিংস এক্সপোর্ট করুন।"
+		"message": "Export all settings including templates and properties."
 	},
 	"exportHighlights": {
-		"message": "হাইলাইটগুলি এক্সপোর্ট করুন"
+		"message": "Export highlights"
 	},
 	"exportHighlightsDescription": {
-		"message": "আপনার হাইলাইটগুলি একটি ফাইলে এক্সপোর্ট করুন।"
+		"message": "Export your highlights to a file."
 	},
 	"exportProperties": {
-		"message": "প্রোপার্টিগুলি এক্সপোর্ট করুন"
+		"message": "Export properties"
 	},
 	"exportPropertiesDescription": {
-		"message": "ওয়েব ক্লিপারের প্রোপার্টিগুলিকে একটি $strong_start$types.json$strong_end$ ফাইলে সংরক্ষণ করুন যা আপনার Obsidian ভল্টে বা অন্যান্য ডিভাইসে ওয়েব ক্লিপারে ইম্পোর্ট করা যেতে পারে।",
+		"message": "Save Web Clipper properties to a $strong_start$types.json$strong_end$ file that can be imported into your Obsidian vault, or into Web Clipper on other devices.",
 		"placeholders": {
 			"strong_end": {
 				"content": "</strong>"
@@ -271,121 +271,121 @@
 		}
 	},
 	"extensionDescription": {
-		"message": "ওয়েব থেকে বিষয়বস্তু একটি ব্যক্তিগত এবং স্থায়ী ফর্ম্যাটে সংরক্ষণ করুন যা আপনি অফলাইনে অ্যাক্সেস করতে পারেন। Obsidian এর জন্য অফিসিয়াল ব্রাউজার এক্সটেনশান।"
+		"message": "Save content from the web in a private and durable format that you can access offline. The official browser extension for Obsidian."
 	},
 	"extensionName": {
 		"message": "Obsidian Web Clipper"
 	},
 	"failedToCopyText": {
-		"message": "টেক্সট কপি করতে ব্যর্থ হয়েছে"
+		"message": "Failed to copy text"
 	},
 	"failedToDeleteTemplate": {
-		"message": "টেমপ্লেট মুছে ফেলতে ব্যর্থ হয়েছে। দয়া আবার চেষ্টা করুন।"
+		"message": "Failed to delete template. Please try again."
 	},
 	"failedToDuplicateTemplate": {
-		"message": "টেমপ্লেট ডুপ্লিকেট করতে ব্যর্থ হয়েছে। দয়া আবার চেষ্টা করুন।"
+		"message": "Failed to duplicate template. Please try again."
 	},
 	"failedToExportHighlights": {
-		"message": "হাইলাইটগুলি এক্সপোর্ট করতে ব্যর্থ হয়েছে। আরও বিস্তারিত জানার জন্য কনসোলটি পরীক্ষা করুন।"
+		"message": "Failed to export highlights. Please check the console for more details."
 	},
 	"failedToExportSettings": {
-		"message": "সেটিংস এক্সপোর্ট করতে ব্যর্থ হয়েছে। আরও বিস্তারিত জানার জন্য কনসোলটি পরীক্ষা করুন।"
+		"message": "Failed to export settings. Please check the console for more details."
 	},
 	"failedToExtractContent": {
-		"message": "পৃষ্ঠার বিষয়বস্তু আহরণ করা যাচ্ছে না।"
+		"message": "Unable to extract page content."
 	},
 	"failedToImportTemplate": {
-		"message": "টেমপ্লেট ইম্পোর্ট করতে ব্যর্থ হয়েছে। দয়া করে ফাইলটি পরীক্ষা করে আবার চেষ্টা করুন।"
+		"message": "Error importing template. Please check the file and try again."
 	},
 	"failedToInitialize": {
-		"message": "দয়া করে এক্সটেনশনটি পুনরায় লোড করুন।"
+		"message": "Please try reloading the extension."
 	},
 	"failedToInitializeContent": {
-		"message": "পেজের বিষয়বস্তু শুরু করা যাচ্ছে না।"
+		"message": "Unable to initialize page content."
 	},
 	"failedToProcessInterpreter": {
-		"message": "ইন্টারপ্রিটার প্রসেসিং ব্যর্থ হয়েছে। দয়া করে আবার চেষ্টা করুন।"
+		"message": "Interpreter processing failed. Please try again."
 	},
 	"failedToResetProviders": {
-		"message": "প্রোভাইডার এবং মডেলগুলি রিসেট করতে ব্যর্থ হয়েছে।"
+		"message": "Failed to reset providers and models"
 	},
 	"failedToResetTemplate": {
-		"message": "ডিফল্ট টেমপ্লেট রিসেট করতে ব্যর্থ হয়েছে। দয়া করে আবার চেষ্টা করুন।"
+		"message": "Failed to reset default template. Please try again."
 	},
 	"failedToSave": {
-		"message": "ফাইল সংরক্ষণ করতে ব্যর্থ হয়েছে।"
+		"message": "Failed to save file"
 	},
 	"failedToSaveFile": {
-		"message": "ফাইল সংরক্ষণ করতে ব্যর্থ হয়েছে।"
+		"message": "Failed to save file"
 	},
 	"failedToSaveProvider": {
-		"message": "প্রোভাইডার সংরক্ষণ করতে ব্যর্থ হয়েছে। দয়া করে আবার চেষ্টা করুন।"
+		"message": "Failed to save provider. Please try again."
 	},
 	"feedback": {
-		"message": "মতামত"
+		"message": "Feedback"
 	},
 	"feedbackDescription": {
-		"message": "আমরা ওয়েব ক্লিপার কীভাবে উন্নত করতে পারি? দয়া করে আমাদের সাহায্য পৃষ্ঠায় যান, যেখানে আপনি বাগ রিপোর্ট করতে, বৈশিষ্ট্য প্রস্তাব করতে এবং সাধারণ সমস্যাগুলির সাহায্য পেতে পারেন।"
+		"message": "How can we improve Web Clipper? Please visit our help page, where you can report bugs, suggest features, and get help with common issues."
 	},
 	"feedbackTitle": {
-		"message": "আপনার মতামতের জন্য ধন্যবাদ"
+		"message": "Thanks for your feedback"
 	},
 	"folder": {
-		"message": "ফোল্ডার"
+		"message": "Folder"
 	},
 	"general": {
-		"message": "সাধারণ"
+		"message": "General"
 	},
 	"generalSettings": {
-		"message": "সাধারণ সেটিংস"
+		"message": "General settings"
 	},
 	"getApiKeyHere": {
-		"message": "আপনার $1 API কী এখান থেকে সংগ্রহ করুন।"
+		"message": "Get your $1 API key here."
 	},
 	"help": {
-		"message": "সহায়তা"
+		"message": "Help"
 	},
 	"helpDescription": {
-		"message": "ওয়েব ক্লিপার ব্যবহার করা শিখুন এবং সমস্যা সমাধানে সহায়তা পান।"
+		"message": "Learn how to use Web Clipper and get help troubleshooting."
 	},
 	"highlightInline": {
-		"message": "পেজের বিষয়বস্তু হাইলাইট করুন"
+		"message": "Highlight the page content"
 	},
 	"highlightPage": {
-		"message": "পেজ হাইলাইট করুন"
+		"message": "Highlight page"
 	},
 	"highlighter": {
-		"message": "হাইলাইটার"
+		"message": "Highlighter"
 	},
 	"highlighterSettings": {
-		"message": "হাইলাইটার"
+		"message": "Highlighter"
 	},
 	"history": {
-		"message": "ইতিহাস"
+		"message": "History"
 	},
 	"hotkeys": {
-		"message": "হটকি"
+		"message": "Hotkeys"
 	},
 	"import": {
-		"message": "ইম্পোর্ট করুন"
+		"message": "Import"
 	},
 	"importAllSettings": {
-		"message": "সব সেটিংস ইম্পোর্ট করুন"
+		"message": "Import all settings"
 	},
 	"importAllSettingsDescription": {
-		"message": "টেমপ্লেট এবং প্রোপার্টি সহ সমস্ত সেটিংস ইম্পোর্ট করুন। এটি আপনার বর্তমান কনফিগারেশন রিপ্লেস করবে।"
+		"message": "Import all settings including templates and properties. This will replace your current configuration."
 	},
 	"importFailed": {
-		"message": "ইম্পোর্ট ব্যর্থ হয়েছে। আরও বিস্তারিত জানার জন্য কনসোলটি চেক করুন।"
+		"message": "Import failed. Please check the console for more details."
 	},
 	"importModalTitle": {
-		"message": "ইম্পোর্ট"
+		"message": "Import"
 	},
 	"importProperties": {
-		"message": "প্রোপার্টিগুলি ইম্পোর্ট করুন"
+		"message": "Import properties"
 	},
 	"importPropertiesDescription": {
-		"message": "Obsidian থেকে প্রোপার্টিগুলি ইম্পোর্ট করার জন্য আপনার ভল্টের মধ্যে $strong_2_start$.obsidian$strong_2_end$ ফোল্ডারে অবস্থিত $strong_1_start$types.json$strong_1_end$ ফাইলটি খুঁজুন। মনে রাখবেন এই ফোল্ডারটি বেশিরভাগ অপারেটিং সিস্টেমে ডিফল্টভাবে লুকানো থাকে।",
+		"message": "To import your properties from Obsidian, locate the $strong_1_start$types.json$strong_1_end$ file in the $strong_2_start$.obsidian$strong_2_end$ folder within your vault. Note this folder is hidden by default on most operating systems.",
 		"placeholders": {
 			"strong_1_end": {
 				"content": "</strong>"
@@ -402,22 +402,22 @@
 		}
 	},
 	"importSettings": {
-		"message": "সেটিংস ইম্পোর্ট করুন"
+		"message": "Import settings"
 	},
 	"importTemplate": {
-		"message": "টেমপ্লেট ইম্পোর্ট করুন"
+		"message": "Import template"
 	},
 	"interpret": {
-		"message": "ইন্টারপ্রিট করুন"
+		"message": "interpret"
 	},
 	"interpreter": {
-		"message": "ইন্টারপ্রিটার"
+		"message": "Interpreter"
 	},
 	"interpreterContext": {
-		"message": "ইন্টারপ্রিটার কনটেক্সট"
+		"message": "Interpreter context"
 	},
 	"interpreterContextDescription": {
-		"message": "প্রম্পট ভেরিয়েবলগুলিকে ব্যাখ্যা করতে ব্যবহৃত কনটেক্সট। এটি $link_start$ইন্টারপ্রিটার সেটিংস$link_end$ এর ডিফল্ট কনটেক্সটকে ওভাররাইড করে। এখানে ভেরিয়েবল ব্যবহার করা যেতে পারে।",
+		"message": "The context used to interpret prompt variables. Overrides the default context defined in $link_start$Interpreter settings$link_end$. Variables can be used here.",
 		"placeholders": {
 			"link_end": {
 				"content": "</a>"
@@ -428,82 +428,82 @@
 		}
 	},
 	"language": {
-		"message": "ভাষা"
+		"message": "Language"
 	},
 	"languageDescription": {
-		"message": "এক্সটেনশনের ইন্টারফেসের ভাষা নির্বাচন করুন।"
+		"message": "Choose the display language for the extension interface."
 	},
 	"last30Days": {
-		"message": "গত ৩০ দিন"
+		"message": "Last 30 days"
 	},
 	"lastUsed": {
-		"message": "শেষ ব্যবহৃত"
+		"message": "Last used"
 	},
 	"legacyMode": {
-		"message": "লেগ্যাসি মোড"
+		"message": "Legacy mode"
 	},
 	"legacyModeDescription": {
-		"message": "এটি Obsidian 1.6.7 বা তার আগের সংস্করণের সাথে সামঞ্জস্যপূর্ণ URI ক্লিপিং পদ্ধতি ব্যবহার করে। মনে রাখবেন, আপনার ব্রাউজার এবং অপারেটিং সিস্টেমের সীমাবদ্ধতার কারণে পেজের বিষয়বস্তু ক্লিপ করার পরিমাণ সীমিত থাকতে পারে। কিছু পেজ কোনো ত্রুটি বার্তা ছাড়াই ব্যর্থ হতে পারে।"
+		"message": "Uses the URI clipping method compatible with Obsidian 1.6.7 or earlier. Note that the length of the content you can clip is limited by your browser and OS. Some pages may fail without any errors."
 	},
 	"modelName": {
-		"message": "প্রদর্শিত নাম"
+		"message": "Display name"
 	},
 	"modelNameDescription": {
-		"message": "ইন্টারফেসে প্রদর্শনের জন্য মডেলের নাম।"
+		"message": "The name of the model you want to display in the interface."
 	},
 	"modelProvider": {
-		"message": "প্রোভাইডার"
+		"message": "Provider"
 	},
 	"modelProviderDescription": {
-		"message": "এই মডেলের জন্য প্রোভাইডার নির্বাচন করুন।"
+		"message": "Select the provider for this model."
 	},
 	"modelProviderPlaceholder": {
-		"message": "প্রোভাইডার"
+		"message": "Provider"
 	},
 	"modelRequiredFields": {
-		"message": "মডেলের নাম, প্রোভাইডার এবং মডেল আইডি আবশ্যক।"
+		"message": "Model name, Provider, and Model ID are required."
 	},
 	"models": {
-		"message": "মডেলসমূহ"
+		"message": "Models"
 	},
 	"modelsListFor": {
-		"message": "$1 এর জন্য মডেল তালিকা"
+		"message": "Models list for $1"
 	},
 	"more": {
-		"message": "আরও"
+		"message": "More"
 	},
 	"newTemplate": {
-		"message": "নতুন টেমপ্লেট"
+		"message": "New template"
 	},
 	"noHighlights": {
-		"message": "কিছুই করবেন না"
+		"message": "Do nothing"
 	},
 	"noTemplates": {
-		"message": "কোনো টেমপ্লেট পাওয়া যায়নি। সেটিংসে একটি টেমপ্লেট যোগ করুন।"
+		"message": "No templates available. Please add a template in the settings."
 	},
 	"noUnusedProperties": {
-		"message": "অব্যবহৃত কোনো প্রপার্টি পাওয়া যায়নি।"
+		"message": "No unused properties found."
 	},
 	"noteContent": {
-		"message": "নোটের বিষয়বস্তু"
+		"message": "Note content"
 	},
 	"noteContentDescription": {
-		"message": "নোটের বিষয়বস্তু কাস্টমাইজ করুন। পেজ থেকে ডেটা প্রি-পপুলেট করার জন্য ভেরিয়েবল ব্যবহার করুন।"
+		"message": "Customize the content of the note. Use variables to pre-populate data from the page."
 	},
 	"noteLocation": {
-		"message": "নোটের লোকেশন"
+		"message": "Note location"
 	},
 	"noteLocationDescription": {
-		"message": "নোটের ফোল্ডার বা পাথ।"
+		"message": "The folder or path of the note."
 	},
 	"noteName": {
-		"message": "নোটের নাম"
+		"message": "Note name"
 	},
 	"noteNameFormat": {
-		"message": "নোটের নাম"
+		"message": "Note name"
 	},
 	"noteNameFormatDescription": {
-		"message": "নোটের ফাইল নামের ফরম্যাট। {{title}}, {{date}}, এবং {{published}} এর মতো ভেরিয়েবল ব্যবহার করে পেজ থেকে ডেটা প্রি-পপুলেট করুন। $link_start$আরও জানুন$link_end$।",
+		"message": "Format for the file name of the note. You can use variables like {{title}}, {{date}}, and {{published}} to pre-populate data from the page. $link_start$Learn more$link_end$.",
 		"placeholders": {
 			"link_end": {
 				"content": "</a>"
@@ -514,442 +514,442 @@
 		}
 	},
 	"notesAboutPage": {
-		"message": "এই পেজের বিষয়ে নোট..."
+		"message": "Notes about this page..."
 	},
 	"onlyHttpSupported": {
-		"message": "এই পৃষ্ঠা ক্লিপ করা যাবে না। শুধুমাত্র http এবং https URL গ্রহণযোগ্য।"
+		"message": "This page cannot be clipped. Only http and https URLs are supported."
 	},
 	"open": {
-		"message": "খুলুন"
+		"message": "Open"
 	},
 	"openBehaviorDescription": {
-		"message": "ডিফল্ট হিসেবে ওয়েব ক্লিপার কীভাবে খুলবে তা নির্বাচন করুন।"
+		"message": "Choose how Web Clipper opens by default."
 	},
 	"openBehaviorTitle": {
-		"message": "খোলার আচরণ"
+		"message": "Open behavior"
 	},
 	"openEmbedded": {
-		"message": "পৃষ্ঠায় খুলুন"
+		"message": "Open in page"
 	},
 	"openSidePanel": {
-		"message": "পাশের প্যানেল খুলুন"
+		"message": "Open side panel"
 	},
 	"optional": {
-		"message": "(ঐচ্ছিক)"
+		"message": "(optional)"
 	},
 	"orPasteBelow": {
-		"message": "অথবা নিচে কনটেন্ট পেস্ট করুন"
+		"message": "Or paste content below"
 	},
 	"overwriteNote": {
-		"message": "নোট পুনর্লিখন করুন"
+		"message": "Overwrite note"
 	},
 	"pageCannotBeClipped": {
-		"message": "এই পেজ ক্লিপ করা যাবে না।"
+		"message": "This page cannot be clipped."
 	},
 	"pageVariables": {
-		"message": "পেজের ভেরিয়েবলসমূহ"
+		"message": "Page variables"
 	},
 	"pagesSaved": {
-		"message": "পৃষ্ঠা সংরক্ষিত হয়েছে"
+		"message": "page saved"
 	},
 	"pagesSavedPlural": {
-		"message": "পৃষ্ঠাগুলি সংরক্ষিত হয়েছে"
+		"message": "pages saved"
 	},
 	"pasteJsonHere": {
-		"message": "এখানে JSON পেস্ট করুন"
+		"message": "Paste JSON here"
 	},
 	"pleaseReload": {
-		"message": "অনুগ্রহ করে পেজ রিলোড করার চেষ্টা করুন।"
+		"message": "Please try reloading the page."
 	},
 	"popularModels": {
-		"message": "জনপ্রিয় মডেলগুলি"
+		"message": "Popular models"
 	},
 	"popularModelsDescription": {
-		"message": "সাধারণত ব্যবহৃত মডেলগুলি থেকে চয়ন করুন বা কাস্টম মডেলের বিশদ লিখুন।"
+		"message": "Choose from commonly used models or enter custom model details."
 	},
 	"popup": {
-		"message": "পপআপ"
+		"message": "Popup"
 	},
 	"prependToDaily": {
-		"message": "ডেইলি নোটে উপরের দিকে যোগ করুন"
+		"message": "Add to daily note, at the top"
 	},
 	"prependToExisting": {
-		"message": "বিদ্যমান নোটের উপরের দিকে যোগ করুন"
+		"message": "Add to an existing note, at the top"
 	},
 	"preview": {
-		"message": "পূর্বরূপ"
+		"message": "Preview"
 	},
 	"processing": {
-		"message": "প্রসেসিং"
+		"message": "processing"
 	},
 	"properties": {
-		"message": "প্রোপার্টি"
+		"message": "Properties"
 	},
 	"propertiesSettings": {
-		"message": "প্রোপার্টি"
+		"message": "Properties"
 	},
 	"propertyName": {
-		"message": "প্রোপার্টির নাম"
+		"message": "Property name"
 	},
 	"propertyTypeCheckbox": {
-		"message": "চেকবক্স"
+		"message": "Checkbox"
 	},
 	"propertyTypeDate": {
-		"message": "তারিখ"
+		"message": "Date"
 	},
 	"propertyTypeDatetime": {
-		"message": "তারিখ এবং সময়"
+		"message": "Date & time"
 	},
 	"propertyTypeMultitext": {
-		"message": "তালিকা"
+		"message": "List"
 	},
 	"propertyTypeNumber": {
-		"message": "সংখ্যা"
+		"message": "Number"
 	},
 	"propertyTypeText": {
-		"message": "পাঠ্য"
+		"message": "Text"
 	},
 	"propertyValue": {
-		"message": "প্রোপার্টির মান"
+		"message": "Property value"
 	},
 	"provider": {
-		"message": "প্রোভাইডার"
+		"message": "Provider"
 	},
 	"providerApiKey": {
-		"message": "API কী"
+		"message": "API key"
 	},
 	"providerApiKeyDescription": {
-		"message": "এই প্রোভাইডারের জন্য আপনার API কী।"
+		"message": "Your API key for this provider."
 	},
 	"providerBaseUrl": {
-		"message": "বেস URL"
+		"message": "Base URL"
 	},
 	"providerBaseUrlDescription": {
-		"message": "এই প্রোভাইডারের API এন্ডপয়েন্ট URL।"
+		"message": "The API endpoint URL for this provider."
 	},
 	"providerModelId": {
-		"message": "মডেল আইডি"
+		"message": "Model ID"
 	},
 	"providerModelIdDescription": {
-		"message": "আপনার প্রোভাইডারের মডেলের শনাক্তকারী। সাধারণত একটি স্পেস ছাড়া ছোট নাম।"
+		"message": "The identifier of the model from your provider. Typically a short name without spaces."
 	},
 	"providerModelIdPlaceholder": {
-		"message": "মডেল আইডি"
+		"message": "Model ID"
 	},
 	"providerName": {
-		"message": "প্রোভাইডারের নাম"
+		"message": "Provider name"
 	},
 	"providerNameDescription": {
-		"message": "এই প্রোভাইডারের জন্য প্রদর্শিত নাম।"
+		"message": "Display name for this provider."
 	},
 	"providerPreset": {
-		"message": "প্রিসেট"
+		"message": "Preset"
 	},
 	"providerPresetDescription": {
-		"message": "একটি প্রোভাইডার নির্বাচন করুন অথবা একটি কাস্টম প্রোভাইডার তৈরি করুন।"
+		"message": "Choose a provider or create a custom one."
 	},
 	"providerRequiredFields": {
-		"message": "প্রোভাইডারের নাম এবং বেস URL আবশ্যক।"
+		"message": "Provider name and Base URL are required."
 	},
 	"providers": {
-		"message": "প্রোভাইডারস"
+		"message": "Providers"
 	},
 	"rateExtensionDescription": {
-		"message": "আপনি কি ওয়েব ক্লিপার উপভোগ করছেন? এটি একটি রেটিং দিয়ে আমাদের সাহায্য করুন।"
+		"message": "Are you enjoying Web Clipper? Help us by giving it a rating."
 	},
 	"reader": {
-		"message": "পাঠক"
+		"message": "Reader"
 	},
 	"readerAppearance": {
-		"message": "চেহারা"
+		"message": "Appearance"
 	},
 	"readerAppearanceAuto": {
-		"message": "স্বয়ংক্রিয়"
+		"message": "Auto"
 	},
 	"readerAppearanceDark": {
-		"message": "ডার্ক"
+		"message": "Dark"
 	},
 	"readerAppearanceDescription": {
-		"message": "লাইট বা ডার্ক চেহারা বেছে নিন।"
+		"message": "Choose light or dark appearance."
 	},
 	"readerAppearanceLight": {
-		"message": "লাইট"
+		"message": "Light"
 	},
 	"readerBlendImages": {
-		"message": "ছবি মিশিয়ে দিন"
+		"message": "Blend images"
 	},
 	"readerBlendImagesDescription": {
-		"message": "পৃষ্ঠার ব্যাকগ্রাউন্ডের সাথে ছবি মিশিয়ে দিন।"
+		"message": "Blend images with the page background."
 	},
 	"readerCloseImageViewer": {
-		"message": "ছবি ভিউয়ার বন্ধ করুন"
+		"message": "Close image viewer"
 	},
 	"readerCollapseComment": {
-		"message": "মন্তব্য সংকুচিত করুন"
+		"message": "Collapse comment"
 	},
 	"readerColorLinks": {
-		"message": "লিংকের রঙ"
+		"message": "Color links"
 	},
 	"readerColorSchemeDefault": {
-		"message": "ডিফল্ট"
+		"message": "Default"
 	},
 	"readerCustomCss": {
-		"message": "কাস্টম CSS"
+		"message": "Custom CSS"
 	},
 	"readerCustomCssDescription": {
-		"message": "রিডিং ভিউতে স্বয়ংক্রিয়ভাবে প্রয়োগ হওয়া CSS।"
+		"message": "CSS applied automatically in reading view."
 	},
 	"readerDarkTheme": {
-		"message": "ডার্ক মোড থিম"
+		"message": "Dark mode theme"
 	},
 	"readerDarkThemeDescription": {
-		"message": "ডার্ক মোডে ভিন্ন থিম ব্যবহার করুন।"
+		"message": "Use a different theme in dark mode."
 	},
 	"readerError": {
-		"message": "কনটেন্ট বের করতে ব্যর্থ হয়েছে।"
+		"message": "Failed to extract content."
 	},
 	"readerFont": {
-		"message": "ফন্ট অপশন"
+		"message": "Font options"
 	},
 	"readerFontDefault": {
-		"message": "ডিফল্ট"
+		"message": "Default"
 	},
 	"readerFontDescription": {
-		"message": "আপনার সিস্টেমে ইনস্টল করা ফন্ট যোগ করুন। ফন্ট যোগ করতে এন্টার চাপুন।"
+		"message": "Add fonts installed on your system. Press enter to add a font."
 	},
 	"readerFontNotFound": {
-		"message": "পাওয়া যায়নি"
+		"message": "Not found"
 	},
 	"readerFontPlaceholder": {
-		"message": "ফন্ট যোগ করতে এন্টার চাপুন"
+		"message": "Press enter to add a font"
 	},
 	"readerFontSetDefault": {
-		"message": "ডিফল্ট সেট করুন"
+		"message": "Set default"
 	},
 	"readerFontSize": {
-		"message": "বেস ফন্ট সাইজ"
+		"message": "Base font size"
 	},
 	"readerFontSystem": {
-		"message": "সিস্টেম"
+		"message": "System"
 	},
 	"readerFontSystemSans": {
-		"message": "স্যান্স-সেরিফ"
+		"message": "Sans-serif"
 	},
 	"readerFontSystemSerif": {
-		"message": "সেরিফ"
+		"message": "Serif"
 	},
 	"readerFonts": {
-		"message": "ফন্ট"
+		"message": "Fonts"
 	},
 	"readerFootnotes": {
-		"message": "পাদটীকা"
+		"message": "Footnotes"
 	},
 	"readerImages": {
-		"message": "ছবি"
+		"message": "Images"
 	},
 	"readerLineHeight": {
-		"message": "লাইন উচ্চতা"
+		"message": "Line height"
 	},
 	"readerLineWidth": {
-		"message": "লাইন প্রস্থ"
+		"message": "Line width"
 	},
 	"readerLoading": {
-		"message": "পরিষ্কার করা হচ্ছে…"
+		"message": "Defuddling…"
 	},
 	"readerSettings": {
-		"message": "রিডার সেটিংস"
+		"message": "Reader settings"
 	},
 	"readerTheme": {
-		"message": "থিম"
+		"message": "Theme"
 	},
 	"readerThemeDescription": {
-		"message": "রিডিং ভিউতে ব্যবহৃত রঙ বেছে নিন।"
+		"message": "Choose the colors used in reading view."
 	},
 	"readerThemeSection": {
-		"message": "থিম"
+		"message": "Theme"
 	},
 	"readerTypography": {
-		"message": "টাইপোগ্রাফি"
+		"message": "Typography"
 	},
 	"readerViewFullSize": {
-		"message": "পূর্ণ আকারে দেখুন"
+		"message": "View full size"
 	},
 	"recommended": {
-		"message": "প্রস্তাবিত"
+		"message": "recommended"
 	},
 	"refresh": {
-		"message": "রিফ্রেশ"
+		"message": "Refresh"
 	},
 	"remove": {
-		"message": "মুছে ফেলুন"
+		"message": "Remove"
 	},
 	"removeProperty": {
-		"message": "প্রোপার্টি মুছে ফেলুন"
+		"message": "Remove property"
 	},
 	"removeUnusedProperties": {
-		"message": "অব্যবহৃত প্রোপার্টি মুছে ফেলুন"
+		"message": "Remove unused properties"
 	},
 	"removeUnusedPropertiesDescription": {
-		"message": "যে প্রোপার্টিগুলি কোনো টেমপ্লেটে ব্যবহার হয়নি, সেগুলি মুছে ফেলুন।"
+		"message": "Remove all properties that are not used in any template."
 	},
 	"removeVault": {
-		"message": "ভল্ট মুছে ফেলুন"
+		"message": "Remove vault"
 	},
 	"replaceContent": {
-		"message": "পেজের বিষয়বস্তু রিপ্লেস করুন"
+		"message": "Replace the page content"
 	},
 	"reset": {
-		"message": "রিসেট"
+		"message": "Reset"
 	},
 	"resetDefaultTemplate": {
-		"message": "ডিফল্ট টেমপ্লেট রিসেট করুন"
+		"message": "Reset default template"
 	},
 	"resetDefaultTemplateDescription": {
-		"message": "ডিফল্ট টেমপ্লেটে আপনি যে পরিবর্তন করেছেন তা মুছে ফেলুন।"
+		"message": "Remove any changes you've made to the default template."
 	},
 	"resetProvidersAndModels": {
-		"message": "ডিফল্ট মডেলগুলো রিসেট করুন"
+		"message": "Reset default models"
 	},
 	"resetProvidersAndModelsDescription": {
-		"message": "প্রোভাইডার এবং মডেলগুলোকে ডিফল্ট সেটিংসে ফেরত নিন।"
+		"message": "Reset providers and models to the default settings."
 	},
 	"save": {
-		"message": "সংরক্ষণ করুন"
+		"message": "Save"
 	},
 	"saveBehaviorDescription": {
-		"message": "পৃষ্ঠাগুলি সংরক্ষণ করার জন্য ডিফল্ট বিকল্প চয়ন করুন। বিকল্প বিকল্পগুলি প্রধান বোতামের পাশে ড্রপডাউন মেনুতে দেখা যায়।"
+		"message": "Choose the default option for saving pages. Alternate options appear in the dropdown menu next to the main button."
 	},
 	"saveBehaviorLabel": {
-		"message": "সংরক্ষণ আচরণ"
+		"message": "Save behavior"
 	},
 	"saveFile": {
-		"message": "ফাইল সংরক্ষণ করুন..."
+		"message": "Save file..."
 	},
 	"searchVariables": {
-		"message": "ভেরিয়েবল অনুসন্ধান করুন..."
+		"message": "Search variables..."
 	},
 	"selectProvider": {
-		"message": "একটি প্রোভাইডার নির্বাচন করুন"
+		"message": "Select a provider"
 	},
 	"selectTemplateToExport": {
-		"message": "এক্সপোর্ট করার জন্য একটি টেমপ্লেট নির্বাচন করুন"
+		"message": "Please select a template to export."
 	},
 	"settings": {
-		"message": "সেটিংস"
+		"message": "Settings"
 	},
 	"settingsHeading": {
-		"message": "সেটিংস"
+		"message": "Settings"
 	},
 	"settingsImportSuccess": {
-		"message": "সমস্ত সেটিংস সফলভাবে ইম্পোর্ট হয়েছে। পরিবর্তনগুলি দেখতে পেজটি রিফ্রেশ করুন।"
+		"message": "All settings imported successfully. Please refresh the page to see the changes."
 	},
 	"share": {
-		"message": "শেয়ার করুন..."
+		"message": "Share..."
 	},
 	"shortcutInstructionsBrave": {
-		"message": "কী অ্যাসাইনমেন্ট পরিবর্তন করতে $1 এ যান"
+		"message": "To change key assignments, go to $1"
 	},
 	"shortcutInstructionsChrome": {
-		"message": "কী অ্যাসাইনমেন্ট পরিবর্তন করতে $1 এ যান"
+		"message": "To change key assignments, go to $1"
 	},
 	"shortcutInstructionsDefault": {
-		"message": "কী অ্যাসাইনমেন্ট পরিবর্তন করতে, আপনার ব্রাউজারের এক্সটেনশন সেটিংসে যান।"
+		"message": "To change key assignments, please refer to your browser's extension settings."
 	},
 	"shortcutInstructionsEdge": {
-		"message": "কী অ্যাসাইনমেন্ট পরিবর্তন করতে $1 এ যান"
+		"message": "To change key assignments, go to $1"
 	},
 	"shortcutInstructionsFirefox": {
-		"message": "কী অ্যাসাইনমেন্ট পরিবর্তন করতে $1 এ যান, গিয়ার আইকনে ক্লিক করুন, এবং \"Manage Extension Shortcuts\" সিলেক্ট করুন।"
+		"message": "To change key assignments, go to $1, click the gear icon, and select \"Manage Extension Shortcuts\"."
 	},
 	"shortcutInstructionsIntro": {
-		"message": "কীবোর্ড শর্টকাট আপনাকে ক্লিপার ফিচারগুলো দ্রুত ব্যবহার করার সুযোগ দেয়।"
+		"message": "Keyboard shortcuts give you quick access to clipper features."
 	},
 	"shortcutInstructionsSafari": {
-		"message": "সাফারিতে কীবোর্ড শর্টকাট কাস্টমাইজ করা যায় না।"
+		"message": "Keyboard shortcuts are not customizable on Safari."
 	},
 	"shortcutNotSet": {
-		"message": "সেট করা হয়নি"
+		"message": "Not set"
 	},
 	"showActionsButton": {
-		"message": "অ্যাকশনস বাটন দেখান"
+		"message": "Show actions button"
 	},
 	"showActionsDescription": {
-		"message": "ক্লিপার মেনু থেকে পেজ ভ্যারিয়েবল গুলি পরিদর্শন করার সুযোগ দেয়। টেমপ্লেটে ব্যবহারযোগ্য ভ্যারিয়েবল দেখতে এটি উপকারী।"
+		"message": "Allows you to inspect page variables from the clipper menu. Useful for seeing the variables that are available to use in templates."
 	},
 	"showPageVariables": {
-		"message": "পেজ ভ্যারিয়েবল দেখান"
+		"message": "Show page variables"
 	},
 	"silentOpen": {
-		"message": "ক্লিপ করা নোটটি না খুলে সংরক্ষণ করুন"
+		"message": "Save clipped note without opening it"
 	},
 	"silentOpenDescription": {
-		"message": "ক্লিপ করা নোট সংরক্ষণ হবে, তবে এটি নতুন ট্যাবে খুলবে না। Obsidian অ্যাপটি সামনে প্রদর্শিত হবে।"
+		"message": "Clipped notes will be saved but will not open as a new tab. Obsidian will still be brought to the foreground."
 	},
 	"specificNoteName": {
-		"message": "নির্দিষ্ট নোটের নাম"
+		"message": "Specific note name"
 	},
 	"systemDefault": {
-		"message": "সিস্টেম"
+		"message": "System"
 	},
 	"template": {
-		"message": "টেমপ্লেট"
+		"message": "Template"
 	},
 	"templateCopied": {
-		"message": "টেমপ্লেট JSON ক্লিপবোর্ডে কপি করা হয়েছে"
+		"message": "Copied template JSON to clipboard"
 	},
 	"templateCopyError": {
-		"message": "টেমপ্লেট JSON ক্লিপবোর্ডে কপি করতে ব্যর্থ হয়েছে"
+		"message": "Failed to copy template JSON to clipboard"
 	},
 	"templateErrorCount": {
-		"message": "আপনার টেমপ্লেটে একটি ত্রুটি আছে।"
+		"message": "There is an error in your template."
 	},
 	"templateErrorsCount": {
-		"message": "আপনার টেমপ্লেটে $1টি ত্রুটি আছে।"
+		"message": "There are $1 errors in your template."
 	},
 	"templateGroupContent": {
-		"message": "কনটেন্ট"
+		"message": "Content"
 	},
 	"templateGroupLocation": {
-		"message": "অবস্থান"
+		"message": "Location"
 	},
 	"templateName": {
-		"message": "টেমপ্লেটের নাম"
+		"message": "Template name"
 	},
 	"templateProperties": {
-		"message": "প্রোপার্টি"
+		"message": "Properties"
 	},
 	"templatePropertiesDescription": {
-		"message": "ক্লিপ করা নোটের শীর্ষে যোগ করার জন্য প্রোপার্টি। পেজ থেকে ডেটা প্রি-পপুলেট করতে ভ্যারিয়েবল ব্যবহার করুন।"
+		"message": "Properties to add to the top of the clipped note. Use variables to pre-populate data from the page."
 	},
 	"templateTriggers": {
-		"message": "টেমপ্লেট ট্রিগার"
+		"message": "Template triggers"
 	},
 	"templateTriggersDescription": {
-		"message": "যদি কোনো URL প্যাটার্নের সাথে মেলে অথবা schema.org এর ডেটা থাকে, তবে এই টেমপ্লেটটি স্বয়ংক্রিয়ভাবে নির্বাচন করার জন্য নিয়ম তৈরি করুন। প্রতিটি নিয়ম এক লাইনে লিখুন।"
+		"message": "Define rules to automatically select this template if it matches a URL pattern or contains schema.org data. One rule per line."
 	},
 	"templateValid": {
-		"message": "টেমপ্লেট সিনট্যাক্স বৈধ"
+		"message": "Template syntax is valid"
 	},
 	"templatesHeading": {
-		"message": "টেমপ্লেটস"
+		"message": "Templates"
 	},
 	"thinking": {
-		"message": "ভাবছে"
+		"message": "thinking"
 	},
 	"unknownProvider": {
-		"message": "অজানা প্রোভাইডার"
+		"message": "Unknown provider"
 	},
 	"updateAvailable": {
-		"message": "একটি আপডেট পাওয়া গেছে।"
+		"message": "An update is available."
 	},
 	"usingLatestVersion": {
-		"message": "আপনি সর্বশেষ সংস্করণ ব্যবহার করছেন।"
+		"message": "You are using the latest version."
 	},
 	"vault": {
-		"message": "ভল্ট"
+		"message": "Vault"
 	},
 	"vaultDescription": {
-		"message": "এই টেমপ্লেটের জন্য ডিফল্ট ভল্ট নির্বাচন করুন। ভল্ট যোগ বা মুছে ফেলতে $link_start$সাধারণ সেটিংস$link_end$ এ যান।",
+		"message": "Select the default vault for this template. Go to $link_start$general settings$link_end$ to add or remove vaults.",
 		"placeholders": {
 			"link_end": {
 				"content": "</a>"
@@ -960,10 +960,10 @@
 		}
 	},
 	"vaults": {
-		"message": "ভল্ট"
+		"message": "Vaults"
 	},
 	"vaultsDescription": {
-		"message": "ডিফল্টভাবে, ক্লিপ করা নোটগুলি বর্তমানে খোলা থাকা ভল্টে সংরক্ষিত হয়। আপনি যদি বিভিন্ন ভল্টে সংরক্ষণ করার অপশন চান, তবে এখানে ভল্ট যোগ করতে পারেন। ভল্টের নাম অবশ্যই Obsidian ভল্টের নামের সাথে পুরোপুরি মিলতে হবে। একটি ভল্ট যোগ করতে $strong_start$এন্টার$strong_end$ চাপুন।",
+		"message": "By default, clipped notes are saved to the currently open vault. You can add vaults here if you want the option to save to different vaults. Vault names must exactly match the name of the Obsidian vault. Press $strong_start$enter$strong_end$ to add a vault.",
 		"placeholders": {
 			"strong_end": {
 				"content": "</strong>"
@@ -974,6 +974,6 @@
 		}
 	},
 	"version": {
-		"message": "সংস্করণ"
+		"message": "Version"
 	}
 }
