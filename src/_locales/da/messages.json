@@ -1,99 +1,99 @@
 {
 	"activity": {
-		"message": "Aktivitet"
+		"message": "Activity"
 	},
 	"addModel": {
-		"message": "+ Tilføj model"
+		"message": "+ Add model"
 	},
 	"addModelTitle": {
-		"message": "Tilføj model"
+		"message": "Add model"
 	},
 	"addProperty": {
-		"message": "+ Tilføj egenskab"
+		"message": "+ Add property"
 	},
 	"addProvider": {
-		"message": "+ Tilføj udbyder"
+		"message": "+ Add provider"
 	},
 	"addProviderTitle": {
-		"message": "Tilføj udbyder"
+		"message": "Add provider"
 	},
 	"addToObsidian": {
-		"message": "Tilføj til Obsidian"
+		"message": "Add to Obsidian"
 	},
 	"addVaultPlaceholder": {
-		"message": "Tryk Enter for at tilføje boks"
+		"message": "Press enter to add a vault"
 	},
 	"advanced": {
-		"message": "Avanceret"
+		"message": "Advanced"
 	},
 	"allProperties": {
-		"message": "Alle egenskaber"
+		"message": "All properties"
 	},
 	"allTime": {
-		"message": "Al tid"
+		"message": "All time"
 	},
 	"alwaysShowHighlights": {
-		"message": "Vis altid fremhævninger"
+		"message": "Always show highlights"
 	},
 	"alwaysShowHighlightsDescription": {
-		"message": "Vis gemte fremhævninger når siden indlæses. Deaktiver for kun at vise fremhævninger når fremhævningstilstand er aktiv."
+		"message": "Display your saved highlights when you load a page. Turn off to only display highlights when highlighter mode is activated."
 	},
 	"apiKeyMissing": {
-		"message": "API-nøgle mangler"
+		"message": "No API key"
 	},
 	"apiKeysWarning": {
-		"message": "Ved at bruge en ekstern udbyder accepterer du deres vilkår og betingelser samt privatlivspolitik. Fortolkerforespørgsler sendes direkte til din valgte udbyder. Obsidian indsamler eller gemmer ikke information om dine forespørgsler."
+		"message": "By using an external provider you agree to their terms and privacy policy. Interpreter requests are sent directly to the provider you choose. Obsidian does not gather or store any data about your requests."
 	},
 	"appendToDaily": {
-		"message": "Tilføj til daglig note, i slutningen"
+		"message": "Add to daily note, at the bottom"
 	},
 	"appendToExisting": {
-		"message": "Tilføj til eksisterende note, i slutningen"
+		"message": "Add to an existing note, at the bottom"
 	},
 	"autoRunInterpreter": {
-		"message": "Kør automatisk"
+		"message": "Automatically run"
 	},
 	"autoRunInterpreterDescription": {
-		"message": "Udfører promptvariabler med det samme, hvis de findes i skabelonen. Bruger API-kreditter fra din modeludbyder. Deaktiver hvis du kun vil køre fortolkeren manuelt."
+		"message": "Run prompt variables immediately if the template contains any. This will consume API credits with your model provider. Turn off if you only want to run interpreter manually."
 	},
 	"behavior": {
-		"message": "Opførsel"
+		"message": "Behavior"
 	},
 	"byDay": {
-		"message": "Per dag"
+		"message": "Days"
 	},
 	"byMonth": {
-		"message": "Per måned"
+		"message": "Months"
 	},
 	"byWeek": {
-		"message": "Per uge"
+		"message": "Weeks"
 	},
 	"cancel": {
-		"message": "Annuller"
+		"message": "Cancel"
 	},
 	"cannotDeleteProvider": {
-		"message": "Kan ikke slette udbyderen \"$1\", da den bruges af $2 modeller."
+		"message": "Cannot delete provider \"$1\" because it is being used by $2 model(s)."
 	},
 	"changelog": {
-		"message": "Ændringslog"
+		"message": "Changelog"
 	},
 	"chooseFile": {
-		"message": "Vælg fil"
+		"message": "Choose a file"
 	},
 	"choosePropertiesFile": {
-		"message": "Vælg egenskabsfil"
+		"message": "Choose properties file"
 	},
 	"chooseSettingsFile": {
-		"message": "Vælg indstillingsfil"
+		"message": "Choose settings file"
 	},
 	"chooseTemplateFile": {
-		"message": "Vælg skabelonfil"
+		"message": "Choose template file"
 	},
 	"clipBehavior": {
-		"message": "Klipningsopførsel"
+		"message": "Clip behavior"
 	},
 	"clipBehaviorDescription": {
-		"message": "Vælg hvordan det markerede indhold gemmes i Obsidian. Sætter variablen $strong_start${{content}}$strong_end$",
+		"message": "Choose how highlighted content is saved to Obsidian. Defines the $strong_start${{content}}$strong_end$ variable.",
 		"placeholders": {
 			"strong_end": {
 				"content": "</strong>"
@@ -104,7 +104,7 @@
 		}
 	},
 	"clipboardError": {
-		"message": "Obsidian kan ikke få adgang til din udklipsholder. Prøv fejlfindingsvejledningen her: $1",
+		"message": "Obsidian is not able to access your clipboard. Try the troubleshooting instructions here: $1",
 		"placeholders": {
 			"1": {
 				"content": "$1"
@@ -112,79 +112,79 @@
 		}
 	},
 	"close": {
-		"message": "Luk"
+		"message": "Close"
 	},
 	"commandOpenClipper": {
-		"message": "Åbn Obsidian Clipper"
+		"message": "Open Obsidian Clipper"
 	},
 	"commandQuickClip": {
-		"message": "Hurtigklip"
+		"message": "Quick clip"
 	},
 	"commandToggleHighlighter": {
-		"message": "Skift fremhævning"
+		"message": "Toggle highlighter"
 	},
 	"commandToggleReader": {
-		"message": "Skift læsevisning"
+		"message": "Toggle reader"
 	},
 	"confirmDeleteTemplate": {
-		"message": "Er du sikker på, at du vil slette skabelonen \"$1\"?"
+		"message": "Are you sure you want to delete the template \"$1\"?"
 	},
 	"confirmReplaceSettings": {
-		"message": "Denne handling vil erstatte alle dine nuværende indstillinger, inklusive skabeloner og egenskaber. Er du sikker på, at du vil fortsætte?"
+		"message": "This will replace all your current settings, including templates and properties. Are you sure you want to continue?"
 	},
 	"copied": {
-		"message": "Kopieret!"
+		"message": "Copied!"
 	},
 	"copyAsJson": {
-		"message": "Kopiér som JSON"
+		"message": "Copy as JSON"
 	},
 	"copyToClipboard": {
-		"message": "Kopiér til udklipsholder"
+		"message": "Copy to clipboard"
 	},
 	"createNewNote": {
-		"message": "Opret ny note"
+		"message": "Create new note"
 	},
 	"custom": {
-		"message": "Tilpasset"
+		"message": "Custom"
 	},
 	"dailyNoteFormat": {
-		"message": "Format for daglig note (f.eks. YYYY-MM-DD)"
+		"message": "Daily note format (e.g., YYYY-MM-DD)"
 	},
 	"defaultInterpreterContext": {
-		"message": "Standard fortolkerkontekst"
+		"message": "Default interpreter context"
 	},
 	"defaultInterpreterContextDescription": {
-		"message": "Tilsidesætter konteksten der bruges til at fortolke promptvariabler. Du kan bruge variabler her."
+		"message": "Override the context used to interpret prompt variables. Variables can be used here."
 	},
 	"defaultTemplateName": {
-		"message": "Standard"
+		"message": "Default"
 	},
 	"delete": {
-		"message": "Slet"
+		"message": "Delete"
 	},
 	"deleteModelConfirm": {
-		"message": "Er du sikker på, at du vil slette denne model?"
+		"message": "Are you sure you want to delete this model?"
 	},
 	"deleteProviderConfirm": {
-		"message": "Er du sikker på, at du vil slette denne udbyder?"
+		"message": "Are you sure you want to delete this provider?"
 	},
 	"disableHighlighter": {
-		"message": "Deaktiver fremhævning"
+		"message": "Disable highlighter"
 	},
 	"disableReader": {
-		"message": "Deaktiver læsevisning"
+		"message": "Disable reader"
 	},
 	"done": {
-		"message": "Færdig"
+		"message": "Done"
 	},
 	"dragAndDropFile": {
-		"message": "Træk og slip fil her"
+		"message": "Drag and drop file here"
 	},
 	"duplicate": {
-		"message": "Duplikér"
+		"message": "Duplicate"
 	},
 	"earlyAccessDescription": {
-		"message": "Brug funktioner der kræver den nyeste $link_start$tidlig adgang-version$link_end$ af Obsidian. Kræver i øjeblikket Obsidian 1.7.2 eller nyere.",
+		"message": "Use features that require the latest $link_start$early access version$link_end$ of Obsidian. Currently requires Obsidian 1.7.2 or later.",
 		"placeholders": {
 			"link_end": {
 				"content": "</a>"
@@ -195,31 +195,31 @@
 		}
 	},
 	"earlyAccessFeatures": {
-		"message": "Tidlig adgang-funktioner"
+		"message": "Early access features"
 	},
 	"editModel": {
-		"message": "Redigér model"
+		"message": "Edit model"
 	},
 	"editProvider": {
-		"message": "Redigér udbyder"
+		"message": "Edit provider"
 	},
 	"editTemplate": {
-		"message": "Redigér skabelon"
+		"message": "Edit template"
 	},
 	"embedded": {
-		"message": "Indlejret"
+		"message": "Embedded"
 	},
 	"enableHighlighter": {
-		"message": "Aktivér fremhævning"
+		"message": "Enable highlighter"
 	},
 	"enableHighlighterDescription": {
-		"message": "Fremhæv indhold på websider for at gemme i Obsidian"
+		"message": "Highlight content on web pages that you can save to Obsidian."
 	},
 	"enableInterpreter": {
-		"message": "Aktivér fortolker"
+		"message": "Enable interpreter"
 	},
 	"enableInterpreterDescription": {
-		"message": "Brug naturligt sprog til at udtrække information fra sider. For eksempel kan du bruge skabelonsyntaksen $strong_start${{\"opsummér denne side\"}}$strong_end$. Kræver en API-nøgle eller opsætning af en tilpasset model nedenfor. $link_start$Lær mere$link_end$",
+		"message": "Use natural language to extract data from pages. For example, you can use the template syntax $strong_start${{\"a summary of the page\"}}$strong_end$. Requires an API key or custom model configured below.  $link_start$Learn more$link_end$.",
 		"placeholders": {
 			"link_end": {
 				"content": "</a>"
@@ -236,31 +236,31 @@
 		}
 	},
 	"enableReader": {
-		"message": "Åbn læsevisning"
+		"message": "Open reading view"
 	},
 	"error": {
-		"message": "Fejl"
+		"message": "Error"
 	},
 	"export": {
-		"message": "Eksportér"
+		"message": "Export"
 	},
 	"exportAllSettings": {
-		"message": "Eksportér alle indstillinger"
+		"message": "Export all settings"
 	},
 	"exportAllSettingsDescription": {
-		"message": "Eksportér alle indstillinger, inklusive skabeloner og egenskaber"
+		"message": "Export all settings including templates and properties."
 	},
 	"exportHighlights": {
-		"message": "Eksportér fremhævninger"
+		"message": "Export highlights"
 	},
 	"exportHighlightsDescription": {
-		"message": "Eksportér dine fremhævninger til en fil"
+		"message": "Export your highlights to a file."
 	},
 	"exportProperties": {
-		"message": "Eksportér egenskaber"
+		"message": "Export properties"
 	},
 	"exportPropertiesDescription": {
-		"message": "Gem Web Clipper-egenskaber til en $strong_start$types.json$strong_end$-fil, som kan importeres i din Obsidian-boks eller Web Clipper på andre enheder",
+		"message": "Save Web Clipper properties to a $strong_start$types.json$strong_end$ file that can be imported into your Obsidian vault, or into Web Clipper on other devices.",
 		"placeholders": {
 			"strong_end": {
 				"content": "</strong>"
@@ -271,121 +271,121 @@
 		}
 	},
 	"extensionDescription": {
-		"message": "Gem webindhold i et privat og holdbart format, tilgængeligt offline. Den officielle browserudvidelse til Obsidian."
+		"message": "Save content from the web in a private and durable format that you can access offline. The official browser extension for Obsidian."
 	},
 	"extensionName": {
 		"message": "Obsidian Web Clipper"
 	},
 	"failedToCopyText": {
-		"message": "Kunne ikke kopiere tekst"
+		"message": "Failed to copy text"
 	},
 	"failedToDeleteTemplate": {
-		"message": "Kunne ikke slette skabelon. Prøv venligst igen."
+		"message": "Failed to delete template. Please try again."
 	},
 	"failedToDuplicateTemplate": {
-		"message": "Kunne ikke duplikere skabelon. Prøv venligst igen."
+		"message": "Failed to duplicate template. Please try again."
 	},
 	"failedToExportHighlights": {
-		"message": "Kunne ikke eksportere fremhævninger. Tjek konsollen for detaljer."
+		"message": "Failed to export highlights. Please check the console for more details."
 	},
 	"failedToExportSettings": {
-		"message": "Kunne ikke eksportere indstillinger. Tjek konsollen for detaljer."
+		"message": "Failed to export settings. Please check the console for more details."
 	},
 	"failedToExtractContent": {
-		"message": "Kunne ikke udtrække sideindhold."
+		"message": "Unable to extract page content."
 	},
 	"failedToImportTemplate": {
-		"message": "Fejl ved import af skabelon. Tjek filen og prøv igen."
+		"message": "Error importing template. Please check the file and try again."
 	},
 	"failedToInitialize": {
-		"message": "Genindlæs venligst udvidelsen."
+		"message": "Please try reloading the extension."
 	},
 	"failedToInitializeContent": {
-		"message": "Kunne ikke initialisere sideindhold."
+		"message": "Unable to initialize page content."
 	},
 	"failedToProcessInterpreter": {
-		"message": "Kunne ikke behandle fortolker. Prøv venligst igen."
+		"message": "Interpreter processing failed. Please try again."
 	},
 	"failedToResetProviders": {
-		"message": "Kunne ikke nulstille udbydere og modeller"
+		"message": "Failed to reset providers and models"
 	},
 	"failedToResetTemplate": {
-		"message": "Kunne ikke nulstille standardskabelon. Prøv venligst igen."
+		"message": "Failed to reset default template. Please try again."
 	},
 	"failedToSave": {
-		"message": "Kunne ikke gemme fil"
+		"message": "Failed to save file"
 	},
 	"failedToSaveFile": {
-		"message": "Kunne ikke gemme fil"
+		"message": "Failed to save file"
 	},
 	"failedToSaveProvider": {
-		"message": "Kunne ikke gemme udbyder. Prøv venligst igen."
+		"message": "Failed to save provider. Please try again."
 	},
 	"feedback": {
 		"message": "Feedback"
 	},
 	"feedbackDescription": {
-		"message": "Hvordan kan vi forbedre Web Clipper? Besøg vores hjælpeside for at rapportere fejl, foreslå funktioner og få hjælp med almindelige problemer."
+		"message": "How can we improve Web Clipper? Please visit our help page, where you can report bugs, suggest features, and get help with common issues."
 	},
 	"feedbackTitle": {
-		"message": "Tak for din feedback"
+		"message": "Thanks for your feedback"
 	},
 	"folder": {
-		"message": "Mappe"
+		"message": "Folder"
 	},
 	"general": {
-		"message": "Generelt"
+		"message": "General"
 	},
 	"generalSettings": {
-		"message": "Generelle indstillinger"
+		"message": "General settings"
 	},
 	"getApiKeyHere": {
-		"message": "Få $1 API-nøgle her"
+		"message": "Get your $1 API key here."
 	},
 	"help": {
-		"message": "Hjælp"
+		"message": "Help"
 	},
 	"helpDescription": {
-		"message": "Lær hvordan du bruger Web Clipper og få hjælp til fejlfinding"
+		"message": "Learn how to use Web Clipper and get help troubleshooting."
 	},
 	"highlightInline": {
-		"message": "Fremhæv indhold på siden"
+		"message": "Highlight the page content"
 	},
 	"highlightPage": {
-		"message": "Fremhæv side"
+		"message": "Highlight page"
 	},
 	"highlighter": {
-		"message": "Fremhævning"
+		"message": "Highlighter"
 	},
 	"highlighterSettings": {
-		"message": "Fremhævning"
+		"message": "Highlighter"
 	},
 	"history": {
-		"message": "Historik"
+		"message": "History"
 	},
 	"hotkeys": {
-		"message": "Genvejstaster"
+		"message": "Hotkeys"
 	},
 	"import": {
-		"message": "Importér"
+		"message": "Import"
 	},
 	"importAllSettings": {
-		"message": "Importér alle indstillinger"
+		"message": "Import all settings"
 	},
 	"importAllSettingsDescription": {
-		"message": "Importér alle indstillinger, inklusive skabeloner og egenskaber. Dette vil overskrive din nuværende konfiguration."
+		"message": "Import all settings including templates and properties. This will replace your current configuration."
 	},
 	"importFailed": {
-		"message": "Import mislykkedes. Tjek konsollen for detaljer."
+		"message": "Import failed. Please check the console for more details."
 	},
 	"importModalTitle": {
-		"message": "Importér"
+		"message": "Import"
 	},
 	"importProperties": {
-		"message": "Importér egenskaber"
+		"message": "Import properties"
 	},
 	"importPropertiesDescription": {
-		"message": "For at importere egenskaber fra Obsidian, find $strong_1_start$types.json$strong_1_end$-filen i $strong_2_start$.obsidian$strong_2_end$-mappen i din boks. Denne mappe er som standard skjult på de fleste operativsystemer.",
+		"message": "To import your properties from Obsidian, locate the $strong_1_start$types.json$strong_1_end$ file in the $strong_2_start$.obsidian$strong_2_end$ folder within your vault. Note this folder is hidden by default on most operating systems.",
 		"placeholders": {
 			"strong_1_end": {
 				"content": "</strong>"
@@ -402,22 +402,22 @@
 		}
 	},
 	"importSettings": {
-		"message": "Importér indstillinger"
+		"message": "Import settings"
 	},
 	"importTemplate": {
-		"message": "Importér skabelon"
+		"message": "Import template"
 	},
 	"interpret": {
-		"message": "Fortolk"
+		"message": "interpret"
 	},
 	"interpreter": {
-		"message": "Fortolker"
+		"message": "Interpreter"
 	},
 	"interpreterContext": {
-		"message": "Fortolkerkontekst"
+		"message": "Interpreter context"
 	},
 	"interpreterContextDescription": {
-		"message": "Konteksten der bruges til at fortolke promptvariabler. Tilsidesætter standardkonteksten sat i $link_start$fortolkerindstillingerne$link_end$. Du kan bruge variabler her.",
+		"message": "The context used to interpret prompt variables. Overrides the default context defined in $link_start$Interpreter settings$link_end$. Variables can be used here.",
 		"placeholders": {
 			"link_end": {
 				"content": "</a>"
@@ -428,298 +428,306 @@
 		}
 	},
 	"language": {
-		"message": "Sprog"
+		"message": "Language"
 	},
 	"languageDescription": {
-		"message": "Vælg visningssprog for udvidelsens grænseflade."
+		"message": "Choose the display language for the extension interface."
 	},
 	"last30Days": {
-		"message": "Sidste 30 dage"
+		"message": "Last 30 days"
 	},
 	"lastUsed": {
-		"message": "Sidst brugt"
+		"message": "Last used"
 	},
 	"legacyMode": {
-		"message": "Legacy-tilstand"
+		"message": "Legacy mode"
 	},
 	"legacyModeDescription": {
-		"message": "Bruger URI-indfangningsmetoden som er kompatibel med Obsidian 1.6.7 og ældre. Bemærk at længden af indfanget indhold er begrænset af browseren og operativsystemet. Nogle sider kan fejle uden fejlmeddelelse."
+		"message": "Uses the URI clipping method compatible with Obsidian 1.6.7 or earlier. Note that the length of the content you can clip is limited by your browser and OS. Some pages may fail without any errors."
 	},
 	"modelName": {
-		"message": "Modelnavn"
+		"message": "Display name"
 	},
 	"modelNameDescription": {
-		"message": "Navnet der vises i modelrullelisten"
+		"message": "The name of the model you want to display in the interface."
 	},
 	"modelProvider": {
-		"message": "Udbyder"
+		"message": "Provider"
 	},
 	"modelProviderDescription": {
-		"message": "Vælg udbyderen for denne model"
+		"message": "Select the provider for this model."
 	},
 	"modelProviderPlaceholder": {
-		"message": "Udbyder"
+		"message": "Provider"
 	},
 	"modelRequiredFields": {
-		"message": "Modelnavn, udbyder og model-ID er påkrævet."
+		"message": "Model name, Provider, and Model ID are required."
 	},
 	"models": {
-		"message": "Modeller"
+		"message": "Models"
 	},
 	"modelsListFor": {
-		"message": "Modelliste for $1"
+		"message": "Models list for $1"
 	},
 	"more": {
-		"message": "Mere"
+		"message": "More"
 	},
 	"newTemplate": {
-		"message": "Ny skabelon"
+		"message": "New template"
 	},
 	"noHighlights": {
-		"message": "Ingen fremhævninger"
+		"message": "Do nothing"
 	},
 	"noTemplates": {
-		"message": "Ingen tilgængelige skabeloner. Tilføj en skabelon i indstillingerne."
+		"message": "No templates available. Please add a template in the settings."
 	},
 	"noUnusedProperties": {
-		"message": "Ingen ubrugte egenskaber fundet."
+		"message": "No unused properties found."
 	},
 	"noteContent": {
-		"message": "Noteindhold"
+		"message": "Note content"
 	},
 	"noteContentDescription": {
-		"message": "Tilpas notens indhold. Brug variabler til at forudfylde data fra siden."
+		"message": "Customize the content of the note. Use variables to pre-populate data from the page."
 	},
 	"noteLocation": {
-		"message": "Noteplacering"
+		"message": "Note location"
 	},
 	"noteLocationDescription": {
-		"message": "Mappen eller stien til noten."
+		"message": "The folder or path of the note."
 	},
 	"noteName": {
-		"message": "Notenavn"
+		"message": "Note name"
 	},
 	"noteNameFormat": {
-		"message": "Notenavnsformat"
+		"message": "Note name"
 	},
 	"noteNameFormatDescription": {
-		"message": "Formatet der bruges til at generere notenavne. Du kan bruge variabler."
+		"message": "Format for the file name of the note. You can use variables like {{title}}, {{date}}, and {{published}} to pre-populate data from the page. $link_start$Learn more$link_end$.",
+		"placeholders": {
+			"link_end": {
+				"content": "</a>"
+			},
+			"link_start": {
+				"content": "<a href=\"https://help.obsidian.md/web-clipper/variables\" target=\"_blank\">"
+			}
+		}
 	},
 	"notesAboutPage": {
-		"message": "Noter om denne side..."
+		"message": "Notes about this page..."
 	},
 	"onlyHttpSupported": {
-		"message": "Kan ikke klippe denne side. Kun http og https-URL'er understøttes."
+		"message": "This page cannot be clipped. Only http and https URLs are supported."
 	},
 	"open": {
-		"message": "Åbn"
+		"message": "Open"
 	},
 	"openBehaviorDescription": {
-		"message": "Vælg hvordan Web Clipper åbner som standard."
+		"message": "Choose how Web Clipper opens by default."
 	},
 	"openBehaviorTitle": {
-		"message": "Åbn adfærd"
+		"message": "Open behavior"
 	},
 	"openEmbedded": {
-		"message": "Åbn på side"
+		"message": "Open in page"
 	},
 	"openSidePanel": {
-		"message": "Åbn sidepanel"
+		"message": "Open side panel"
 	},
 	"optional": {
-		"message": "(valgfrit)"
+		"message": "(optional)"
 	},
 	"orPasteBelow": {
-		"message": "Eller indsæt indholdet nedenfor"
+		"message": "Or paste content below"
 	},
 	"overwriteNote": {
-		"message": "Overskriv note"
+		"message": "Overwrite note"
 	},
 	"pageCannotBeClipped": {
-		"message": "Denne side kan ikke klippes."
+		"message": "This page cannot be clipped."
 	},
 	"pageVariables": {
-		"message": "Sidevariabler"
+		"message": "Page variables"
 	},
 	"pagesSaved": {
-		"message": "Side gemt"
+		"message": "page saved"
 	},
 	"pagesSavedPlural": {
-		"message": "Sider gemt"
+		"message": "pages saved"
 	},
 	"pasteJsonHere": {
-		"message": "Indsæt JSON her"
+		"message": "Paste JSON here"
 	},
 	"pleaseReload": {
-		"message": "Genindlæs venligst siden."
+		"message": "Please try reloading the page."
 	},
 	"popularModels": {
-		"message": "Populære modeller"
+		"message": "Popular models"
 	},
 	"popularModelsDescription": {
-		"message": "Vælg fra ofte brugte modeller eller indtast detaljer for tilpasset model."
+		"message": "Choose from commonly used models or enter custom model details."
 	},
 	"popup": {
 		"message": "Popup"
 	},
 	"prependToDaily": {
-		"message": "Tilføj til daglig note, i starten"
+		"message": "Add to daily note, at the top"
 	},
 	"prependToExisting": {
-		"message": "Tilføj til eksisterende note, i starten"
+		"message": "Add to an existing note, at the top"
 	},
 	"preview": {
-		"message": "Forhåndsvisning"
+		"message": "Preview"
 	},
 	"processing": {
-		"message": "behandler"
+		"message": "processing"
 	},
 	"properties": {
-		"message": "Egenskaber"
+		"message": "Properties"
 	},
 	"propertiesSettings": {
-		"message": "Egenskaber"
+		"message": "Properties"
 	},
 	"propertyName": {
-		"message": "Egenskabsnavn"
+		"message": "Property name"
 	},
 	"propertyTypeCheckbox": {
-		"message": "Afkrydsningsfelt"
+		"message": "Checkbox"
 	},
 	"propertyTypeDate": {
-		"message": "Dato"
+		"message": "Date"
 	},
 	"propertyTypeDatetime": {
-		"message": "Dato & tid"
+		"message": "Date & time"
 	},
 	"propertyTypeMultitext": {
-		"message": "Liste"
+		"message": "List"
 	},
 	"propertyTypeNumber": {
-		"message": "Nummer"
+		"message": "Number"
 	},
 	"propertyTypeText": {
-		"message": "Tekst"
+		"message": "Text"
 	},
 	"propertyValue": {
-		"message": "Egenskabsværdi"
+		"message": "Property value"
 	},
 	"provider": {
-		"message": "Udbyder"
+		"message": "Provider"
 	},
 	"providerApiKey": {
-		"message": "API-nøgle"
+		"message": "API key"
 	},
 	"providerApiKeyDescription": {
-		"message": "Din API-nøgle for denne udbyder."
+		"message": "Your API key for this provider."
 	},
 	"providerBaseUrl": {
-		"message": "Base-URL"
+		"message": "Base URL"
 	},
 	"providerBaseUrlDescription": {
-		"message": "API-endepunktets URL for denne udbyder."
+		"message": "The API endpoint URL for this provider."
 	},
 	"providerModelId": {
-		"message": "Model-ID"
+		"message": "Model ID"
 	},
 	"providerModelIdDescription": {
-		"message": "Identifikatoren for modellen fra din udbyder. Typisk et kort navn uden mellemrum."
+		"message": "The identifier of the model from your provider. Typically a short name without spaces."
 	},
 	"providerModelIdPlaceholder": {
-		"message": "Model-ID"
+		"message": "Model ID"
 	},
 	"providerName": {
-		"message": "Udbyderens navn"
+		"message": "Provider name"
 	},
 	"providerNameDescription": {
-		"message": "Visningsnavn for denne udbyder."
+		"message": "Display name for this provider."
 	},
 	"providerPreset": {
-		"message": "Forudindstilling"
+		"message": "Preset"
 	},
 	"providerPresetDescription": {
-		"message": "Vælg en udbyder eller opret en tilpasset."
+		"message": "Choose a provider or create a custom one."
 	},
 	"providerRequiredFields": {
-		"message": "Udbyderens navn og base-URL er påkrævet."
+		"message": "Provider name and Base URL are required."
 	},
 	"providers": {
-		"message": "Udbydere"
+		"message": "Providers"
 	},
 	"rateExtensionDescription": {
-		"message": "Kan du lide Web Clipper? Hjælp os ved at give en bedømmelse."
+		"message": "Are you enjoying Web Clipper? Help us by giving it a rating."
 	},
 	"reader": {
-		"message": "Læser"
+		"message": "Reader"
 	},
 	"readerAppearance": {
-		"message": "Udseende"
+		"message": "Appearance"
 	},
 	"readerAppearanceAuto": {
-		"message": "Automatisk"
+		"message": "Auto"
 	},
 	"readerAppearanceDark": {
-		"message": "Mørk"
+		"message": "Dark"
 	},
 	"readerAppearanceDescription": {
-		"message": "Vælg lyst eller mørkt udseende."
+		"message": "Choose light or dark appearance."
 	},
 	"readerAppearanceLight": {
-		"message": "Lys"
+		"message": "Light"
 	},
 	"readerBlendImages": {
-		"message": "Bland billeder"
+		"message": "Blend images"
 	},
 	"readerBlendImagesDescription": {
-		"message": "Bland billeder med sidens baggrund."
+		"message": "Blend images with the page background."
 	},
 	"readerCloseImageViewer": {
-		"message": "Luk billedfremviser"
+		"message": "Close image viewer"
 	},
 	"readerCollapseComment": {
-		"message": "Skjul kommentar"
+		"message": "Collapse comment"
 	},
 	"readerColorLinks": {
-		"message": "Farvelæg links"
+		"message": "Color links"
 	},
 	"readerColorSchemeDefault": {
-		"message": "Standard"
+		"message": "Default"
 	},
 	"readerCustomCss": {
-		"message": "Brugerdefineret CSS"
+		"message": "Custom CSS"
 	},
 	"readerCustomCssDescription": {
-		"message": "CSS anvendes automatisk i læsevisning."
+		"message": "CSS applied automatically in reading view."
 	},
 	"readerDarkTheme": {
-		"message": "Tema til mørk tilstand"
+		"message": "Dark mode theme"
 	},
 	"readerDarkThemeDescription": {
-		"message": "Brug et andet tema i mørk tilstand."
+		"message": "Use a different theme in dark mode."
 	},
 	"readerError": {
-		"message": "Kunne ikke udtrække indhold."
+		"message": "Failed to extract content."
 	},
 	"readerFont": {
-		"message": "Skrifttypeindstillinger"
+		"message": "Font options"
 	},
 	"readerFontDefault": {
-		"message": "Standard"
+		"message": "Default"
 	},
 	"readerFontDescription": {
-		"message": "Tilføj skrifttyper installeret på dit system. Tryk på Enter for at tilføje en skrifttype."
+		"message": "Add fonts installed on your system. Press enter to add a font."
 	},
 	"readerFontNotFound": {
-		"message": "Ikke fundet"
+		"message": "Not found"
 	},
 	"readerFontPlaceholder": {
-		"message": "Tryk på Enter for at tilføje en skrifttype"
+		"message": "Press enter to add a font"
 	},
 	"readerFontSetDefault": {
-		"message": "Angiv som standard"
+		"message": "Set default"
 	},
 	"readerFontSize": {
-		"message": "Grundskriftstørrelse"
+		"message": "Base font size"
 	},
 	"readerFontSystem": {
 		"message": "System"
@@ -731,217 +739,217 @@
 		"message": "Serif"
 	},
 	"readerFonts": {
-		"message": "Skrifttyper"
+		"message": "Fonts"
 	},
 	"readerFootnotes": {
-		"message": "Fodnoter"
+		"message": "Footnotes"
 	},
 	"readerImages": {
-		"message": "Billeder"
+		"message": "Images"
 	},
 	"readerLineHeight": {
-		"message": "Linjehøjde"
+		"message": "Line height"
 	},
 	"readerLineWidth": {
-		"message": "Linjebredde"
+		"message": "Line width"
 	},
 	"readerLoading": {
-		"message": "Fjerner støj…"
+		"message": "Defuddling…"
 	},
 	"readerSettings": {
-		"message": "Læserindstillinger"
+		"message": "Reader settings"
 	},
 	"readerTheme": {
-		"message": "Tema"
+		"message": "Theme"
 	},
 	"readerThemeDescription": {
-		"message": "Vælg de farver, der bruges i læsevisning."
+		"message": "Choose the colors used in reading view."
 	},
 	"readerThemeSection": {
-		"message": "Tema"
+		"message": "Theme"
 	},
 	"readerTypography": {
-		"message": "Typografi"
+		"message": "Typography"
 	},
 	"readerViewFullSize": {
-		"message": "Vis i fuld størrelse"
+		"message": "View full size"
 	},
 	"recommended": {
-		"message": "anbefalet"
+		"message": "recommended"
 	},
 	"refresh": {
-		"message": "Opdater"
+		"message": "Refresh"
 	},
 	"remove": {
-		"message": "Fjern"
+		"message": "Remove"
 	},
 	"removeProperty": {
-		"message": "Fjern egenskab"
+		"message": "Remove property"
 	},
 	"removeUnusedProperties": {
-		"message": "Fjern ubrugte egenskaber"
+		"message": "Remove unused properties"
 	},
 	"removeUnusedPropertiesDescription": {
-		"message": "Fjern alle egenskaber der ikke bruges i nogen skabeloner."
+		"message": "Remove all properties that are not used in any template."
 	},
 	"removeVault": {
-		"message": "Fjern boks"
+		"message": "Remove vault"
 	},
 	"replaceContent": {
-		"message": "Erstat noteindhold"
+		"message": "Replace the page content"
 	},
 	"reset": {
-		"message": "Nulstil"
+		"message": "Reset"
 	},
 	"resetDefaultTemplate": {
-		"message": "Nulstil standardskabelon"
+		"message": "Reset default template"
 	},
 	"resetDefaultTemplateDescription": {
-		"message": "Fjern alle ændringer foretaget i standardskabelonen."
+		"message": "Remove any changes you've made to the default template."
 	},
 	"resetProvidersAndModels": {
-		"message": "Nulstil modeller til standard"
+		"message": "Reset default models"
 	},
 	"resetProvidersAndModelsDescription": {
-		"message": "Nulstil udbydere og modeller til standardindstillingerne."
+		"message": "Reset providers and models to the default settings."
 	},
 	"save": {
-		"message": "Gem"
+		"message": "Save"
 	},
 	"saveBehaviorDescription": {
-		"message": "Vælg standardindstillingen for at gemme sider. Alternative muligheder vises i rullemenuen ved siden af hovedknappen."
+		"message": "Choose the default option for saving pages. Alternate options appear in the dropdown menu next to the main button."
 	},
 	"saveBehaviorLabel": {
-		"message": "Gem adfærd"
+		"message": "Save behavior"
 	},
 	"saveFile": {
-		"message": "Gem fil..."
+		"message": "Save file..."
 	},
 	"searchVariables": {
-		"message": "Søg i variabler..."
+		"message": "Search variables..."
 	},
 	"selectProvider": {
-		"message": "Vælg udbyder"
+		"message": "Select a provider"
 	},
 	"selectTemplateToExport": {
-		"message": "Vælg skabelon til eksport"
+		"message": "Please select a template to export."
 	},
 	"settings": {
-		"message": "Indstillinger"
+		"message": "Settings"
 	},
 	"settingsHeading": {
-		"message": "Indstillinger"
+		"message": "Settings"
 	},
 	"settingsImportSuccess": {
-		"message": "Alle indstillinger importeret med succes. Genindlæs siden for at se ændringerne."
+		"message": "All settings imported successfully. Please refresh the page to see the changes."
 	},
 	"share": {
-		"message": "Del..."
+		"message": "Share..."
 	},
 	"shortcutInstructionsBrave": {
-		"message": "For at ændre genvejstaster, gå til $1"
+		"message": "To change key assignments, go to $1"
 	},
 	"shortcutInstructionsChrome": {
-		"message": "For at ændre genvejstaster, gå til $1"
+		"message": "To change key assignments, go to $1"
 	},
 	"shortcutInstructionsDefault": {
-		"message": "For at ændre genvejstaster, se din browsers udvidelses-indstillinger."
+		"message": "To change key assignments, please refer to your browser's extension settings."
 	},
 	"shortcutInstructionsEdge": {
-		"message": "For at ændre genvejstaster, gå til $1"
+		"message": "To change key assignments, go to $1"
 	},
 	"shortcutInstructionsFirefox": {
-		"message": "For at ændre genvejstaster, gå til $1, klik på tandhjulsikonet og vælg \"Administrer udvidelsesgenveje\""
+		"message": "To change key assignments, go to $1, click the gear icon, and select \"Manage Extension Shortcuts\"."
 	},
 	"shortcutInstructionsIntro": {
-		"message": "Genvejstaster giver hurtig adgang til klippefunktioner."
+		"message": "Keyboard shortcuts give you quick access to clipper features."
 	},
 	"shortcutInstructionsSafari": {
-		"message": "Genvejstaster kan ikke konfigureres i Safari."
+		"message": "Keyboard shortcuts are not customizable on Safari."
 	},
 	"shortcutNotSet": {
-		"message": "Ikke indstillet"
+		"message": "Not set"
 	},
 	"showActionsButton": {
-		"message": "Vis handlingsknap"
+		"message": "Show actions button"
 	},
 	"showActionsDescription": {
-		"message": "Lader dig se sidens variabler fra klippermenuen. Nyttigt for at se hvilke variabler der er tilgængelige til brug i skabeloner."
+		"message": "Allows you to inspect page variables from the clipper menu. Useful for seeing the variables that are available to use in templates."
 	},
 	"showPageVariables": {
-		"message": "Vis sidevariabler"
+		"message": "Show page variables"
 	},
 	"silentOpen": {
-		"message": "Gem noter uden at åbne dem"
+		"message": "Save clipped note without opening it"
 	},
 	"silentOpenDescription": {
-		"message": "Klippede noter vil blive gemt men ikke åbnet i en ny fane. Obsidian vil stadig blive bragt i forgrunden."
+		"message": "Clipped notes will be saved but will not open as a new tab. Obsidian will still be brought to the foreground."
 	},
 	"specificNoteName": {
-		"message": "Specifikt notenavn"
+		"message": "Specific note name"
 	},
 	"systemDefault": {
-		"message": "Systemstandard"
+		"message": "System"
 	},
 	"template": {
-		"message": "Skabelon"
+		"message": "Template"
 	},
 	"templateCopied": {
-		"message": "Skabelon-JSON kopieret til udklipsholder"
+		"message": "Copied template JSON to clipboard"
 	},
 	"templateCopyError": {
-		"message": "Kunne ikke kopiere skabelon-JSON til udklipsholder"
+		"message": "Failed to copy template JSON to clipboard"
 	},
 	"templateErrorCount": {
-		"message": "Der er en fejl i din skabelon."
+		"message": "There is an error in your template."
 	},
 	"templateErrorsCount": {
-		"message": "Der er $1 fejl i din skabelon."
+		"message": "There are $1 errors in your template."
 	},
 	"templateGroupContent": {
-		"message": "Indhold"
+		"message": "Content"
 	},
 	"templateGroupLocation": {
-		"message": "Placering"
+		"message": "Location"
 	},
 	"templateName": {
-		"message": "Skabelonnavn"
+		"message": "Template name"
 	},
 	"templateProperties": {
-		"message": "Egenskaber"
+		"message": "Properties"
 	},
 	"templatePropertiesDescription": {
-		"message": "Egenskaber der vil blive tilføjet i starten af den klippede note. Brug variabler til at forudfylde data fra siden."
+		"message": "Properties to add to the top of the clipped note. Use variables to pre-populate data from the page."
 	},
 	"templateTriggers": {
-		"message": "Skabelonudløsere"
+		"message": "Template triggers"
 	},
 	"templateTriggersDescription": {
-		"message": "Definer regler for automatisk at vælge denne skabelon hvis den matcher URL-mønsteret eller indeholder schema.org-data. Én regel per linje."
+		"message": "Define rules to automatically select this template if it matches a URL pattern or contains schema.org data. One rule per line."
 	},
 	"templateValid": {
-		"message": "Skabelonsyntaksen er gyldig"
+		"message": "Template syntax is valid"
 	},
 	"templatesHeading": {
-		"message": "Skabeloner"
+		"message": "Templates"
 	},
 	"thinking": {
-		"message": "tænker"
+		"message": "thinking"
 	},
 	"unknownProvider": {
-		"message": "Ukendt udbyder"
+		"message": "Unknown provider"
 	},
 	"updateAvailable": {
-		"message": "Opdatering tilgængelig"
+		"message": "An update is available."
 	},
 	"usingLatestVersion": {
-		"message": "Du bruger den nyeste version"
+		"message": "You are using the latest version."
 	},
 	"vault": {
-		"message": "Boks"
+		"message": "Vault"
 	},
 	"vaultDescription": {
-		"message": "Vælg standardboks for denne skabelon. Gå til $link_start$generelle indstillinger$link_end$ for at tilføje eller fjerne bokse.",
+		"message": "Select the default vault for this template. Go to $link_start$general settings$link_end$ to add or remove vaults.",
 		"placeholders": {
 			"link_end": {
 				"content": "</a>"
@@ -952,10 +960,10 @@
 		}
 	},
 	"vaults": {
-		"message": "Bokse"
+		"message": "Vaults"
 	},
 	"vaultsDescription": {
-		"message": "Som standard gemmes klippede noter i den åbne boks. Du kan tilføje bokse her hvis du ønsker muligheden for at gemme i forskellige bokse. Boksnavnet skal matche præcist med Obsidian-boksnavnet. Tryk $strong_start$enter$strong_end$ for at tilføje en boks.",
+		"message": "By default, clipped notes are saved to the currently open vault. You can add vaults here if you want the option to save to different vaults. Vault names must exactly match the name of the Obsidian vault. Press $strong_start$enter$strong_end$ to add a vault.",
 		"placeholders": {
 			"strong_end": {
 				"content": "</strong>"
