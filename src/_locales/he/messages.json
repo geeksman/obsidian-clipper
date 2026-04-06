@@ -1,99 +1,99 @@
 {
 	"activity": {
-		"message": "פעילות"
+		"message": "Activity"
 	},
 	"addModel": {
-		"message": "+ הוסף מודל"
+		"message": "+ Add model"
 	},
 	"addModelTitle": {
-		"message": "הוסף מודל"
+		"message": "Add model"
 	},
 	"addProperty": {
-		"message": "+ הוסף מאפיין"
+		"message": "+ Add property"
 	},
 	"addProvider": {
-		"message": "+ הוסף ספק"
+		"message": "+ Add provider"
 	},
 	"addProviderTitle": {
-		"message": "הוסף ספק"
+		"message": "Add provider"
 	},
 	"addToObsidian": {
-		"message": "הוסף ל-Obsidian"
+		"message": "Add to Obsidian"
 	},
 	"addVaultPlaceholder": {
-		"message": "לחץ/י Enter להוספת כספת"
+		"message": "Press enter to add a vault"
 	},
 	"advanced": {
-		"message": "מתקדם"
+		"message": "Advanced"
 	},
 	"allProperties": {
-		"message": "כל המאפיינים"
+		"message": "All properties"
 	},
 	"allTime": {
-		"message": "כל הזמן"
+		"message": "All time"
 	},
 	"alwaysShowHighlights": {
-		"message": "הצג תמיד סימונים"
+		"message": "Always show highlights"
 	},
 	"alwaysShowHighlightsDescription": {
-		"message": "הצג סימונים שמורים בעת טעינת הדף. כבה כדי להציג סימונים רק כאשר מצב הסימון פעיל."
+		"message": "Display your saved highlights when you load a page. Turn off to only display highlights when highlighter mode is activated."
 	},
 	"apiKeyMissing": {
-		"message": "חסר מפתח API"
+		"message": "No API key"
 	},
 	"apiKeysWarning": {
-		"message": "השימוש בספק חיצוני מהווה הסכמה לתנאי השימוש ומדיניות הפרטיות שלהם. בקשות המתרגם נשלחות ישירות לספק שבחרת. Obsidian אינו אוסף או מאחסן מידע על הבקשות שלך."
+		"message": "By using an external provider you agree to their terms and privacy policy. Interpreter requests are sent directly to the provider you choose. Obsidian does not gather or store any data about your requests."
 	},
 	"appendToDaily": {
-		"message": "הוסף לרשימה היומית, בסוף"
+		"message": "Add to daily note, at the bottom"
 	},
 	"appendToExisting": {
-		"message": "הוסף לפתק קיים, בסוף"
+		"message": "Add to an existing note, at the bottom"
 	},
 	"autoRunInterpreter": {
-		"message": "הפעלה אוטומטית"
+		"message": "Automatically run"
 	},
 	"autoRunInterpreterDescription": {
-		"message": "מפעיל מיד משתני הנחיה אם הם קיימים בתבנית. צורך קרדיט API מספק המודל שלך. כבה אם ברצונך להפעיל את המתרגם ידנית בלבד."
+		"message": "Run prompt variables immediately if the template contains any. This will consume API credits with your model provider. Turn off if you only want to run interpreter manually."
 	},
 	"behavior": {
-		"message": "התנהגות"
+		"message": "Behavior"
 	},
 	"byDay": {
-		"message": "יום"
+		"message": "Days"
 	},
 	"byMonth": {
-		"message": "חודש"
+		"message": "Months"
 	},
 	"byWeek": {
-		"message": "שבוע"
+		"message": "Weeks"
 	},
 	"cancel": {
-		"message": "ביטול"
+		"message": "Cancel"
 	},
 	"cannotDeleteProvider": {
-		"message": "לא ניתן למחוק את הספק \"$1\" כי הוא בשימוש על ידי $2 מודלים."
+		"message": "Cannot delete provider \"$1\" because it is being used by $2 model(s)."
 	},
 	"changelog": {
-		"message": "יומן שינויים"
+		"message": "Changelog"
 	},
 	"chooseFile": {
-		"message": "בחר קובץ"
+		"message": "Choose a file"
 	},
 	"choosePropertiesFile": {
-		"message": "בחר קובץ מאפיינים"
+		"message": "Choose properties file"
 	},
 	"chooseSettingsFile": {
-		"message": "בחר קובץ הגדרות"
+		"message": "Choose settings file"
 	},
 	"chooseTemplateFile": {
-		"message": "בחר קובץ תבנית"
+		"message": "Choose template file"
 	},
 	"clipBehavior": {
-		"message": "אופן השמירה"
+		"message": "Clip behavior"
 	},
 	"clipBehaviorDescription": {
-		"message": "בחר כיצד התוכן הנבחר נשמר ל-Obsidian. מגדיר את המשתנה $strong_start${{content}}$strong_end$",
+		"message": "Choose how highlighted content is saved to Obsidian. Defines the $strong_start${{content}}$strong_end$ variable.",
 		"placeholders": {
 			"strong_end": {
 				"content": "</strong>"
@@ -104,7 +104,7 @@
 		}
 	},
 	"clipboardError": {
-		"message": "ל-Obsidian אין אפשרות לגשת ללוח שלך. נסה את הוראות פתרון הבעיות כאן: $1",
+		"message": "Obsidian is not able to access your clipboard. Try the troubleshooting instructions here: $1",
 		"placeholders": {
 			"1": {
 				"content": "$1"
@@ -112,79 +112,79 @@
 		}
 	},
 	"close": {
-		"message": "סגור"
+		"message": "Close"
 	},
 	"commandOpenClipper": {
-		"message": "פתח את Obsidian Clipper"
+		"message": "Open Obsidian Clipper"
 	},
 	"commandQuickClip": {
-		"message": "גזירה מהירה"
+		"message": "Quick clip"
 	},
 	"commandToggleHighlighter": {
-		"message": "הפעל/כבה מסמן"
+		"message": "Toggle highlighter"
 	},
 	"commandToggleReader": {
-		"message": "החלף מצב קריאה"
+		"message": "Toggle reader"
 	},
 	"confirmDeleteTemplate": {
-		"message": "האם את/ה בטוח/ה שברצונך למחוק את התבנית \"$1\"?"
+		"message": "Are you sure you want to delete the template \"$1\"?"
 	},
 	"confirmReplaceSettings": {
-		"message": "האם את/ה בטוח/ה שברצונך להחליף את כל ההגדרות הנוכחיות, כולל תבניות ומאפיינים?"
+		"message": "This will replace all your current settings, including templates and properties. Are you sure you want to continue?"
 	},
 	"copied": {
-		"message": "הועתק!"
+		"message": "Copied!"
 	},
 	"copyAsJson": {
-		"message": "העתק כ-JSON"
+		"message": "Copy as JSON"
 	},
 	"copyToClipboard": {
-		"message": "העתק ללוח"
+		"message": "Copy to clipboard"
 	},
 	"createNewNote": {
-		"message": "צור פתק חדש"
+		"message": "Create new note"
 	},
 	"custom": {
-		"message": "מותאם אישית"
+		"message": "Custom"
 	},
 	"dailyNoteFormat": {
-		"message": "תבנית פתק יומי (למשל YYYY-MM-DD)"
+		"message": "Daily note format (e.g., YYYY-MM-DD)"
 	},
 	"defaultInterpreterContext": {
-		"message": "הקשר ברירת מחדל למתרגם"
+		"message": "Default interpreter context"
 	},
 	"defaultInterpreterContextDescription": {
-		"message": "מחליף את ההקשר המשמש לפירוש משתני ההנחיה. ניתן להשתמש במשתנים כאן."
+		"message": "Override the context used to interpret prompt variables. Variables can be used here."
 	},
 	"defaultTemplateName": {
-		"message": "ברירת מחדל"
+		"message": "Default"
 	},
 	"delete": {
-		"message": "מחק"
+		"message": "Delete"
 	},
 	"deleteModelConfirm": {
-		"message": "האם את/ה בטוח/ה שברצונך למחוק מודל זה?"
+		"message": "Are you sure you want to delete this model?"
 	},
 	"deleteProviderConfirm": {
-		"message": "האם את/ה בטוח/ה שברצונך למחוק ספק זה?"
+		"message": "Are you sure you want to delete this provider?"
 	},
 	"disableHighlighter": {
-		"message": "כבה מסמן"
+		"message": "Disable highlighter"
 	},
 	"disableReader": {
-		"message": "השבת מצב קריאה"
+		"message": "Disable reader"
 	},
 	"done": {
-		"message": "סיום"
+		"message": "Done"
 	},
 	"dragAndDropFile": {
-		"message": "גרור ושחרר קובץ כאן"
+		"message": "Drag and drop file here"
 	},
 	"duplicate": {
-		"message": "שכפל"
+		"message": "Duplicate"
 	},
 	"earlyAccessDescription": {
-		"message": "השתמש בתכונות הדורשות את $link_start$גרסת הגישה המוקדמת$link_end$ העדכנית ביותר של Obsidian. כרגע נדרש Obsidian 1.7.2 ומעלה.",
+		"message": "Use features that require the latest $link_start$early access version$link_end$ of Obsidian. Currently requires Obsidian 1.7.2 or later.",
 		"placeholders": {
 			"link_end": {
 				"content": "</a>"
@@ -195,31 +195,31 @@
 		}
 	},
 	"earlyAccessFeatures": {
-		"message": "תכונות גישה מוקדמת"
+		"message": "Early access features"
 	},
 	"editModel": {
-		"message": "ערוך מודל"
+		"message": "Edit model"
 	},
 	"editProvider": {
-		"message": "ערוך ספק"
+		"message": "Edit provider"
 	},
 	"editTemplate": {
-		"message": "ערוך תבנית"
+		"message": "Edit template"
 	},
 	"embedded": {
-		"message": "משולב"
+		"message": "Embedded"
 	},
 	"enableHighlighter": {
-		"message": "הפעל מסמן"
+		"message": "Enable highlighter"
 	},
 	"enableHighlighterDescription": {
-		"message": "סמן תוכן בדפי אינטרנט שניתן לשמור ב-Obsidian"
+		"message": "Highlight content on web pages that you can save to Obsidian."
 	},
 	"enableInterpreter": {
-		"message": "הפעל מתרגם"
+		"message": "Enable interpreter"
 	},
 	"enableInterpreterDescription": {
-		"message": "השתמש בשפה טבעית לחילוץ מידע מדפים. לדוגמה, תוכל להשתמש בתחביר התבנית $strong_start${{\"סיכום של דף זה\"}}$strong_end$. דורש מפתח API או הגדרת מודל מותאם אישית למטה. $link_start$למד עוד$link_end$",
+		"message": "Use natural language to extract data from pages. For example, you can use the template syntax $strong_start${{\"a summary of the page\"}}$strong_end$. Requires an API key or custom model configured below.  $link_start$Learn more$link_end$.",
 		"placeholders": {
 			"link_end": {
 				"content": "</a>"
@@ -236,31 +236,31 @@
 		}
 	},
 	"enableReader": {
-		"message": "פתח מצב קריאה"
+		"message": "Open reading view"
 	},
 	"error": {
-		"message": "שגיאה"
+		"message": "Error"
 	},
 	"export": {
-		"message": "ייצא"
+		"message": "Export"
 	},
 	"exportAllSettings": {
-		"message": "ייצא את כל ההגדרות"
+		"message": "Export all settings"
 	},
 	"exportAllSettingsDescription": {
-		"message": "ייצא את כל ההגדרות כולל תבניות ומאפיינים"
+		"message": "Export all settings including templates and properties."
 	},
 	"exportHighlights": {
-		"message": "ייצא סימונים"
+		"message": "Export highlights"
 	},
 	"exportHighlightsDescription": {
-		"message": "ייצא את הסימונים שלך לקובץ"
+		"message": "Export your highlights to a file."
 	},
 	"exportProperties": {
-		"message": "ייצא מאפיינים"
+		"message": "Export properties"
 	},
 	"exportPropertiesDescription": {
-		"message": "שמור את מאפייני Web Clipper לקובץ $strong_start$types.json$strong_end$ שניתן לייבא לכספת Obsidian שלך או ל-Web Clipper במכשירים אחרים",
+		"message": "Save Web Clipper properties to a $strong_start$types.json$strong_end$ file that can be imported into your Obsidian vault, or into Web Clipper on other devices.",
 		"placeholders": {
 			"strong_end": {
 				"content": "</strong>"
@@ -271,121 +271,121 @@
 		}
 	},
 	"extensionDescription": {
-		"message": "שמור תוכן מהאינטרנט בפורמט פרטי ובר-קיימא שניתן לגשת אליו במצב לא מקוון. הרחבת הדפדפן הרשמית של Obsidian."
+		"message": "Save content from the web in a private and durable format that you can access offline. The official browser extension for Obsidian."
 	},
 	"extensionName": {
 		"message": "Obsidian Web Clipper"
 	},
 	"failedToCopyText": {
-		"message": "נכשל בהעתקת טקסט"
+		"message": "Failed to copy text"
 	},
 	"failedToDeleteTemplate": {
-		"message": "נכשל במחיקת התבנית. אנא נסה/י שוב."
+		"message": "Failed to delete template. Please try again."
 	},
 	"failedToDuplicateTemplate": {
-		"message": "נכשל בשכפול התבנית. אנא נסה/י שוב."
+		"message": "Failed to duplicate template. Please try again."
 	},
 	"failedToExportHighlights": {
-		"message": "נכשל בייצוא הסימונים. בדוק את המסוף לפרטים נוספים."
+		"message": "Failed to export highlights. Please check the console for more details."
 	},
 	"failedToExportSettings": {
-		"message": "נכשל בייצוא ההגדרות. בדוק את המסוף לפרטים נוספים."
+		"message": "Failed to export settings. Please check the console for more details."
 	},
 	"failedToExtractContent": {
-		"message": "נכשל בחילוץ תוכן הדף."
+		"message": "Unable to extract page content."
 	},
 	"failedToImportTemplate": {
-		"message": "שגיאה בייבוא התבנית. בדוק/י את הקובץ ונסה/י שוב."
+		"message": "Error importing template. Please check the file and try again."
 	},
 	"failedToInitialize": {
-		"message": "אנא נסה/י לטעון מחדש את ההרחבה."
+		"message": "Please try reloading the extension."
 	},
 	"failedToInitializeContent": {
-		"message": "נכשל באתחול תוכן הדף."
+		"message": "Unable to initialize page content."
 	},
 	"failedToProcessInterpreter": {
-		"message": "עיבוד המתרגם נכשל. אנא נסה/י שוב."
+		"message": "Interpreter processing failed. Please try again."
 	},
 	"failedToResetProviders": {
-		"message": "נכשל באיפוס ספקים ומודלים"
+		"message": "Failed to reset providers and models"
 	},
 	"failedToResetTemplate": {
-		"message": "נכשל באיפוס תבנית ברירת המחדל. אנא נסה/י שוב."
+		"message": "Failed to reset default template. Please try again."
 	},
 	"failedToSave": {
-		"message": "נכשל בשמירת הקובץ"
+		"message": "Failed to save file"
 	},
 	"failedToSaveFile": {
-		"message": "נכשל בשמירת הקובץ"
+		"message": "Failed to save file"
 	},
 	"failedToSaveProvider": {
-		"message": "נכשל בשמירת הספק. אנא נסה/י שוב."
+		"message": "Failed to save provider. Please try again."
 	},
 	"feedback": {
-		"message": "משוב"
+		"message": "Feedback"
 	},
 	"feedbackDescription": {
-		"message": "כיצד נוכל לשפר את Web Clipper? בקר/י בדף העזרה שלנו כדי לדווח על באגים, להציע תכונות ולקבל עזרה בבעיות נפוצות."
+		"message": "How can we improve Web Clipper? Please visit our help page, where you can report bugs, suggest features, and get help with common issues."
 	},
 	"feedbackTitle": {
-		"message": "תודה על המשוב"
+		"message": "Thanks for your feedback"
 	},
 	"folder": {
-		"message": "תיקייה"
+		"message": "Folder"
 	},
 	"general": {
-		"message": "כללי"
+		"message": "General"
 	},
 	"generalSettings": {
-		"message": "הגדרות כלליות"
+		"message": "General settings"
 	},
 	"getApiKeyHere": {
-		"message": "קבל את מפתח ה-API של $1 כאן"
+		"message": "Get your $1 API key here."
 	},
 	"help": {
-		"message": "עזרה"
+		"message": "Help"
 	},
 	"helpDescription": {
-		"message": "למד/י כיצד להשתמש ב-Web Clipper וקבל/י עזרה בפתרון בעיות"
+		"message": "Learn how to use Web Clipper and get help troubleshooting."
 	},
 	"highlightInline": {
-		"message": "סמן תוכן בדף"
+		"message": "Highlight the page content"
 	},
 	"highlightPage": {
-		"message": "סמן דף"
+		"message": "Highlight page"
 	},
 	"highlighter": {
-		"message": "מסמן"
+		"message": "Highlighter"
 	},
 	"highlighterSettings": {
-		"message": "הגדרות מסמן"
+		"message": "Highlighter"
 	},
 	"history": {
-		"message": "היסטוריה"
+		"message": "History"
 	},
 	"hotkeys": {
-		"message": "מקשי קיצור"
+		"message": "Hotkeys"
 	},
 	"import": {
-		"message": "ייבא"
+		"message": "Import"
 	},
 	"importAllSettings": {
-		"message": "ייבא את כל ההגדרות"
+		"message": "Import all settings"
 	},
 	"importAllSettingsDescription": {
-		"message": "ייבא את כל ההגדרות כולל תבניות ומאפיינים. פעולה זו תחליף את התצורה הנוכחית שלך."
+		"message": "Import all settings including templates and properties. This will replace your current configuration."
 	},
 	"importFailed": {
-		"message": "הייבוא נכשל. בדוק את המסוף למידע נוסף."
+		"message": "Import failed. Please check the console for more details."
 	},
 	"importModalTitle": {
-		"message": "ייבא"
+		"message": "Import"
 	},
 	"importProperties": {
-		"message": "ייבא מאפיינים"
+		"message": "Import properties"
 	},
 	"importPropertiesDescription": {
-		"message": "כדי לייבא מאפיינים מ-Obsidian, מצא את הקובץ $strong_1_start$types.json$strong_1_end$ בתיקיית $strong_2_start$.obsidian$strong_2_end$ של הכספת שלך. תיקייה זו מוסתרת כברירת מחדל ברוב מערכות ההפעלה.",
+		"message": "To import your properties from Obsidian, locate the $strong_1_start$types.json$strong_1_end$ file in the $strong_2_start$.obsidian$strong_2_end$ folder within your vault. Note this folder is hidden by default on most operating systems.",
 		"placeholders": {
 			"strong_1_end": {
 				"content": "</strong>"
@@ -402,22 +402,22 @@
 		}
 	},
 	"importSettings": {
-		"message": "ייבא הגדרות"
+		"message": "Import settings"
 	},
 	"importTemplate": {
-		"message": "ייבא תבנית"
+		"message": "Import template"
 	},
 	"interpret": {
-		"message": "פרש"
+		"message": "interpret"
 	},
 	"interpreter": {
-		"message": "מתרגם"
+		"message": "Interpreter"
 	},
 	"interpreterContext": {
-		"message": "הקשר המתרגם"
+		"message": "Interpreter context"
 	},
 	"interpreterContextDescription": {
-		"message": "ההקשר המשמש לפירוש משתני הנחיה. מחליף את הקשר ברירת המחדל שנקבע ב$link_start$הגדרות המתרגם$link_end$. ניתן להשתמש במשתנים כאן.",
+		"message": "The context used to interpret prompt variables. Overrides the default context defined in $link_start$Interpreter settings$link_end$. Variables can be used here.",
 		"placeholders": {
 			"link_end": {
 				"content": "</a>"
@@ -428,520 +428,528 @@
 		}
 	},
 	"language": {
-		"message": "שפה"
+		"message": "Language"
 	},
 	"languageDescription": {
-		"message": "בחר את שפת התצוגה לממשק ההרחבה."
+		"message": "Choose the display language for the extension interface."
 	},
 	"last30Days": {
-		"message": "30 הימים האחרונים"
+		"message": "Last 30 days"
 	},
 	"lastUsed": {
-		"message": "שימוש אחרון"
+		"message": "Last used"
 	},
 	"legacyMode": {
-		"message": "מצב מורשת"
+		"message": "Legacy mode"
 	},
 	"legacyModeDescription": {
-		"message": "שימוש בשיטת URI המתאימה ל-Obsidian 1.6.7 ומטה. שים/י לב שאורך התוכן מוגבל על ידי הדפדפן ומערכת ההפעלה. חלק מהדפים עלולים להיכשל ללא הודעת שגיאה."
+		"message": "Uses the URI clipping method compatible with Obsidian 1.6.7 or earlier. Note that the length of the content you can clip is limited by your browser and OS. Some pages may fail without any errors."
 	},
 	"modelName": {
-		"message": "שם המודל"
+		"message": "Display name"
 	},
 	"modelNameDescription": {
-		"message": "השם המוצג בתפריט הנפתח של המודל"
+		"message": "The name of the model you want to display in the interface."
 	},
 	"modelProvider": {
-		"message": "ספק"
+		"message": "Provider"
 	},
 	"modelProviderDescription": {
-		"message": "בחר/י את הספק עבור דגם זה"
+		"message": "Select the provider for this model."
 	},
 	"modelProviderPlaceholder": {
-		"message": "ספק"
+		"message": "Provider"
 	},
 	"modelRequiredFields": {
-		"message": "שם הדגם, הספק, ומזהה הדגם הם נדרשים."
+		"message": "Model name, Provider, and Model ID are required."
 	},
 	"models": {
-		"message": "דגמים"
+		"message": "Models"
 	},
 	"modelsListFor": {
-		"message": "רשימת דגמים עבור $1"
+		"message": "Models list for $1"
 	},
 	"more": {
-		"message": "עוד"
+		"message": "More"
 	},
 	"newTemplate": {
-		"message": "תבנית חדשה"
+		"message": "New template"
 	},
 	"noHighlights": {
-		"message": "אל תעשה כלום"
+		"message": "Do nothing"
 	},
 	"noTemplates": {
-		"message": "אין תבניות זמינות. אנא הוסף תבנית בהגדרות."
+		"message": "No templates available. Please add a template in the settings."
 	},
 	"noUnusedProperties": {
-		"message": "לא נמצאו מאפיינים שלא בשימוש."
+		"message": "No unused properties found."
 	},
 	"noteContent": {
-		"message": "תוכן הפתק"
+		"message": "Note content"
 	},
 	"noteContentDescription": {
-		"message": "התאמה אישית של תוכן ההערה. השתמש במשתנים כדי למלא מראש נתונים מהעמוד."
+		"message": "Customize the content of the note. Use variables to pre-populate data from the page."
 	},
 	"noteLocation": {
-		"message": "מיקום ההערה"
+		"message": "Note location"
 	},
 	"noteLocationDescription": {
-		"message": "התיקיה או הנתיב של ההערה."
+		"message": "The folder or path of the note."
 	},
 	"noteName": {
-		"message": "שם הפתק"
+		"message": "Note name"
 	},
 	"noteNameFormat": {
-		"message": "תבנית שם הפתק"
+		"message": "Note name"
 	},
 	"noteNameFormatDescription": {
-		"message": "התבנית המשמשת ליצירת שם הפתק. ניתן להשתמש במשתנים."
+		"message": "Format for the file name of the note. You can use variables like {{title}}, {{date}}, and {{published}} to pre-populate data from the page. $link_start$Learn more$link_end$.",
+		"placeholders": {
+			"link_end": {
+				"content": "</a>"
+			},
+			"link_start": {
+				"content": "<a href=\"https://help.obsidian.md/web-clipper/variables\" target=\"_blank\">"
+			}
+		}
 	},
 	"notesAboutPage": {
-		"message": "הערות על העמוד הזה..."
+		"message": "Notes about this page..."
 	},
 	"onlyHttpSupported": {
-		"message": "לא ניתן לחתוך את העמוד הזה. רק כתובות URL של http ו-https נתמכות."
+		"message": "This page cannot be clipped. Only http and https URLs are supported."
 	},
 	"open": {
-		"message": "פתח"
+		"message": "Open"
 	},
 	"openBehaviorDescription": {
-		"message": "בחר איך תוסף הקיצוץ נפתח כברירת מחדל."
+		"message": "Choose how Web Clipper opens by default."
 	},
 	"openBehaviorTitle": {
-		"message": "התנהגות פתיחה"
+		"message": "Open behavior"
 	},
 	"openEmbedded": {
-		"message": "פתח בעמוד"
+		"message": "Open in page"
 	},
 	"openSidePanel": {
-		"message": "פתח חלונית צדדית"
+		"message": "Open side panel"
 	},
 	"optional": {
-		"message": "(אופציונלי)"
+		"message": "(optional)"
 	},
 	"orPasteBelow": {
-		"message": "או הדבק תוכן למטה"
+		"message": "Or paste content below"
 	},
 	"overwriteNote": {
-		"message": "דרוס הערה"
+		"message": "Overwrite note"
 	},
 	"pageCannotBeClipped": {
-		"message": "לא ניתן לחתוך את העמוד הזה."
+		"message": "This page cannot be clipped."
 	},
 	"pageVariables": {
-		"message": "משתני עמוד"
+		"message": "Page variables"
 	},
 	"pagesSaved": {
-		"message": "דף נשמר"
+		"message": "page saved"
 	},
 	"pagesSavedPlural": {
-		"message": "דפים נשמרו"
+		"message": "pages saved"
 	},
 	"pasteJsonHere": {
-		"message": "הדבק JSON כאן"
+		"message": "Paste JSON here"
 	},
 	"pleaseReload": {
-		"message": "אנא נסה/י לטעון את העמוד מחדש."
+		"message": "Please try reloading the page."
 	},
 	"popularModels": {
-		"message": "דגמים פופולריים"
+		"message": "Popular models"
 	},
 	"popularModelsDescription": {
-		"message": "בחר מתוך דגמים שנמצאים בשימוש נפוץ או הזן פרטי דגם מותאם אישית."
+		"message": "Choose from commonly used models or enter custom model details."
 	},
 	"popup": {
-		"message": "חלון קופץ"
+		"message": "Popup"
 	},
 	"prependToDaily": {
-		"message": "הוסף להערה היומית, בחלק העליון"
+		"message": "Add to daily note, at the top"
 	},
 	"prependToExisting": {
-		"message": "הוסף להערה קיימת, בחלק העליון"
+		"message": "Add to an existing note, at the top"
 	},
 	"preview": {
-		"message": "תצוגה מקדימה"
+		"message": "Preview"
 	},
 	"processing": {
-		"message": "מעבד"
+		"message": "processing"
 	},
 	"properties": {
-		"message": "מאפיינים"
+		"message": "Properties"
 	},
 	"propertiesSettings": {
-		"message": "מאפיינים"
+		"message": "Properties"
 	},
 	"propertyName": {
-		"message": "שם המאפיין"
+		"message": "Property name"
 	},
 	"propertyTypeCheckbox": {
-		"message": "תיבת סימון"
+		"message": "Checkbox"
 	},
 	"propertyTypeDate": {
-		"message": "תאריך"
+		"message": "Date"
 	},
 	"propertyTypeDatetime": {
-		"message": "תאריך ושעה"
+		"message": "Date & time"
 	},
 	"propertyTypeMultitext": {
-		"message": "רשימה"
+		"message": "List"
 	},
 	"propertyTypeNumber": {
-		"message": "מספר"
+		"message": "Number"
 	},
 	"propertyTypeText": {
-		"message": "טקסט"
+		"message": "Text"
 	},
 	"propertyValue": {
-		"message": "ערך המאפיין"
+		"message": "Property value"
 	},
 	"provider": {
-		"message": "ספק"
+		"message": "Provider"
 	},
 	"providerApiKey": {
-		"message": "מפתח API"
+		"message": "API key"
 	},
 	"providerApiKeyDescription": {
-		"message": "מפתח ה-API שלך עבור ספק זה."
+		"message": "Your API key for this provider."
 	},
 	"providerBaseUrl": {
-		"message": "URL בסיסי"
+		"message": "Base URL"
 	},
 	"providerBaseUrlDescription": {
-		"message": "כתובת URL של נקודת הסיום של API עבור ספק זה."
+		"message": "The API endpoint URL for this provider."
 	},
 	"providerModelId": {
-		"message": "מזהה דגם"
+		"message": "Model ID"
 	},
 	"providerModelIdDescription": {
-		"message": "המזהה של הדגם מהספק שלך. בדרך כלל שם קצר ללא רווחים."
+		"message": "The identifier of the model from your provider. Typically a short name without spaces."
 	},
 	"providerModelIdPlaceholder": {
-		"message": "מזהה דגם"
+		"message": "Model ID"
 	},
 	"providerName": {
-		"message": "שם הספק"
+		"message": "Provider name"
 	},
 	"providerNameDescription": {
-		"message": "שם התצוגה עבור ספק זה."
+		"message": "Display name for this provider."
 	},
 	"providerPreset": {
-		"message": "הגדרה מוכנה מראש"
+		"message": "Preset"
 	},
 	"providerPresetDescription": {
-		"message": "בחר ספק או צור אחד מותאם אישית."
+		"message": "Choose a provider or create a custom one."
 	},
 	"providerRequiredFields": {
-		"message": "שם הספק ו-URL בסיסי הם נדרשים."
+		"message": "Provider name and Base URL are required."
 	},
 	"providers": {
-		"message": "ספקים"
+		"message": "Providers"
 	},
 	"rateExtensionDescription": {
-		"message": "אוהב את Web Clipper? עזור לנו על ידי דירוג."
+		"message": "Are you enjoying Web Clipper? Help us by giving it a rating."
 	},
 	"reader": {
-		"message": "קורא"
+		"message": "Reader"
 	},
 	"readerAppearance": {
-		"message": "מראה"
+		"message": "Appearance"
 	},
 	"readerAppearanceAuto": {
-		"message": "אוטומטי"
+		"message": "Auto"
 	},
 	"readerAppearanceDark": {
-		"message": "כהה"
+		"message": "Dark"
 	},
 	"readerAppearanceDescription": {
-		"message": "בחרו מראה בהיר או כהה."
+		"message": "Choose light or dark appearance."
 	},
 	"readerAppearanceLight": {
-		"message": "בהיר"
+		"message": "Light"
 	},
 	"readerBlendImages": {
-		"message": "מיזוג תמונות"
+		"message": "Blend images"
 	},
 	"readerBlendImagesDescription": {
-		"message": "מזג תמונות עם רקע הדף."
+		"message": "Blend images with the page background."
 	},
 	"readerCloseImageViewer": {
-		"message": "סגור מציג תמונות"
+		"message": "Close image viewer"
 	},
 	"readerCollapseComment": {
-		"message": "כווץ תגובה"
+		"message": "Collapse comment"
 	},
 	"readerColorLinks": {
-		"message": "צבע קישורים"
+		"message": "Color links"
 	},
 	"readerColorSchemeDefault": {
-		"message": "ברירת מחדל"
+		"message": "Default"
 	},
 	"readerCustomCss": {
-		"message": "CSS מותאם אישית"
+		"message": "Custom CSS"
 	},
 	"readerCustomCssDescription": {
-		"message": "CSS מוחל אוטומטית בתצוגת קריאה."
+		"message": "CSS applied automatically in reading view."
 	},
 	"readerDarkTheme": {
-		"message": "ערכת נושא למצב כהה"
+		"message": "Dark mode theme"
 	},
 	"readerDarkThemeDescription": {
-		"message": "השתמשו בערכת נושא שונה במצב כהה."
+		"message": "Use a different theme in dark mode."
 	},
 	"readerError": {
-		"message": "חילוץ התוכן נכשל."
+		"message": "Failed to extract content."
 	},
 	"readerFont": {
-		"message": "אפשרויות גופן"
+		"message": "Font options"
 	},
 	"readerFontDefault": {
-		"message": "ברירת מחדל"
+		"message": "Default"
 	},
 	"readerFontDescription": {
-		"message": "הוסיפו גופנים המותקנים במערכת שלכם. לחצו Enter כדי להוסיף גופן."
+		"message": "Add fonts installed on your system. Press enter to add a font."
 	},
 	"readerFontNotFound": {
-		"message": "לא נמצא"
+		"message": "Not found"
 	},
 	"readerFontPlaceholder": {
-		"message": "לחצו Enter כדי להוסיף גופן"
+		"message": "Press enter to add a font"
 	},
 	"readerFontSetDefault": {
-		"message": "הגדר כברירת מחדל"
+		"message": "Set default"
 	},
 	"readerFontSize": {
-		"message": "גודל גופן בסיסי"
+		"message": "Base font size"
 	},
 	"readerFontSystem": {
-		"message": "מערכת"
+		"message": "System"
 	},
 	"readerFontSystemSans": {
-		"message": "ללא תגים"
+		"message": "Sans-serif"
 	},
 	"readerFontSystemSerif": {
-		"message": "עם תגים"
+		"message": "Serif"
 	},
 	"readerFonts": {
-		"message": "גופנים"
+		"message": "Fonts"
 	},
 	"readerFootnotes": {
-		"message": "הערות שוליים"
+		"message": "Footnotes"
 	},
 	"readerImages": {
-		"message": "תמונות"
+		"message": "Images"
 	},
 	"readerLineHeight": {
-		"message": "גובה שורה"
+		"message": "Line height"
 	},
 	"readerLineWidth": {
-		"message": "רוחב שורה"
+		"message": "Line width"
 	},
 	"readerLoading": {
-		"message": "מפענח…"
+		"message": "Defuddling…"
 	},
 	"readerSettings": {
-		"message": "הגדרות קורא"
+		"message": "Reader settings"
 	},
 	"readerTheme": {
-		"message": "ערכת נושא"
+		"message": "Theme"
 	},
 	"readerThemeDescription": {
-		"message": "בחרו את הצבעים המשמשים בתצוגת קריאה."
+		"message": "Choose the colors used in reading view."
 	},
 	"readerThemeSection": {
-		"message": "ערכת נושא"
+		"message": "Theme"
 	},
 	"readerTypography": {
-		"message": "טיפוגרפיה"
+		"message": "Typography"
 	},
 	"readerViewFullSize": {
-		"message": "הצג בגודל מלא"
+		"message": "View full size"
 	},
 	"recommended": {
-		"message": "מומלץ"
+		"message": "recommended"
 	},
 	"refresh": {
-		"message": "רענן"
+		"message": "Refresh"
 	},
 	"remove": {
-		"message": "הסר"
+		"message": "Remove"
 	},
 	"removeProperty": {
-		"message": "הסר מאפיין"
+		"message": "Remove property"
 	},
 	"removeUnusedProperties": {
-		"message": "הסר מאפיינים שאינם בשימוש"
+		"message": "Remove unused properties"
 	},
 	"removeUnusedPropertiesDescription": {
-		"message": "הסר את כל המאפיינים שאינם בשימוש באף תבנית."
+		"message": "Remove all properties that are not used in any template."
 	},
 	"removeVault": {
-		"message": "הסר כספת"
+		"message": "Remove vault"
 	},
 	"replaceContent": {
-		"message": "החלף תוכן פתק"
+		"message": "Replace the page content"
 	},
 	"reset": {
-		"message": "אפס"
+		"message": "Reset"
 	},
 	"resetDefaultTemplate": {
-		"message": "אפס תבנית ברירת מחדל"
+		"message": "Reset default template"
 	},
 	"resetDefaultTemplateDescription": {
-		"message": "הסר את כל השינויים שביצעת בתבנית ברירת המחדל."
+		"message": "Remove any changes you've made to the default template."
 	},
 	"resetProvidersAndModels": {
-		"message": "אפס מודלים לברירת מחדל"
+		"message": "Reset default models"
 	},
 	"resetProvidersAndModelsDescription": {
-		"message": "אפס ספקים ומודלים להגדרות ברירת המחדל."
+		"message": "Reset providers and models to the default settings."
 	},
 	"save": {
-		"message": "שמור"
+		"message": "Save"
 	},
 	"saveBehaviorDescription": {
-		"message": "בחר את האפשרות הברירת המחדל לשמירת דפים. אפשרויות חלופיות מופיעות בתפריט הנפתח ליד הכפתור הראשי."
+		"message": "Choose the default option for saving pages. Alternate options appear in the dropdown menu next to the main button."
 	},
 	"saveBehaviorLabel": {
-		"message": "התנהגות שמירה"
+		"message": "Save behavior"
 	},
 	"saveFile": {
-		"message": "שמור קובץ..."
+		"message": "Save file..."
 	},
 	"searchVariables": {
-		"message": "חפש משתנים..."
+		"message": "Search variables..."
 	},
 	"selectProvider": {
-		"message": "בחר ספק"
+		"message": "Select a provider"
 	},
 	"selectTemplateToExport": {
-		"message": "בחר תבנית לייצוא"
+		"message": "Please select a template to export."
 	},
 	"settings": {
-		"message": "הגדרות"
+		"message": "Settings"
 	},
 	"settingsHeading": {
-		"message": "הגדרות"
+		"message": "Settings"
 	},
 	"settingsImportSuccess": {
-		"message": "כל ההגדרות יובאו בהצלחה. רענן את הדף כדי לראות את השינויים."
+		"message": "All settings imported successfully. Please refresh the page to see the changes."
 	},
 	"share": {
-		"message": "שתף..."
+		"message": "Share..."
 	},
 	"shortcutInstructionsBrave": {
-		"message": "כדי לשנות מיפויי מקשים, עבור אל $1"
+		"message": "To change key assignments, go to $1"
 	},
 	"shortcutInstructionsChrome": {
-		"message": "כדי לשנות מיפויי מקשים, עבור אל $1"
+		"message": "To change key assignments, go to $1"
 	},
 	"shortcutInstructionsDefault": {
-		"message": "כדי לשנות מיפויי מקשים, עיין בהגדרות ההרחבות של הדפדפן שלך."
+		"message": "To change key assignments, please refer to your browser's extension settings."
 	},
 	"shortcutInstructionsEdge": {
-		"message": "כדי לשנות מיפויי מקשים, עבור אל $1"
+		"message": "To change key assignments, go to $1"
 	},
 	"shortcutInstructionsFirefox": {
-		"message": "כדי לשנות מיפויי מקשים, עבור אל $1, לחץ על סמל הגלגל שיניים ובחר \"נהל קיצורי הרחבה\""
+		"message": "To change key assignments, go to $1, click the gear icon, and select \"Manage Extension Shortcuts\"."
 	},
 	"shortcutInstructionsIntro": {
-		"message": "קיצורי המקשים מספקים לך גישה מהירה לפונקציות של הקליפר."
+		"message": "Keyboard shortcuts give you quick access to clipper features."
 	},
 	"shortcutInstructionsSafari": {
-		"message": "לא ניתן להתאים אישית קיצורי מקשים ב-Safari."
+		"message": "Keyboard shortcuts are not customizable on Safari."
 	},
 	"shortcutNotSet": {
-		"message": "לא הוגדר"
+		"message": "Not set"
 	},
 	"showActionsButton": {
-		"message": "הצג/י כפתור פעולות"
+		"message": "Show actions button"
 	},
 	"showActionsDescription": {
-		"message": "מאפשר לך לצפות במשתני הדף מתפריט הקליפר. שימושי לראות אילו משתנים זמינים לשימוש בתבניות."
+		"message": "Allows you to inspect page variables from the clipper menu. Useful for seeing the variables that are available to use in templates."
 	},
 	"showPageVariables": {
-		"message": "הצג/י משתני דף"
+		"message": "Show page variables"
 	},
 	"silentOpen": {
-		"message": "שמור פתקים מבלי לפתוח"
+		"message": "Save clipped note without opening it"
 	},
 	"silentOpenDescription": {
-		"message": "פתקים שנגזרו יישמרו אך לא ייפתחו בכרטיסייה חדשה. Obsidian עדיין יועבר לחזית."
+		"message": "Clipped notes will be saved but will not open as a new tab. Obsidian will still be brought to the foreground."
 	},
 	"specificNoteName": {
-		"message": "שם פתק ספציפי"
+		"message": "Specific note name"
 	},
 	"systemDefault": {
-		"message": "ברירת מחדל של המערכת"
+		"message": "System"
 	},
 	"template": {
-		"message": "תבנית"
+		"message": "Template"
 	},
 	"templateCopied": {
-		"message": "ה-JSON של התבנית הועתק ללוח"
+		"message": "Copied template JSON to clipboard"
 	},
 	"templateCopyError": {
-		"message": "נכשל בהעתקת ה-JSON של התבנית ללוח"
+		"message": "Failed to copy template JSON to clipboard"
 	},
 	"templateErrorCount": {
-		"message": "יש שגיאה בתבנית שלך."
+		"message": "There is an error in your template."
 	},
 	"templateErrorsCount": {
-		"message": "יש $1 שגיאות בתבנית שלך."
+		"message": "There are $1 errors in your template."
 	},
 	"templateGroupContent": {
-		"message": "תוכן"
+		"message": "Content"
 	},
 	"templateGroupLocation": {
-		"message": "מיקום"
+		"message": "Location"
 	},
 	"templateName": {
-		"message": "שם התבנית"
+		"message": "Template name"
 	},
 	"templateProperties": {
-		"message": "מאפיינים"
+		"message": "Properties"
 	},
 	"templatePropertiesDescription": {
-		"message": "מאפיינים שיתווספו לראש הפתק הנגזר. השתמש במשתנים כדי למלא מראש נתונים מהדף."
+		"message": "Properties to add to the top of the clipped note. Use variables to pre-populate data from the page."
 	},
 	"templateTriggers": {
-		"message": "טריגרים לתבנית"
+		"message": "Template triggers"
 	},
 	"templateTriggersDescription": {
-		"message": "הגדר כללים לבחירה אוטומטית של תבנית זו אם היא תואמת לתבנית URL או מכילה נתוני schema.org. כלל אחד בכל שורה."
+		"message": "Define rules to automatically select this template if it matches a URL pattern or contains schema.org data. One rule per line."
 	},
 	"templateValid": {
-		"message": "תחביר התבנית תקין"
+		"message": "Template syntax is valid"
 	},
 	"templatesHeading": {
-		"message": "תבניות"
+		"message": "Templates"
 	},
 	"thinking": {
-		"message": "חושב"
+		"message": "thinking"
 	},
 	"unknownProvider": {
-		"message": "ספק לא ידוע"
+		"message": "Unknown provider"
 	},
 	"updateAvailable": {
-		"message": "עדכון זמין"
+		"message": "An update is available."
 	},
 	"usingLatestVersion": {
-		"message": "את/ה משתמש/ת בגרסה העדכנית ביותר"
+		"message": "You are using the latest version."
 	},
 	"vault": {
-		"message": "כספת"
+		"message": "Vault"
 	},
 	"vaultDescription": {
-		"message": "בחר את כספת ברירת המחדל עבור תבנית זו. עבור אל $link_start$הגדרות כלליות$link_end$ כדי להוסיף או להסיר כספות.",
+		"message": "Select the default vault for this template. Go to $link_start$general settings$link_end$ to add or remove vaults.",
 		"placeholders": {
 			"link_end": {
 				"content": "</a>"
@@ -952,10 +960,10 @@
 		}
 	},
 	"vaults": {
-		"message": "כספות"
+		"message": "Vaults"
 	},
 	"vaultsDescription": {
-		"message": "כברירת מחדל, פתקים שנגזרו נשמרים בכספת הפתוחה. תוכל/י להוסיף כספות כאן אם תרצה/י את האפשרות לשמור בכספות שונות. שם הכספת חייב להתאים בדיוק לשם כספת ה-Obsidian. לחץ/י $strong_start$enter$strong_end$ כדי להוסיף כספת.",
+		"message": "By default, clipped notes are saved to the currently open vault. You can add vaults here if you want the option to save to different vaults. Vault names must exactly match the name of the Obsidian vault. Press $strong_start$enter$strong_end$ to add a vault.",
 		"placeholders": {
 			"strong_end": {
 				"content": "</strong>"
@@ -966,6 +974,6 @@
 		}
 	},
 	"version": {
-		"message": "גרסה"
+		"message": "Version"
 	}
 }
