@@ -1,99 +1,99 @@
 {
 	"activity": {
-		"message": "Activity"
+		"message": "Activiteit"
 	},
 	"addModel": {
-		"message": "+ Add model"
+		"message": "+ Model toevoegen"
 	},
 	"addModelTitle": {
-		"message": "Add model"
+		"message": "Model toevoegen"
 	},
 	"addProperty": {
-		"message": "+ Add property"
+		"message": "+ Eigenschap toevoegen"
 	},
 	"addProvider": {
-		"message": "+ Add provider"
+		"message": "+ Provider toevoegen"
 	},
 	"addProviderTitle": {
-		"message": "Add provider"
+		"message": "Provider toevoegen"
 	},
 	"addToObsidian": {
-		"message": "Add to Obsidian"
+		"message": "Toevoegen aan Obsidian"
 	},
 	"addVaultPlaceholder": {
-		"message": "Press enter to add a vault"
+		"message": "Druk op Enter om een kluis toe te voegen"
 	},
 	"advanced": {
-		"message": "Advanced"
+		"message": "Geavanceerd"
 	},
 	"allProperties": {
-		"message": "All properties"
+		"message": "Alle eigenschappen"
 	},
 	"allTime": {
-		"message": "All time"
+		"message": "Alle tijd"
 	},
 	"alwaysShowHighlights": {
-		"message": "Always show highlights"
+		"message": "Markeringen altijd tonen"
 	},
 	"alwaysShowHighlightsDescription": {
-		"message": "Display your saved highlights when you load a page. Turn off to only display highlights when highlighter mode is activated."
+		"message": "Toon je opgeslagen markeringen wanneer je een pagina laadt. Schakel uit om markeringen alleen te tonen wanneer de markeerder actief is."
 	},
 	"apiKeyMissing": {
-		"message": "No API key"
+		"message": "Geen API-sleutel"
 	},
 	"apiKeysWarning": {
-		"message": "By using an external provider you agree to their terms and privacy policy. Interpreter requests are sent directly to the provider you choose. Obsidian does not gather or store any data about your requests."
+		"message": "Door een externe provider te gebruiken ga je akkoord met hun voorwaarden en privacybeleid. Interpreter-verzoeken worden direct naar de provider van jouw keuze gestuurd. Obsidian verzamelt of bewaart geen gegevens over je verzoeken."
 	},
 	"appendToDaily": {
-		"message": "Add to daily note, at the bottom"
+		"message": "Toevoegen aan dagelijkse notitie, onderaan"
 	},
 	"appendToExisting": {
-		"message": "Add to an existing note, at the bottom"
+		"message": "Toevoegen aan bestaande notitie, onderaan"
 	},
 	"autoRunInterpreter": {
-		"message": "Automatically run"
+		"message": "Automatisch uitvoeren"
 	},
 	"autoRunInterpreterDescription": {
-		"message": "Run prompt variables immediately if the template contains any. This will consume API credits with your model provider. Turn off if you only want to run interpreter manually."
+		"message": "Voer prompt-variabelen direct uit als het sjabloon deze bevat. Dit verbruikt API-credits bij je model-provider. Schakel uit als je de interpreter alleen handmatig wilt uitvoeren."
 	},
 	"behavior": {
-		"message": "Behavior"
+		"message": "Gedrag"
 	},
 	"byDay": {
-		"message": "Days"
+		"message": "Dagen"
 	},
 	"byMonth": {
-		"message": "Months"
+		"message": "Maanden"
 	},
 	"byWeek": {
-		"message": "Weeks"
+		"message": "Weken"
 	},
 	"cancel": {
-		"message": "Cancel"
+		"message": "Annuleren"
 	},
 	"cannotDeleteProvider": {
-		"message": "Cannot delete provider \"$1\" because it is being used by $2 model(s)."
+		"message": "Kan provider \"$1\" niet verwijderen omdat deze wordt gebruikt door $2 model(len)."
 	},
 	"changelog": {
-		"message": "Changelog"
+		"message": "Wijzigingslogboek"
 	},
 	"chooseFile": {
-		"message": "Choose a file"
+		"message": "Kies een bestand"
 	},
 	"choosePropertiesFile": {
-		"message": "Choose properties file"
+		"message": "Kies eigenschappenbestand"
 	},
 	"chooseSettingsFile": {
-		"message": "Choose settings file"
+		"message": "Kies instellingenbestand"
 	},
 	"chooseTemplateFile": {
-		"message": "Choose template file"
+		"message": "Kies sjabloonbestand"
 	},
 	"clipBehavior": {
-		"message": "Clip behavior"
+		"message": "Clip-gedrag"
 	},
 	"clipBehaviorDescription": {
-		"message": "Choose how highlighted content is saved to Obsidian. Defines the $strong_start${{content}}$strong_end$ variable.",
+		"message": "Kies hoe gemarkeerde inhoud wordt opgeslagen in Obsidian. Definieert de $strong_start${{content}}$strong_end$ variabele.",
 		"placeholders": {
 			"strong_end": {
 				"content": "</strong>"
@@ -104,7 +104,7 @@
 		}
 	},
 	"clipboardError": {
-		"message": "Obsidian is not able to access your clipboard. Try the troubleshooting instructions here: $1",
+		"message": "Obsidian heeft geen toegang tot je klembord. Probeer de instructies voor probleemoplossing hier: $1",
 		"placeholders": {
 			"1": {
 				"content": "$1"
@@ -112,79 +112,79 @@
 		}
 	},
 	"close": {
-		"message": "Close"
+		"message": "Sluiten"
 	},
 	"commandOpenClipper": {
 		"message": "Open Obsidian Clipper"
 	},
 	"commandQuickClip": {
-		"message": "Quick clip"
+		"message": "Snel knippen"
 	},
 	"commandToggleHighlighter": {
-		"message": "Toggle highlighter"
+		"message": "Markeerder in-/uitschakelen"
 	},
 	"commandToggleReader": {
-		"message": "Toggle reader"
+		"message": "Schakel leesweergave in/uit"
 	},
 	"confirmDeleteTemplate": {
-		"message": "Are you sure you want to delete the template \"$1\"?"
+		"message": "Weet je zeker dat je het sjabloon \"$1\" wilt verwijderen?"
 	},
 	"confirmReplaceSettings": {
-		"message": "This will replace all your current settings, including templates and properties. Are you sure you want to continue?"
+		"message": "Dit vervangt al je huidige instellingen, inclusief sjablonen en eigenschappen. Weet je zeker dat je wilt doorgaan?"
 	},
 	"copied": {
-		"message": "Copied!"
+		"message": "Gekopieerd!"
 	},
 	"copyAsJson": {
-		"message": "Copy as JSON"
+		"message": "Kopiëren als JSON"
 	},
 	"copyToClipboard": {
-		"message": "Copy to clipboard"
+		"message": "Kopiëren naar klembord"
 	},
 	"createNewNote": {
-		"message": "Create new note"
+		"message": "Nieuwe notitie maken"
 	},
 	"custom": {
-		"message": "Custom"
+		"message": "Aangepast"
 	},
 	"dailyNoteFormat": {
-		"message": "Daily note format (e.g., YYYY-MM-DD)"
+		"message": "Dagelijkse notitie formaat (bijv. YYYY-MM-DD)"
 	},
 	"defaultInterpreterContext": {
-		"message": "Default interpreter context"
+		"message": "Standaard interpreter context"
 	},
 	"defaultInterpreterContextDescription": {
-		"message": "Override the context used to interpret prompt variables. Variables can be used here."
+		"message": "Het model gebruikt deze context om prompt-variabelen te interpreteren. Variabelen en filters kunnen hier worden gebruikt."
 	},
 	"defaultTemplateName": {
-		"message": "Default"
+		"message": "Standaard"
 	},
 	"delete": {
-		"message": "Delete"
+		"message": "Verwijderen"
 	},
 	"deleteModelConfirm": {
-		"message": "Are you sure you want to delete this model?"
+		"message": "Weet je zeker dat je dit model wilt verwijderen?"
 	},
 	"deleteProviderConfirm": {
-		"message": "Are you sure you want to delete this provider?"
+		"message": "Weet je zeker dat je deze provider wilt verwijderen?"
 	},
 	"disableHighlighter": {
-		"message": "Disable highlighter"
+		"message": "Markeerder uitschakelen"
 	},
 	"disableReader": {
-		"message": "Disable reader"
+		"message": "Schakel leesweergave uit"
 	},
 	"done": {
-		"message": "Done"
+		"message": "Klaar"
 	},
 	"dragAndDropFile": {
-		"message": "Drag and drop file here"
+		"message": "Sleep bestand hierheen"
 	},
 	"duplicate": {
-		"message": "Duplicate"
+		"message": "Dupliceren"
 	},
 	"earlyAccessDescription": {
-		"message": "Use features that require the latest $link_start$early access version$link_end$ of Obsidian. Currently requires Obsidian 1.7.2 or later.",
+		"message": "Gebruik functies die de nieuwste $link_start$early access versie$link_end$ van Obsidian vereisen. Momenteel is Obsidian 1.7.2 of hoger vereist.",
 		"placeholders": {
 			"link_end": {
 				"content": "</a>"
@@ -195,31 +195,31 @@
 		}
 	},
 	"earlyAccessFeatures": {
-		"message": "Early access features"
+		"message": "Early access functies"
 	},
 	"editModel": {
-		"message": "Edit model"
+		"message": "Model bewerken"
 	},
 	"editProvider": {
-		"message": "Edit provider"
+		"message": "Provider bewerken"
 	},
 	"editTemplate": {
-		"message": "Edit template"
+		"message": "Sjabloon bewerken"
 	},
 	"embedded": {
-		"message": "Embedded"
+		"message": "Ingesloten"
 	},
 	"enableHighlighter": {
-		"message": "Enable highlighter"
+		"message": "Markeerder inschakelen"
 	},
 	"enableHighlighterDescription": {
-		"message": "Highlight content on web pages that you can save to Obsidian."
+		"message": "Markeer inhoud op webpagina's die je kunt opslaan in Obsidian."
 	},
 	"enableInterpreter": {
-		"message": "Enable interpreter"
+		"message": "Interpreter inschakelen"
 	},
 	"enableInterpreterDescription": {
-		"message": "Use natural language to extract data from pages. For example, you can use the template syntax $strong_start${{\"a summary of the page\"}}$strong_end$. Requires an API key or custom model configured below.  $link_start$Learn more$link_end$.",
+		"message": "Gebruik natuurlijke taal om gegevens uit pagina's te halen. Je kunt bijvoorbeeld de sjabloonsyntax $strong_start${{\"een samenvatting van de pagina\"}}$strong_end$ gebruiken. Vereist een API-sleutel of aangepast model hieronder geconfigureerd. $link_start$Meer informatie$link_end$",
 		"placeholders": {
 			"link_end": {
 				"content": "</a>"
@@ -236,31 +236,31 @@
 		}
 	},
 	"enableReader": {
-		"message": "Open reading view"
+		"message": "Open leesweergave"
 	},
 	"error": {
-		"message": "Error"
+		"message": "Fout"
 	},
 	"export": {
-		"message": "Export"
+		"message": "Exporteren"
 	},
 	"exportAllSettings": {
-		"message": "Export all settings"
+		"message": "Alle instellingen exporteren"
 	},
 	"exportAllSettingsDescription": {
-		"message": "Export all settings including templates and properties."
+		"message": "Exporteer alle instellingen inclusief sjablonen en eigenschappen."
 	},
 	"exportHighlights": {
-		"message": "Export highlights"
+		"message": "Markeringen exporteren"
 	},
 	"exportHighlightsDescription": {
-		"message": "Export your highlights to a file."
+		"message": "Exporteer je markeringen naar een bestand."
 	},
 	"exportProperties": {
-		"message": "Export properties"
+		"message": "Eigenschappen exporteren"
 	},
 	"exportPropertiesDescription": {
-		"message": "Save Web Clipper properties to a $strong_start$types.json$strong_end$ file that can be imported into your Obsidian vault, or into Web Clipper on other devices.",
+		"message": "Sla Web Clipper eigenschappen op in een $strong_start$types.json$strong_end$ bestand dat kan worden geïmporteerd in je Obsidian kluis of in Web Clipper op andere apparaten.",
 		"placeholders": {
 			"strong_end": {
 				"content": "</strong>"
@@ -271,121 +271,121 @@
 		}
 	},
 	"extensionDescription": {
-		"message": "Save content from the web in a private and durable format that you can access offline. The official browser extension for Obsidian."
+		"message": "Sla webinhoud op in een privé en duurzaam formaat dat je offline kunt bekijken. De officiële browserextensie voor Obsidian."
 	},
 	"extensionName": {
 		"message": "Obsidian Web Clipper"
 	},
 	"failedToCopyText": {
-		"message": "Failed to copy text"
+		"message": "Tekst kopiëren mislukt"
 	},
 	"failedToDeleteTemplate": {
-		"message": "Failed to delete template. Please try again."
+		"message": "Sjabloon verwijderen mislukt. Probeer het opnieuw."
 	},
 	"failedToDuplicateTemplate": {
-		"message": "Failed to duplicate template. Please try again."
+		"message": "Sjabloon dupliceren mislukt. Probeer het opnieuw."
 	},
 	"failedToExportHighlights": {
-		"message": "Failed to export highlights. Please check the console for more details."
+		"message": "Markeringen exporteren mislukt. Controleer de console voor meer details."
 	},
 	"failedToExportSettings": {
-		"message": "Failed to export settings. Please check the console for more details."
+		"message": "Instellingen exporteren mislukt. Controleer de console voor meer details."
 	},
 	"failedToExtractContent": {
-		"message": "Unable to extract page content."
+		"message": "Kan pagina-inhoud niet ophalen."
 	},
 	"failedToImportTemplate": {
-		"message": "Error importing template. Please check the file and try again."
+		"message": "Fout bij importeren sjabloon. Controleer het bestand en probeer het opnieuw."
 	},
 	"failedToInitialize": {
-		"message": "Please try reloading the extension."
+		"message": "Probeer de extensie opnieuw te laden."
 	},
 	"failedToInitializeContent": {
-		"message": "Unable to initialize page content."
+		"message": "Kan pagina-inhoud niet initialiseren."
 	},
 	"failedToProcessInterpreter": {
-		"message": "Interpreter processing failed. Please try again."
+		"message": "Interpreter verwerking mislukt. Probeer het opnieuw."
 	},
 	"failedToResetProviders": {
-		"message": "Failed to reset providers and models"
+		"message": "Resetten van providers en modellen mislukt"
 	},
 	"failedToResetTemplate": {
-		"message": "Failed to reset default template. Please try again."
+		"message": "Standaard sjabloon resetten mislukt. Probeer het opnieuw."
 	},
 	"failedToSave": {
-		"message": "Failed to save file"
+		"message": "Bestand opslaan mislukt"
 	},
 	"failedToSaveFile": {
-		"message": "Failed to save file"
+		"message": "Bestand opslaan mislukt"
 	},
 	"failedToSaveProvider": {
-		"message": "Failed to save provider. Please try again."
+		"message": "Provider opslaan mislukt. Probeer het opnieuw."
 	},
 	"feedback": {
 		"message": "Feedback"
 	},
 	"feedbackDescription": {
-		"message": "How can we improve Web Clipper? Please visit our help page, where you can report bugs, suggest features, and get help with common issues."
+		"message": "Hoe kunnen we Web Clipper verbeteren? Bezoek alstublieft onze hulppagina, waar u bugs kunt melden, functies kunt voorstellen en hulp kunt krijgen bij veelvoorkomende problemen."
 	},
 	"feedbackTitle": {
-		"message": "Thanks for your feedback"
+		"message": "Bedankt voor uw feedback"
 	},
 	"folder": {
-		"message": "Folder"
+		"message": "Map"
 	},
 	"general": {
-		"message": "General"
+		"message": "Algemeen"
 	},
 	"generalSettings": {
-		"message": "General settings"
+		"message": "Algemene instellingen"
 	},
 	"getApiKeyHere": {
-		"message": "Get your $1 API key here."
+		"message": "Haal je $1 API-sleutel hier op."
 	},
 	"help": {
 		"message": "Help"
 	},
 	"helpDescription": {
-		"message": "Learn how to use Web Clipper and get help troubleshooting."
+		"message": "Leer hoe je Web Clipper gebruikt en krijg hulp bij probleemoplossing."
 	},
 	"highlightInline": {
-		"message": "Highlight the page content"
+		"message": "Markeer de pagina-inhoud"
 	},
 	"highlightPage": {
-		"message": "Highlight page"
+		"message": "Pagina markeren"
 	},
 	"highlighter": {
-		"message": "Highlighter"
+		"message": "Markeerder"
 	},
 	"highlighterSettings": {
-		"message": "Highlighter"
+		"message": "Markeerder"
 	},
 	"history": {
-		"message": "History"
+		"message": "Geschiedenis"
 	},
 	"hotkeys": {
-		"message": "Hotkeys"
+		"message": "Sneltoetsen"
 	},
 	"import": {
-		"message": "Import"
+		"message": "Importeren"
 	},
 	"importAllSettings": {
-		"message": "Import all settings"
+		"message": "Alle instellingen importeren"
 	},
 	"importAllSettingsDescription": {
-		"message": "Import all settings including templates and properties. This will replace your current configuration."
+		"message": "Importeer alle instellingen inclusief sjablonen en eigenschappen. Dit vervangt je huidige configuratie."
 	},
 	"importFailed": {
-		"message": "Import failed. Please check the console for more details."
+		"message": "Importeren mislukt. Controleer de console voor meer details."
 	},
 	"importModalTitle": {
-		"message": "Import"
+		"message": "Importeren"
 	},
 	"importProperties": {
-		"message": "Import properties"
+		"message": "Eigenschappen importeren"
 	},
 	"importPropertiesDescription": {
-		"message": "To import your properties from Obsidian, locate the $strong_1_start$types.json$strong_1_end$ file in the $strong_2_start$.obsidian$strong_2_end$ folder within your vault. Note this folder is hidden by default on most operating systems.",
+		"message": "Om je eigenschappen uit Obsidian te importeren, zoek het $strong_1_start$types.json$strong_1_end$ bestand in de $strong_2_start$.obsidian$strong_2_end$ map in je kluis. Deze map is standaard verborgen op de meeste besturingssystemen.",
 		"placeholders": {
 			"strong_1_end": {
 				"content": "</strong>"
@@ -402,13 +402,13 @@
 		}
 	},
 	"importSettings": {
-		"message": "Import settings"
+		"message": "Instellingen importeren"
 	},
 	"importTemplate": {
-		"message": "Import template"
+		"message": "Sjabloon importeren"
 	},
 	"interpret": {
-		"message": "interpret"
+		"message": "interpreteren"
 	},
 	"interpreter": {
 		"message": "Interpreter"
@@ -417,7 +417,7 @@
 		"message": "Interpreter context"
 	},
 	"interpreterContextDescription": {
-		"message": "The context used to interpret prompt variables. Overrides the default context defined in $link_start$Interpreter settings$link_end$. Variables can be used here.",
+		"message": "De context die wordt gebruikt om prompt-variabelen te interpreteren. Overschrijft de standaard context gedefinieerd in $link_start$Interpreter instellingen$link_end$. Variabelen kunnen hier worden gebruikt.",
 		"placeholders": {
 			"link_end": {
 				"content": "</a>"
@@ -428,82 +428,82 @@
 		}
 	},
 	"language": {
-		"message": "Language"
+		"message": "Taal"
 	},
 	"languageDescription": {
-		"message": "Choose the display language for the extension interface."
+		"message": "Kies de weergavetaal voor de extensie-interface."
 	},
 	"last30Days": {
-		"message": "Last 30 days"
+		"message": "Laatste 30 dagen"
 	},
 	"lastUsed": {
-		"message": "Last used"
+		"message": "Laatst gebruikt"
 	},
 	"legacyMode": {
-		"message": "Legacy mode"
+		"message": "Legacy-modus"
 	},
 	"legacyModeDescription": {
-		"message": "Uses the URI clipping method compatible with Obsidian 1.6.7 or earlier. Note that the length of the content you can clip is limited by your browser and OS. Some pages may fail without any errors."
+		"message": "Gebruikt de URI-clipmethode die compatibel is met Obsidian 1.6.7 of eerder. De lengte van de inhoud die je kunt knippen wordt beperkt door je browser en besturingssysteem. Sommige pagina's kunnen zonder foutmelding mislukken."
 	},
 	"modelName": {
-		"message": "Display name"
+		"message": "Modelnaam"
 	},
 	"modelNameDescription": {
-		"message": "The name of the model you want to display in the interface."
+		"message": "De naam van het model dat je wilt weergeven in de interface."
 	},
 	"modelProvider": {
 		"message": "Provider"
 	},
 	"modelProviderDescription": {
-		"message": "Select the provider for this model."
+		"message": "De provider van het model, bijvoorbeeld Ollama, OpenRouter, Google, etc."
 	},
 	"modelProviderPlaceholder": {
 		"message": "Provider"
 	},
 	"modelRequiredFields": {
-		"message": "Model name, Provider, and Model ID are required."
+		"message": "Modelnaam, Provider en Model-ID zijn verplicht."
 	},
 	"models": {
-		"message": "Models"
+		"message": "Modellen"
 	},
 	"modelsListFor": {
-		"message": "Models list for $1"
+		"message": "Modellenlijst voor $1"
 	},
 	"more": {
-		"message": "More"
+		"message": "Meer"
 	},
 	"newTemplate": {
-		"message": "New template"
+		"message": "Nieuw sjabloon"
 	},
 	"noHighlights": {
-		"message": "Do nothing"
+		"message": "Niets doen"
 	},
 	"noTemplates": {
-		"message": "No templates available. Please add a template in the settings."
+		"message": "Geen sjablonen beschikbaar. Voeg een sjabloon toe in de instellingen."
 	},
 	"noUnusedProperties": {
-		"message": "No unused properties found."
+		"message": "Geen ongebruikte eigenschappen gevonden."
 	},
 	"noteContent": {
-		"message": "Note content"
+		"message": "Notitie-inhoud"
 	},
 	"noteContentDescription": {
-		"message": "Customize the content of the note. Use variables to pre-populate data from the page."
+		"message": "Pas de inhoud van de notitie aan. Gebruik variabelen om gegevens van de pagina vooraf in te vullen."
 	},
 	"noteLocation": {
-		"message": "Note location"
+		"message": "Notitielocatie"
 	},
 	"noteLocationDescription": {
-		"message": "The folder or path of the note."
+		"message": "De map of het pad van de notitie."
 	},
 	"noteName": {
-		"message": "Note name"
+		"message": "Notitienaam"
 	},
 	"noteNameFormat": {
-		"message": "Note name"
+		"message": "Notitienaam"
 	},
 	"noteNameFormatDescription": {
-		"message": "Format for the file name of the note. You can use variables like {{title}}, {{date}}, and {{published}} to pre-populate data from the page. $link_start$Learn more$link_end$.",
+		"message": "Formaat voor de bestandsnaam van de notitie. Je kunt variabelen zoals {{title}}, {{date}} en {{published}} gebruiken om gegevens van de pagina vooraf in te vullen. $link_start$Meer informatie$link_end$.",
 		"placeholders": {
 			"link_end": {
 				"content": "</a>"
@@ -514,223 +514,223 @@
 		}
 	},
 	"notesAboutPage": {
-		"message": "Notes about this page..."
+		"message": "Notities over deze pagina..."
 	},
 	"onlyHttpSupported": {
-		"message": "This page cannot be clipped. Only http and https URLs are supported."
+		"message": "Deze pagina kan niet worden geknipt. Alleen http- en https-URL's worden ondersteund."
 	},
 	"open": {
-		"message": "Open"
+		"message": "Openen"
 	},
 	"openBehaviorDescription": {
-		"message": "Choose how Web Clipper opens by default."
+		"message": "Kies hoe Web Clipper standaard wordt geopend."
 	},
 	"openBehaviorTitle": {
-		"message": "Open behavior"
+		"message": "Open gedrag"
 	},
 	"openEmbedded": {
-		"message": "Open in page"
+		"message": "Open in pagina"
 	},
 	"openSidePanel": {
-		"message": "Open side panel"
+		"message": "Open zijpaneel"
 	},
 	"optional": {
-		"message": "(optional)"
+		"message": "(optioneel)"
 	},
 	"orPasteBelow": {
-		"message": "Or paste content below"
+		"message": "Of plak inhoud hieronder"
 	},
 	"overwriteNote": {
-		"message": "Overwrite note"
+		"message": "Overschrijf notitie"
 	},
 	"pageCannotBeClipped": {
-		"message": "This page cannot be clipped."
+		"message": "Deze pagina kan niet worden geknipt."
 	},
 	"pageVariables": {
-		"message": "Page variables"
+		"message": "Paginavariabelen"
 	},
 	"pagesSaved": {
-		"message": "page saved"
+		"message": "pagina opgeslagen"
 	},
 	"pagesSavedPlural": {
-		"message": "pages saved"
+		"message": "pagina's opgeslagen"
 	},
 	"pasteJsonHere": {
-		"message": "Paste JSON here"
+		"message": "Plak JSON hier"
 	},
 	"pleaseReload": {
-		"message": "Please try reloading the page."
+		"message": "Probeer de pagina opnieuw te laden."
 	},
 	"popularModels": {
-		"message": "Popular models"
+		"message": "Populaire modellen"
 	},
 	"popularModelsDescription": {
-		"message": "Choose from commonly used models or enter custom model details."
+		"message": "Kies uit veelgebruikte modellen of voer aangepaste modeldetails in."
 	},
 	"popup": {
-		"message": "Popup"
+		"message": "Pop-up"
 	},
 	"prependToDaily": {
-		"message": "Add to daily note, at the top"
+		"message": "Toevoegen aan dagelijkse notitie, bovenaan"
 	},
 	"prependToExisting": {
-		"message": "Add to an existing note, at the top"
+		"message": "Toevoegen aan bestaande notitie, bovenaan"
 	},
 	"preview": {
-		"message": "Preview"
+		"message": "Voorbeeld"
 	},
 	"processing": {
-		"message": "processing"
+		"message": "verwerken"
 	},
 	"properties": {
-		"message": "Properties"
+		"message": "Eigenschappen"
 	},
 	"propertiesSettings": {
-		"message": "Properties"
+		"message": "Eigenschappen"
 	},
 	"propertyName": {
-		"message": "Property name"
+		"message": "Eigenschapnaam"
 	},
 	"propertyTypeCheckbox": {
-		"message": "Checkbox"
+		"message": "Selectievakje"
 	},
 	"propertyTypeDate": {
-		"message": "Date"
+		"message": "Datum"
 	},
 	"propertyTypeDatetime": {
-		"message": "Date & time"
+		"message": "Datum & tijd"
 	},
 	"propertyTypeMultitext": {
-		"message": "List"
+		"message": "Lijst"
 	},
 	"propertyTypeNumber": {
-		"message": "Number"
+		"message": "Nummer"
 	},
 	"propertyTypeText": {
-		"message": "Text"
+		"message": "Tekst"
 	},
 	"propertyValue": {
-		"message": "Property value"
+		"message": "Eigenschapwaarde"
 	},
 	"provider": {
 		"message": "Provider"
 	},
 	"providerApiKey": {
-		"message": "API key"
+		"message": "API-sleutel"
 	},
 	"providerApiKeyDescription": {
-		"message": "Your API key for this provider."
+		"message": "Je API-sleutel voor deze provider."
 	},
 	"providerBaseUrl": {
-		"message": "Base URL"
+		"message": "Basis-URL"
 	},
 	"providerBaseUrlDescription": {
-		"message": "The API endpoint URL for this provider."
+		"message": "De API-endpoint URL voor deze provider."
 	},
 	"providerModelId": {
-		"message": "Model ID"
+		"message": "Model-ID"
 	},
 	"providerModelIdDescription": {
-		"message": "The identifier of the model from your provider. Typically a short name without spaces."
+		"message": "De identifier van het model van je provider. Meestal een korte naam zonder spaties."
 	},
 	"providerModelIdPlaceholder": {
-		"message": "Model ID"
+		"message": "Model-ID"
 	},
 	"providerName": {
-		"message": "Provider name"
+		"message": "Providernaam"
 	},
 	"providerNameDescription": {
-		"message": "Display name for this provider."
+		"message": "Weergavenaam voor deze provider."
 	},
 	"providerPreset": {
-		"message": "Preset"
+		"message": "Voorinstelling"
 	},
 	"providerPresetDescription": {
-		"message": "Choose a provider or create a custom one."
+		"message": "Kies een provider of maak een aangepaste aan."
 	},
 	"providerRequiredFields": {
-		"message": "Provider name and Base URL are required."
+		"message": "Providernaam en basis-URL zijn verplicht."
 	},
 	"providers": {
 		"message": "Providers"
 	},
 	"rateExtensionDescription": {
-		"message": "Are you enjoying Web Clipper? Help us by giving it a rating."
+		"message": "Geniet u van Web Clipper? Help ons door het een beoordeling te geven."
 	},
 	"reader": {
-		"message": "Reader"
+		"message": "Lezer"
 	},
 	"readerAppearance": {
-		"message": "Appearance"
+		"message": "Weergave"
 	},
 	"readerAppearanceAuto": {
-		"message": "Auto"
+		"message": "Automatisch"
 	},
 	"readerAppearanceDark": {
-		"message": "Dark"
+		"message": "Donker"
 	},
 	"readerAppearanceDescription": {
-		"message": "Choose light or dark appearance."
+		"message": "Kies een lichte of donkere weergave."
 	},
 	"readerAppearanceLight": {
-		"message": "Light"
+		"message": "Licht"
 	},
 	"readerBlendImages": {
-		"message": "Blend images"
+		"message": "Afbeeldingen mengen"
 	},
 	"readerBlendImagesDescription": {
-		"message": "Blend images with the page background."
+		"message": "Meng afbeeldingen met de pagina-achtergrond."
 	},
 	"readerCloseImageViewer": {
-		"message": "Close image viewer"
+		"message": "Afbeeldingenviewer sluiten"
 	},
 	"readerCollapseComment": {
-		"message": "Collapse comment"
+		"message": "Opmerking inklappen"
 	},
 	"readerColorLinks": {
-		"message": "Color links"
+		"message": "Links kleuren"
 	},
 	"readerColorSchemeDefault": {
-		"message": "Default"
+		"message": "Standaard"
 	},
 	"readerCustomCss": {
-		"message": "Custom CSS"
+		"message": "Aangepaste CSS"
 	},
 	"readerCustomCssDescription": {
-		"message": "CSS applied automatically in reading view."
+		"message": "CSS die automatisch wordt toegepast in leesweergave."
 	},
 	"readerDarkTheme": {
-		"message": "Dark mode theme"
+		"message": "Thema voor donkere modus"
 	},
 	"readerDarkThemeDescription": {
-		"message": "Use a different theme in dark mode."
+		"message": "Gebruik een ander thema in donkere modus."
 	},
 	"readerError": {
-		"message": "Failed to extract content."
+		"message": "Kan inhoud niet extraheren."
 	},
 	"readerFont": {
-		"message": "Font options"
+		"message": "Lettertype-opties"
 	},
 	"readerFontDefault": {
-		"message": "Default"
+		"message": "Standaard"
 	},
 	"readerFontDescription": {
-		"message": "Add fonts installed on your system. Press enter to add a font."
+		"message": "Voeg lettertypen toe die op je systeem zijn geïnstalleerd. Druk op Enter om een lettertype toe te voegen."
 	},
 	"readerFontNotFound": {
-		"message": "Not found"
+		"message": "Niet gevonden"
 	},
 	"readerFontPlaceholder": {
-		"message": "Press enter to add a font"
+		"message": "Druk op Enter om een lettertype toe te voegen"
 	},
 	"readerFontSetDefault": {
-		"message": "Set default"
+		"message": "Als standaard instellen"
 	},
 	"readerFontSize": {
-		"message": "Base font size"
+		"message": "Basislettergrootte"
 	},
 	"readerFontSystem": {
-		"message": "System"
+		"message": "Systeem"
 	},
 	"readerFontSystemSans": {
 		"message": "Sans-serif"
@@ -739,217 +739,217 @@
 		"message": "Serif"
 	},
 	"readerFonts": {
-		"message": "Fonts"
+		"message": "Lettertypen"
 	},
 	"readerFootnotes": {
-		"message": "Footnotes"
+		"message": "Voetnoten"
 	},
 	"readerImages": {
-		"message": "Images"
+		"message": "Afbeeldingen"
 	},
 	"readerLineHeight": {
-		"message": "Line height"
+		"message": "Regelhoogte"
 	},
 	"readerLineWidth": {
-		"message": "Line width"
+		"message": "Regelbreedte"
 	},
 	"readerLoading": {
-		"message": "Defuddling…"
+		"message": "Bezig met ontrommelen…"
 	},
 	"readerSettings": {
-		"message": "Reader settings"
+		"message": "Lezerinstellingen"
 	},
 	"readerTheme": {
-		"message": "Theme"
+		"message": "Thema"
 	},
 	"readerThemeDescription": {
-		"message": "Choose the colors used in reading view."
+		"message": "Kies de kleuren die in leesweergave worden gebruikt."
 	},
 	"readerThemeSection": {
-		"message": "Theme"
+		"message": "Thema"
 	},
 	"readerTypography": {
-		"message": "Typography"
+		"message": "Typografie"
 	},
 	"readerViewFullSize": {
-		"message": "View full size"
+		"message": "Op volledige grootte bekijken"
 	},
 	"recommended": {
-		"message": "recommended"
+		"message": "aanbevolen"
 	},
 	"refresh": {
-		"message": "Refresh"
+		"message": "Vernieuwen"
 	},
 	"remove": {
-		"message": "Remove"
+		"message": "Verwijderen"
 	},
 	"removeProperty": {
-		"message": "Remove property"
+		"message": "Eigenschap verwijderen"
 	},
 	"removeUnusedProperties": {
-		"message": "Remove unused properties"
+		"message": "Ongebruikte eigenschappen verwijderen"
 	},
 	"removeUnusedPropertiesDescription": {
-		"message": "Remove all properties that are not used in any template."
+		"message": "Verwijder alle eigenschappen die in geen enkel sjabloon worden gebruikt."
 	},
 	"removeVault": {
-		"message": "Remove vault"
+		"message": "Kluis verwijderen"
 	},
 	"replaceContent": {
-		"message": "Replace the page content"
+		"message": "Pagina-inhoud vervangen"
 	},
 	"reset": {
-		"message": "Reset"
+		"message": "Resetten"
 	},
 	"resetDefaultTemplate": {
-		"message": "Reset default template"
+		"message": "Standaard sjabloon resetten"
 	},
 	"resetDefaultTemplateDescription": {
-		"message": "Remove any changes you've made to the default template."
+		"message": "Verwijder alle wijzigingen die je hebt aangebracht aan het standaard sjabloon."
 	},
 	"resetProvidersAndModels": {
-		"message": "Reset default models"
+		"message": "Standaardmodellen resetten"
 	},
 	"resetProvidersAndModelsDescription": {
-		"message": "Reset providers and models to the default settings."
+		"message": "Reset providers en modellen naar de standaardinstellingen."
 	},
 	"save": {
-		"message": "Save"
+		"message": "Opslaan"
 	},
 	"saveBehaviorDescription": {
-		"message": "Choose the default option for saving pages. Alternate options appear in the dropdown menu next to the main button."
+		"message": "Kies de standaardoptie voor het opslaan van pagina's. Alternatieve opties verschijnen in het dropdown-menu naast de hoofdknop."
 	},
 	"saveBehaviorLabel": {
-		"message": "Save behavior"
+		"message": "Opslaggedrag"
 	},
 	"saveFile": {
-		"message": "Save file..."
+		"message": "Bestand opslaan..."
 	},
 	"searchVariables": {
-		"message": "Search variables..."
+		"message": "Zoek variabelen..."
 	},
 	"selectProvider": {
-		"message": "Select a provider"
+		"message": "Selecteer een provider"
 	},
 	"selectTemplateToExport": {
-		"message": "Please select a template to export."
+		"message": "Selecteer een sjabloon om te exporteren."
 	},
 	"settings": {
-		"message": "Settings"
+		"message": "Instellingen"
 	},
 	"settingsHeading": {
-		"message": "Settings"
+		"message": "Instellingen"
 	},
 	"settingsImportSuccess": {
-		"message": "All settings imported successfully. Please refresh the page to see the changes."
+		"message": "Alle instellingen succesvol geïmporteerd. Vernieuw de pagina om de wijzigingen te zien."
 	},
 	"share": {
-		"message": "Share..."
+		"message": "Delen..."
 	},
 	"shortcutInstructionsBrave": {
-		"message": "To change key assignments, go to $1"
+		"message": "Om sneltoetsen te wijzigen, ga naar $1"
 	},
 	"shortcutInstructionsChrome": {
-		"message": "To change key assignments, go to $1"
+		"message": "Om sneltoetsen te wijzigen, ga naar $1"
 	},
 	"shortcutInstructionsDefault": {
-		"message": "To change key assignments, please refer to your browser's extension settings."
+		"message": "Om sneltoetsen te wijzigen, raadpleeg de extensie-instellingen van je browser."
 	},
 	"shortcutInstructionsEdge": {
-		"message": "To change key assignments, go to $1"
+		"message": "Om sneltoetsen te wijzigen, ga naar $1"
 	},
 	"shortcutInstructionsFirefox": {
-		"message": "To change key assignments, go to $1, click the gear icon, and select \"Manage Extension Shortcuts\"."
+		"message": "Om sneltoetsen te wijzigen, ga naar $1, klik op het tandwiel-icoon en selecteer \"Extensiesneltoetsen beheren\"."
 	},
 	"shortcutInstructionsIntro": {
-		"message": "Keyboard shortcuts give you quick access to clipper features."
+		"message": "Sneltoetsen geven je snelle toegang tot clipper-functies."
 	},
 	"shortcutInstructionsSafari": {
-		"message": "Keyboard shortcuts are not customizable on Safari."
+		"message": "Sneltoetsen zijn niet aanpasbaar in Safari."
 	},
 	"shortcutNotSet": {
-		"message": "Not set"
+		"message": "Niet ingesteld"
 	},
 	"showActionsButton": {
-		"message": "Show actions button"
+		"message": "Toon actieknop"
 	},
 	"showActionsDescription": {
-		"message": "Allows you to inspect page variables from the clipper menu. Useful for seeing the variables that are available to use in templates."
+		"message": "Hiermee kun je paginavariabelen bekijken vanuit het clipper-menu. Handig om te zien welke variabelen beschikbaar zijn voor gebruik in sjablonen."
 	},
 	"showPageVariables": {
-		"message": "Show page variables"
+		"message": "Toon paginavariabelen"
 	},
 	"silentOpen": {
-		"message": "Save clipped note without opening it"
+		"message": "Geknipte notitie opslaan zonder te openen"
 	},
 	"silentOpenDescription": {
-		"message": "Clipped notes will be saved but will not open as a new tab. Obsidian will still be brought to the foreground."
+		"message": "Geknipte notities worden opgeslagen maar niet geopend in een nieuw tabblad. Obsidian wordt nog steeds naar de voorgrond gebracht."
 	},
 	"specificNoteName": {
-		"message": "Specific note name"
+		"message": "Specifieke notitienaam"
 	},
 	"systemDefault": {
-		"message": "System"
+		"message": "Systeem"
 	},
 	"template": {
-		"message": "Template"
+		"message": "Sjabloon"
 	},
 	"templateCopied": {
-		"message": "Copied template JSON to clipboard"
+		"message": "Sjabloon-JSON gekopieerd naar klembord"
 	},
 	"templateCopyError": {
-		"message": "Failed to copy template JSON to clipboard"
+		"message": "Sjabloon-JSON kopiëren naar klembord mislukt"
 	},
 	"templateErrorCount": {
-		"message": "There is an error in your template."
+		"message": "Er staat een fout in je sjabloon."
 	},
 	"templateErrorsCount": {
-		"message": "There are $1 errors in your template."
+		"message": "Er staan $1 fouten in je sjabloon."
 	},
 	"templateGroupContent": {
-		"message": "Content"
+		"message": "Inhoud"
 	},
 	"templateGroupLocation": {
-		"message": "Location"
+		"message": "Locatie"
 	},
 	"templateName": {
-		"message": "Template name"
+		"message": "Sjabloonnaam"
 	},
 	"templateProperties": {
-		"message": "Properties"
+		"message": "Eigenschappen"
 	},
 	"templatePropertiesDescription": {
-		"message": "Properties to add to the top of the clipped note. Use variables to pre-populate data from the page."
+		"message": "Eigenschappen om toe te voegen aan de bovenkant van de geknipte notitie. Gebruik variabelen om gegevens van de pagina vooraf in te vullen."
 	},
 	"templateTriggers": {
-		"message": "Template triggers"
+		"message": "Sjabloontriggers"
 	},
 	"templateTriggersDescription": {
-		"message": "Define rules to automatically select this template if it matches a URL pattern or contains schema.org data. One rule per line."
+		"message": "Definieer regels om dit sjabloon automatisch te selecteren als het overeenkomt met een URL-patroon of schema.org-gegevens bevat. Één regel per regel."
 	},
 	"templateValid": {
-		"message": "Template syntax is valid"
+		"message": "Sjabloonsyntaxis is geldig"
 	},
 	"templatesHeading": {
-		"message": "Templates"
+		"message": "Sjablonen"
 	},
 	"thinking": {
-		"message": "thinking"
+		"message": "nadenken"
 	},
 	"unknownProvider": {
-		"message": "Unknown provider"
+		"message": "Onbekende provider"
 	},
 	"updateAvailable": {
-		"message": "An update is available."
+		"message": "Er is een update beschikbaar."
 	},
 	"usingLatestVersion": {
-		"message": "You are using the latest version."
+		"message": "Je gebruikt de nieuwste versie."
 	},
 	"vault": {
-		"message": "Vault"
+		"message": "Kluis"
 	},
 	"vaultDescription": {
-		"message": "Select the default vault for this template. Go to $link_start$general settings$link_end$ to add or remove vaults.",
+		"message": "Selecteer de standaard kluis voor dit sjabloon. Ga naar $link_start$algemene instellingen$link_end$ om kluizen toe te voegen of te verwijderen.",
 		"placeholders": {
 			"link_end": {
 				"content": "</a>"
@@ -960,10 +960,10 @@
 		}
 	},
 	"vaults": {
-		"message": "Vaults"
+		"message": "Kluizen"
 	},
 	"vaultsDescription": {
-		"message": "By default, clipped notes are saved to the currently open vault. You can add vaults here if you want the option to save to different vaults. Vault names must exactly match the name of the Obsidian vault. Press $strong_start$enter$strong_end$ to add a vault.",
+		"message": "Standaard worden geknipte notities opgeslagen in de momenteel geopende kluis. Je kunt hier kluizen toevoegen als je de optie wilt hebben om in verschillende kluizen op te slaan. Kluisnamen moeten exact overeenkomen met de naam van de Obsidian-kluis. Druk op $strong_start$enter$strong_end$ om een kluis toe te voegen.",
 		"placeholders": {
 			"strong_end": {
 				"content": "</strong>"
@@ -974,6 +974,6 @@
 		}
 	},
 	"version": {
-		"message": "Version"
+		"message": "Versie"
 	}
 }
