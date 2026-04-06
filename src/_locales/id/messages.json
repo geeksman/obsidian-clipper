@@ -1,99 +1,99 @@
 {
 	"activity": {
-		"message": "Aktivitas"
+		"message": "Activity"
 	},
 	"addModel": {
-		"message": "+ Tambah model"
+		"message": "+ Add model"
 	},
 	"addModelTitle": {
-		"message": "Tambah model"
+		"message": "Add model"
 	},
 	"addProperty": {
-		"message": "+ Tambah properti"
+		"message": "+ Add property"
 	},
 	"addProvider": {
-		"message": "+ Tambah penyedia"
+		"message": "+ Add provider"
 	},
 	"addProviderTitle": {
-		"message": "Tambah penyedia"
+		"message": "Add provider"
 	},
 	"addToObsidian": {
-		"message": "Tambah ke Obsidian"
+		"message": "Add to Obsidian"
 	},
 	"addVaultPlaceholder": {
-		"message": "Tekan enter untuk menambahkan vault"
+		"message": "Press enter to add a vault"
 	},
 	"advanced": {
-		"message": "Pengaturan Lanjutan"
+		"message": "Advanced"
 	},
 	"allProperties": {
-		"message": "Semua properti"
+		"message": "All properties"
 	},
 	"allTime": {
-		"message": "Sepanjang waktu"
+		"message": "All time"
 	},
 	"alwaysShowHighlights": {
-		"message": "Selalu tampilkan sorotan"
+		"message": "Always show highlights"
 	},
 	"alwaysShowHighlightsDescription": {
-		"message": "Tampilkan sorotan yang tersimpan saat memuat laman web. Matikan untuk hanya menampilkan sorotan saat mode sorotan diaktifkan."
+		"message": "Display your saved highlights when you load a page. Turn off to only display highlights when highlighter mode is activated."
 	},
 	"apiKeyMissing": {
-		"message": "Tidak ada kunci API"
+		"message": "No API key"
 	},
 	"apiKeysWarning": {
-		"message": "Dengan menggunakan penyedia eksternal, Anda menyetujui persyaratan dan kebijakan privasi mereka. Permintaan interpreter dikirim langsung ke penyedia yang Anda pilih. Obsidian tidak mengumpulkan atau menyimpan data apa pun tentang permintaan Anda."
+		"message": "By using an external provider you agree to their terms and privacy policy. Interpreter requests are sent directly to the provider you choose. Obsidian does not gather or store any data about your requests."
 	},
 	"appendToDaily": {
-		"message": "Tambah ke catatan harian, di bagian akhir"
+		"message": "Add to daily note, at the bottom"
 	},
 	"appendToExisting": {
-		"message": "Tambah ke catatan yang telah ada, di bagian akhir"
+		"message": "Add to an existing note, at the bottom"
 	},
 	"autoRunInterpreter": {
-		"message": "Jalankan secara otomatis"
+		"message": "Automatically run"
 	},
 	"autoRunInterpreterDescription": {
-		"message": "Jalankan variabel prompt segera jika template berisi variabel. Ini akan menggunakan kredit API dari penyedia model Anda. Matikan jika Anda hanya ingin menjalankan interpreter secara manual."
+		"message": "Run prompt variables immediately if the template contains any. This will consume API credits with your model provider. Turn off if you only want to run interpreter manually."
 	},
 	"behavior": {
-		"message": "Perilaku"
+		"message": "Behavior"
 	},
 	"byDay": {
-		"message": "Hari"
+		"message": "Days"
 	},
 	"byMonth": {
-		"message": "Bulan"
+		"message": "Months"
 	},
 	"byWeek": {
-		"message": "Minggu"
+		"message": "Weeks"
 	},
 	"cancel": {
-		"message": "Batal"
+		"message": "Cancel"
 	},
 	"cannotDeleteProvider": {
-		"message": "Tidak dapat menghapus penyedia \"$1\" karena sedang digunakan oleh $2 model."
+		"message": "Cannot delete provider \"$1\" because it is being used by $2 model(s)."
 	},
 	"changelog": {
-		"message": "Catatan perubahan"
+		"message": "Changelog"
 	},
 	"chooseFile": {
-		"message": "Pilih file"
+		"message": "Choose a file"
 	},
 	"choosePropertiesFile": {
-		"message": "Pilih file properti"
+		"message": "Choose properties file"
 	},
 	"chooseSettingsFile": {
-		"message": "Pilih file pengaturan"
+		"message": "Choose settings file"
 	},
 	"chooseTemplateFile": {
-		"message": "Pilih file template"
+		"message": "Choose template file"
 	},
 	"clipBehavior": {
-		"message": "Perilaku klip"
+		"message": "Clip behavior"
 	},
 	"clipBehaviorDescription": {
-		"message": "Pilih bagaimana penyimpanan konten yang telah disorot ke dalam Obsidian. Mendefinisikan variabel $strong_start${{content}}$strong_end$.",
+		"message": "Choose how highlighted content is saved to Obsidian. Defines the $strong_start${{content}}$strong_end$ variable.",
 		"placeholders": {
 			"strong_end": {
 				"content": "</strong>"
@@ -104,7 +104,7 @@
 		}
 	},
 	"clipboardError": {
-		"message": "Obsidian tidak dapat mengakses papan klip Anda. Coba petunjuk pemecahan masalah di sini: $1",
+		"message": "Obsidian is not able to access your clipboard. Try the troubleshooting instructions here: $1",
 		"placeholders": {
 			"1": {
 				"content": "$1"
@@ -112,79 +112,79 @@
 		}
 	},
 	"close": {
-		"message": "Tutup"
+		"message": "Close"
 	},
 	"commandOpenClipper": {
-		"message": "Buka Obsidian Clipper"
+		"message": "Open Obsidian Clipper"
 	},
 	"commandQuickClip": {
-		"message": "Klip cepat"
+		"message": "Quick clip"
 	},
 	"commandToggleHighlighter": {
-		"message": "Aktifkan/nonaktifkan mode sorotan"
+		"message": "Toggle highlighter"
 	},
 	"commandToggleReader": {
-		"message": "Alihkan tampilan baca"
+		"message": "Toggle reader"
 	},
 	"confirmDeleteTemplate": {
-		"message": "Apakah Anda yakin ingin menghapus template \"$1\"?"
+		"message": "Are you sure you want to delete the template \"$1\"?"
 	},
 	"confirmReplaceSettings": {
-		"message": "Ini akan menggantikan semua pengaturan Anda saat ini, termasuk template dan properti. Anda yakin ingin melanjutkan?"
+		"message": "This will replace all your current settings, including templates and properties. Are you sure you want to continue?"
 	},
 	"copied": {
-		"message": "Tersalin!"
+		"message": "Copied!"
 	},
 	"copyAsJson": {
-		"message": "Salin sebagai JSON"
+		"message": "Copy as JSON"
 	},
 	"copyToClipboard": {
-		"message": "Salin ke clipboard"
+		"message": "Copy to clipboard"
 	},
 	"createNewNote": {
-		"message": "Buat catatan baru"
+		"message": "Create new note"
 	},
 	"custom": {
-		"message": "Kustom"
+		"message": "Custom"
 	},
 	"dailyNoteFormat": {
-		"message": "Format catatan harian (mis., YYYY-MM-DD)"
+		"message": "Daily note format (e.g., YYYY-MM-DD)"
 	},
 	"defaultInterpreterContext": {
-		"message": "Konteks interpreter default"
+		"message": "Default interpreter context"
 	},
 	"defaultInterpreterContextDescription": {
-		"message": "Model akan menggunakan konteks ini untuk menginterpretasikan variabel prompt. Variabel dan filter dapat digunakan di sini."
+		"message": "Override the context used to interpret prompt variables. Variables can be used here."
 	},
 	"defaultTemplateName": {
 		"message": "Default"
 	},
 	"delete": {
-		"message": "Hapus"
+		"message": "Delete"
 	},
 	"deleteModelConfirm": {
-		"message": "Apakah Anda yakin ingin menghapus model ini?"
+		"message": "Are you sure you want to delete this model?"
 	},
 	"deleteProviderConfirm": {
-		"message": "Anda yakin ingin menghapus penyedia ini?"
+		"message": "Are you sure you want to delete this provider?"
 	},
 	"disableHighlighter": {
-		"message": "Nonaktifkan sorotan"
+		"message": "Disable highlighter"
 	},
 	"disableReader": {
-		"message": "Nonaktifkan tampilan baca"
+		"message": "Disable reader"
 	},
 	"done": {
-		"message": "selesai"
+		"message": "Done"
 	},
 	"dragAndDropFile": {
-		"message": "Seret dan lepas file di sini"
+		"message": "Drag and drop file here"
 	},
 	"duplicate": {
-		"message": "Duplikat"
+		"message": "Duplicate"
 	},
 	"earlyAccessDescription": {
-		"message": "Gunakan fitur yang memerlukan versi $link_start$akses awal$link_end$ terbaru dari Obsidian. Saat ini memerlukan Obsidian 1.7.2 atau yang lebih baru.",
+		"message": "Use features that require the latest $link_start$early access version$link_end$ of Obsidian. Currently requires Obsidian 1.7.2 or later.",
 		"placeholders": {
 			"link_end": {
 				"content": "</a>"
@@ -195,31 +195,31 @@
 		}
 	},
 	"earlyAccessFeatures": {
-		"message": "Fitur early access"
+		"message": "Early access features"
 	},
 	"editModel": {
 		"message": "Edit model"
 	},
 	"editProvider": {
-		"message": "Edit penyedia"
+		"message": "Edit provider"
 	},
 	"editTemplate": {
-		"message": "Ubah template"
+		"message": "Edit template"
 	},
 	"embedded": {
-		"message": "Tersemat"
+		"message": "Embedded"
 	},
 	"enableHighlighter": {
-		"message": "Aktifkan sorotan"
+		"message": "Enable highlighter"
 	},
 	"enableHighlighterDescription": {
-		"message": "Sorot konten di laman web yang dapat disimpan ke Obsidian."
+		"message": "Highlight content on web pages that you can save to Obsidian."
 	},
 	"enableInterpreter": {
-		"message": "Aktifkan interpreter"
+		"message": "Enable interpreter"
 	},
 	"enableInterpreterDescription": {
-		"message": "Gunakan bahasa alami untuk mengekstrak data dari halaman. Misalnya, Anda dapat menggunakan sintaks template $strong_start${{\"ringkasan halaman\"}}$strong_end$. Memerlukan kunci API atau model kustom yang dikonfigurasi di bawah. $link_start$Pelajari lebih lanjut$link_end$",
+		"message": "Use natural language to extract data from pages. For example, you can use the template syntax $strong_start${{\"a summary of the page\"}}$strong_end$. Requires an API key or custom model configured below.  $link_start$Learn more$link_end$.",
 		"placeholders": {
 			"link_end": {
 				"content": "</a>"
@@ -236,31 +236,31 @@
 		}
 	},
 	"enableReader": {
-		"message": "Buka tampilan baca"
+		"message": "Open reading view"
 	},
 	"error": {
 		"message": "Error"
 	},
 	"export": {
-		"message": "Ekspor"
+		"message": "Export"
 	},
 	"exportAllSettings": {
-		"message": "Ekspor semua pengaturan"
+		"message": "Export all settings"
 	},
 	"exportAllSettingsDescription": {
-		"message": "Ekspor semua pengaturan termasuk template dan properti."
+		"message": "Export all settings including templates and properties."
 	},
 	"exportHighlights": {
-		"message": "Ekspor sorotan"
+		"message": "Export highlights"
 	},
 	"exportHighlightsDescription": {
-		"message": "Ekspor sorotan yang dimiliki ke dalam file."
+		"message": "Export your highlights to a file."
 	},
 	"exportProperties": {
-		"message": "Ekspor properti"
+		"message": "Export properties"
 	},
 	"exportPropertiesDescription": {
-		"message": "Simpan properti Web Clipper ke file $strong_start$types.json$strong_end$ yang dapat diimpor ke dalam vault Obsidian, atau ke Web Clipper di perangkat lain.",
+		"message": "Save Web Clipper properties to a $strong_start$types.json$strong_end$ file that can be imported into your Obsidian vault, or into Web Clipper on other devices.",
 		"placeholders": {
 			"strong_end": {
 				"content": "</strong>"
@@ -271,121 +271,121 @@
 		}
 	},
 	"extensionDescription": {
-		"message": "Simpan konten dari web dalam format yang bersifat privat dan tahan lama dan dapat diakses secara offline. Ekstensi browser resmi untuk Obsidian."
+		"message": "Save content from the web in a private and durable format that you can access offline. The official browser extension for Obsidian."
 	},
 	"extensionName": {
 		"message": "Obsidian Web Clipper"
 	},
 	"failedToCopyText": {
-		"message": "Gagal menyalin teks"
+		"message": "Failed to copy text"
 	},
 	"failedToDeleteTemplate": {
-		"message": "Gagal menghapus template. Silakan coba lagi."
+		"message": "Failed to delete template. Please try again."
 	},
 	"failedToDuplicateTemplate": {
-		"message": "Gagal menduplikasi template. Silakan coba lagi."
+		"message": "Failed to duplicate template. Please try again."
 	},
 	"failedToExportHighlights": {
-		"message": "Gagal mengekspor sorotan. Silakan periksa konsol untuk detail lebih lanjut."
+		"message": "Failed to export highlights. Please check the console for more details."
 	},
 	"failedToExportSettings": {
-		"message": "Gagal mengekspor pengaturan. Silakan periksa konsol untuk detail lebih lanjut."
+		"message": "Failed to export settings. Please check the console for more details."
 	},
 	"failedToExtractContent": {
-		"message": "Tidak dapat mengekstrak konten laman web."
+		"message": "Unable to extract page content."
 	},
 	"failedToImportTemplate": {
-		"message": "Kesalahan saat mengimpor template. Silakan periksa file dan coba lagi."
+		"message": "Error importing template. Please check the file and try again."
 	},
 	"failedToInitialize": {
-		"message": "Silakan coba muat ulang ekstensi."
+		"message": "Please try reloading the extension."
 	},
 	"failedToInitializeContent": {
-		"message": "Tidak dapat menginisialisasi konten laman web."
+		"message": "Unable to initialize page content."
 	},
 	"failedToProcessInterpreter": {
-		"message": "Tidak dapat memuat proses interpreter. Silakan coba lagi."
+		"message": "Interpreter processing failed. Please try again."
 	},
 	"failedToResetProviders": {
-		"message": "Gagal mengatur ulang penyedia dan model"
+		"message": "Failed to reset providers and models"
 	},
 	"failedToResetTemplate": {
-		"message": "Gagal mengatur ulang template default. Silakan coba lagi."
+		"message": "Failed to reset default template. Please try again."
 	},
 	"failedToSave": {
-		"message": "Gagal menyimpan file"
+		"message": "Failed to save file"
 	},
 	"failedToSaveFile": {
-		"message": "Gagal menyimpan file"
+		"message": "Failed to save file"
 	},
 	"failedToSaveProvider": {
-		"message": "Gagal menyimpan penyedia. Silakan coba lagi."
+		"message": "Failed to save provider. Please try again."
 	},
 	"feedback": {
-		"message": "Umpan balik"
+		"message": "Feedback"
 	},
 	"feedbackDescription": {
-		"message": "Bagaimana kami bisa meningkatkan Web Clipper? Silakan kunjungi halaman bantuan kami, di mana Anda dapat melaporkan bug, menyarankan fitur, dan mendapatkan bantuan dengan masalah umum."
+		"message": "How can we improve Web Clipper? Please visit our help page, where you can report bugs, suggest features, and get help with common issues."
 	},
 	"feedbackTitle": {
-		"message": "Terima kasih atas umpan balik Anda"
+		"message": "Thanks for your feedback"
 	},
 	"folder": {
 		"message": "Folder"
 	},
 	"general": {
-		"message": "Umum"
+		"message": "General"
 	},
 	"generalSettings": {
-		"message": "Pengaturan umum"
+		"message": "General settings"
 	},
 	"getApiKeyHere": {
-		"message": "Dapatkan kunci API $1 Anda di sini."
+		"message": "Get your $1 API key here."
 	},
 	"help": {
-		"message": "Bantuan"
+		"message": "Help"
 	},
 	"helpDescription": {
-		"message": "Pelajari cara menggunakan Web Clipper dan dapatkan bantuan pemecahan masalah."
+		"message": "Learn how to use Web Clipper and get help troubleshooting."
 	},
 	"highlightInline": {
-		"message": "Sorot konten laman web"
+		"message": "Highlight the page content"
 	},
 	"highlightPage": {
-		"message": "Sorot laman web"
+		"message": "Highlight page"
 	},
 	"highlighter": {
-		"message": "Penyorot"
+		"message": "Highlighter"
 	},
 	"highlighterSettings": {
-		"message": "Penyorot"
+		"message": "Highlighter"
 	},
 	"history": {
-		"message": "Riwayat"
+		"message": "History"
 	},
 	"hotkeys": {
-		"message": "Tombol pintas"
+		"message": "Hotkeys"
 	},
 	"import": {
-		"message": "Impor"
+		"message": "Import"
 	},
 	"importAllSettings": {
-		"message": "Impor semua pengaturan"
+		"message": "Import all settings"
 	},
 	"importAllSettingsDescription": {
-		"message": "Impor semua pengaturan termasuk template dan properti. Ini akan menggantikan konfigurasi yang telah ada saat ini."
+		"message": "Import all settings including templates and properties. This will replace your current configuration."
 	},
 	"importFailed": {
-		"message": "Impor gagal. Silakan periksa konsol untuk detail lebih lanjut."
+		"message": "Import failed. Please check the console for more details."
 	},
 	"importModalTitle": {
-		"message": "Impor"
+		"message": "Import"
 	},
 	"importProperties": {
-		"message": "Impor properti"
+		"message": "Import properties"
 	},
 	"importPropertiesDescription": {
-		"message": "Untuk mengimpor properti dari Obsidian, temukan file $strong_1_start$types.json$strong_1_end$ di folder $strong_2_start$.obsidian$strong_2_end$ dalam vault Anda. Sebagai catatan, folder ini tersembunyi secara default di sebagian besar sistem operasi.",
+		"message": "To import your properties from Obsidian, locate the $strong_1_start$types.json$strong_1_end$ file in the $strong_2_start$.obsidian$strong_2_end$ folder within your vault. Note this folder is hidden by default on most operating systems.",
 		"placeholders": {
 			"strong_1_end": {
 				"content": "</strong>"
@@ -402,22 +402,22 @@
 		}
 	},
 	"importSettings": {
-		"message": "Impor pengaturan"
+		"message": "Import settings"
 	},
 	"importTemplate": {
-		"message": "Impor template"
+		"message": "Import template"
 	},
 	"interpret": {
-		"message": "interpretasi"
+		"message": "interpret"
 	},
 	"interpreter": {
 		"message": "Interpreter"
 	},
 	"interpreterContext": {
-		"message": "Konteks interpreter"
+		"message": "Interpreter context"
 	},
 	"interpreterContextDescription": {
-		"message": "Konteks yang digunakan untuk menginterpretasikan variabel prompt. Menimpa konteks default yang didefinisikan di $link_start$Pengaturan Interpreter$link_end$. Variabel dapat digunakan di sini.",
+		"message": "The context used to interpret prompt variables. Overrides the default context defined in $link_start$Interpreter settings$link_end$. Variables can be used here.",
 		"placeholders": {
 			"link_end": {
 				"content": "</a>"
@@ -428,82 +428,82 @@
 		}
 	},
 	"language": {
-		"message": "Bahasa"
+		"message": "Language"
 	},
 	"languageDescription": {
-		"message": "Pilih bahasa tampilan untuk antarmuka ekstensi."
+		"message": "Choose the display language for the extension interface."
 	},
 	"last30Days": {
-		"message": "30 hari terakhir"
+		"message": "Last 30 days"
 	},
 	"lastUsed": {
-		"message": "Terakhir digunakan"
+		"message": "Last used"
 	},
 	"legacyMode": {
-		"message": "Mode Legacy"
+		"message": "Legacy mode"
 	},
 	"legacyModeDescription": {
-		"message": "Menggunakan metode klip URI yang kompatibel dengan Obsidian 1.6.7 atau yang lebih lama. Perhatikan bahwa panjang konten yang dapat Anda klip dibatasi oleh browser dan sistem operasi Anda. Beberapa laman web bisa saja gagal tanpa ada pesan error yang tampil."
+		"message": "Uses the URI clipping method compatible with Obsidian 1.6.7 or earlier. Note that the length of the content you can clip is limited by your browser and OS. Some pages may fail without any errors."
 	},
 	"modelName": {
-		"message": "Nama model"
+		"message": "Display name"
 	},
 	"modelNameDescription": {
-		"message": "Nama model yang ingin Anda tampilkan di antarmuka."
+		"message": "The name of the model you want to display in the interface."
 	},
 	"modelProvider": {
-		"message": "Penyedia"
+		"message": "Provider"
 	},
 	"modelProviderDescription": {
-		"message": "Penyedia model, misalnya Ollama, OpenRouter, Google, dll."
+		"message": "Select the provider for this model."
 	},
 	"modelProviderPlaceholder": {
-		"message": "Penyedia"
+		"message": "Provider"
 	},
 	"modelRequiredFields": {
-		"message": "Nama model, Penyedia, dan ID Model diperlukan."
+		"message": "Model name, Provider, and Model ID are required."
 	},
 	"models": {
-		"message": "Model"
+		"message": "Models"
 	},
 	"modelsListFor": {
-		"message": "Daftar model untuk $1"
+		"message": "Models list for $1"
 	},
 	"more": {
-		"message": "Lainnya"
+		"message": "More"
 	},
 	"newTemplate": {
-		"message": "Template baru"
+		"message": "New template"
 	},
 	"noHighlights": {
-		"message": "Tidak melakukan apa-apa"
+		"message": "Do nothing"
 	},
 	"noTemplates": {
-		"message": "Tidak ada template yang tersedia. Silakan tambahkan template di pengaturan."
+		"message": "No templates available. Please add a template in the settings."
 	},
 	"noUnusedProperties": {
-		"message": "Tidak ada properti yang tidak digunakan ditemukan."
+		"message": "No unused properties found."
 	},
 	"noteContent": {
-		"message": "Konten catatan"
+		"message": "Note content"
 	},
 	"noteContentDescription": {
-		"message": "Sesuaikan konten catatan. Gunakan variabel untuk mengisi data yang tersedia dari laman web."
+		"message": "Customize the content of the note. Use variables to pre-populate data from the page."
 	},
 	"noteLocation": {
-		"message": "Lokasi catatan"
+		"message": "Note location"
 	},
 	"noteLocationDescription": {
-		"message": "Folder atau letak catatan."
+		"message": "The folder or path of the note."
 	},
 	"noteName": {
-		"message": "Nama catatan"
+		"message": "Note name"
 	},
 	"noteNameFormat": {
-		"message": "Nama catatan"
+		"message": "Note name"
 	},
 	"noteNameFormatDescription": {
-		"message": "Format untuk nama file catatan. Anda dapat menggunakan variabel seperti {{title}}, {{date}}, dan {{published}} untuk mengisi data yang tersedia dari laman web. $link_start$Pelajari lebih lanjut$link_end$.",
+		"message": "Format for the file name of the note. You can use variables like {{title}}, {{date}}, and {{published}} to pre-populate data from the page. $link_start$Learn more$link_end$.",
 		"placeholders": {
 			"link_end": {
 				"content": "</a>"
@@ -514,223 +514,223 @@
 		}
 	},
 	"notesAboutPage": {
-		"message": "Catatan tentang laman web ini..."
+		"message": "Notes about this page..."
 	},
 	"onlyHttpSupported": {
-		"message": "Laman ini tidak dapat diklip. Hanya laman web dengan URL http dan https yang didukung."
+		"message": "This page cannot be clipped. Only http and https URLs are supported."
 	},
 	"open": {
-		"message": "Buka"
+		"message": "Open"
 	},
 	"openBehaviorDescription": {
-		"message": "Pilih bagaimana Web Clipper dibuka secara default."
+		"message": "Choose how Web Clipper opens by default."
 	},
 	"openBehaviorTitle": {
-		"message": "Perilaku buka"
+		"message": "Open behavior"
 	},
 	"openEmbedded": {
-		"message": "Buka di halaman"
+		"message": "Open in page"
 	},
 	"openSidePanel": {
-		"message": "Buka panel samping"
+		"message": "Open side panel"
 	},
 	"optional": {
-		"message": "(opsional)"
+		"message": "(optional)"
 	},
 	"orPasteBelow": {
-		"message": "Atau tempel konten di bawah ini"
+		"message": "Or paste content below"
 	},
 	"overwriteNote": {
-		"message": "Timpa catatan"
+		"message": "Overwrite note"
 	},
 	"pageCannotBeClipped": {
-		"message": "Laman ini tidak dapat diklip."
+		"message": "This page cannot be clipped."
 	},
 	"pageVariables": {
-		"message": "Variabel laman web"
+		"message": "Page variables"
 	},
 	"pagesSaved": {
-		"message": "halaman tersimpan"
+		"message": "page saved"
 	},
 	"pagesSavedPlural": {
-		"message": "halaman-halaman tersimpan"
+		"message": "pages saved"
 	},
 	"pasteJsonHere": {
-		"message": "Tempel JSON di sini"
+		"message": "Paste JSON here"
 	},
 	"pleaseReload": {
-		"message": "Silakan coba muat ulang laman web."
+		"message": "Please try reloading the page."
 	},
 	"popularModels": {
-		"message": "Model populer"
+		"message": "Popular models"
 	},
 	"popularModelsDescription": {
-		"message": "Pilih dari model yang sering digunakan atau masukkan detail model kustom."
+		"message": "Choose from commonly used models or enter custom model details."
 	},
 	"popup": {
 		"message": "Popup"
 	},
 	"prependToDaily": {
-		"message": "Tambah ke catatan harian, di bagian awal"
+		"message": "Add to daily note, at the top"
 	},
 	"prependToExisting": {
-		"message": "Tambah ke catatan yang telah ada, di bagian awal"
+		"message": "Add to an existing note, at the top"
 	},
 	"preview": {
-		"message": "Pratinjau"
+		"message": "Preview"
 	},
 	"processing": {
-		"message": "memproses"
+		"message": "processing"
 	},
 	"properties": {
-		"message": "Properti"
+		"message": "Properties"
 	},
 	"propertiesSettings": {
-		"message": "Properti"
+		"message": "Properties"
 	},
 	"propertyName": {
-		"message": "Nama properti"
+		"message": "Property name"
 	},
 	"propertyTypeCheckbox": {
-		"message": "Kotak centang"
+		"message": "Checkbox"
 	},
 	"propertyTypeDate": {
-		"message": "Tanggal"
+		"message": "Date"
 	},
 	"propertyTypeDatetime": {
-		"message": "Tanggal & waktu"
+		"message": "Date & time"
 	},
 	"propertyTypeMultitext": {
-		"message": "Daftar"
+		"message": "List"
 	},
 	"propertyTypeNumber": {
-		"message": "Nomor"
+		"message": "Number"
 	},
 	"propertyTypeText": {
-		"message": "Teks"
+		"message": "Text"
 	},
 	"propertyValue": {
-		"message": "Value properti"
+		"message": "Property value"
 	},
 	"provider": {
-		"message": "Penyedia"
+		"message": "Provider"
 	},
 	"providerApiKey": {
-		"message": "Kunci API"
+		"message": "API key"
 	},
 	"providerApiKeyDescription": {
-		"message": "Kunci API Anda untuk penyedia ini."
+		"message": "Your API key for this provider."
 	},
 	"providerBaseUrl": {
-		"message": "URL Dasar"
+		"message": "Base URL"
 	},
 	"providerBaseUrlDescription": {
-		"message": "URL endpoint API untuk penyedia ini."
+		"message": "The API endpoint URL for this provider."
 	},
 	"providerModelId": {
-		"message": "ID model"
+		"message": "Model ID"
 	},
 	"providerModelIdDescription": {
-		"message": "Pengidentifikasi model dari penyedia Anda. Biasanya nama pendek tanpa spasi."
+		"message": "The identifier of the model from your provider. Typically a short name without spaces."
 	},
 	"providerModelIdPlaceholder": {
-		"message": "ID model"
+		"message": "Model ID"
 	},
 	"providerName": {
-		"message": "Nama penyedia"
+		"message": "Provider name"
 	},
 	"providerNameDescription": {
-		"message": "Nama tampilan untuk penyedia ini."
+		"message": "Display name for this provider."
 	},
 	"providerPreset": {
 		"message": "Preset"
 	},
 	"providerPresetDescription": {
-		"message": "Pilih penyedia atau buat yang kustom."
+		"message": "Choose a provider or create a custom one."
 	},
 	"providerRequiredFields": {
-		"message": "Nama penyedia dan URL Dasar diperlukan."
+		"message": "Provider name and Base URL are required."
 	},
 	"providers": {
-		"message": "Penyedia"
+		"message": "Providers"
 	},
 	"rateExtensionDescription": {
-		"message": "Apakah Anda menikmati Web Clipper? Bantu kami dengan memberikan penilaian."
+		"message": "Are you enjoying Web Clipper? Help us by giving it a rating."
 	},
 	"reader": {
-		"message": "Pembaca"
+		"message": "Reader"
 	},
 	"readerAppearance": {
-		"message": "Tampilan"
+		"message": "Appearance"
 	},
 	"readerAppearanceAuto": {
-		"message": "Otomatis"
+		"message": "Auto"
 	},
 	"readerAppearanceDark": {
-		"message": "Gelap"
+		"message": "Dark"
 	},
 	"readerAppearanceDescription": {
-		"message": "Pilih tampilan terang atau gelap."
+		"message": "Choose light or dark appearance."
 	},
 	"readerAppearanceLight": {
-		"message": "Terang"
+		"message": "Light"
 	},
 	"readerBlendImages": {
-		"message": "Padukan gambar"
+		"message": "Blend images"
 	},
 	"readerBlendImagesDescription": {
-		"message": "Padukan gambar dengan latar belakang halaman."
+		"message": "Blend images with the page background."
 	},
 	"readerCloseImageViewer": {
-		"message": "Tutup penampil gambar"
+		"message": "Close image viewer"
 	},
 	"readerCollapseComment": {
-		"message": "Ciutkan komentar"
+		"message": "Collapse comment"
 	},
 	"readerColorLinks": {
-		"message": "Warnai tautan"
+		"message": "Color links"
 	},
 	"readerColorSchemeDefault": {
 		"message": "Default"
 	},
 	"readerCustomCss": {
-		"message": "CSS kustom"
+		"message": "Custom CSS"
 	},
 	"readerCustomCssDescription": {
-		"message": "CSS diterapkan secara otomatis dalam tampilan baca."
+		"message": "CSS applied automatically in reading view."
 	},
 	"readerDarkTheme": {
-		"message": "Tema mode gelap"
+		"message": "Dark mode theme"
 	},
 	"readerDarkThemeDescription": {
-		"message": "Gunakan tema yang berbeda dalam mode gelap."
+		"message": "Use a different theme in dark mode."
 	},
 	"readerError": {
-		"message": "Gagal mengekstrak konten."
+		"message": "Failed to extract content."
 	},
 	"readerFont": {
-		"message": "Opsi font"
+		"message": "Font options"
 	},
 	"readerFontDefault": {
 		"message": "Default"
 	},
 	"readerFontDescription": {
-		"message": "Tambahkan font yang terinstal di sistem Anda. Tekan Enter untuk menambahkan font."
+		"message": "Add fonts installed on your system. Press enter to add a font."
 	},
 	"readerFontNotFound": {
-		"message": "Tidak ditemukan"
+		"message": "Not found"
 	},
 	"readerFontPlaceholder": {
-		"message": "Tekan Enter untuk menambahkan font"
+		"message": "Press enter to add a font"
 	},
 	"readerFontSetDefault": {
-		"message": "Jadikan default"
+		"message": "Set default"
 	},
 	"readerFontSize": {
-		"message": "Ukuran font dasar"
+		"message": "Base font size"
 	},
 	"readerFontSystem": {
-		"message": "Sistem"
+		"message": "System"
 	},
 	"readerFontSystemSans": {
 		"message": "Sans-serif"
@@ -739,217 +739,217 @@
 		"message": "Serif"
 	},
 	"readerFonts": {
-		"message": "Font"
+		"message": "Fonts"
 	},
 	"readerFootnotes": {
-		"message": "Catatan kaki"
+		"message": "Footnotes"
 	},
 	"readerImages": {
-		"message": "Gambar"
+		"message": "Images"
 	},
 	"readerLineHeight": {
-		"message": "Tinggi baris"
+		"message": "Line height"
 	},
 	"readerLineWidth": {
-		"message": "Lebar baris"
+		"message": "Line width"
 	},
 	"readerLoading": {
-		"message": "Mengurai…"
+		"message": "Defuddling…"
 	},
 	"readerSettings": {
-		"message": "Pengaturan pembaca"
+		"message": "Reader settings"
 	},
 	"readerTheme": {
-		"message": "Tema"
+		"message": "Theme"
 	},
 	"readerThemeDescription": {
-		"message": "Pilih warna yang digunakan dalam tampilan baca."
+		"message": "Choose the colors used in reading view."
 	},
 	"readerThemeSection": {
-		"message": "Tema"
+		"message": "Theme"
 	},
 	"readerTypography": {
-		"message": "Tipografi"
+		"message": "Typography"
 	},
 	"readerViewFullSize": {
-		"message": "Lihat ukuran penuh"
+		"message": "View full size"
 	},
 	"recommended": {
-		"message": "direkomendasikan"
+		"message": "recommended"
 	},
 	"refresh": {
-		"message": "Muat ulang"
+		"message": "Refresh"
 	},
 	"remove": {
-		"message": "Hapus"
+		"message": "Remove"
 	},
 	"removeProperty": {
-		"message": "Hapus properti"
+		"message": "Remove property"
 	},
 	"removeUnusedProperties": {
-		"message": "Hapus properti yang tidak digunakan"
+		"message": "Remove unused properties"
 	},
 	"removeUnusedPropertiesDescription": {
-		"message": "Hapus semua properti yang tidak digunakan dalam template apapun."
+		"message": "Remove all properties that are not used in any template."
 	},
 	"removeVault": {
-		"message": "Hapus vault"
+		"message": "Remove vault"
 	},
 	"replaceContent": {
-		"message": "Ganti konten laman web"
+		"message": "Replace the page content"
 	},
 	"reset": {
-		"message": "Atur ulang"
+		"message": "Reset"
 	},
 	"resetDefaultTemplate": {
-		"message": "Atur ulang template default"
+		"message": "Reset default template"
 	},
 	"resetDefaultTemplateDescription": {
-		"message": "Hapus semua perubahan yang telah dibuat pada template default."
+		"message": "Remove any changes you've made to the default template."
 	},
 	"resetProvidersAndModels": {
-		"message": "Atur ulang model default"
+		"message": "Reset default models"
 	},
 	"resetProvidersAndModelsDescription": {
-		"message": "Atur ulang penyedia dan model ke pengaturan default."
+		"message": "Reset providers and models to the default settings."
 	},
 	"save": {
-		"message": "Simpan"
+		"message": "Save"
 	},
 	"saveBehaviorDescription": {
-		"message": "Pilih opsi default untuk menyimpan halaman. Opsi alternatif muncul di menu dropdown di sebelah tombol utama."
+		"message": "Choose the default option for saving pages. Alternate options appear in the dropdown menu next to the main button."
 	},
 	"saveBehaviorLabel": {
-		"message": "Perilaku penyimpanan"
+		"message": "Save behavior"
 	},
 	"saveFile": {
-		"message": "Simpan file..."
+		"message": "Save file..."
 	},
 	"searchVariables": {
-		"message": "Cari variabel..."
+		"message": "Search variables..."
 	},
 	"selectProvider": {
-		"message": "Pilih penyedia"
+		"message": "Select a provider"
 	},
 	"selectTemplateToExport": {
-		"message": "Silakan pilih template untuk diekspor."
+		"message": "Please select a template to export."
 	},
 	"settings": {
-		"message": "Pengaturan"
+		"message": "Settings"
 	},
 	"settingsHeading": {
-		"message": "Pengaturan"
+		"message": "Settings"
 	},
 	"settingsImportSuccess": {
-		"message": "Semua pengaturan berhasil diimpor. Silakan segarkan halaman untuk melihat perubahannya."
+		"message": "All settings imported successfully. Please refresh the page to see the changes."
 	},
 	"share": {
-		"message": "Bagikan..."
+		"message": "Share..."
 	},
 	"shortcutInstructionsBrave": {
-		"message": "Untuk mengubah konfigurasi tombol, pergi ke $1"
+		"message": "To change key assignments, go to $1"
 	},
 	"shortcutInstructionsChrome": {
-		"message": "Untuk mengubah konfigurasi tombol, pergi ke $1"
+		"message": "To change key assignments, go to $1"
 	},
 	"shortcutInstructionsDefault": {
-		"message": "Untuk mengubah konfigurasi tombol, periksa pengaturan ekstensi browser Anda."
+		"message": "To change key assignments, please refer to your browser's extension settings."
 	},
 	"shortcutInstructionsEdge": {
-		"message": "Untuk mengubah konfigurasi tombol, pergi ke $1"
+		"message": "To change key assignments, go to $1"
 	},
 	"shortcutInstructionsFirefox": {
-		"message": "Untuk mengubah konfigurasi tombol, pergi ke $1, klik ikon roda gigi, dan pilih \"Kelola Pintasan Ekstensi\"."
+		"message": "To change key assignments, go to $1, click the gear icon, and select \"Manage Extension Shortcuts\"."
 	},
 	"shortcutInstructionsIntro": {
-		"message": "Pintasan keyboard memberi Anda akses cepat ke fitur clipper."
+		"message": "Keyboard shortcuts give you quick access to clipper features."
 	},
 	"shortcutInstructionsSafari": {
-		"message": "Pintasan keyboard tidak dapat disesuaikan di Safari."
+		"message": "Keyboard shortcuts are not customizable on Safari."
 	},
 	"shortcutNotSet": {
-		"message": "Belum diatur"
+		"message": "Not set"
 	},
 	"showActionsButton": {
-		"message": "Tampilkan tombol aksi"
+		"message": "Show actions button"
 	},
 	"showActionsDescription": {
-		"message": "Memungkinkan Anda memeriksa variabel laman web dari menu clipper. Berguna untuk melihat variabel yang dapat digunakan di dalam template."
+		"message": "Allows you to inspect page variables from the clipper menu. Useful for seeing the variables that are available to use in templates."
 	},
 	"showPageVariables": {
-		"message": "Tampilkan variabel laman web"
+		"message": "Show page variables"
 	},
 	"silentOpen": {
-		"message": "Simpan catatan yang diklip tanpa membuka catatan"
+		"message": "Save clipped note without opening it"
 	},
 	"silentOpenDescription": {
-		"message": "Catatan yang diklip akan disimpan, tetapi tidak akan dibuka di dalam tab baru. Obsidian tetap akan diangkat ke latar depan."
+		"message": "Clipped notes will be saved but will not open as a new tab. Obsidian will still be brought to the foreground."
 	},
 	"specificNoteName": {
-		"message": "Nama catatan spesifik"
+		"message": "Specific note name"
 	},
 	"systemDefault": {
-		"message": "Sistem"
+		"message": "System"
 	},
 	"template": {
-		"message": "Templat"
-	},
-	"templateCopied": {
-		"message": "Template JSON telah disalin ke papan klip"
-	},
-	"templateCopyError": {
-		"message": "Gagal menyalin template JSON ke papan klip"
-	},
-	"templateErrorCount": {
-		"message": "Ada kesalahan dalam template Anda."
-	},
-	"templateErrorsCount": {
-		"message": "Ada $1 kesalahan dalam template Anda."
-	},
-	"templateGroupContent": {
-		"message": "Konten"
-	},
-	"templateGroupLocation": {
-		"message": "Lokasi"
-	},
-	"templateName": {
-		"message": "Nama template"
-	},
-	"templateProperties": {
-		"message": "Properti"
-	},
-	"templatePropertiesDescription": {
-		"message": "Properti untuk ditambahkan ke bagian atas catatan yang diklip. Gunakan variabel untuk mengisi data yang tersedia dari laman web."
-	},
-	"templateTriggers": {
-		"message": "Pemicu template"
-	},
-	"templateTriggersDescription": {
-		"message": "Tentukan aturan untuk memilih template ini secara otomatis jika sesuai dengan pola URL yang ditentukan atau memiliki data schema.org. Tuliskan satu aturan per baris."
-	},
-	"templateValid": {
-		"message": "Sintaks template valid"
-	},
-	"templatesHeading": {
 		"message": "Template"
 	},
+	"templateCopied": {
+		"message": "Copied template JSON to clipboard"
+	},
+	"templateCopyError": {
+		"message": "Failed to copy template JSON to clipboard"
+	},
+	"templateErrorCount": {
+		"message": "There is an error in your template."
+	},
+	"templateErrorsCount": {
+		"message": "There are $1 errors in your template."
+	},
+	"templateGroupContent": {
+		"message": "Content"
+	},
+	"templateGroupLocation": {
+		"message": "Location"
+	},
+	"templateName": {
+		"message": "Template name"
+	},
+	"templateProperties": {
+		"message": "Properties"
+	},
+	"templatePropertiesDescription": {
+		"message": "Properties to add to the top of the clipped note. Use variables to pre-populate data from the page."
+	},
+	"templateTriggers": {
+		"message": "Template triggers"
+	},
+	"templateTriggersDescription": {
+		"message": "Define rules to automatically select this template if it matches a URL pattern or contains schema.org data. One rule per line."
+	},
+	"templateValid": {
+		"message": "Template syntax is valid"
+	},
+	"templatesHeading": {
+		"message": "Templates"
+	},
 	"thinking": {
-		"message": "berpikir"
+		"message": "thinking"
 	},
 	"unknownProvider": {
-		"message": "Penyedia tidak dikenal"
+		"message": "Unknown provider"
 	},
 	"updateAvailable": {
-		"message": "Pembaruan tersedia."
+		"message": "An update is available."
 	},
 	"usingLatestVersion": {
-		"message": "Anda menggunakan versi terbaru."
+		"message": "You are using the latest version."
 	},
 	"vault": {
 		"message": "Vault"
 	},
 	"vaultDescription": {
-		"message": "Pilih vault default untuk template ini. Pergi ke $link_start$pengaturan umum$link_end$ untuk menambah atau menghapus vault.",
+		"message": "Select the default vault for this template. Go to $link_start$general settings$link_end$ to add or remove vaults.",
 		"placeholders": {
 			"link_end": {
 				"content": "</a>"
@@ -960,10 +960,10 @@
 		}
 	},
 	"vaults": {
-		"message": "Vault"
+		"message": "Vaults"
 	},
 	"vaultsDescription": {
-		"message": "Secara default, catatan yang diklip akan disimpan ke vault yang sedang dibuka. Anda dapat menambahkan vault di sini jika Anda ingin menambah opsi untuk menyimpan ke vault lainnya. Nama vault harus sama persis dengan nama vault Obsidian. Tekan $strong_start$enter$strong_end$ untuk menambah vault.",
+		"message": "By default, clipped notes are saved to the currently open vault. You can add vaults here if you want the option to save to different vaults. Vault names must exactly match the name of the Obsidian vault. Press $strong_start$enter$strong_end$ to add a vault.",
 		"placeholders": {
 			"strong_end": {
 				"content": "</strong>"
@@ -974,6 +974,6 @@
 		}
 	},
 	"version": {
-		"message": "Versi"
+		"message": "Version"
 	}
 }
