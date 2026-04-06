@@ -1,99 +1,99 @@
 {
 	"activity": {
-		"message": "النشاط"
+		"message": "Activity"
 	},
 	"addModel": {
-		"message": "+ إضافة نموذج"
+		"message": "+ Add model"
 	},
 	"addModelTitle": {
-		"message": "إضافة نموذج"
+		"message": "Add model"
 	},
 	"addProperty": {
-		"message": "+ إضافة خاصية"
+		"message": "+ Add property"
 	},
 	"addProvider": {
-		"message": "+ أضف مزود"
+		"message": "+ Add provider"
 	},
 	"addProviderTitle": {
-		"message": "أضف مزود"
+		"message": "Add provider"
 	},
 	"addToObsidian": {
-		"message": "إضافة إلى أوبسيديان"
+		"message": "Add to Obsidian"
 	},
 	"addVaultPlaceholder": {
-		"message": "اضغط على Enter لإضافة خزينة"
+		"message": "Press enter to add a vault"
 	},
 	"advanced": {
-		"message": "متقدم"
+		"message": "Advanced"
 	},
 	"allProperties": {
-		"message": "جميع الخصائص"
+		"message": "All properties"
 	},
 	"allTime": {
-		"message": "كل الوقت"
+		"message": "All time"
 	},
 	"alwaysShowHighlights": {
-		"message": "إظهار التظليلات دائماً"
+		"message": "Always show highlights"
 	},
 	"alwaysShowHighlightsDescription": {
-		"message": "عرض التظليلات المحفوظة عند تحميل الصفحة. قم بإيقافها لعرض التظليلات فقط عند تفعيل وضع التظليل."
+		"message": "Display your saved highlights when you load a page. Turn off to only display highlights when highlighter mode is activated."
 	},
 	"apiKeyMissing": {
-		"message": "لا يوجد مفتاح API"
+		"message": "No API key"
 	},
 	"apiKeysWarning": {
-		"message": "باستخدام مزود خارجي، فإنك توافق على شروطهم وسياسة الخصوصية الخاصة بهم. يتم إرسال طلبات المفسر مباشرة إلى المزود الذي تختاره. لا يقوم Obsidian بجمع أو تخزين أي بيانات حول طلباتك."
+		"message": "By using an external provider you agree to their terms and privacy policy. Interpreter requests are sent directly to the provider you choose. Obsidian does not gather or store any data about your requests."
 	},
 	"appendToDaily": {
-		"message": "إضافة إلى الملاحظة اليومية، في النهاية"
+		"message": "Add to daily note, at the bottom"
 	},
 	"appendToExisting": {
-		"message": "إضافة إلى ملاحظة موجودة، في النهاية"
+		"message": "Add to an existing note, at the bottom"
 	},
 	"autoRunInterpreter": {
-		"message": "تشغيل تلقائي"
+		"message": "Automatically run"
 	},
 	"autoRunInterpreterDescription": {
-		"message": "تشغيل متغيرات الإدخال فورًا إذا كان القالب يحتوي على أي منها. سيستهلك هذا رصيد API مع مزود النموذج الخاص بك. قم بإيقاف التشغيل إذا كنت تريد فقط تشغيل المفسر يدويًا."
+		"message": "Run prompt variables immediately if the template contains any. This will consume API credits with your model provider. Turn off if you only want to run interpreter manually."
 	},
 	"behavior": {
-		"message": "السلوك"
+		"message": "Behavior"
 	},
 	"byDay": {
-		"message": "أيام"
+		"message": "Days"
 	},
 	"byMonth": {
-		"message": "أشهر"
+		"message": "Months"
 	},
 	"byWeek": {
-		"message": "أسابيع"
+		"message": "Weeks"
 	},
 	"cancel": {
-		"message": "إلغاء"
+		"message": "Cancel"
 	},
 	"cannotDeleteProvider": {
-		"message": "لا يمكن حذف المزود \"$1\" لأنه يتم استخدامه بواسطة $2 نموذج (نماذج)."
+		"message": "Cannot delete provider \"$1\" because it is being used by $2 model(s)."
 	},
 	"changelog": {
-		"message": "سجل التغييرات"
+		"message": "Changelog"
 	},
 	"chooseFile": {
-		"message": "اختر ملف"
+		"message": "Choose a file"
 	},
 	"choosePropertiesFile": {
-		"message": "اختر ملف الخصائص"
+		"message": "Choose properties file"
 	},
 	"chooseSettingsFile": {
-		"message": "اختر ملف الإعدادات"
+		"message": "Choose settings file"
 	},
 	"chooseTemplateFile": {
-		"message": "اختر ملف القالب"
+		"message": "Choose template file"
 	},
 	"clipBehavior": {
-		"message": "سلوك القص"
+		"message": "Clip behavior"
 	},
 	"clipBehaviorDescription": {
-		"message": "اختر كيفية حفظ المحتوى المظلل في أوبسيديان. يحدد متغير $strong_start${{content}}$strong_end$.",
+		"message": "Choose how highlighted content is saved to Obsidian. Defines the $strong_start${{content}}$strong_end$ variable.",
 		"placeholders": {
 			"strong_end": {
 				"content": "</strong>"
@@ -104,7 +104,7 @@
 		}
 	},
 	"clipboardError": {
-		"message": "لا يستطيع Obsidian الوصول إلى الحافظة لديك. جرّب إرشادات استكشاف الأخطاء وإصلاحها هنا: $1",
+		"message": "Obsidian is not able to access your clipboard. Try the troubleshooting instructions here: $1",
 		"placeholders": {
 			"1": {
 				"content": "$1"
@@ -112,79 +112,79 @@
 		}
 	},
 	"close": {
-		"message": "إغلاق"
+		"message": "Close"
 	},
 	"commandOpenClipper": {
-		"message": "فتح قاصّ أوبسيديان"
+		"message": "Open Obsidian Clipper"
 	},
 	"commandQuickClip": {
-		"message": "قص سريع"
+		"message": "Quick clip"
 	},
 	"commandToggleHighlighter": {
-		"message": "تبديل وضع التظليل"
+		"message": "Toggle highlighter"
 	},
 	"commandToggleReader": {
-		"message": "تبديل وضع القراءة"
+		"message": "Toggle reader"
 	},
 	"confirmDeleteTemplate": {
-		"message": "هل أنت متأكد من أنك تريد حذف القالب \"$1\"؟"
+		"message": "Are you sure you want to delete the template \"$1\"?"
 	},
 	"confirmReplaceSettings": {
-		"message": "سيؤدي هذا إلى استبدال كل إعداداتك الحالية، بما في ذلك القوالب والخصائص. هل أنت متأكد أنك تريد المتابعة؟"
+		"message": "This will replace all your current settings, including templates and properties. Are you sure you want to continue?"
 	},
 	"copied": {
-		"message": "تم النسخ!"
+		"message": "Copied!"
 	},
 	"copyAsJson": {
-		"message": "نسخ كـ JSON"
+		"message": "Copy as JSON"
 	},
 	"copyToClipboard": {
-		"message": "نسخ إلى الحافظة"
+		"message": "Copy to clipboard"
 	},
 	"createNewNote": {
-		"message": "إنشاء ملاحظة جديدة"
+		"message": "Create new note"
 	},
 	"custom": {
-		"message": "مخصص"
+		"message": "Custom"
 	},
 	"dailyNoteFormat": {
-		"message": "تنسيق الملاحظة اليومية (مثال: YYYY-MM-DD)"
+		"message": "Daily note format (e.g., YYYY-MM-DD)"
 	},
 	"defaultInterpreterContext": {
-		"message": "سياق المفسر الافتراضي"
+		"message": "Default interpreter context"
 	},
 	"defaultInterpreterContextDescription": {
-		"message": "سيستخدم النموذج هذا السياق لتفسير متغيرات الإدخال. يمكن استخدام المتغيرات والمرشحات هنا."
+		"message": "Override the context used to interpret prompt variables. Variables can be used here."
 	},
 	"defaultTemplateName": {
-		"message": "افتراضي"
+		"message": "Default"
 	},
 	"delete": {
-		"message": "حذف"
+		"message": "Delete"
 	},
 	"deleteModelConfirm": {
-		"message": "هل أنت متأكد من أنك تريد حذف هذا النموذج؟"
+		"message": "Are you sure you want to delete this model?"
 	},
 	"deleteProviderConfirm": {
-		"message": "هل أنت متأكد أنك تريد حذف هذا المزود؟"
+		"message": "Are you sure you want to delete this provider?"
 	},
 	"disableHighlighter": {
-		"message": "تعطيل المظلل"
+		"message": "Disable highlighter"
 	},
 	"disableReader": {
-		"message": "تعطيل وضع القراءة"
+		"message": "Disable reader"
 	},
 	"done": {
-		"message": "تم"
+		"message": "Done"
 	},
 	"dragAndDropFile": {
-		"message": "اسحب وأسقط الملف هنا"
+		"message": "Drag and drop file here"
 	},
 	"duplicate": {
-		"message": "نسخ"
+		"message": "Duplicate"
 	},
 	"earlyAccessDescription": {
-		"message": "استخدم الميزات التي تتطلب أحدث $link_start$نسخة وصول مبكر$link_end$ من أوبسيديان. تتطلب حالياً أوبسيديان 1.7.2 أو أحدث.",
+		"message": "Use features that require the latest $link_start$early access version$link_end$ of Obsidian. Currently requires Obsidian 1.7.2 or later.",
 		"placeholders": {
 			"link_end": {
 				"content": "</a>"
@@ -195,31 +195,31 @@
 		}
 	},
 	"earlyAccessFeatures": {
-		"message": "ميزات الوصول المبكر"
+		"message": "Early access features"
 	},
 	"editModel": {
-		"message": "تعديل النموذج"
+		"message": "Edit model"
 	},
 	"editProvider": {
-		"message": "تعديل المزود"
+		"message": "Edit provider"
 	},
 	"editTemplate": {
-		"message": "تعديل القالب"
+		"message": "Edit template"
 	},
 	"embedded": {
-		"message": "مضمن"
+		"message": "Embedded"
 	},
 	"enableHighlighter": {
-		"message": "تفعيل المظلل"
+		"message": "Enable highlighter"
 	},
 	"enableHighlighterDescription": {
-		"message": "قم بتظليل المحتوى على صفحات الويب الذي تريد حفظه في أوبسيديان."
+		"message": "Highlight content on web pages that you can save to Obsidian."
 	},
 	"enableInterpreter": {
-		"message": "تمكين المفسر"
+		"message": "Enable interpreter"
 	},
 	"enableInterpreterDescription": {
-		"message": "استخدم اللغة الطبيعية لاستخراج البيانات من الصفحات. على سبيل المثال، يمكنك استخدام صيغة القالب $strong_start${{\"ملخص للصفحة\"}}$strong_end$. يتطلب مفتاح API أو نموذج مخصص تم تكوينه أدناه. $link_start$تعلم المزيد$link_end$",
+		"message": "Use natural language to extract data from pages. For example, you can use the template syntax $strong_start${{\"a summary of the page\"}}$strong_end$. Requires an API key or custom model configured below.  $link_start$Learn more$link_end$.",
 		"placeholders": {
 			"link_end": {
 				"content": "</a>"
@@ -236,31 +236,31 @@
 		}
 	},
 	"enableReader": {
-		"message": "فتح وضع القراءة"
+		"message": "Open reading view"
 	},
 	"error": {
-		"message": "خطأ"
+		"message": "Error"
 	},
 	"export": {
-		"message": "تصدير"
+		"message": "Export"
 	},
 	"exportAllSettings": {
-		"message": "تصدير جميع الإعدادات"
+		"message": "Export all settings"
 	},
 	"exportAllSettingsDescription": {
-		"message": "تصدير جميع الإعدادات بما في ذلك القوالب والخصائص."
+		"message": "Export all settings including templates and properties."
 	},
 	"exportHighlights": {
-		"message": "تصدير التظليلات"
+		"message": "Export highlights"
 	},
 	"exportHighlightsDescription": {
-		"message": "تصدير تظليلاتك إلى ملف."
+		"message": "Export your highlights to a file."
 	},
 	"exportProperties": {
-		"message": "تصدير الخصائص"
+		"message": "Export properties"
 	},
 	"exportPropertiesDescription": {
-		"message": "احفظ خصائص قاصّ الويب في ملف $strong_start$types.json$strong_end$ يمكن استيراده إلى خزينة أوبسيديان الخاصة بك، أو إلى قاصّ الويب على أجهزة أخرى.",
+		"message": "Save Web Clipper properties to a $strong_start$types.json$strong_end$ file that can be imported into your Obsidian vault, or into Web Clipper on other devices.",
 		"placeholders": {
 			"strong_end": {
 				"content": "</strong>"
@@ -271,121 +271,121 @@
 		}
 	},
 	"extensionDescription": {
-		"message": "احفظ المحتوى من الويب بتنسيق خاص ودائم يمكنك الوصول إليه دون اتصال. الإضافة الرسمية للمتصفح لأوبسيديان."
+		"message": "Save content from the web in a private and durable format that you can access offline. The official browser extension for Obsidian."
 	},
 	"extensionName": {
-		"message": "قاصّ أوبسيديان للويب"
+		"message": "Obsidian Web Clipper"
 	},
 	"failedToCopyText": {
-		"message": "فشل نسخ النص"
+		"message": "Failed to copy text"
 	},
 	"failedToDeleteTemplate": {
-		"message": "فشل حذف القالب. يرجى المحاولة مرة أخرى."
+		"message": "Failed to delete template. Please try again."
 	},
 	"failedToDuplicateTemplate": {
-		"message": "فشل في تكرار القالب. يرجى المحاولة مرة أخرى."
+		"message": "Failed to duplicate template. Please try again."
 	},
 	"failedToExportHighlights": {
-		"message": "فشل في تصدير الأبراز. يرجى التحقق من وحدة التحكم لمزيد من التفاصيل."
+		"message": "Failed to export highlights. Please check the console for more details."
 	},
 	"failedToExportSettings": {
-		"message": "فشل في تصدير الإعدادات. يرجى التحقق من وحدة التحكم لمزيد من التفاصيل."
+		"message": "Failed to export settings. Please check the console for more details."
 	},
 	"failedToExtractContent": {
-		"message": "تعذر استخراج محتوى الصفحة."
+		"message": "Unable to extract page content."
 	},
 	"failedToImportTemplate": {
-		"message": "خطأ في استيراد القالب. يرجى التحقق من الملف والمحاولة مرة أخرى."
+		"message": "Error importing template. Please check the file and try again."
 	},
 	"failedToInitialize": {
-		"message": "يرجى محاولة إعادة تحميل الإضافة."
+		"message": "Please try reloading the extension."
 	},
 	"failedToInitializeContent": {
-		"message": "تعذر تهيئة محتوى الصفحة."
+		"message": "Unable to initialize page content."
 	},
 	"failedToProcessInterpreter": {
-		"message": "فشلت معالجة المفسر. يرجى المحاولة مرة أخرى."
+		"message": "Interpreter processing failed. Please try again."
 	},
 	"failedToResetProviders": {
-		"message": "فشل في إعادة تعيين المزودين والنماذج"
+		"message": "Failed to reset providers and models"
 	},
 	"failedToResetTemplate": {
-		"message": "فشل إعادة تعيين القالب الافتراضي. يرجى المحاولة مرة أخرى."
+		"message": "Failed to reset default template. Please try again."
 	},
 	"failedToSave": {
-		"message": "فشل حفظ الملف"
+		"message": "Failed to save file"
 	},
 	"failedToSaveFile": {
-		"message": "فشل حفظ الملف"
+		"message": "Failed to save file"
 	},
 	"failedToSaveProvider": {
-		"message": "فشل في حفظ المزود. يرجى المحاولة مرة أخرى."
+		"message": "Failed to save provider. Please try again."
 	},
 	"feedback": {
-		"message": "الملاحظات"
+		"message": "Feedback"
 	},
 	"feedbackDescription": {
-		"message": "كيف يمكننا تحسين Web Clipper؟ يرجى زيارة صفحة المساعدة الخاصة بنا، حيث يمكنك الإبلاغ عن الأخطاء، اقتراح الميزات، والحصول على المساعدة في المشكلات الشائعة."
+		"message": "How can we improve Web Clipper? Please visit our help page, where you can report bugs, suggest features, and get help with common issues."
 	},
 	"feedbackTitle": {
-		"message": "شكراً لملاحظاتك"
+		"message": "Thanks for your feedback"
 	},
 	"folder": {
-		"message": "مجلد"
+		"message": "Folder"
 	},
 	"general": {
-		"message": "عام"
+		"message": "General"
 	},
 	"generalSettings": {
-		"message": "الإعدادات العامة"
+		"message": "General settings"
 	},
 	"getApiKeyHere": {
-		"message": "احصل على مفتاح API الخاص بك $1 هنا."
+		"message": "Get your $1 API key here."
 	},
 	"help": {
-		"message": "المساعدة"
+		"message": "Help"
 	},
 	"helpDescription": {
-		"message": "تعلم كيفية استخدام قاصّ الويب واحصل على المساعدة في حل المشكلات."
+		"message": "Learn how to use Web Clipper and get help troubleshooting."
 	},
 	"highlightInline": {
-		"message": "تظليل محتوى الصفحة"
+		"message": "Highlight the page content"
 	},
 	"highlightPage": {
-		"message": "تظليل الصفحة"
+		"message": "Highlight page"
 	},
 	"highlighter": {
-		"message": "المظلل"
+		"message": "Highlighter"
 	},
 	"highlighterSettings": {
-		"message": "المظلل"
+		"message": "Highlighter"
 	},
 	"history": {
-		"message": "التاريخ"
+		"message": "History"
 	},
 	"hotkeys": {
-		"message": "اختصارات لوحة المفاتيح"
+		"message": "Hotkeys"
 	},
 	"import": {
-		"message": "استيراد"
+		"message": "Import"
 	},
 	"importAllSettings": {
-		"message": "استيراد جميع الإعدادات"
+		"message": "Import all settings"
 	},
 	"importAllSettingsDescription": {
-		"message": "استيراد جميع الإعدادات بما في ذلك القوالب والخصائص. سيؤدي هذا إلى استبدال التكوين الحالي الخاص بك."
+		"message": "Import all settings including templates and properties. This will replace your current configuration."
 	},
 	"importFailed": {
-		"message": "فشل الاستيراد. يرجى التحقق من وحدة التحكم لمزيد من التفاصيل."
+		"message": "Import failed. Please check the console for more details."
 	},
 	"importModalTitle": {
-		"message": "استيراد"
+		"message": "Import"
 	},
 	"importProperties": {
-		"message": "استيراد الخصائص"
+		"message": "Import properties"
 	},
 	"importPropertiesDescription": {
-		"message": "لاستيراد خصائصك من أوبسيديان، حدد موقع ملف $strong_1_start$types.json$strong_1_end$ في مجلد $strong_2_start$.obsidian$strong_2_end$ داخل خزينتك. لاحظ أن هذا المجلد مخفي افتراضياً في معظم أنظمة التشغيل.",
+		"message": "To import your properties from Obsidian, locate the $strong_1_start$types.json$strong_1_end$ file in the $strong_2_start$.obsidian$strong_2_end$ folder within your vault. Note this folder is hidden by default on most operating systems.",
 		"placeholders": {
 			"strong_1_end": {
 				"content": "</strong>"
@@ -402,22 +402,22 @@
 		}
 	},
 	"importSettings": {
-		"message": "استيراد الإعدادات"
+		"message": "Import settings"
 	},
 	"importTemplate": {
-		"message": "استيراد القالب"
+		"message": "Import template"
 	},
 	"interpret": {
-		"message": "تفسير"
+		"message": "interpret"
 	},
 	"interpreter": {
-		"message": "المفسر"
+		"message": "Interpreter"
 	},
 	"interpreterContext": {
-		"message": "سياق المفسر"
+		"message": "Interpreter context"
 	},
 	"interpreterContextDescription": {
-		"message": "السياق المستخدم لتفسير متغيرات الإدخال. يتجاوز السياق الافتراضي المحدد في $link_start$إعدادات المفسر$link_end$. يمكن استخدام المتغيرات هنا.",
+		"message": "The context used to interpret prompt variables. Overrides the default context defined in $link_start$Interpreter settings$link_end$. Variables can be used here.",
 		"placeholders": {
 			"link_end": {
 				"content": "</a>"
@@ -428,82 +428,82 @@
 		}
 	},
 	"language": {
-		"message": "اللغة"
+		"message": "Language"
 	},
 	"languageDescription": {
-		"message": "اختر لغة العرض لواجهة الإضافة."
+		"message": "Choose the display language for the extension interface."
 	},
 	"last30Days": {
-		"message": "الـ 30 يومًا الماضية"
+		"message": "Last 30 days"
 	},
 	"lastUsed": {
-		"message": "آخر استخدام"
+		"message": "Last used"
 	},
 	"legacyMode": {
-		"message": "الوضع القديم"
+		"message": "Legacy mode"
 	},
 	"legacyModeDescription": {
-		"message": "يستخدم طريقة قص URI المتوافقة مع أوبسيديان 1.6.7 أو أقدم. لاحظ أن طول المحتوى الذي يمكنك قصه محدود بواسطة متصفحك ونظام التشغيل. قد تفشل بعض الصفحات بدون أي أخطاء."
+		"message": "Uses the URI clipping method compatible with Obsidian 1.6.7 or earlier. Note that the length of the content you can clip is limited by your browser and OS. Some pages may fail without any errors."
 	},
 	"modelName": {
-		"message": "اسم النموذج"
+		"message": "Display name"
 	},
 	"modelNameDescription": {
-		"message": "اسم النموذج الذي تريد عرضه في الواجهة."
+		"message": "The name of the model you want to display in the interface."
 	},
 	"modelProvider": {
-		"message": "المزود"
+		"message": "Provider"
 	},
 	"modelProviderDescription": {
-		"message": "مزود النموذج، على سبيل المثال Ollama أو OpenRouter أو Google، إلخ."
+		"message": "Select the provider for this model."
 	},
 	"modelProviderPlaceholder": {
-		"message": "المزود"
+		"message": "Provider"
 	},
 	"modelRequiredFields": {
-		"message": "اسم النموذج، المزود، ومعرف النموذج مطلوبين."
+		"message": "Model name, Provider, and Model ID are required."
 	},
 	"models": {
-		"message": "النماذج"
+		"message": "Models"
 	},
 	"modelsListFor": {
-		"message": "قائمة النماذج لـ $1"
+		"message": "Models list for $1"
 	},
 	"more": {
-		"message": "المزيد"
+		"message": "More"
 	},
 	"newTemplate": {
-		"message": "قالب جديد"
+		"message": "New template"
 	},
 	"noHighlights": {
-		"message": "لا تفعل شيئاً"
+		"message": "Do nothing"
 	},
 	"noTemplates": {
-		"message": "لا توجد قوالب متاحة. يرجى إضافة قالب في الإعدادات."
+		"message": "No templates available. Please add a template in the settings."
 	},
 	"noUnusedProperties": {
-		"message": "لم يتم العثور على خصائص غير مستخدمة."
+		"message": "No unused properties found."
 	},
 	"noteContent": {
-		"message": "محتوى الملاحظة"
+		"message": "Note content"
 	},
 	"noteContentDescription": {
-		"message": "تخصيص محتوى الملاحظة. استخدم المتغيرات لملء البيانات مسبقاً من الصفحة."
+		"message": "Customize the content of the note. Use variables to pre-populate data from the page."
 	},
 	"noteLocation": {
-		"message": "موقع الملاحظة"
+		"message": "Note location"
 	},
 	"noteLocationDescription": {
-		"message": "المجلد أو المسار للملاحظة."
+		"message": "The folder or path of the note."
 	},
 	"noteName": {
-		"message": "اسم الملاحظة"
+		"message": "Note name"
 	},
 	"noteNameFormat": {
-		"message": "اسم الملاحظة"
+		"message": "Note name"
 	},
 	"noteNameFormatDescription": {
-		"message": "تنسيق اسم ملف الملاحظة. يمكنك استخدام متغيرات مثل {{title}}، {{date}}، و{{published}} لملء البيانات مسبقاً من الصفحة. $link_start$تعلم المزيد$link_end$.",
+		"message": "Format for the file name of the note. You can use variables like {{title}}, {{date}}, and {{published}} to pre-populate data from the page. $link_start$Learn more$link_end$.",
 		"placeholders": {
 			"link_end": {
 				"content": "</a>"
@@ -514,223 +514,223 @@
 		}
 	},
 	"notesAboutPage": {
-		"message": "ملاحظات حول هذه الصفحة..."
+		"message": "Notes about this page..."
 	},
 	"onlyHttpSupported": {
-		"message": "لا يمكن قص هذه الصفحة. يتم دعم عناوين URL من نوع http و https فقط."
+		"message": "This page cannot be clipped. Only http and https URLs are supported."
 	},
 	"open": {
-		"message": "فتح"
+		"message": "Open"
 	},
 	"openBehaviorDescription": {
-		"message": "اختر كيف يفتح Web Clipper بشكل افتراضي."
+		"message": "Choose how Web Clipper opens by default."
 	},
 	"openBehaviorTitle": {
-		"message": "سلوك الفتح"
+		"message": "Open behavior"
 	},
 	"openEmbedded": {
-		"message": "افتح في الصفحة"
+		"message": "Open in page"
 	},
 	"openSidePanel": {
-		"message": "افتح اللوحة الجانبية"
+		"message": "Open side panel"
 	},
 	"optional": {
-		"message": "(اختياري)"
+		"message": "(optional)"
 	},
 	"orPasteBelow": {
-		"message": "أو الصق المحتوى أدناه"
+		"message": "Or paste content below"
 	},
 	"overwriteNote": {
-		"message": "استبدال الملاحظة"
+		"message": "Overwrite note"
 	},
 	"pageCannotBeClipped": {
-		"message": "لا يمكن قص هذه الصفحة."
+		"message": "This page cannot be clipped."
 	},
 	"pageVariables": {
-		"message": "متغيرات الصفحة"
+		"message": "Page variables"
 	},
 	"pagesSaved": {
-		"message": "تم حفظ الصفحة"
+		"message": "page saved"
 	},
 	"pagesSavedPlural": {
-		"message": "تم حفظ الصفحات"
+		"message": "pages saved"
 	},
 	"pasteJsonHere": {
-		"message": "الصق JSON هنا"
+		"message": "Paste JSON here"
 	},
 	"pleaseReload": {
-		"message": "يرجى محاولة إعادة تحميل الصفحة."
+		"message": "Please try reloading the page."
 	},
 	"popularModels": {
-		"message": "النماذج الشائعة"
+		"message": "Popular models"
 	},
 	"popularModelsDescription": {
-		"message": "اختر من النماذج المستخدمة بشكل شائع أو أدخل تفاصيل النموذج المخصص."
+		"message": "Choose from commonly used models or enter custom model details."
 	},
 	"popup": {
-		"message": "القائمة المنبثقة"
+		"message": "Popup"
 	},
 	"prependToDaily": {
-		"message": "إضافة إلى الملاحظة اليومية، في البداية"
+		"message": "Add to daily note, at the top"
 	},
 	"prependToExisting": {
-		"message": "إضافة إلى ملاحظة موجودة، في البداية"
+		"message": "Add to an existing note, at the top"
 	},
 	"preview": {
-		"message": "معاينة"
+		"message": "Preview"
 	},
 	"processing": {
-		"message": "جاري المعالجة"
+		"message": "processing"
 	},
 	"properties": {
-		"message": "الخصائص"
+		"message": "Properties"
 	},
 	"propertiesSettings": {
-		"message": "الخصائص"
+		"message": "Properties"
 	},
 	"propertyName": {
-		"message": "اسم الخاصية"
+		"message": "Property name"
 	},
 	"propertyTypeCheckbox": {
-		"message": "مربع الاختيار"
+		"message": "Checkbox"
 	},
 	"propertyTypeDate": {
-		"message": "تاريخ"
+		"message": "Date"
 	},
 	"propertyTypeDatetime": {
-		"message": "التاريخ والوقت"
+		"message": "Date & time"
 	},
 	"propertyTypeMultitext": {
-		"message": "قائمة"
+		"message": "List"
 	},
 	"propertyTypeNumber": {
-		"message": "رقم"
+		"message": "Number"
 	},
 	"propertyTypeText": {
-		"message": "نص"
+		"message": "Text"
 	},
 	"propertyValue": {
-		"message": "قيمة الخاصية"
+		"message": "Property value"
 	},
 	"provider": {
-		"message": "المزود"
+		"message": "Provider"
 	},
 	"providerApiKey": {
-		"message": "مفتاح API"
+		"message": "API key"
 	},
 	"providerApiKeyDescription": {
-		"message": "مفتاح API الخاص بك لهذا المزود."
+		"message": "Your API key for this provider."
 	},
 	"providerBaseUrl": {
-		"message": "URL الأساسي"
+		"message": "Base URL"
 	},
 	"providerBaseUrlDescription": {
-		"message": "URL نقطة النهاية لل API لهذا المزود."
+		"message": "The API endpoint URL for this provider."
 	},
 	"providerModelId": {
-		"message": "معرف النموذج"
+		"message": "Model ID"
 	},
 	"providerModelIdDescription": {
-		"message": "معرف النموذج من المزود الخاص بك. عادةً ما يكون اسمًا قصيرًا بدون مسافات."
+		"message": "The identifier of the model from your provider. Typically a short name without spaces."
 	},
 	"providerModelIdPlaceholder": {
-		"message": "معرف النموذج"
+		"message": "Model ID"
 	},
 	"providerName": {
-		"message": "اسم المزود"
+		"message": "Provider name"
 	},
 	"providerNameDescription": {
-		"message": "اسم العرض لهذا المزود."
+		"message": "Display name for this provider."
 	},
 	"providerPreset": {
-		"message": "الإعداد المسبق"
+		"message": "Preset"
 	},
 	"providerPresetDescription": {
-		"message": "اختر مزود أو أنشئ واحدًا مخصصًا."
+		"message": "Choose a provider or create a custom one."
 	},
 	"providerRequiredFields": {
-		"message": "اسم المزود وURL الأساسي مطلوبين."
+		"message": "Provider name and Base URL are required."
 	},
 	"providers": {
-		"message": "المزودون"
+		"message": "Providers"
 	},
 	"rateExtensionDescription": {
-		"message": "هل تستمتع بـ Web Clipper؟ ساعدنا عن طريق تقييمه."
+		"message": "Are you enjoying Web Clipper? Help us by giving it a rating."
 	},
 	"reader": {
-		"message": "القارئ"
+		"message": "Reader"
 	},
 	"readerAppearance": {
-		"message": "المظهر"
+		"message": "Appearance"
 	},
 	"readerAppearanceAuto": {
-		"message": "تلقائي"
+		"message": "Auto"
 	},
 	"readerAppearanceDark": {
-		"message": "داكن"
+		"message": "Dark"
 	},
 	"readerAppearanceDescription": {
-		"message": "اختر المظهر الفاتح أو الداكن."
+		"message": "Choose light or dark appearance."
 	},
 	"readerAppearanceLight": {
-		"message": "فاتح"
+		"message": "Light"
 	},
 	"readerBlendImages": {
-		"message": "دمج الصور"
+		"message": "Blend images"
 	},
 	"readerBlendImagesDescription": {
-		"message": "ادمج الصور مع خلفية الصفحة."
+		"message": "Blend images with the page background."
 	},
 	"readerCloseImageViewer": {
-		"message": "إغلاق عارض الصور"
+		"message": "Close image viewer"
 	},
 	"readerCollapseComment": {
-		"message": "طيّ التعليق"
+		"message": "Collapse comment"
 	},
 	"readerColorLinks": {
-		"message": "تلوين الروابط"
+		"message": "Color links"
 	},
 	"readerColorSchemeDefault": {
-		"message": "افتراضي"
+		"message": "Default"
 	},
 	"readerCustomCss": {
-		"message": "CSS مخصص"
+		"message": "Custom CSS"
 	},
 	"readerCustomCssDescription": {
-		"message": "يتم تطبيق CSS تلقائيًا في عرض القراءة."
+		"message": "CSS applied automatically in reading view."
 	},
 	"readerDarkTheme": {
-		"message": "سمة الوضع الداكن"
+		"message": "Dark mode theme"
 	},
 	"readerDarkThemeDescription": {
-		"message": "استخدم سمة مختلفة في الوضع الداكن."
+		"message": "Use a different theme in dark mode."
 	},
 	"readerError": {
-		"message": "فشل استخراج المحتوى."
+		"message": "Failed to extract content."
 	},
 	"readerFont": {
-		"message": "خيارات الخط"
+		"message": "Font options"
 	},
 	"readerFontDefault": {
-		"message": "افتراضي"
+		"message": "Default"
 	},
 	"readerFontDescription": {
-		"message": "أضف الخطوط المثبتة على نظامك. اضغط Enter لإضافة خط."
+		"message": "Add fonts installed on your system. Press enter to add a font."
 	},
 	"readerFontNotFound": {
-		"message": "غير موجود"
+		"message": "Not found"
 	},
 	"readerFontPlaceholder": {
-		"message": "اضغط Enter لإضافة خط"
+		"message": "Press enter to add a font"
 	},
 	"readerFontSetDefault": {
-		"message": "تعيين كافتراضي"
+		"message": "Set default"
 	},
 	"readerFontSize": {
-		"message": "حجم الخط الأساسي"
+		"message": "Base font size"
 	},
 	"readerFontSystem": {
-		"message": "النظام"
+		"message": "System"
 	},
 	"readerFontSystemSans": {
 		"message": "Sans-serif"
@@ -739,217 +739,217 @@
 		"message": "Serif"
 	},
 	"readerFonts": {
-		"message": "الخطوط"
+		"message": "Fonts"
 	},
 	"readerFootnotes": {
-		"message": "الحواشي"
+		"message": "Footnotes"
 	},
 	"readerImages": {
-		"message": "الصور"
+		"message": "Images"
 	},
 	"readerLineHeight": {
-		"message": "ارتفاع السطر"
+		"message": "Line height"
 	},
 	"readerLineWidth": {
-		"message": "عرض السطر"
+		"message": "Line width"
 	},
 	"readerLoading": {
-		"message": "إزالة التشويش…"
+		"message": "Defuddling…"
 	},
 	"readerSettings": {
-		"message": "إعدادات القارئ"
+		"message": "Reader settings"
 	},
 	"readerTheme": {
-		"message": "السمة"
+		"message": "Theme"
 	},
 	"readerThemeDescription": {
-		"message": "اختر الألوان المستخدمة في عرض القراءة."
+		"message": "Choose the colors used in reading view."
 	},
 	"readerThemeSection": {
-		"message": "السمة"
+		"message": "Theme"
 	},
 	"readerTypography": {
-		"message": "الطباعة"
+		"message": "Typography"
 	},
 	"readerViewFullSize": {
-		"message": "عرض بالحجم الكامل"
+		"message": "View full size"
 	},
 	"recommended": {
-		"message": "موصى به"
+		"message": "recommended"
 	},
 	"refresh": {
-		"message": "تحديث"
+		"message": "Refresh"
 	},
 	"remove": {
-		"message": "إزالة"
+		"message": "Remove"
 	},
 	"removeProperty": {
-		"message": "إزالة الخاصية"
+		"message": "Remove property"
 	},
 	"removeUnusedProperties": {
-		"message": "إزالة الخصائص غير المستخدمة"
+		"message": "Remove unused properties"
 	},
 	"removeUnusedPropertiesDescription": {
-		"message": "إزالة جميع الخصائص التي لا تستخدم في أي قالب."
+		"message": "Remove all properties that are not used in any template."
 	},
 	"removeVault": {
-		"message": "إزالة الخزينة"
+		"message": "Remove vault"
 	},
 	"replaceContent": {
-		"message": "استبدال محتوى الصفحة"
+		"message": "Replace the page content"
 	},
 	"reset": {
-		"message": "إعادة تعيين"
+		"message": "Reset"
 	},
 	"resetDefaultTemplate": {
-		"message": "إعادة تعيين القالب الافتراضي"
+		"message": "Reset default template"
 	},
 	"resetDefaultTemplateDescription": {
-		"message": "إزالة أي تغييرات قمت بها على القالب الافتراضي."
+		"message": "Remove any changes you've made to the default template."
 	},
 	"resetProvidersAndModels": {
-		"message": "إعادة تعيين النماذج الافتراضية"
+		"message": "Reset default models"
 	},
 	"resetProvidersAndModelsDescription": {
-		"message": "إعادة تعيين المزودين والنماذج إلى الإعدادات الافتراضية."
+		"message": "Reset providers and models to the default settings."
 	},
 	"save": {
-		"message": "حفظ"
+		"message": "Save"
 	},
 	"saveBehaviorDescription": {
-		"message": "اختر الخيار الافتراضي لحفظ الصفحات. تظهر الخيارات البديلة في القائمة المنسدلة بجوار الزر الرئيسي."
+		"message": "Choose the default option for saving pages. Alternate options appear in the dropdown menu next to the main button."
 	},
 	"saveBehaviorLabel": {
-		"message": "سلوك الحفظ"
+		"message": "Save behavior"
 	},
 	"saveFile": {
-		"message": "حفظ الملف..."
+		"message": "Save file..."
 	},
 	"searchVariables": {
-		"message": "البحث عن المتغيرات..."
+		"message": "Search variables..."
 	},
 	"selectProvider": {
-		"message": "اختر مزود"
+		"message": "Select a provider"
 	},
 	"selectTemplateToExport": {
-		"message": "الرجاء اختيار قالب للتصدير."
+		"message": "Please select a template to export."
 	},
 	"settings": {
-		"message": "الإعدادات"
+		"message": "Settings"
 	},
 	"settingsHeading": {
-		"message": "الإعدادات"
+		"message": "Settings"
 	},
 	"settingsImportSuccess": {
-		"message": "تم استيراد جميع الإعدادات بنجاح. يرجى تحديث الصفحة لرؤية التغييرات."
+		"message": "All settings imported successfully. Please refresh the page to see the changes."
 	},
 	"share": {
-		"message": "مشاركة..."
+		"message": "Share..."
 	},
 	"shortcutInstructionsBrave": {
-		"message": "لتغيير تعيينات المفاتيح، انتقل إلى $1"
+		"message": "To change key assignments, go to $1"
 	},
 	"shortcutInstructionsChrome": {
-		"message": "لتغيير تعيينات المفاتيح، انتقل إلى $1"
+		"message": "To change key assignments, go to $1"
 	},
 	"shortcutInstructionsDefault": {
-		"message": "لتغيير تعيينات المفاتيح، يرجى الرجوع إلى إعدادات إضافات متصفحك."
+		"message": "To change key assignments, please refer to your browser's extension settings."
 	},
 	"shortcutInstructionsEdge": {
-		"message": "لتغيير تعيينات المفاتيح، انتقل إلى $1"
+		"message": "To change key assignments, go to $1"
 	},
 	"shortcutInstructionsFirefox": {
-		"message": "لتغيير تعيينات المفاتيح، انتقل إلى $1، انقر على أيقونة الترس، واختر \"إدارة اختصارات الإضافة\"."
+		"message": "To change key assignments, go to $1, click the gear icon, and select \"Manage Extension Shortcuts\"."
 	},
 	"shortcutInstructionsIntro": {
-		"message": "اختصارات لوحة المفاتيح تمنحك وصولاً سريعاً إلى ميزات القاصّ."
+		"message": "Keyboard shortcuts give you quick access to clipper features."
 	},
 	"shortcutInstructionsSafari": {
-		"message": "اختصارات لوحة المفاتيح غير قابلة للتخصيص في سفاري."
+		"message": "Keyboard shortcuts are not customizable on Safari."
 	},
 	"shortcutNotSet": {
-		"message": "غير معين"
+		"message": "Not set"
 	},
 	"showActionsButton": {
-		"message": "إظهار زر الإجراءات"
+		"message": "Show actions button"
 	},
 	"showActionsDescription": {
-		"message": "يتيح لك فحص متغيرات الصفحة من قائمة القاصّ. مفيد لرؤية المتغيرات المتاحة للاستخدام في القوالب."
+		"message": "Allows you to inspect page variables from the clipper menu. Useful for seeing the variables that are available to use in templates."
 	},
 	"showPageVariables": {
-		"message": "إظهار متغيرات الصفحة"
+		"message": "Show page variables"
 	},
 	"silentOpen": {
-		"message": "حفظ الملاحظة المقصوصة دون فتحها"
+		"message": "Save clipped note without opening it"
 	},
 	"silentOpenDescription": {
-		"message": "سيتم حفظ الملاحظات المقصوصة ولكن لن يتم فتحها كتبويب جديد. سيظل أوبسيديان يُجلب إلى المقدمة."
+		"message": "Clipped notes will be saved but will not open as a new tab. Obsidian will still be brought to the foreground."
 	},
 	"specificNoteName": {
-		"message": "اسم ملاحظة محدد"
+		"message": "Specific note name"
 	},
 	"systemDefault": {
-		"message": "النظام"
+		"message": "System"
 	},
 	"template": {
-		"message": "القالب"
+		"message": "Template"
 	},
 	"templateCopied": {
-		"message": "تم نسخ قالب JSON إلى الحافظة"
+		"message": "Copied template JSON to clipboard"
 	},
 	"templateCopyError": {
-		"message": "فشل في نسخ قالب JSON إلى الحافظة"
+		"message": "Failed to copy template JSON to clipboard"
 	},
 	"templateErrorCount": {
-		"message": "يوجد خطأ في قالبك."
+		"message": "There is an error in your template."
 	},
 	"templateErrorsCount": {
-		"message": "يوجد $1 أخطاء في قالبك."
+		"message": "There are $1 errors in your template."
 	},
 	"templateGroupContent": {
-		"message": "المحتوى"
+		"message": "Content"
 	},
 	"templateGroupLocation": {
-		"message": "الموقع"
+		"message": "Location"
 	},
 	"templateName": {
-		"message": "اسم القالب"
+		"message": "Template name"
 	},
 	"templateProperties": {
-		"message": "الخصائص"
+		"message": "Properties"
 	},
 	"templatePropertiesDescription": {
-		"message": "خصائص لإضافتها إلى أعلى الملاحظة المقصوصة. استخدم المتغيرات لملء البيانات مسبقاً من الصفحة."
+		"message": "Properties to add to the top of the clipped note. Use variables to pre-populate data from the page."
 	},
 	"templateTriggers": {
-		"message": "محفزات القالب"
+		"message": "Template triggers"
 	},
 	"templateTriggersDescription": {
-		"message": "تحديد قواعد لاختيار هذا القالب تلقائياً إذا كان يتطابق مع نمط URL أو يحتوي على بيانات schema.org. قاعدة واحدة لكل سطر."
+		"message": "Define rules to automatically select this template if it matches a URL pattern or contains schema.org data. One rule per line."
 	},
 	"templateValid": {
-		"message": "صياغة القالب صحيحة"
+		"message": "Template syntax is valid"
 	},
 	"templatesHeading": {
-		"message": "القوالب"
+		"message": "Templates"
 	},
 	"thinking": {
-		"message": "يفكر"
+		"message": "thinking"
 	},
 	"unknownProvider": {
-		"message": "مزود غير معروف"
+		"message": "Unknown provider"
 	},
 	"updateAvailable": {
-		"message": "يتوفر تحديث جديد."
+		"message": "An update is available."
 	},
 	"usingLatestVersion": {
-		"message": "أنت تستخدم أحدث إصدار."
+		"message": "You are using the latest version."
 	},
 	"vault": {
-		"message": "الخزينة"
+		"message": "Vault"
 	},
 	"vaultDescription": {
-		"message": "حدد الخزينة الافتراضية لهذا القالب. انتقل إلى $link_start$الإعدادات العامة$link_end$ لإضافة أو إزالة الخزائن.",
+		"message": "Select the default vault for this template. Go to $link_start$general settings$link_end$ to add or remove vaults.",
 		"placeholders": {
 			"link_end": {
 				"content": "</a>"
@@ -960,10 +960,10 @@
 		}
 	},
 	"vaults": {
-		"message": "الخزائن"
+		"message": "Vaults"
 	},
 	"vaultsDescription": {
-		"message": "بشكل افتراضي، يتم حفظ الملاحظات المقصوصة في الخزينة المفتوحة حالياً. يمكنك إضافة خزائن هنا إذا كنت تريد خيار الحفظ في خزائن مختلفة. يجب أن تتطابق أسماء الخزائن بالضبط مع اسم خزينة أوبسيديان. اضغط على $strong_start$enter$strong_end$ لإضافة خزينة.",
+		"message": "By default, clipped notes are saved to the currently open vault. You can add vaults here if you want the option to save to different vaults. Vault names must exactly match the name of the Obsidian vault. Press $strong_start$enter$strong_end$ to add a vault.",
 		"placeholders": {
 			"strong_end": {
 				"content": "</strong>"
@@ -974,6 +974,6 @@
 		}
 	},
 	"version": {
-		"message": "الإصدار"
+		"message": "Version"
 	}
 }
