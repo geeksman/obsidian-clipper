@@ -1,99 +1,99 @@
 {
 	"activity": {
-		"message": "Activitat"
+		"message": "Activity"
 	},
 	"addModel": {
-		"message": "+ Agregar model"
+		"message": "+ Add model"
 	},
 	"addModelTitle": {
-		"message": "Agregar model"
+		"message": "Add model"
 	},
 	"addProperty": {
-		"message": "+ Agregar propietat"
+		"message": "+ Add property"
 	},
 	"addProvider": {
-		"message": "+ Agregar proveïdor"
+		"message": "+ Add provider"
 	},
 	"addProviderTitle": {
-		"message": "Agregar proveïdor"
+		"message": "Add provider"
 	},
 	"addToObsidian": {
-		"message": "Agregar a Obsidian"
+		"message": "Add to Obsidian"
 	},
 	"addVaultPlaceholder": {
-		"message": "Pressiona retorn per afegir una cambra cuirassada"
+		"message": "Press enter to add a vault"
 	},
 	"advanced": {
-		"message": "Avançat"
+		"message": "Advanced"
 	},
 	"allProperties": {
-		"message": "Totes les propietats"
+		"message": "All properties"
 	},
 	"allTime": {
-		"message": "Tot el temps"
+		"message": "All time"
 	},
 	"alwaysShowHighlights": {
-		"message": "Mostrar sempre els ressaltats"
+		"message": "Always show highlights"
 	},
 	"alwaysShowHighlightsDescription": {
-		"message": "Mostra els teus ressaltats guardats quan carregues una pàgina. Desactiva per mostrar els ressaltats només quan el mode ressaltador està activat."
+		"message": "Display your saved highlights when you load a page. Turn off to only display highlights when highlighter mode is activated."
 	},
 	"apiKeyMissing": {
-		"message": "Sense clau API"
+		"message": "No API key"
 	},
 	"apiKeysWarning": {
-		"message": "En usar un proveïdor extern, accepta els seus termes i política de privacitat. Les sol·licituds de l'intèrpret s'envien directament al proveïdor que esculli. Obsidian no recopila ni emmagatzema cap dada sobre les seves sol·licituds."
+		"message": "By using an external provider you agree to their terms and privacy policy. Interpreter requests are sent directly to the provider you choose. Obsidian does not gather or store any data about your requests."
 	},
 	"appendToDaily": {
-		"message": "Agregar a la nota diària, al final"
+		"message": "Add to daily note, at the bottom"
 	},
 	"appendToExisting": {
-		"message": "Agregar a una nota existent, al final"
+		"message": "Add to an existing note, at the bottom"
 	},
 	"autoRunInterpreter": {
-		"message": "Executar automàticament"
+		"message": "Automatically run"
 	},
 	"autoRunInterpreterDescription": {
-		"message": "Executi les variables de prompt immediatament si la plantilla en conté alguna. Això consumirà crèdits d'API amb el teu proveïdor de model. Desactivi-ho si només vol executar l'intèrpret manualment."
+		"message": "Run prompt variables immediately if the template contains any. This will consume API credits with your model provider. Turn off if you only want to run interpreter manually."
 	},
 	"behavior": {
-		"message": "Comportament"
+		"message": "Behavior"
 	},
 	"byDay": {
-		"message": "Dies"
+		"message": "Days"
 	},
 	"byMonth": {
-		"message": "Mesos"
+		"message": "Months"
 	},
 	"byWeek": {
-		"message": "Setmanes"
+		"message": "Weeks"
 	},
 	"cancel": {
-		"message": "Cancel·lar"
+		"message": "Cancel"
 	},
 	"cannotDeleteProvider": {
-		"message": "No es pot eliminar el proveïdor \"$1\" perquè s'utilitza per $2 model(s)."
+		"message": "Cannot delete provider \"$1\" because it is being used by $2 model(s)."
 	},
 	"changelog": {
-		"message": "Registre de canvis"
+		"message": "Changelog"
 	},
 	"chooseFile": {
-		"message": "Escollir un fitxer"
+		"message": "Choose a file"
 	},
 	"choosePropertiesFile": {
-		"message": "Escollir fitxer de propietats"
+		"message": "Choose properties file"
 	},
 	"chooseSettingsFile": {
-		"message": "Escollir fitxer de configuració"
+		"message": "Choose settings file"
 	},
 	"chooseTemplateFile": {
-		"message": "Escollir fitxer de plantilla"
+		"message": "Choose template file"
 	},
 	"clipBehavior": {
-		"message": "Comportament de guardat"
+		"message": "Clip behavior"
 	},
 	"clipBehaviorDescription": {
-		"message": "Escull com es guarda el contingut ressaltat a Obsidian. Defineix la variable $strong_start${{content}}$strong_end$.",
+		"message": "Choose how highlighted content is saved to Obsidian. Defines the $strong_start${{content}}$strong_end$ variable.",
 		"placeholders": {
 			"strong_end": {
 				"content": "</strong>"
@@ -104,7 +104,7 @@
 		}
 	},
 	"clipboardError": {
-		"message": "L'Obsidian no pot accedir al porta-retalls. Prova les instruccions de resolució de problemes aquí: $1",
+		"message": "Obsidian is not able to access your clipboard. Try the troubleshooting instructions here: $1",
 		"placeholders": {
 			"1": {
 				"content": "$1"
@@ -112,79 +112,79 @@
 		}
 	},
 	"close": {
-		"message": "Tancar"
+		"message": "Close"
 	},
 	"commandOpenClipper": {
-		"message": "Obrir Obsidian Clipper"
+		"message": "Open Obsidian Clipper"
 	},
 	"commandQuickClip": {
-		"message": "Guardat ràpid"
+		"message": "Quick clip"
 	},
 	"commandToggleHighlighter": {
-		"message": "Alternar el mode de ressaltat"
+		"message": "Toggle highlighter"
 	},
 	"commandToggleReader": {
-		"message": "Commuta la vista de lectura"
+		"message": "Toggle reader"
 	},
 	"confirmDeleteTemplate": {
-		"message": "N'està segur, de voler eliminar la plantilla \"$1\"?"
+		"message": "Are you sure you want to delete the template \"$1\"?"
 	},
 	"confirmReplaceSettings": {
-		"message": "Això reemplaçarà totes les seves configuracions actuals, incloses plantilles i propietats. N'està segur, de voler continuar?"
+		"message": "This will replace all your current settings, including templates and properties. Are you sure you want to continue?"
 	},
 	"copied": {
-		"message": "Copiat!"
+		"message": "Copied!"
 	},
 	"copyAsJson": {
-		"message": "Copiar com a JSON"
+		"message": "Copy as JSON"
 	},
 	"copyToClipboard": {
-		"message": "Copiar al porta-retalls"
+		"message": "Copy to clipboard"
 	},
 	"createNewNote": {
-		"message": "Crear nova nota"
+		"message": "Create new note"
 	},
 	"custom": {
-		"message": "Personalitzat"
+		"message": "Custom"
 	},
 	"dailyNoteFormat": {
-		"message": "Format de nota diària (ex., YYYY-MM-DD)"
+		"message": "Daily note format (e.g., YYYY-MM-DD)"
 	},
 	"defaultInterpreterContext": {
-		"message": "Context predeterminat de l'intèrpret"
+		"message": "Default interpreter context"
 	},
 	"defaultInterpreterContextDescription": {
-		"message": "El model usarà aquest context per interpretar les variables de prompt. Aquí, es poden fer servir variables."
+		"message": "Override the context used to interpret prompt variables. Variables can be used here."
 	},
 	"defaultTemplateName": {
-		"message": "Predeterminat"
+		"message": "Default"
 	},
 	"delete": {
-		"message": "Eliminar"
+		"message": "Delete"
 	},
 	"deleteModelConfirm": {
-		"message": "N'està segur, de voler eliminar aquest model?"
+		"message": "Are you sure you want to delete this model?"
 	},
 	"deleteProviderConfirm": {
-		"message": "N'està segur de voler eliminar aquest proveïdor?"
+		"message": "Are you sure you want to delete this provider?"
 	},
 	"disableHighlighter": {
-		"message": "Desactivar ressaltador"
+		"message": "Disable highlighter"
 	},
 	"disableReader": {
-		"message": "Deshabilita la vista de lectura"
+		"message": "Disable reader"
 	},
 	"done": {
-		"message": "fet"
+		"message": "Done"
 	},
 	"dragAndDropFile": {
-		"message": "Arrossegui i deixi anar el fitxer aquí"
+		"message": "Drag and drop file here"
 	},
 	"duplicate": {
-		"message": "Duplicar"
+		"message": "Duplicate"
 	},
 	"earlyAccessDescription": {
-		"message": "Utilitzar funcions que requereixen la darrera versió de $link_start$accés anticipat$link_end$ d'Obsidian. Actualment, requereix Obsidian 1.7.2 o posterior.",
+		"message": "Use features that require the latest $link_start$early access version$link_end$ of Obsidian. Currently requires Obsidian 1.7.2 or later.",
 		"placeholders": {
 			"link_end": {
 				"content": "</a>"
@@ -195,31 +195,31 @@
 		}
 	},
 	"earlyAccessFeatures": {
-		"message": "Funcions d'accés anticipat"
+		"message": "Early access features"
 	},
 	"editModel": {
-		"message": "Editar model"
+		"message": "Edit model"
 	},
 	"editProvider": {
-		"message": "Editar proveïdor"
+		"message": "Edit provider"
 	},
 	"editTemplate": {
-		"message": "Editar plantilla"
+		"message": "Edit template"
 	},
 	"embedded": {
-		"message": "Incrustat"
+		"message": "Embedded"
 	},
 	"enableHighlighter": {
-		"message": "Activar ressaltador"
+		"message": "Enable highlighter"
 	},
 	"enableHighlighterDescription": {
-		"message": "Ressalti contingut en pàgines web que pot guardar a Obsidian."
+		"message": "Highlight content on web pages that you can save to Obsidian."
 	},
 	"enableInterpreter": {
-		"message": "Habilitar intèrpret"
+		"message": "Enable interpreter"
 	},
 	"enableInterpreterDescription": {
-		"message": "Usi llenguatge natural per extraure dades de les pàgines. Per exemple, pot usar la sintaxi de plantilla $strong_start${{\"un resum de la pàgina\"}}$strong_end$. Requereix una clau API o model personalitzat configurat a sota. $link_start$Més informació$link_end$",
+		"message": "Use natural language to extract data from pages. For example, you can use the template syntax $strong_start${{\"a summary of the page\"}}$strong_end$. Requires an API key or custom model configured below.  $link_start$Learn more$link_end$.",
 		"placeholders": {
 			"link_end": {
 				"content": "</a>"
@@ -236,31 +236,31 @@
 		}
 	},
 	"enableReader": {
-		"message": "Obre la vista de lectura"
+		"message": "Open reading view"
 	},
 	"error": {
 		"message": "Error"
 	},
 	"export": {
-		"message": "Exportar"
+		"message": "Export"
 	},
 	"exportAllSettings": {
-		"message": "Exportar tota la configuració"
+		"message": "Export all settings"
 	},
 	"exportAllSettingsDescription": {
-		"message": "Exportar tota la configuració incloent plantilles i propietats."
+		"message": "Export all settings including templates and properties."
 	},
 	"exportHighlights": {
-		"message": "Exportar ressaltats"
+		"message": "Export highlights"
 	},
 	"exportHighlightsDescription": {
-		"message": "Exporti els seus ressaltats a un fitxer."
+		"message": "Export your highlights to a file."
 	},
 	"exportProperties": {
-		"message": "Exportar propietats"
+		"message": "Export properties"
 	},
 	"exportPropertiesDescription": {
-		"message": "Guardar les propietats de Web Clipper en un fitxer $strong_start$types.json$strong_end$ que pot ser importat a la cambra cuirassada d'Obsidian o a Web Clipper en altres dispositius.",
+		"message": "Save Web Clipper properties to a $strong_start$types.json$strong_end$ file that can be imported into your Obsidian vault, or into Web Clipper on other devices.",
 		"placeholders": {
 			"strong_end": {
 				"content": "</strong>"
@@ -271,121 +271,121 @@
 		}
 	},
 	"extensionDescription": {
-		"message": "Guardar contingut web en un format privat i durador al qual pot accedir sense connexió. L'extensió oficial per a Obsidian."
+		"message": "Save content from the web in a private and durable format that you can access offline. The official browser extension for Obsidian."
 	},
 	"extensionName": {
 		"message": "Obsidian Web Clipper"
 	},
 	"failedToCopyText": {
-		"message": "Error en copiar el text"
+		"message": "Failed to copy text"
 	},
 	"failedToDeleteTemplate": {
-		"message": "Error en eliminar la plantilla. Si us plau, torni-ho a intentar."
+		"message": "Failed to delete template. Please try again."
 	},
 	"failedToDuplicateTemplate": {
-		"message": "Error en duplicar la plantilla. Si us plau, torni-ho a intentar."
+		"message": "Failed to duplicate template. Please try again."
 	},
 	"failedToExportHighlights": {
-		"message": "Error en exportar els ressaltats. Si us plau, consulti la consola per obtenir més detalls."
+		"message": "Failed to export highlights. Please check the console for more details."
 	},
 	"failedToExportSettings": {
-		"message": "Error en exportar les configuracions. Si us plau, consulti la consola per obtenir més detalls."
+		"message": "Failed to export settings. Please check the console for more details."
 	},
 	"failedToExtractContent": {
-		"message": "No s'ha pogut extraure el contingut de la pàgina."
+		"message": "Unable to extract page content."
 	},
 	"failedToImportTemplate": {
-		"message": "Error en importar la plantilla. Si us plau, revisi el fitxer i torni-ho a intentar."
+		"message": "Error importing template. Please check the file and try again."
 	},
 	"failedToInitialize": {
-		"message": "Si us plau, intenti recarregar l'extensió."
+		"message": "Please try reloading the extension."
 	},
 	"failedToInitializeContent": {
-		"message": "No es pot inicialitzar el contingut de la pàgina."
+		"message": "Unable to initialize page content."
 	},
 	"failedToProcessInterpreter": {
-		"message": "Ha fallat el processament de l’intèrpret. Si us plau, torni-ho a intentar."
+		"message": "Interpreter processing failed. Please try again."
 	},
 	"failedToResetProviders": {
-		"message": "Error en restablir els proveïdors i els models"
+		"message": "Failed to reset providers and models"
 	},
 	"failedToResetTemplate": {
-		"message": "No s’ha pogut restablir la plantilla predeterminada. Si us plau, torni-ho a intentar."
+		"message": "Failed to reset default template. Please try again."
 	},
 	"failedToSave": {
-		"message": "Error en guardar el fitxer"
+		"message": "Failed to save file"
 	},
 	"failedToSaveFile": {
-		"message": "Error en guardar el fitxer"
+		"message": "Failed to save file"
 	},
 	"failedToSaveProvider": {
-		"message": "Error en guardar el proveïdor. Si us plau, torni-ho a intentar."
+		"message": "Failed to save provider. Please try again."
 	},
 	"feedback": {
-		"message": "Comentaris"
+		"message": "Feedback"
 	},
 	"feedbackDescription": {
-		"message": "Com podem millorar Web Clipper? Si us plau, visita la nostra pàgina d'ajuda, on pots informar de bugs, suggerir funcionalitats i obtenir ajuda amb problemes comuns."
+		"message": "How can we improve Web Clipper? Please visit our help page, where you can report bugs, suggest features, and get help with common issues."
 	},
 	"feedbackTitle": {
-		"message": "Gràcies pels teus comentaris"
+		"message": "Thanks for your feedback"
 	},
 	"folder": {
-		"message": "Carpeta"
+		"message": "Folder"
 	},
 	"general": {
 		"message": "General"
 	},
 	"generalSettings": {
-		"message": "Configuració general"
+		"message": "General settings"
 	},
 	"getApiKeyHere": {
-		"message": "Obtingui la seva clau API de $1 aquí."
+		"message": "Get your $1 API key here."
 	},
 	"help": {
-		"message": "Ajuda"
+		"message": "Help"
 	},
 	"helpDescription": {
-		"message": "Aprengui a usar Web Clipper i obtingui ajuda per resoldre problemes."
+		"message": "Learn how to use Web Clipper and get help troubleshooting."
 	},
 	"highlightInline": {
-		"message": "Ressaltar el contingut de la pàgina"
+		"message": "Highlight the page content"
 	},
 	"highlightPage": {
-		"message": "Ressaltar pàgina"
+		"message": "Highlight page"
 	},
 	"highlighter": {
-		"message": "Ressaltador"
+		"message": "Highlighter"
 	},
 	"highlighterSettings": {
-		"message": "Configuració del ressaltador"
+		"message": "Highlighter"
 	},
 	"history": {
-		"message": "Històric"
+		"message": "History"
 	},
 	"hotkeys": {
-		"message": "Dreceres de teclat"
+		"message": "Hotkeys"
 	},
 	"import": {
-		"message": "Importar"
+		"message": "Import"
 	},
 	"importAllSettings": {
-		"message": "Importar tota la configuració"
+		"message": "Import all settings"
 	},
 	"importAllSettingsDescription": {
-		"message": "Importar tota la configuració, incloses les plantilles i les propietats. Això substituirà la seva configuració actual."
+		"message": "Import all settings including templates and properties. This will replace your current configuration."
 	},
 	"importFailed": {
-		"message": "La importació ha fallat. Consulti la consola per obtenir més detalls."
+		"message": "Import failed. Please check the console for more details."
 	},
 	"importModalTitle": {
-		"message": "Importar"
+		"message": "Import"
 	},
 	"importProperties": {
-		"message": "Importar propietats"
+		"message": "Import properties"
 	},
 	"importPropertiesDescription": {
-		"message": "Per importar les seves propietats d’Obsidian, localitzi el fitxer $strong_1_start$types.json$strong_1_end$ a la carpeta $strong_2_start$.obsidian$strong_2_end$ dins de la seva cambra cuirassada. Tingui en compte que aquesta carpeta està oculta per defecte a la majoria dels sistemes operatius.",
+		"message": "To import your properties from Obsidian, locate the $strong_1_start$types.json$strong_1_end$ file in the $strong_2_start$.obsidian$strong_2_end$ folder within your vault. Note this folder is hidden by default on most operating systems.",
 		"placeholders": {
 			"strong_1_end": {
 				"content": "</strong>"
@@ -402,22 +402,22 @@
 		}
 	},
 	"importSettings": {
-		"message": "Importar configuracions"
+		"message": "Import settings"
 	},
 	"importTemplate": {
-		"message": "Importar plantilla"
+		"message": "Import template"
 	},
 	"interpret": {
-		"message": "interpretar"
+		"message": "interpret"
 	},
 	"interpreter": {
-		"message": "Intèrpret"
+		"message": "Interpreter"
 	},
 	"interpreterContext": {
-		"message": "Context de l'intèrpret"
+		"message": "Interpreter context"
 	},
 	"interpreterContextDescription": {
-		"message": "El context utilitzat per interpretar variables de prompt. Anul·la el context predeterminat definit a $link_start$Configuració de l'intèrpret$link_end$. Aquí, es poden usar variables.",
+		"message": "The context used to interpret prompt variables. Overrides the default context defined in $link_start$Interpreter settings$link_end$. Variables can be used here.",
 		"placeholders": {
 			"link_end": {
 				"content": "</a>"
@@ -428,82 +428,82 @@
 		}
 	},
 	"language": {
-		"message": "Idioma"
+		"message": "Language"
 	},
 	"languageDescription": {
-		"message": "Esculli l'idioma de la interfície de l'extensió."
+		"message": "Choose the display language for the extension interface."
 	},
 	"last30Days": {
-		"message": "Últims 30 dies"
+		"message": "Last 30 days"
 	},
 	"lastUsed": {
-		"message": "Últim usat"
+		"message": "Last used"
 	},
 	"legacyMode": {
-		"message": "Mode heretat"
+		"message": "Legacy mode"
 	},
 	"legacyModeDescription": {
-		"message": "Utilitzi el mètode de retall d'URI compatible amb Obsidian 1.6.7 o anterior. Tingui en compte que la longitud del contingut que pot guardar està limitada pel seu navegador i el seu sistema operatiu. Algunes pàgines poden fallar sense mostrar errors."
+		"message": "Uses the URI clipping method compatible with Obsidian 1.6.7 or earlier. Note that the length of the content you can clip is limited by your browser and OS. Some pages may fail without any errors."
 	},
 	"modelName": {
-		"message": "Nom del model"
+		"message": "Display name"
 	},
 	"modelNameDescription": {
-		"message": "El nom del model que desitgi mostrar a la interfície."
+		"message": "The name of the model you want to display in the interface."
 	},
 	"modelProvider": {
-		"message": "Proveïdor"
+		"message": "Provider"
 	},
 	"modelProviderDescription": {
-		"message": "Seleccioni el proveïdor d'aquest model."
+		"message": "Select the provider for this model."
 	},
 	"modelProviderPlaceholder": {
-		"message": "Proveïdor"
+		"message": "Provider"
 	},
 	"modelRequiredFields": {
-		"message": "El nom del model, el proveïdor i l'ID del model són obligatoris."
+		"message": "Model name, Provider, and Model ID are required."
 	},
 	"models": {
 		"message": "Models"
 	},
 	"modelsListFor": {
-		"message": "Llista de models per a $1"
+		"message": "Models list for $1"
 	},
 	"more": {
-		"message": "Més"
+		"message": "More"
 	},
 	"newTemplate": {
-		"message": "Nova plantilla"
+		"message": "New template"
 	},
 	"noHighlights": {
-		"message": "No fer res"
+		"message": "Do nothing"
 	},
 	"noTemplates": {
-		"message": "No hi ha plantilles disponibles. Si us plau, afegeixi una plantilla a la configuració."
+		"message": "No templates available. Please add a template in the settings."
 	},
 	"noUnusedProperties": {
-		"message": "No s’han trobat propietats no utilitzades."
+		"message": "No unused properties found."
 	},
 	"noteContent": {
-		"message": "Contingut de la nota"
+		"message": "Note content"
 	},
 	"noteContentDescription": {
-		"message": "Personalitzi el contingut de la nota. Faci servir variables per emplenar prèviament les dades de la pàgina."
+		"message": "Customize the content of the note. Use variables to pre-populate data from the page."
 	},
 	"noteLocation": {
-		"message": "Ubicació de la nota"
+		"message": "Note location"
 	},
 	"noteLocationDescription": {
-		"message": "La carpeta o el camí de la nota."
+		"message": "The folder or path of the note."
 	},
 	"noteName": {
-		"message": "Nom de la nota"
+		"message": "Note name"
 	},
 	"noteNameFormat": {
-		"message": "Format del nom de la nota"
+		"message": "Note name"
 	},
 	"noteNameFormatDescription": {
-		"message": "Format per al nombre del fitxer de la nota. Pot usar variables com {{title}}, {{date}} i {{published}} per emplenar prèviament dades de la pàgina. $link_start$Més informació$link_end$.",
+		"message": "Format for the file name of the note. You can use variables like {{title}}, {{date}}, and {{published}} to pre-populate data from the page. $link_start$Learn more$link_end$.",
 		"placeholders": {
 			"link_end": {
 				"content": "</a>"
@@ -514,223 +514,223 @@
 		}
 	},
 	"notesAboutPage": {
-		"message": "Notes sobre aquesta pàgina..."
+		"message": "Notes about this page..."
 	},
 	"onlyHttpSupported": {
-		"message": "Aquesta pàgina no es pot guardar. Només s'admeten URL HTTP i HTTPS."
+		"message": "This page cannot be clipped. Only http and https URLs are supported."
 	},
 	"open": {
-		"message": "Obrir"
+		"message": "Open"
 	},
 	"openBehaviorDescription": {
-		"message": "Trieu com s'obre Web Clipper per defecte."
+		"message": "Choose how Web Clipper opens by default."
 	},
 	"openBehaviorTitle": {
-		"message": "Comportament d'obertura"
+		"message": "Open behavior"
 	},
 	"openEmbedded": {
-		"message": "Obre a la pàgina"
+		"message": "Open in page"
 	},
 	"openSidePanel": {
-		"message": "Obre el plafó lateral"
+		"message": "Open side panel"
 	},
 	"optional": {
-		"message": "(opcional)"
+		"message": "(optional)"
 	},
 	"orPasteBelow": {
-		"message": "O enganxi el contingut a continuació"
+		"message": "Or paste content below"
 	},
 	"overwriteNote": {
-		"message": "Sobreescriu la nota"
+		"message": "Overwrite note"
 	},
 	"pageCannotBeClipped": {
-		"message": "Aquesta pàgina no es pot guardar."
+		"message": "This page cannot be clipped."
 	},
 	"pageVariables": {
-		"message": "Variables de pàgina"
+		"message": "Page variables"
 	},
 	"pagesSaved": {
-		"message": "pàgina desada"
+		"message": "page saved"
 	},
 	"pagesSavedPlural": {
-		"message": "pàgines desades"
+		"message": "pages saved"
 	},
 	"pasteJsonHere": {
-		"message": "Enganxi el JSON aquí"
+		"message": "Paste JSON here"
 	},
 	"pleaseReload": {
-		"message": "Si us plau, intenti recarregar la pàgina."
+		"message": "Please try reloading the page."
 	},
 	"popularModels": {
-		"message": "Models populars"
+		"message": "Popular models"
 	},
 	"popularModelsDescription": {
-		"message": "Trieu entre els models més utilitzats o introduïu els detalls del model personalitzat."
+		"message": "Choose from commonly used models or enter custom model details."
 	},
 	"popup": {
-		"message": "Finestra emergent"
+		"message": "Popup"
 	},
 	"prependToDaily": {
-		"message": "Agregar a la nota diària, al principi"
+		"message": "Add to daily note, at the top"
 	},
 	"prependToExisting": {
-		"message": "Agregar a una nota existent, al principi"
+		"message": "Add to an existing note, at the top"
 	},
 	"preview": {
-		"message": "Previsualització"
+		"message": "Preview"
 	},
 	"processing": {
-		"message": "processant"
+		"message": "processing"
 	},
 	"properties": {
-		"message": "Propietats"
+		"message": "Properties"
 	},
 	"propertiesSettings": {
-		"message": "Propietats"
+		"message": "Properties"
 	},
 	"propertyName": {
-		"message": "Nom de la propietat"
+		"message": "Property name"
 	},
 	"propertyTypeCheckbox": {
-		"message": "Casella de verificació"
+		"message": "Checkbox"
 	},
 	"propertyTypeDate": {
-		"message": "Data"
+		"message": "Date"
 	},
 	"propertyTypeDatetime": {
-		"message": "Data i hora"
+		"message": "Date & time"
 	},
 	"propertyTypeMultitext": {
-		"message": "Llista"
+		"message": "List"
 	},
 	"propertyTypeNumber": {
-		"message": "Número"
+		"message": "Number"
 	},
 	"propertyTypeText": {
 		"message": "Text"
 	},
 	"propertyValue": {
-		"message": "Valor de la propietat"
+		"message": "Property value"
 	},
 	"provider": {
-		"message": "Proveïdor"
+		"message": "Provider"
 	},
 	"providerApiKey": {
-		"message": "Clau d'API"
+		"message": "API key"
 	},
 	"providerApiKeyDescription": {
-		"message": "La seva clau d'API per a aquest proveïdor."
+		"message": "Your API key for this provider."
 	},
 	"providerBaseUrl": {
-		"message": "URL base"
+		"message": "Base URL"
 	},
 	"providerBaseUrlDescription": {
-		"message": "L'URL del punt final de l'API per a aquest proveïdor."
+		"message": "The API endpoint URL for this provider."
 	},
 	"providerModelId": {
-		"message": "ID del model"
+		"message": "Model ID"
 	},
 	"providerModelIdDescription": {
-		"message": "L'identificador del model del seu proveïdor. Normalment, un nom curt sense espais."
+		"message": "The identifier of the model from your provider. Typically a short name without spaces."
 	},
 	"providerModelIdPlaceholder": {
-		"message": "ID del model"
+		"message": "Model ID"
 	},
 	"providerName": {
-		"message": "Nom del proveïdor."
+		"message": "Provider name"
 	},
 	"providerNameDescription": {
-		"message": "Nom a mostrar d'aquest proveidor."
+		"message": "Display name for this provider."
 	},
 	"providerPreset": {
-		"message": "Preestablert"
+		"message": "Preset"
 	},
 	"providerPresetDescription": {
-		"message": "Triï un proveïdor o creï'n un de personalitzat."
+		"message": "Choose a provider or create a custom one."
 	},
 	"providerRequiredFields": {
-		"message": "El nom del proveïdor i l'URL base són obligatoris."
+		"message": "Provider name and Base URL are required."
 	},
 	"providers": {
-		"message": "Proveïdors"
+		"message": "Providers"
 	},
 	"rateExtensionDescription": {
-		"message": "T'està agradant Web Clipper? Ajuda'ns donant-li una valoració."
+		"message": "Are you enjoying Web Clipper? Help us by giving it a rating."
 	},
 	"reader": {
-		"message": "Lector"
+		"message": "Reader"
 	},
 	"readerAppearance": {
-		"message": "Aparença"
+		"message": "Appearance"
 	},
 	"readerAppearanceAuto": {
-		"message": "Automàtic"
+		"message": "Auto"
 	},
 	"readerAppearanceDark": {
-		"message": "Fosc"
+		"message": "Dark"
 	},
 	"readerAppearanceDescription": {
-		"message": "Tria una aparença clara o fosca."
+		"message": "Choose light or dark appearance."
 	},
 	"readerAppearanceLight": {
-		"message": "Clar"
+		"message": "Light"
 	},
 	"readerBlendImages": {
-		"message": "Fusiona les imatges"
+		"message": "Blend images"
 	},
 	"readerBlendImagesDescription": {
-		"message": "Fusiona les imatges amb el fons de la pàgina."
+		"message": "Blend images with the page background."
 	},
 	"readerCloseImageViewer": {
-		"message": "Tanca el visor d'imatges"
+		"message": "Close image viewer"
 	},
 	"readerCollapseComment": {
-		"message": "Replega el comentari"
+		"message": "Collapse comment"
 	},
 	"readerColorLinks": {
-		"message": "Coloreja els enllaços"
+		"message": "Color links"
 	},
 	"readerColorSchemeDefault": {
-		"message": "Per defecte"
+		"message": "Default"
 	},
 	"readerCustomCss": {
-		"message": "CSS personalitzat"
+		"message": "Custom CSS"
 	},
 	"readerCustomCssDescription": {
-		"message": "CSS aplicat automàticament a la vista de lectura."
+		"message": "CSS applied automatically in reading view."
 	},
 	"readerDarkTheme": {
-		"message": "Tema del mode fosc"
+		"message": "Dark mode theme"
 	},
 	"readerDarkThemeDescription": {
-		"message": "Utilitza un tema diferent en mode fosc."
+		"message": "Use a different theme in dark mode."
 	},
 	"readerError": {
-		"message": "No s'ha pogut extreure el contingut."
+		"message": "Failed to extract content."
 	},
 	"readerFont": {
-		"message": "Opcions de lletra"
+		"message": "Font options"
 	},
 	"readerFontDefault": {
-		"message": "Per defecte"
+		"message": "Default"
 	},
 	"readerFontDescription": {
-		"message": "Afegeix les lletres instal·lades al teu sistema. Prem Retorn per afegir una lletra."
+		"message": "Add fonts installed on your system. Press enter to add a font."
 	},
 	"readerFontNotFound": {
-		"message": "No s'ha trobat"
+		"message": "Not found"
 	},
 	"readerFontPlaceholder": {
-		"message": "Prem Retorn per afegir una lletra"
+		"message": "Press enter to add a font"
 	},
 	"readerFontSetDefault": {
-		"message": "Estableix com a predeterminat"
+		"message": "Set default"
 	},
 	"readerFontSize": {
-		"message": "Mida base de la lletra"
+		"message": "Base font size"
 	},
 	"readerFontSystem": {
-		"message": "Sistema"
+		"message": "System"
 	},
 	"readerFontSystemSans": {
 		"message": "Sans-serif"
@@ -739,217 +739,217 @@
 		"message": "Serif"
 	},
 	"readerFonts": {
-		"message": "Lletres"
+		"message": "Fonts"
 	},
 	"readerFootnotes": {
-		"message": "Notes a peu de pàgina"
+		"message": "Footnotes"
 	},
 	"readerImages": {
-		"message": "Imatges"
+		"message": "Images"
 	},
 	"readerLineHeight": {
-		"message": "Alçada de línia"
+		"message": "Line height"
 	},
 	"readerLineWidth": {
-		"message": "Amplada de línia"
+		"message": "Line width"
 	},
 	"readerLoading": {
-		"message": "S'està simplificant…"
+		"message": "Defuddling…"
 	},
 	"readerSettings": {
-		"message": "Configuració del lector"
+		"message": "Reader settings"
 	},
 	"readerTheme": {
-		"message": "Tema"
+		"message": "Theme"
 	},
 	"readerThemeDescription": {
-		"message": "Tria els colors que s'utilitzen a la vista de lectura."
+		"message": "Choose the colors used in reading view."
 	},
 	"readerThemeSection": {
-		"message": "Tema"
+		"message": "Theme"
 	},
 	"readerTypography": {
-		"message": "Tipografia"
+		"message": "Typography"
 	},
 	"readerViewFullSize": {
-		"message": "Mostra a mida completa"
+		"message": "View full size"
 	},
 	"recommended": {
-		"message": "recomanat"
+		"message": "recommended"
 	},
 	"refresh": {
-		"message": "Actualitzar"
+		"message": "Refresh"
 	},
 	"remove": {
-		"message": "Eliminar"
+		"message": "Remove"
 	},
 	"removeProperty": {
-		"message": "Eliminar propietat"
+		"message": "Remove property"
 	},
 	"removeUnusedProperties": {
-		"message": "Eliminar les propietats no utilitzades"
+		"message": "Remove unused properties"
 	},
 	"removeUnusedPropertiesDescription": {
-		"message": "Eliminar totes les propietats que no s'usen a cap plantilla."
+		"message": "Remove all properties that are not used in any template."
 	},
 	"removeVault": {
-		"message": "Eliminar la cambra cuirassada"
+		"message": "Remove vault"
 	},
 	"replaceContent": {
-		"message": "Reemplaçar el contingut de la pàgina"
+		"message": "Replace the page content"
 	},
 	"reset": {
-		"message": "Restablir"
+		"message": "Reset"
 	},
 	"resetDefaultTemplate": {
-		"message": "Restablir la plantilla predeterminada"
+		"message": "Reset default template"
 	},
 	"resetDefaultTemplateDescription": {
-		"message": "Eliminar qualsevol canvi que hagi fet a la plantilla predeterminada."
+		"message": "Remove any changes you've made to the default template."
 	},
 	"resetProvidersAndModels": {
-		"message": "Restablir els models predeterminats"
+		"message": "Reset default models"
 	},
 	"resetProvidersAndModelsDescription": {
-		"message": "Restablir els proveïdors i models a la configuració predeterminada."
+		"message": "Reset providers and models to the default settings."
 	},
 	"save": {
-		"message": "Guardar"
+		"message": "Save"
 	},
 	"saveBehaviorDescription": {
-		"message": "Trieu l'opció per defecte per guardar pàgines. Les opcions alternatives apareixen al menú desplegable al costat del botó principal."
+		"message": "Choose the default option for saving pages. Alternate options appear in the dropdown menu next to the main button."
 	},
 	"saveBehaviorLabel": {
-		"message": "Comportament de guardar"
+		"message": "Save behavior"
 	},
 	"saveFile": {
-		"message": "Guardar fitxer..."
+		"message": "Save file..."
 	},
 	"searchVariables": {
-		"message": "Buscar variables..."
+		"message": "Search variables..."
 	},
 	"selectProvider": {
-		"message": "Seleccionar un proveïdor"
+		"message": "Select a provider"
 	},
 	"selectTemplateToExport": {
-		"message": "Si us plau, seleccioni una plantilla per exportar."
+		"message": "Please select a template to export."
 	},
 	"settings": {
-		"message": "Configuració"
+		"message": "Settings"
 	},
 	"settingsHeading": {
-		"message": "Configuració"
+		"message": "Settings"
 	},
 	"settingsImportSuccess": {
-		"message": "Tota la configuració s’ha importat correctament. Si us plau, actualitzi la pàgina per veure els canvis."
+		"message": "All settings imported successfully. Please refresh the page to see the changes."
 	},
 	"share": {
-		"message": "Compartir..."
+		"message": "Share..."
 	},
 	"shortcutInstructionsBrave": {
-		"message": "Per canviar les assignacions de tecles, vagi a $1"
+		"message": "To change key assignments, go to $1"
 	},
 	"shortcutInstructionsChrome": {
-		"message": "Per canviar les assignacions de tecles, vagi a $1"
+		"message": "To change key assignments, go to $1"
 	},
 	"shortcutInstructionsDefault": {
-		"message": "Per canviar les assignacions de tecles, consulti la configuració d'extensions del seu navegador."
+		"message": "To change key assignments, please refer to your browser's extension settings."
 	},
 	"shortcutInstructionsEdge": {
-		"message": "Per canviar les assignacions de tecles, vagi a $1"
+		"message": "To change key assignments, go to $1"
 	},
 	"shortcutInstructionsFirefox": {
-		"message": "Per canviar les assignacions de tecles, vagi a $1, faci clic a la icona d'engranatge i seleccioni \"Gestionar dreceres d'extensió\"."
+		"message": "To change key assignments, go to $1, click the gear icon, and select \"Manage Extension Shortcuts\"."
 	},
 	"shortcutInstructionsIntro": {
-		"message": "Les dreceres de teclat li donen accés ràpid a les funcions del clipper."
+		"message": "Keyboard shortcuts give you quick access to clipper features."
 	},
 	"shortcutInstructionsSafari": {
-		"message": "Les dreceres de teclat no són personalitzables a Safari."
+		"message": "Keyboard shortcuts are not customizable on Safari."
 	},
 	"shortcutNotSet": {
-		"message": "No establert"
+		"message": "Not set"
 	},
 	"showActionsButton": {
-		"message": "Mostrar el botó d'accions"
+		"message": "Show actions button"
 	},
 	"showActionsDescription": {
-		"message": "Permet inspeccionar les variables de pàgina des del menú del clipper. Útil per veure les variables disponibles per a usar a les plantilles."
+		"message": "Allows you to inspect page variables from the clipper menu. Useful for seeing the variables that are available to use in templates."
 	},
 	"showPageVariables": {
-		"message": "Mostrar variables de pàgina"
+		"message": "Show page variables"
 	},
 	"silentOpen": {
-		"message": "Guardar nota sense obrir-la"
+		"message": "Save clipped note without opening it"
 	},
 	"silentOpenDescription": {
-		"message": "Les notes retallades es guardaran, però no s'obriran en una nova pestanya. Obsidian encara es posarà en primer pla."
+		"message": "Clipped notes will be saved but will not open as a new tab. Obsidian will still be brought to the foreground."
 	},
 	"specificNoteName": {
-		"message": "Nom específic de la nota"
+		"message": "Specific note name"
 	},
 	"systemDefault": {
-		"message": "Sistema"
+		"message": "System"
 	},
 	"template": {
-		"message": "Plantilla"
+		"message": "Template"
 	},
 	"templateCopied": {
-		"message": "El JSON de la plantilla s'ha copiat al porta-retalls"
+		"message": "Copied template JSON to clipboard"
 	},
 	"templateCopyError": {
-		"message": "Error en copiar el JSON de la plantilla al porta-retalls"
+		"message": "Failed to copy template JSON to clipboard"
 	},
 	"templateErrorCount": {
-		"message": "Hi ha un error a la teva plantilla."
+		"message": "There is an error in your template."
 	},
 	"templateErrorsCount": {
-		"message": "Hi ha $1 errors a la teva plantilla."
+		"message": "There are $1 errors in your template."
 	},
 	"templateGroupContent": {
-		"message": "Contingut"
+		"message": "Content"
 	},
 	"templateGroupLocation": {
-		"message": "Ubicació"
+		"message": "Location"
 	},
 	"templateName": {
-		"message": "Nom de la plantilla"
+		"message": "Template name"
 	},
 	"templateProperties": {
-		"message": "Propietats"
+		"message": "Properties"
 	},
 	"templatePropertiesDescription": {
-		"message": "Propietats para agregar a la part superior de la nota guardada. Usi variables per emplenar prèviament dades de la pàgina."
+		"message": "Properties to add to the top of the clipped note. Use variables to pre-populate data from the page."
 	},
 	"templateTriggers": {
-		"message": "Activadors de plantilla"
+		"message": "Template triggers"
 	},
 	"templateTriggersDescription": {
-		"message": "Defineixi regles per seleccionar automàticament aquesta plantilla si coincideix amb un patró d'URL o conté dades de schema.org. Una regla per línia."
+		"message": "Define rules to automatically select this template if it matches a URL pattern or contains schema.org data. One rule per line."
 	},
 	"templateValid": {
-		"message": "La sintaxi de la plantilla és vàlida"
+		"message": "Template syntax is valid"
 	},
 	"templatesHeading": {
-		"message": "Plantilles"
+		"message": "Templates"
 	},
 	"thinking": {
-		"message": "pensant"
+		"message": "thinking"
 	},
 	"unknownProvider": {
-		"message": "Proveïdor desconegut"
+		"message": "Unknown provider"
 	},
 	"updateAvailable": {
-		"message": "Hi ha una actualització disponible."
+		"message": "An update is available."
 	},
 	"usingLatestVersion": {
-		"message": "Està usant la darrera versió."
+		"message": "You are using the latest version."
 	},
 	"vault": {
-		"message": "Cambra cuirassada"
+		"message": "Vault"
 	},
 	"vaultDescription": {
-		"message": "Seleccioni la cambra cuirassada predeterminada per a aquesta plantilla. Vagi a $link_start$configuració general$link_end$ per agregar o eliminar cambres cuirassades.",
+		"message": "Select the default vault for this template. Go to $link_start$general settings$link_end$ to add or remove vaults.",
 		"placeholders": {
 			"link_end": {
 				"content": "</a>"
@@ -960,10 +960,10 @@
 		}
 	},
 	"vaults": {
-		"message": "Cambres cuirassades"
+		"message": "Vaults"
 	},
 	"vaultsDescription": {
-		"message": "Per defecte, les notes es guarden a la cambra cuirassada oberta actualment. Pot afegir cambres cuirassades aquí si vol l'opció de guardar a diferents cambres cuirassades. Els noms de les cambres cuirassades han de coincidir exactament amb el nom de la cambra cuirassada d'Obsidian. Pressioni $strong_start$enter$strong_end$ per afegir una cambra cuirassada.",
+		"message": "By default, clipped notes are saved to the currently open vault. You can add vaults here if you want the option to save to different vaults. Vault names must exactly match the name of the Obsidian vault. Press $strong_start$enter$strong_end$ to add a vault.",
 		"placeholders": {
 			"strong_end": {
 				"content": "</strong>"
@@ -974,6 +974,6 @@
 		}
 	},
 	"version": {
-		"message": "Versió"
+		"message": "Version"
 	}
 }
