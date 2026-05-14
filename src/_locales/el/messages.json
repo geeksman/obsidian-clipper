@@ -503,7 +503,15 @@
 		"message": "Μορφή ονόματος σημείωσης"
 	},
 	"noteNameFormatDescription": {
-		"message": "Η μορφή του ονόματος της σημείωσης. Μπορείτε να χρησιμοποιήσετε μεταβλητές."
+		"message": "Η μορφή του ονόματος της σημείωσης. Μπορείτε να χρησιμοποιήσετε μεταβλητές.",
+		"placeholders": {
+			"link_end": {
+				"content": "</a>"
+			},
+			"link_start": {
+				"content": "<a href=\"https://help.obsidian.md/web-clipper/variables\" target=\"_blank\">"
+			}
+		}
 	},
 	"notesAboutPage": {
 		"message": "Σημειώσεις για αυτή τη σελίδα..."

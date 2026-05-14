@@ -503,7 +503,15 @@
 		"message": "Format ng pangalan ng note"
 	},
 	"noteNameFormatDescription": {
-		"message": "Ang format na ginagamit para bumuo ng mga pangalan ng note. Maaari kang gumamit ng mga variable."
+		"message": "Ang format na ginagamit para bumuo ng mga pangalan ng note. Maaari kang gumamit ng mga variable.",
+		"placeholders": {
+			"link_end": {
+				"content": "</a>"
+			},
+			"link_start": {
+				"content": "<a href=\"https://help.obsidian.md/web-clipper/variables\" target=\"_blank\">"
+			}
+		}
 	},
 	"notesAboutPage": {
 		"message": "Mga note tungkol sa pahinang ito..."

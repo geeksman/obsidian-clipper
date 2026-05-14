@@ -423,7 +423,7 @@
 				"content": "</a>"
 			},
 			"link_start": {
-				"content": "<a href=\"https://help.obsidian.md/web-clipper/variables\" target=\"_blank\">"
+				"content": "<a href=\"?section=interpreter\">"
 			}
 		}
 	},

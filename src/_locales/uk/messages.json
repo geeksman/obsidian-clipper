@@ -503,7 +503,15 @@
 		"message": "Формат назви нотатки"
 	},
 	"noteNameFormatDescription": {
-		"message": "Формат, що використовується для генерації назв нотаток. Можна використовувати змінні."
+		"message": "Формат, що використовується для генерації назв нотаток. Можна використовувати змінні.",
+		"placeholders": {
+			"link_end": {
+				"content": "</a>"
+			},
+			"link_start": {
+				"content": "<a href=\"https://help.obsidian.md/web-clipper/variables\" target=\"_blank\">"
+			}
+		}
 	},
 	"notesAboutPage": {
 		"message": "Нотатки про цю сторінку..."

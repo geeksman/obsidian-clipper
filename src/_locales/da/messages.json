@@ -503,7 +503,15 @@
 		"message": "Notenavnsformat"
 	},
 	"noteNameFormatDescription": {
-		"message": "Formatet der bruges til at generere notenavne. Du kan bruge variabler."
+		"message": "Formatet der bruges til at generere notenavne. Du kan bruge variabler.",
+		"placeholders": {
+			"link_end": {
+				"content": "</a>"
+			},
+			"link_start": {
+				"content": "<a href=\"https://help.obsidian.md/web-clipper/variables\" target=\"_blank\">"
+			}
+		}
 	},
 	"notesAboutPage": {
 		"message": "Noter om denne side..."
